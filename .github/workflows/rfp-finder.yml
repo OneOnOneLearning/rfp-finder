@@ -2,8 +2,8 @@ name: RFP Finder (daily)
 
 on:
   schedule:
-    # Weekdays at 10:52 UTC = 6:52 AM Eastern (5:52 AM in winter)
-    - cron: "52 10 * * 1-5"
+    # Every day at 10:52 UTC = 6:52 AM Eastern (5:52 AM in winter)
+    - cron: "52 10 * * *"
   workflow_dispatch: # "Run workflow" button
 
 permissions:
