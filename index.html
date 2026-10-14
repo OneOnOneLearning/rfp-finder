@@ -131,7 +131,7 @@ body:not(.is-admin) .admin{display:none!important}
     <button class="tile" data-quick="new"><div class="n" id="t-new">-</div><div class="l">New today</div></button>
     <button class="tile" data-quick="open"><div class="n" id="t-open">-</div><div class="l">Open bids</div></button>
     <button class="tile" data-quick="soon"><div class="n" id="t-soon">-</div><div class="l">Closing in 2 weeks</div></button>
-    <button class="tile admin" data-quick="districts"><div class="n" id="t-dist">-</div><div class="l">Districts watched</div></button>
+    <button class="tile admin" data-quick="districts"><div class="n" id="t-dist">-</div><div class="l">District bids pages checked daily</div></button>
   </div>
 
   <div class="tabs">
@@ -235,7 +235,8 @@ async function load(){
   LAST_RUN = (r.updated || "").slice(0,10);
   $("#updated").textContent = r.updated ? "Last checked " + new Date(r.updated).toLocaleString(undefined,{weekday:"long",hour:"numeric",minute:"2-digit"}) : "Waiting for the first run";
 
-  $("#t-dist").textContent = DISTRICTS.length ? DISTRICTS.length.toLocaleString() : "-";
+  const watching = DISTRICTS.filter(d => d.status === "found").length;
+  $("#t-dist").textContent = DISTRICTS.length ? `${watching.toLocaleString()} of ${DISTRICTS.length.toLocaleString()}` : "-";
 
   const states = [...new Set(ITEMS.map(i => i.state).filter(Boolean))].sort();
   $("#state").innerHTML = '<option value="">All states</option>' + states.map(x => `<option>${esc(x)}</option>`).join("");
