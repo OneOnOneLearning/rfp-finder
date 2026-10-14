@@ -7,106 +7,160 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root{
-  --bg:#f6f7f9; --card:#ffffff; --ink:#15181d; --ink2:#4a5260; --muted:#7b8494; --line:#e4e7ec;
-  --accent:#1f5eff; --rfp:#0b7a4b; --rfp-bg:#e5f5ed; --board:#8a5a00; --board-bg:#fbf0d9;
-  --web:#3b4fc4; --web-bg:#e8ecfd; --warn:#b42318; --warn-bg:#fdeceb; --soon:#9a5b00; --soon-bg:#fff4e0;
+  --bg:#f5f6f8; --card:#ffffff; --ink:#14171c; --ink2:#4b5563; --muted:#7a8291; --line:#e5e7eb; --soft:#eef0f3;
+  --brand:#1d4ed8; --brand-bg:#e8eefc;
+  --green:#047857; --green-bg:#e3f6ee; --amber:#92400e; --amber-bg:#fdf1dc; --red:#b42318; --red-bg:#fdeceb;
+  --violet:#5b21b6; --violet-bg:#efe9fd; --slate:#334155; --slate-bg:#eef1f5;
 }
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
-  --bg:#0f1115; --card:#181b21; --ink:#eef0f3; --ink2:#b7bdc8; --muted:#8a92a0; --line:#2a2f38;
-  --accent:#7aa2ff; --rfp:#5fd39c; --rfp-bg:#123224; --board:#f0c060; --board-bg:#33270e;
-  --web:#9fb0ff; --web-bg:#1d2447; --warn:#ff8a80; --warn-bg:#3a1714; --soon:#ffc56b; --soon-bg:#35270f;
+  --bg:#0f1115; --card:#181b21; --ink:#eef0f3; --ink2:#b9c0cb; --muted:#8a92a0; --line:#2a2f38; --soft:#20242c;
+  --brand:#8fb0ff; --brand-bg:#1b2648;
+  --green:#5fd3a4; --green-bg:#11302a; --amber:#f6c36a; --amber-bg:#33270e; --red:#ff8f85; --red-bg:#3a1714;
+  --violet:#c4b1ff; --violet-bg:#2a2147; --slate:#cbd5e1; --slate-bg:#232a35;
 }}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 Inter,system-ui,Segoe UI,Arial,sans-serif}
-.wrap{max-width:1100px;margin:0 auto;padding:24px 16px 60px}
-header{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px;margin-bottom:18px}
-h1{margin:0;font-size:24px;letter-spacing:-.02em}
-.updated{color:var(--muted);font-size:13px}
-.tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:18px}
-.tile{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
-.tile .n{font-size:28px;font-weight:700;letter-spacing:-.02em}
-.tile .l{color:var(--ink2);font-size:13px}
-.tabs{display:flex;gap:6px;margin-bottom:12px}
-.tab{border:1px solid var(--line);background:var(--card);color:var(--ink2);padding:7px 14px;border-radius:999px;cursor:pointer;font:inherit;font-size:14px}
-.tab.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
-.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px;align-items:center}
-.filters input[type=search],.filters select{font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
-.filters input[type=search]{flex:1;min-width:200px}
-.filters label{font-size:14px;color:var(--ink2);display:flex;gap:6px;align-items:center}
-.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:10px}
-.top{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:4px}
-.badge{font-size:12px;font-weight:600;padding:2px 8px;border-radius:999px}
-.b-rfp{color:var(--rfp);background:var(--rfp-bg)} .b-board{color:var(--board);background:var(--board-bg)} .b-web{color:var(--web);background:var(--web-bg)}
-.b-new{color:var(--accent);border:1px solid var(--accent)}
-.b-due{color:var(--ink2);background:var(--bg)} .b-soon{color:var(--soon);background:var(--soon-bg)} .b-past{color:var(--warn);background:var(--warn-bg)}
-.title{font-weight:600;color:var(--ink);text-decoration:none;font-size:16px}
-.title:hover{text-decoration:underline}
-.meta{color:var(--muted);font-size:13px;margin:2px 0 6px}
-.snip{color:var(--ink2);font-size:14px}
-.kw{display:inline-block;font-size:12px;color:var(--ink2);border:1px solid var(--line);border-radius:6px;padding:1px 6px;margin:6px 4px 0 0}
-.empty{text-align:center;color:var(--muted);padding:40px 10px}
-table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Inter,system-ui,Segoe UI,Arial,sans-serif}
+a{color:var(--brand)}
+.wrap{max-width:1040px;margin:0 auto;padding:28px 16px 64px}
+header h1{margin:0;font-size:26px;letter-spacing:-.02em}
+header p{margin:4px 0 0;color:var(--ink2)}
+.updated{color:var(--muted);font-size:13px;margin-top:6px}
+
+.tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:22px 0}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;cursor:pointer;text-align:left;font:inherit;color:inherit}
+.tile:hover{border-color:var(--brand)}
+.tile .n{font-size:30px;font-weight:700;letter-spacing:-.02em;line-height:1.1}
+.tile .l{color:var(--ink2);font-size:13px;margin-top:2px}
+
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin-bottom:16px;overflow-x:auto}
+.tab{border:0;background:none;color:var(--ink2);padding:10px 14px;cursor:pointer;font:inherit;font-weight:500;border-bottom:2px solid transparent;white-space:nowrap}
+.tab.on{color:var(--ink);border-bottom-color:var(--ink)}
+
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
+.bar input[type=search],.bar select{font:inherit;font-size:14px;padding:9px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink)}
+.bar input[type=search]{flex:1;min-width:220px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--ink2);border-radius:999px;padding:5px 12px;font:inherit;font-size:13px;cursor:pointer}
+.chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.toggle{font-size:14px;color:var(--ink2);display:flex;gap:6px;align-items:center;cursor:pointer}
+
+.help{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px 14px;margin-bottom:16px;font-size:14px;color:var(--ink2)}
+.help summary{cursor:pointer;padding:8px 0;font-weight:500;color:var(--ink)}
+.help dl{display:grid;grid-template-columns:auto 1fr;gap:6px 12px;margin:4px 0 12px}
+.help dt{white-space:nowrap}
+
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin-bottom:12px;display:grid;grid-template-columns:1fr auto;gap:6px 16px}
+.card.isnew{border-left:4px solid var(--brand)}
+.who{font-size:13px;color:var(--muted);display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.who b{color:var(--ink2);font-weight:600}
+.title{font-weight:600;font-size:17px;line-height:1.35;margin:2px 0 4px}
+.about{color:var(--ink2);font-size:14px}
+.right{display:flex;flex-direction:column;align-items:flex-end;gap:8px;min-width:150px}
+.due{font-weight:600;font-size:14px;padding:6px 10px;border-radius:10px;text-align:right;line-height:1.25}
+.due small{display:block;font-weight:500;font-size:12px}
+.due.ok{background:var(--slate-bg);color:var(--slate)} .due.soon{background:var(--amber-bg);color:var(--amber)}
+.due.urgent{background:var(--red-bg);color:var(--red)} .due.none{background:var(--soft);color:var(--muted)}
+.btn{display:inline-block;background:var(--ink);color:var(--bg);text-decoration:none;border-radius:10px;padding:8px 14px;font-weight:600;font-size:14px;white-space:nowrap}
+.tags{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.tag{font-size:12px;font-weight:600;padding:3px 9px;border-radius:999px}
+.k-bid{background:var(--green-bg);color:var(--green)} .k-early{background:var(--violet-bg);color:var(--violet)}
+.k-web{background:var(--slate-bg);color:var(--slate)} .k-new{background:var(--brand-bg);color:var(--brand)}
+.svc{background:var(--soft);color:var(--ink2);font-weight:500}
+.empty{text-align:center;color:var(--muted);padding:48px 12px;background:var(--card);border:1px dashed var(--line);border-radius:14px}
+
+.note{color:var(--ink2);font-size:14px;margin:0 0 14px}
+.covsum{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+.pill{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px;font-size:14px}
+.pill b{font-size:16px}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden}
 th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);font-size:14px;vertical-align:top}
-th{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.04em}
-.ok{color:var(--rfp)} .err{color:var(--warn)} .blk{color:var(--soon)}
+th{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.04em;background:var(--soft)}
+.sub{color:var(--muted);font-size:12px}
+.good{color:var(--green);font-weight:600} .meh{color:var(--amber);font-weight:600} .bad{color:var(--red);font-weight:600}
 .tablewrap{overflow-x:auto}
-.hint{color:var(--ink2);font-size:14px;margin:0 0 12px}
-.svc{font-size:12px;font-weight:600;color:var(--ink2)}
-@media (max-width:700px){.tiles{grid-template-columns:repeat(2,1fr)} h1{font-size:20px}}
+@media (max-width:720px){
+  .tiles{grid-template-columns:repeat(2,1fr)}
+  .card{grid-template-columns:1fr}
+  .right{flex-direction:row;align-items:center;justify-content:space-between;min-width:0}
+  header h1{font-size:22px}
+}
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
     <h1>RFP Finder</h1>
-    <span class="updated" id="updated">Loading...</span>
+    <p>Bids from school districts that match what OOOL does. Checked automatically every weekday morning.</p>
+    <div class="updated" id="updated">Loading...</div>
   </header>
 
   <div class="tiles">
-    <div class="tile"><div class="n" id="t-new">-</div><div class="l">New today</div></div>
-    <div class="tile"><div class="n" id="t-rfp">-</div><div class="l">Open RFPs</div></div>
-    <div class="tile"><div class="n" id="t-soon">-</div><div class="l">Due in next 14 days</div></div>
-    <div class="tile"><div class="n" id="t-src">-</div><div class="l">Districts covered</div></div>
+    <button class="tile" data-quick="new"><div class="n" id="t-new">-</div><div class="l">New today</div></button>
+    <button class="tile" data-quick="open"><div class="n" id="t-open">-</div><div class="l">Open bids</div></button>
+    <button class="tile" data-quick="soon"><div class="n" id="t-soon">-</div><div class="l">Closing in 2 weeks</div></button>
+    <button class="tile" data-quick="districts"><div class="n" id="t-dist">-</div><div class="l">Districts watched</div></button>
   </div>
 
   <div class="tabs">
-    <button class="tab on" data-tab="leads">Leads</button>
-    <button class="tab" data-tab="coverage">Coverage</button>
-    <button class="tab" data-tab="sources">Sources</button>
+    <button class="tab on" data-tab="leads">Bids</button>
+    <button class="tab" data-tab="coverage">Districts we watch</button>
+    <button class="tab" data-tab="health">Bot health</button>
   </div>
 
+  <!-- BIDS -->
   <section id="leads">
-    <div class="filters">
-      <input type="search" id="q" placeholder="Search title, district, keyword...">
+    <details class="help">
+      <summary>What am I looking at?</summary>
+      <dl>
+        <dt><span class="tag k-bid">Open bid</span></dt><dd>A district is asking companies to apply (an RFP, bid, or quote). This is the one to act on before the due date.</dd>
+        <dt><span class="tag k-early">Early heads-up</span></dt><dd>A school board meeting talked about this kind of service. A bid may be coming soon.</dd>
+        <dt><span class="tag k-web">Mentioned online</span></dt><dd>News or a web page mentions it. Worth a look, but may not be an actual bid.</dd>
+        <dt><span class="tag k-new">New</span></dt><dd>Showed up in this morning's check.</dd>
+      </dl>
+    </details>
+
+    <div class="bar">
+      <input type="search" id="q" placeholder="Search by district, service, or word...">
       <select id="state"><option value="">All states</option></select>
-      <select id="service"><option value="">All services</option></select>
       <select id="type">
-        <option value="">All types</option>
-        <option>Open RFP</option><option>Board signal</option><option>Web mention</option>
+        <option value="">All kinds</option>
+        <option value="Open RFP">Open bids</option>
+        <option value="Board signal">Early heads-up</option>
+        <option value="Web mention">Mentioned online</option>
       </select>
-      <label><input type="checkbox" id="newonly"> New only</label>
-      <label><input type="checkbox" id="hidepast" checked> Hide past due</label>
+      <label class="toggle"><input type="checkbox" id="showclosed"> Show closed</label>
     </div>
+    <div class="chips" id="svcchips"></div>
     <div id="list"></div>
   </section>
 
+  <!-- COVERAGE -->
   <section id="coverage" hidden>
-    <p class="hint">Every district the bot knows about. "Found" means it checks their bids page every weekday. For anything else, add the right link to <b>district_overrides.csv</b> on GitHub.</p>
-    <div class="filters">
+    <p class="note">Every district the bot keeps an eye on. <b>Watching</b> means it checks their bids page every weekday. The rest still get caught through bid portal emails and Google Alerts.</p>
+    <div class="covsum" id="covsum"></div>
+    <div class="bar">
       <input type="search" id="cq" placeholder="Search district or county...">
       <select id="cstate"><option value="">All states</option></select>
-      <select id="cstatus"><option value="">All statuses</option></select>
+      <select id="cstatus">
+        <option value="">Everything</option>
+        <option value="found">Watching</option>
+        <option value="portal only">Uses a bid portal</option>
+        <option value="missing">Needs a link</option>
+      </select>
     </div>
     <div class="tablewrap"><table>
-      <thead><tr><th>District</th><th>State</th><th>Students</th><th>Status</th><th>Bids page</th><th>Bid portal</th><th>Board meetings</th></tr></thead>
+      <thead><tr><th>District</th><th>Students</th><th>Status</th><th>Where they post bids</th><th>Board meetings</th></tr></thead>
       <tbody id="covrows"></tbody>
     </table></div>
-    <p class="hint" id="covmore"></p>
+    <p class="note" id="covmore" style="margin-top:10px"></p>
   </section>
 
-  <section id="sources" hidden>
+  <!-- HEALTH -->
+  <section id="health" hidden>
+    <p class="note">The technical stuff. If a site shows a problem here a few days in a row, it probably moved its page.</p>
+    <div class="covsum" id="healthsum"></div>
     <div class="tablewrap"><table>
-      <thead><tr><th>Source</th><th>State</th><th>Status</th><th>Found</th><th>Note</th></tr></thead>
+      <thead><tr><th>Source</th><th>State</th><th>Result</th><th>Found</th><th>Details</th></tr></thead>
       <tbody id="srcrows"></tbody>
     </table></div>
   </section>
@@ -116,10 +170,18 @@ th{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;le
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const today = new Date(); today.setHours(0,0,0,0);
-const iso = d => d.toISOString().slice(0,10);
-const todayISO = iso(new Date(today.getTime() - today.getTimezoneOffset()*60000));
 const days = s => Math.round((new Date(s + "T00:00:00") - today) / 86400000);
-let ITEMS = [], LAST_RUN = "", DISTRICTS = [];
+const fmtDate = s => new Date(s + "T00:00:00").toLocaleDateString(undefined, {month:"short", day:"numeric", year:"numeric"});
+const KIND = {"Open RFP":["Open bid","k-bid"], "Board signal":["Early heads-up","k-early"], "Web mention":["Mentioned online","k-web"]};
+let ITEMS = [], LAST_RUN = "", DISTRICTS = [], SOURCES = [], SVC = "";
+
+function districtName(i){
+  const s = i.source || "";
+  if (s.startsWith("Email: ")) return `via ${s.slice(7)}`;
+  return s.replace(/ - (Bids|Board meetings)$/,"");
+}
+const isNew = i => i.first_seen && i.first_seen === LAST_RUN;
+const isOpen = i => !i.due_date || days(i.due_date) >= 0;
 
 async function load(){
   const bust = "?v=" + Date.now();
@@ -130,92 +192,116 @@ async function load(){
   ]);
   DISTRICTS = dz.districts || [];
   ITEMS = r.items || [];
+  SOURCES = s.sources || [];
   LAST_RUN = (r.updated || "").slice(0,10);
-  $("#updated").textContent = r.updated ? "Last checked " + new Date(r.updated).toLocaleString() : "No runs yet";
+  $("#updated").textContent = r.updated ? "Last checked " + new Date(r.updated).toLocaleString(undefined,{weekday:"long",hour:"numeric",minute:"2-digit"}) : "Waiting for the first run";
+
+  $("#t-new").textContent = ITEMS.filter(isNew).length;
+  $("#t-open").textContent = ITEMS.filter(i => i.type === "Open RFP" && isOpen(i)).length;
+  $("#t-soon").textContent = ITEMS.filter(i => i.due_date && days(i.due_date) >= 0 && days(i.due_date) <= 14).length;
+  $("#t-dist").textContent = DISTRICTS.length ? DISTRICTS.length.toLocaleString() : "-";
 
   const states = [...new Set(ITEMS.map(i => i.state).filter(Boolean))].sort();
-  $("#state").innerHTML = '<option value="">All states</option>' + states.map(s => `<option>${esc(s)}</option>`).join("");
-
-  const live = ITEMS.filter(i => !i.due_date || days(i.due_date) >= 0);
-  $("#t-new").textContent = ITEMS.filter(isNew).length;
-  $("#t-rfp").textContent = live.filter(i => i.type === "Open RFP").length;
-  $("#t-soon").textContent = live.filter(i => i.due_date && days(i.due_date) <= 14).length;
-  const src = s.sources || [];
-  const covered = DISTRICTS.filter(d => d.status === "found").length;
-  $("#t-src").textContent = DISTRICTS.length ? `${covered} / ${DISTRICTS.length}` : src.length;
-
+  $("#state").innerHTML = '<option value="">All states</option>' + states.map(x => `<option>${esc(x)}</option>`).join("");
   const svcs = [...new Set(ITEMS.flatMap(i => i.services || []))].sort();
-  $("#service").innerHTML = '<option value="">All services</option>' + svcs.map(x => `<option>${esc(x)}</option>`).join("");
+  $("#svcchips").innerHTML = ['', ...svcs].map(x => `<button class="chip${x===SVC?" on":""}" data-svc="${esc(x)}">${x ? esc(x) : "All services"}</button>`).join("");
   const dst = [...new Set(DISTRICTS.map(d => d.state))].sort();
   $("#cstate").innerHTML = '<option value="">All states</option>' + dst.map(x => `<option>${esc(x)}</option>`).join("");
-  const sts = [...new Set(DISTRICTS.map(d => d.status))].sort();
-  $("#cstatus").innerHTML = '<option value="">All statuses</option>' + sts.map(x => `<option>${esc(x)}</option>`).join("");
-  renderCoverage();
 
-  $("#srcrows").innerHTML = src.map(x => `<tr>
-      <td><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a></td>
-      <td>${esc(x.state)}</td>
-      <td class="${x.status==="ok"?"ok":x.status==="blocked"?"blk":"err"}">${x.status==="ok"?"OK":x.status==="blocked"?"Skipped (robots.txt)":x.status==="off"?"Not set up":"Error"}</td>
-      <td>${x.found ?? 0}</td>
-      <td>${esc(x.message)}</td></tr>`).join("") || '<tr><td colspan="5">No runs yet.</td></tr>';
-  render();
+  render(); renderCoverage(); renderHealth();
 }
 
-const isNew = i => i.first_seen && i.first_seen === LAST_RUN;
+function dueBox(i){
+  if (i.type === "Board signal") return `<div class="due none">Meeting<small>${i.meeting_date ? fmtDate(i.meeting_date) : ""}</small></div>`;
+  if (!i.due_date) return `<div class="due none">Due date<small>check the bid</small></div>`;
+  const d = days(i.due_date);
+  if (d < 0) return `<div class="due none">Closed<small>${fmtDate(i.due_date)}</small></div>`;
+  const cls = d <= 7 ? "urgent" : d <= 14 ? "soon" : "ok";
+  const left = d === 0 ? "due today" : d === 1 ? "1 day left" : `${d} days left`;
+  return `<div class="due ${cls}">Due ${fmtDate(i.due_date)}<small>${left}</small></div>`;
+}
 
 function render(){
-  const q = $("#q").value.trim().toLowerCase(), st = $("#state").value, ty = $("#type").value, sv = $("#service").value;
-  const newOnly = $("#newonly").checked, hidePast = $("#hidepast").checked;
+  const q = $("#q").value.trim().toLowerCase(), st = $("#state").value, ty = $("#type").value;
+  const showClosed = $("#showclosed").checked;
   const rows = ITEMS.filter(i =>
-    (!st || i.state === st) && (!ty || i.type === ty) && (!sv || (i.services||[]).includes(sv)) && (!newOnly || isNew(i)) &&
-    (!hidePast || !i.due_date || days(i.due_date) >= 0) &&
-    (!q || [i.title, i.source, i.snippet, (i.keywords||[]).join(" ")].join(" ").toLowerCase().includes(q))
-  ).sort((a,b) => (isNew(b)-isNew(a)) || ((a.due_date||"9999") < (b.due_date||"9999") ? -1 : 1) || b.score - a.score);
+    (!st || i.state === st) && (!ty || i.type === ty) && (!SVC || (i.services||[]).includes(SVC)) &&
+    (showClosed || isOpen(i)) &&
+    (!q || [i.title, i.source, i.snippet, (i.services||[]).join(" "), (i.keywords||[]).join(" ")].join(" ").toLowerCase().includes(q))
+  ).sort((a,b) => (isNew(b) - isNew(a)) || ((a.due_date||"9999") < (b.due_date||"9999") ? -1 : (a.due_date||"9999") > (b.due_date||"9999") ? 1 : 0) || b.score - a.score);
 
   $("#list").innerHTML = rows.map(i => {
-    const tcls = i.type === "Open RFP" ? "b-rfp" : i.type === "Board signal" ? "b-board" : "b-web";
-    let due = "";
-    if (i.due_date){
-      const d = days(i.due_date);
-      const cls = d < 0 ? "b-past" : d <= 7 ? "b-soon" : "b-due";
-      const txt = d < 0 ? "Past due" : d === 0 ? "Due today" : `Due ${i.due_date} (${d}d)`;
-      due = `<span class="badge ${cls}">${txt}</span>`;
-    }
-    const when = i.meeting_date ? ` &middot; meeting ${esc(i.meeting_date)}` : "";
-    return `<div class="card">
-      <div class="top"><span class="badge ${tcls}">${esc(i.type)}</span>${isNew(i)?'<span class="badge b-new">New</span>':""}${due}</div>
-      <a class="title" href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
-      <div class="meta">${esc(i.state)} &middot; ${esc(i.source)}${when} &middot; first seen ${esc(i.first_seen)}</div>
-      ${(i.services||[]).length ? `<div class="svc">${(i.services).map(esc).join(" &middot; ")}</div>` : ""}
-      <div class="snip">${esc(i.snippet)}</div>
-      <div>${(i.keywords||[]).map(k => `<span class="kw">${esc(k)}</span>`).join("")}</div>
+    const [kname, kcls] = KIND[i.type] || ["Lead","k-web"];
+    return `<div class="card${isNew(i) ? " isnew" : ""}">
+      <div>
+        <div class="who"><b>${esc(districtName(i))}</b>${i.state ? `<span>&middot; ${esc(i.state)}</span>` : ""}<span>&middot; found ${esc(i.first_seen ? fmtDate(i.first_seen) : "")}</span></div>
+        <div class="title">${esc(i.title)}</div>
+        <div class="about">${esc(i.snippet)}</div>
+      </div>
+      <div class="right">${dueBox(i)}<a class="btn" href="${esc(i.url)}" target="_blank" rel="noopener">View bid</a></div>
+      <div class="tags">
+        ${isNew(i) ? '<span class="tag k-new">New</span>' : ""}
+        <span class="tag ${kcls}">${kname}</span>
+        ${(i.services||[]).map(x => `<span class="tag svc">${esc(x)}</span>`).join("")}
+      </div>
     </div>`;
-  }).join("") || '<div class="empty">Nothing matches right now. New leads show up here after each daily run.</div>';
+  }).join("") || `<div class="empty">${ITEMS.length ? "Nothing matches these filters." : "No bids yet. They'll show up here after the first morning check."}</div>`;
 }
-
-["#q","#state","#type","#service","#newonly","#hidepast"].forEach(s => $(s).addEventListener("input", render));
-["#cq","#cstate","#cstatus"].forEach(s => $(s).addEventListener("input", renderCoverage));
 
 function renderCoverage(){
   const q = $("#cq").value.trim().toLowerCase(), st = $("#cstate").value, ss = $("#cstatus").value;
-  const rows = DISTRICTS.filter(d => (!st || d.state === st) && (!ss || d.status === ss) &&
+  const isMissing = d => !["found","portal only"].includes(d.status);
+  const all = DISTRICTS.filter(d => !st || d.state === st);
+  const n = f => all.filter(f).length;
+  $("#covsum").innerHTML = all.length ? `
+    <div class="pill"><b>${n(d => d.status==="found")}</b> watching</div>
+    <div class="pill"><b>${n(d => d.status==="portal only")}</b> use a bid portal</div>
+    <div class="pill"><b>${n(isMissing)}</b> need a link</div>` : "";
+  const rows = all.filter(d => (!ss || (ss === "missing" ? isMissing(d) : d.status === ss)) &&
     (!q || `${d.name} ${d.county} ${d.city}`.toLowerCase().includes(q)));
-  const link = (u, t) => u ? `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a>` : '<span class="err">missing</span>';
-  const shown = rows.slice(0, 400);
+  const shown = rows.slice(0, 300);
+  const status = d => d.status === "found" ? '<span class="good">Watching</span>'
+    : d.status === "portal only" ? '<span class="meh">Bid portal</span>' : '<span class="bad">Needs a link</span>';
   $("#covrows").innerHTML = shown.map(d => `<tr>
-    <td>${d.website ? `<a href="${esc(d.website)}" target="_blank" rel="noopener">${esc(d.name)}</a>` : esc(d.name)}<div class="meta">${esc(d.county)}</div></td>
-    <td>${esc(d.state)}</td>
+    <td>${d.website ? `<a href="${esc(d.website)}" target="_blank" rel="noopener">${esc(d.name)}</a>` : esc(d.name)}<div class="sub">${esc(d.county)}${d.county ? ", " : ""}${esc(d.state)}</div></td>
     <td>${(d.students||0).toLocaleString()}</td>
-    <td class="${d.status==="found"?"ok":d.status==="portal only"?"blk":"err"}">${esc(d.status)}${d.note?`<div class="meta">${esc(d.note)}</div>`:""}</td>
-    <td>${link(d.bids_page, "open")}</td>
-    <td>${d.portal ? link(d.portal_url, d.portal) : ""}</td>
-    <td>${d.board_platform ? link(d.board_url, d.board_platform) : ""}</td></tr>`).join("")
-    || '<tr><td colspan="7">The district list fills in after the first run.</td></tr>';
-  $("#covmore").textContent = rows.length > shown.length ? `Showing ${shown.length} of ${rows.length}. Use search to narrow it down.` : "";
+    <td>${status(d)}</td>
+    <td>${d.bids_page ? `<a href="${esc(d.bids_page)}" target="_blank" rel="noopener">Bids page</a>` : ""}${d.portal ? `<div class="sub">Portal: ${d.portal_url ? `<a href="${esc(d.portal_url)}" target="_blank" rel="noopener">${esc(d.portal)}</a>` : esc(d.portal)}</div>` : ""}</td>
+    <td>${d.board_url ? `<a href="${esc(d.board_url)}" target="_blank" rel="noopener">${esc(d.board_platform || "Link")}</a>` : ""}</td></tr>`).join("")
+    || '<tr><td colspan="5">The district list fills in after the first run.</td></tr>';
+  $("#covmore").textContent = rows.length > shown.length ? `Showing ${shown.length} of ${rows.length}. Search to narrow it down.` : "";
 }
-document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => {
-  document.querySelectorAll(".tab").forEach(x => x.classList.toggle("on", x === b));
-  ["leads","coverage","sources"].forEach(t => $("#" + t).hidden = b.dataset.tab !== t);
+
+function renderHealth(){
+  const label = x => x.status==="ok" ? '<span class="good">Worked</span>' : x.status==="blocked" ? '<span class="meh">Site said no bots</span>'
+    : x.status==="off" ? '<span class="meh">Not set up yet</span>' : '<span class="bad">Problem</span>';
+  const ok = SOURCES.filter(x => x.status === "ok").length;
+  $("#healthsum").innerHTML = SOURCES.length ? `<div class="pill"><b>${ok}</b> worked</div><div class="pill"><b>${SOURCES.length - ok}</b> had a problem</div>` : "";
+  $("#srcrows").innerHTML = SOURCES.map(x => `<tr>
+      <td>${x.url && x.url.startsWith("http") ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>` : esc(x.name)}</td>
+      <td>${esc(x.state)}</td><td>${label(x)}</td><td>${x.found ?? 0}</td><td class="sub">${esc(x.message)}</td></tr>`).join("")
+    || '<tr><td colspan="5">No runs yet.</td></tr>';
+}
+
+["#q","#state","#type","#showclosed"].forEach(s => $(s).addEventListener("input", render));
+["#cq","#cstate","#cstatus"].forEach(s => $(s).addEventListener("input", renderCoverage));
+$("#svcchips").addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  SVC = b.dataset.svc; document.querySelectorAll(".chip").forEach(c => c.classList.toggle("on", c === b)); render();
+});
+function showTab(t){
+  document.querySelectorAll(".tab").forEach(x => x.classList.toggle("on", x.dataset.tab === t));
+  ["leads","coverage","health"].forEach(id => $("#" + id).hidden = id !== t);
+}
+document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => showTab(b.dataset.tab)));
+document.querySelectorAll(".tile").forEach(b => b.addEventListener("click", () => {
+  const k = b.dataset.quick;
+  if (k === "districts") return showTab("coverage");
+  showTab("leads"); $("#showclosed").checked = false; $("#q").value = "";
+  $("#type").value = k === "open" ? "Open RFP" : "";
+  render();
+  if (k === "new") { const f = document.querySelector(".card.isnew"); if (f) f.scrollIntoView({behavior:"smooth", block:"center"}); }
+  if (k === "soon") { $("#list").scrollIntoView({behavior:"smooth"}); }
 }));
 load();
 </script>
