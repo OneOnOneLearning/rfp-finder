@@ -1,0 +1,328 @@
+active,name,state,type,url,render,extra,notes
+yes,Los Angeles Unified School District - Bids,CA,page,https://procurement.lausd.org/apps/pages/Solicitations,no,,auto; leaid 0622710
+yes,Fresno Unified School District - Bids,CA,page,https://fresnousdpurchasing.procureware.com/home,yes,,auto; leaid 0614550
+yes,Long Beach Unified School District - Bids,CA,page,https://www.lbschools.net/departments/purchasing-and-contracts/home,no,,auto; leaid 0622500
+no,Long Beach Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/lbusd/Board.nsf/Public,no,,auto; leaid 0622500
+yes,Elk Grove Unified School District - Bids,CA,page,https://blogs.egusd.net/bids/,no,,auto; leaid 0612330
+yes,Corona-Norco Unified School District - Bids,CA,page,https://www.cnusd.k12.ca.us/departments/business_services/purchasing,no,,auto; leaid 0609850
+yes,San Francisco Unified School District - Bids,CA,page,https://www.sfusd.edu/business-with-sfusd/current-bids-and-rfps,no,,auto; leaid 0634410
+no,San Francisco Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/sfusd/Board.nsf/Public,no,,auto; leaid 0634410
+yes,San Bernardino City Unified School District - Bids,CA,page,https://www.sbcusd.com/departments/business-services-division/purchasing,no,,auto; leaid 0634170
+yes,Kern High School District - Bids,CA,page,https://www.kernhigh.org/apps/pages/index.jsp?uREC_ID=619524&type=d&pREC_ID=1083278,no,,auto; leaid 0619540
+no,Kern High School District - Board meetings,CA,boarddocs,http://www.boarddocs.com/ca/khsd/Board.nsf/public,no,,auto; leaid 0619540
+yes,Clovis Unified School District - Bids,CA,page,https://www.cusd.com/bid-schedule,no,,auto; leaid 0609030
+yes,Capistrano Unified School District - Bids,CA,page,https://www.capousd.org/subsites/Purchasing/Home/subsites/Purchasing/ACTIVE-Procurements/index.html,no,,auto; leaid 0607440
+yes,Santa Ana Unified School District - Bids,CA,page,https://www.sausd.us/departments/business-services,no,,auto; leaid 0635310
+yes,Sacramento City Unified School District - Bids,CA,page,https://www.scusd.edu/departments/business-and-operations/purchasing-services,no,,auto; leaid 0633840
+yes,Garden Grove Unified School District - Bids,CA,page,https://www.ggusd.us/business/purchasing,no,,auto; leaid 0614880
+yes,San Juan Unified School District - Bids,CA,page,https://www.sanjuan.edu/our-district/contracts-and-bids,no,,auto; leaid 0634620
+yes,Irvine Unified School District - Bids,CA,page,https://iusd.org/department/business-services,no,,auto; leaid 0684500
+yes,Oakland Unified School District - Bids,CA,page,https://www.ousd.org/community/requests-for-proposals-rfps,no,,auto; leaid 0628050
+no,Oakland Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/ousd/Board.nsf/Public,no,,auto; leaid 0628050
+yes,Fontana Unified School District - Bids,CA,page,https://www.fusd.net/departments/business-services-division/purchasing/opengov,no,,auto; leaid 0613920
+yes,San Ramon Valley Unified School District - Bids,CA,page,https://www.srvusd.net/Departments/Business-Services/Technology/E-Rate-RFPs/index.html,no,,auto; leaid 0635130
+yes,Mount Diablo Unified School District - Bids,CA,page,https://www.mdusd.org/departments/business-services/purchasing-warehouse,no,,auto; leaid 0626370
+yes,Visalia Unified School District - Bids,CA,page,https://www.vusd.org/departments/business-services/business-functions/purchasing,no,,auto; leaid 0641160
+yes,Bakersfield City School District - Bids,CA,page,https://www.bcsd.com/departments/purchasing/department-home,no,,auto; leaid 0603630
+no,Bakersfield City School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/bcsdca/Board.nsf/Public,no,,auto; leaid 0603630
+yes,Desert Sands Unified School District - Bids,CA,page,https://www.dsusd.us/departments/business_services/purchasing_services,no,,auto; leaid 0611110
+yes,Chino Valley Unified School District - Bids,CA,page,https://www.chino.k12.ca.us/purchasing,no,,auto; leaid 0608460
+yes,Orange Unified School District - Bids,CA,page,https://www.orangeusd.org/departments/business-services/purchasing/bids,no,,auto; leaid 0628650
+yes,Manteca Unified School District - Bids,CA,page,https://www.mantecausd.net/staff/departments/business-services/purchasing,no,,auto; leaid 0623610
+yes,Glendale Unified School District - Bids,CA,page,https://www.gusd.net/additional-food-purchases,no,,auto; leaid 0615240
+yes,Rialto Unified School District - Bids,CA,page,https://www.rialto.k12.ca.us/service-areas/business-services/purchasing-services,no,,auto; leaid 0632370
+yes,Saddleback Valley Unified School District - Bids,CA,page,https://www.svusd.org/departments/business-services,no,,auto; leaid 0633860
+yes,Placentia-Yorba Linda Unified School District - Bids,CA,page,https://www.pylusd.org/apps/pages/index.jsp?uREC_ID=198835&type=d&pREC_ID=429076,no,,auto; leaid 0630660
+yes,Hesperia Unified School District - Bids,CA,page,https://www.hesperiausd.org/page/current-bids/,no,,auto; leaid 0600014
+yes,Hemet Unified School District - Bids,CA,page,https://www.hemetusd.org/page/purchasing,no,,auto; leaid 0616920
+yes,Murrieta Valley Unified School District - Bids,CA,page,https://www.murrieta.k12.ca.us/directory/business-operations/purchasing/bids-contractor-info/current-bids,no,,auto; leaid 0600029
+yes,Downey Unified School District - Bids,CA,page,https://web.dusd.net/purchasing/,no,,auto; leaid 0611460
+no,Downey Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/downey/Board.nsf/goto?open&id=DXBPUQ66571C,no,,auto; leaid 0611460
+yes,Chula Vista Elementary School District - Bids,CA,page,https://www.cvesd.org/departments/business-services/purchasing-warehouse-publications,no,,auto; leaid 0608610
+no,Chula Vista Elementary School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/cvesd/Board.nsf/Public,no,,auto; leaid 0608610
+yes,Antelope Valley Union Joint High School District - Bids,CA,page,https://www.avdistrict.org/about/district-departments/business-services/bids-rfps-rfa,no,,auto; leaid 0602820
+yes,Tustin Unified School District - Bids,CA,page,https://www.tustin.k12.ca.us/departments/business-services/purchasing,no,,auto; leaid 0640150
+yes,Pomona Unified School District - Bids,CA,page,https://proudtobe.pusd.org/apps/pages/index.jsp?uREC_ID=1223425&type=d&pREC_ID=1458244,no,,auto; leaid 0631320
+yes,East Side Union High School District - Bids,CA,page,https://www.esuhsd.org/Community/Purchasing/index.html,no,,auto; leaid 0611820
+no,East Side Union High School District - Board meetings,CA,boarddocs,http://go.boarddocs.com/ca/esuhsd/Board.nsf/goto?open&id=B749JX234A71,no,,auto; leaid 0611820
+yes,William S. Hart Union High School District - Bids,CA,page,https://www.hartdistrict.org/apps/pages/index.jsp?uREC_ID=317661&type=d&pREC_ID=725308,no,,auto; leaid 0642510
+yes,Lake Elsinore Unified School District - Bids,CA,page,https://www.leusd.k12.ca.us/department-directory/fiscal-services/purchasing/current-bids,no,,auto; leaid 0600027
+yes,Fairfield-Suisun Unified School District - Bids,CA,page,https://www.fsusd.org/page/warehouse-and-purchasing/,no,,auto; leaid 0613360
+yes,Folsom-Cordova Unified School District - Bids,CA,page,https://www.fcusd.org/departments/fiscal-services-accounts-payable-benefits-budget-payroll-purchasing/purchasing,no,,auto; leaid 0613890
+yes,Montebello Unified School District - Bids,CA,page,https://www.montebello.k12.ca.us/apps/pages/index.jsp?uREC_ID=2210592&type=d,no,,auto; leaid 0625470
+yes,Redlands Unified School District - Bids,CA,page,https://www.redlandsusd.net/departments/business-services/purchasing-receiving,no,,auto; leaid 0632070
+yes,San Marcos Unified School District - Bids,CA,page,https://www.smusd.org/bids-rfq-rfp,no,,auto; leaid 0634880
+yes,Colton Joint Unified School District - Bids,CA,page,https://www.cjusd.net/departments/departments-services/home/purchasing,no,,auto; leaid 0609390
+yes,Panama-Buena Vista School District - Bids,CA,page,https://www.pbvusd.k12.ca.us/departments/business-services/purchasing-logistics,no,,auto; leaid 0606390
+yes,Vista Unified School District - Bids,CA,page,https://www.vistausd.org/departments/businessservices/fiscal-services/purchasing,no,,auto; leaid 0641190
+yes,Jurupa Unified School District - Bids,CA,page,https://jurupausd.org/our-district/BizServ/css/Pages/default.aspx,no,,auto; leaid 0619260
+yes,Abc Unified School District - Bids,CA,page,https://www.abcusd.us/apps/pages/index.jsp?uREC_ID=1177733&type=d&pREC_ID=1414501,no,,auto; leaid 0601620
+yes,Hayward Unified School District - Bids,CA,page,https://www.husd.us/departments/purchasing/active-bids-proposals,no,,auto; leaid 0616740
+yes,Newport-Mesa Unified School District - Bids,CA,page,https://web.nmusd.us/departments/business-services/purchasing/doing-business-with-newport-mesa-usd,no,,auto; leaid 0627240
+yes,Palmdale Elementary School District - Bids,CA,page,https://www.palmdalesd.org/apps/pages/index.jsp?uREC_ID=4328029&type=d,no,,auto; leaid 0629580
+yes,Compton Unified School District - Bids,CA,page,https://www.compton.k12.ca.us/departments/business-services/purchasing-contracts,no,,auto; leaid 0609620
+no,Compton Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/cusdca/Board.nsf/Public,no,,auto; leaid 0609620
+yes,Oxnard Union High School District - Bids,CA,page,https://www.oxnardunion.org/departments/business-services/purchasing-warehousing,no,,auto; leaid 0629270
+yes,Grossmont Union High School District - Bids,CA,page,https://www.guhsd.net/Departments/Business-Services/Purchasing/Solicitations/index.html,no,,auto; leaid 0616230
+no,Grossmont Union High School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/guhsd/Board.nsf/vpublic?open,no,,auto; leaid 0616230
+yes,Coachella Valley Unified School District - Bids,CA,page,https://www.cvusd.us/purchasing-presentation,no,,auto; leaid 0609070
+yes,Conejo Valley Unified School District - Bids,CA,page,https://www.conejousd.org/all-news/news-details-cvusd/~board/new-cvusd-news/post/cvusd-cafeterias-to-go-cashless-for-2025-2026-school-year,no,,auto; leaid 0609640
+yes,Hacienda La Puente Unified School District - Bids,CA,page,https://www.hlpschools.org/district/business-services-division/purchasing-warehouse,no,,auto; leaid 0616325
+no,Hacienda La Puente Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/hlpusd/board.nsf/public,no,,auto; leaid 0616325
+yes,Central Unified School District - Bids,CA,page,https://www.centralunified.org/departments/executive-services/fiscal-services/purchasing,no,,auto; leaid 0607970
+yes,Norwalk-La Mirada Unified School District - Bids,CA,page,https://www.nlmusd.org/departments/business-services,no,,auto; leaid 0627690
+yes,Cajon Valley Union Elementary School District - Bids,CA,page,https://www.cajonvalley.net/departments/purchasing/products-price-guide,no,,auto; leaid 0606810
+yes,Alhambra Unified School District - Bids,CA,page,https://www.ausd.us/apps/pages/index.jsp?uREC_ID=495951&type=d&pREC_ID=227117,no,,auto; leaid 0600153
+yes,Anaheim Elementary School District - Bids,CA,page,https://anaheimelementary.org/administrative-services/purchasing/bid-opportunities/,no,,auto; leaid 0602610
+yes,Huntington Beach Union High School District - Bids,CA,page,https://www.hbuhsd.edu/apps/pages/index.jsp?uREC_ID=269962&type=d,no,,auto; leaid 0618060
+yes,Burbank Unified School District - Bids,CA,page,https://www.burbankusd.org/departments/purchasing-services,no,,auto; leaid 0606450
+yes,Escondido Union Elementary School District - Bids,CA,page,https://www.eusd.org/page/contractors-and-vendors,no,,auto; leaid 0612880
+yes,Porterville Unified School District - Bids,CA,page,https://www.portervilleschools.org/apps/pages/index.jsp?uREC_ID=347611&type=d&pREC_ID=1732718,no,,auto; leaid 0600064
+yes,Pasadena Unified School District - Bids,CA,page,https://www.pusd.us/departments/business-services/procurement-and-contracts,no,,auto; leaid 0629940
+yes,Lancaster Elementary School District - Bids,CA,page,https://www.lancsd.org/Departments/Facilities/BID-Procedures-Request-for-Proposals/index.html,no,,auto; leaid 0620880
+yes,Santa Clara Unified School District - Bids,CA,page,https://www.santaclarausd.org/about-us/departments/nutrition-services/open-bids-and-proposals,no,,auto; leaid 0635430
+no,Ceres Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/ceres/Board.nsf/Public,no,,auto; leaid 0608130
+yes,Pleasanton Unified School District - Bids,CA,page,https://www.pleasantonusd.net/departments/business-services/purchasing,no,,auto; leaid 0600020
+yes,Apple Valley Unified School District - Bids,CA,page,https://www.avusd.org/departments/administrative-services/business-services/rfps-and-bids,no,,auto; leaid 0600017
+yes,Walnut Valley Unified School District - Bids,CA,page,https://www.wvusd.org/apps/pages/index.jsp?uREC_ID=54505&type=d&pREC_ID=63746,no,,auto; leaid 0641280
+yes,Cupertino Union Elementary School District - Bids,CA,page,https://www.cusdk8.org/departments/operations/purchasing/bid-opportunities,no,,auto; leaid 0610290
+no,Cupertino Union Elementary School District - Board meetings,CA,boarddocs,http://go.boarddocs.com/ca/cusdk8/Board.nsf/goto?open&id=C4RS8Y713DAF,no,,auto; leaid 0610290
+yes,Etiwanda Elementary School District - Bids,CA,page,https://www.etiwanda.org/page/bids-and-purchasing,no,,auto; leaid 0612960
+yes,Fullerton Joint Union High School District - Bids,CA,page,https://www.fjuhsd.org/bid-opportunities-bid-results,no,,auto; leaid 0614760
+yes,Paramount Unified School District - Bids,CA,page,https://www.paramountusd.com/departments/business-services/purchasing,no,,auto; leaid 0629850
+yes,Santa Barbara Unified School District - Bids,CA,page,https://www.sbunified.org/departments/business-services,no,,auto; leaid 0601414
+yes,Chico Unified School District - Bids,CA,page,https://www.chicousd.org/Departments/Business-Services/Request-for-Proposal-RFP/index.html,no,,auto; leaid 0608370
+yes,Lynwood Unified School District - Bids,CA,page,https://www.mylusd.org/departments/business-services/purchasing/bids-and-rfps,no,,auto; leaid 0623160
+yes,Rowland Unified School District - Bids,CA,page,https://www.rowlandschools.org/apps/pages/index.jsp?uREC_ID=30135&type=d&pREC_ID=24512,no,,auto; leaid 0633750
+yes,Beaumont Unified School District - Bids,CA,page,https://www.beaumontusd.us/apps/pages/index.jsp?uREC_ID=982018&type=d,no,,auto; leaid 0604290
+yes,Fullerton Elementary School District - Bids,CA,page,https://www.fullertonsd.org/departments/business-services/business-services-divisions/about-purchasing-warehouse-instructional-materials/current-bids-rfps-rfqs,no,,auto; leaid 0614730
+no,Fullerton Elementary School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/fullertonsd/Board.nsf/Public,no,,auto; leaid 0614730
+yes,Rocklin Unified School District - Bids,CA,page,https://www.rocklinusd.org/Departments/Business-Services/Technology-Services/TechnologyRFP/index.html,no,,auto; leaid 0600013
+yes,Covina-Valley Unified School District - Bids,CA,page,https://www.c-vusd.org/departments/business-services/purchasing/closed-bids,no,,auto; leaid 0610050
+yes,La Mesa-Spring Valley School District - Bids,CA,page,https://www.lmsvschools.org/purchasing-services/,no,,auto; leaid 0620250
+yes,Palos Verdes Peninsula Unified School District - Bids,CA,page,https://www.pvpusd.net/apps/pages/index.jsp?uREC_ID=361563&type=d&pREC_ID=820440,no,,auto; leaid 0629700
+yes,Gilroy Unified School District - Bids,CA,page,https://www.gilroyunified.org/departments/business-services/bids-and-purchasing,no,,auto; leaid 0615180
+no,Palo Alto Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/pausd/Board.nsf/Public?open&id=policies,no,,auto; leaid 0629610
+yes,Baldwin Park Unified School District - Bids,CA,page,https://www.bpusd.net/apps/pages/index.jsp?uREC_ID=822747&type=d&pREC_ID=1205167,no,,auto; leaid 0603690
+yes,Santa Rosa High School District - Bids,CA,page,https://www.srcschools.org/departments/business-services/purchasing/bids,no,,auto; leaid 0635830
+yes,Fremont Union High School District - Bids,CA,page,https://www.fuhsd.org/departments/nutrition-services/bids,no,,auto; leaid 0614430
+yes,Bellflower Unified School District - Bids,CA,page,https://www.busd.k12.ca.us/departments/business-services,no,,auto; leaid 0604440
+yes,Milpitas Unified School District - Bids,CA,page,http://www.musd.org/34706_2,no,,auto; leaid 0624500
+yes,Bonita Unified School District - Bids,CA,page,https://do.bonita.k12.ca.us/District/Business-Services/Purchasing/index.html,no,,auto; leaid 0605610
+yes,Las Virgenes Unified School District - Bids,CA,page,https://www.lvusd.org/departments/business-services/current-rfps,no,,auto; leaid 0621000
+yes,Lucia Mar Unified School District - Bids,CA,page,https://www.luciamarschools.org/bids-construction,no,,auto; leaid 0623080
+yes,Brentwood Union Elementary School District - Bids,CA,page,https://www.brentwood.k12.ca.us/page/purchasing/,no,,auto; leaid 0605910
+yes,Greenfield Union School District - Bids,CA,page,https://www.gfusd.net/apps/pages/index.jsp?uREC_ID=444551&type=d&pREC_ID=958635,no,,auto; leaid 0616050
+yes,Saugus Union Elementary School District - Bids,CA,page,https://www.saugususd.org/business-services,no,,auto; leaid 0635970
+yes,San Mateo Union High School District - Bids,CA,page,https://www.smuhsd.org/departments/business-and-operations/fiscal-services/current-solicitations-for-goods-services,no,,auto; leaid 0634980
+yes,Westside Union Elementary School District - Bids,CA,page,https://www.westside.k12.ca.us/departments/business/vendors,no,,auto; leaid 0642120
+yes,Evergreen Elementary School District - Bids,CA,page,https://www.eesd.org/departments/business-and-finanace/purchasing-bids,no,,auto; leaid 0613140
+no,Evergreen Elementary School District - Board meetings,CA,boarddocs,http://www.boarddocs.com/ca/eesd/Board.nsf/Public,no,,auto; leaid 0613140
+yes,Alameda City Unified School District - Bids,CA,page,https://www.alamedaunified.org/departments/fiscal-services/current-bids,no,,auto; leaid 0601770
+yes,Lincoln Unified School District - Bids,CA,page,https://www.lusd.net/departments/business-services,no,,auto; leaid 0621690
+no,Lincoln Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/lusdca/Board.nsf/Public,no,,auto; leaid 0621690
+yes,Santa Monica-Malibu Unified School District - Bids,CA,page,https://www.smmusd.org/departments/purchasing/proposals-quotes-bids,no,,auto; leaid 0635700
+yes,Arcadia Unified School District - Bids,CA,page,https://www.ausd.net/apps/pages/index.jsp?uREC_ID=1658194&type=d,no,,auto; leaid 0602970
+yes,Campbell Union High School District - Bids,CA,page,https://www.cuhsd.org/apps/pages/index.jsp?uREC_ID=425089&type=d&pREC_ID=927841,no,,auto; leaid 0607230
+yes,Yucaipa-Calimesa Joint Unified School District - Bids,CA,page,https://www.yucaipaschools.com/page/purchasing,no,,auto; leaid 0643560
+no,Yucaipa-Calimesa Joint Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/ycjusd/Board.nsf/Public,no,,auto; leaid 0643560
+yes,Calexico Unified School District - Bids,CA,page,https://www.cusdk12.org/Departments/Business-Services/Vendor-Portal/index.html,no,,auto; leaid 0606900
+yes,Salinas City Elementary School District - Bids,CA,page,https://www.salinascityesd.org/department/maintenance/contractor-bid-opportunities,no,,auto; leaid 0633930
+yes,Westminster School District - Bids,CA,page,https://www.wsdk8.us/departments/business-services/purchasing/current-bidding-opportunities,no,,auto; leaid 0642150
+yes,Morgan Hill Unified School District - Bids,CA,page,https://www.mhusd.org/departments/business-services/purchasing-and-vendor-registration,no,,auto; leaid 0625830
+yes,West Covina Unified School District - Bids,CA,page,https://www.wcusd.org/departments/business-services/purchasing-repographics-and-warehouse,no,,auto; leaid 0642000
+yes,Snowline Joint Unified School District - Bids,CA,page,https://www.snowlineschools.com/apps/pages/index.jsp?uREC_ID=4459405&type=d&pREC_ID=2734350,no,,auto; leaid 0636970
+yes,South San Francisco Unified School District - Bids,CA,page,https://www.ssfusd.org/departments/business-services/technology-services/technology-purchasing-standards,no,,auto; leaid 0637530
+yes,Adelanto Elementary School District - Bids,CA,page,https://www.aesd.net/divisions/business-services/fiscal-services/purchasing-services,no,,auto; leaid 0601710
+yes,East Whittier City Elementary School District - Bids,CA,page,https://www.ewcsd.org/apps/pages/index.jsp?uREC_ID=349821&type=d&pREC_ID=859193,no,,auto; leaid 0611850
+no,East Whittier City Elementary School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/ewcsd/Board.nsf/Public,no,,auto; leaid 0611850
+yes,Alum Rock Union Elementary School District - Bids,CA,page,https://www.arusd.org/departments/business-services/purchasing/bids,no,,auto; leaid 0602310
+yes,Alisal Union Elementary School District - Bids,CA,page,https://www.alisal.org/apps/pages/index.jsp?uREC_ID=4378323&type=d&pREC_ID=2582028,no,,auto; leaid 0601950
+yes,Inglewood Unified School District - Bids,CA,page,https://www.inglewoodusd.com/apps/pages/index.jsp?uREC_ID=1999391&type=d,no,,auto; leaid 0618390
+yes,Hueneme Elementary School District - Bids,CA,page,https://www.huensd.k12.ca.us/439055_2,no,,auto; leaid 0617850
+yes,Hawthorne Elementary School District - Bids,CA,page,https://www.hawthornesd.org/departments/purchasing/bids,no,,auto; leaid 0616680
+yes,El Monte City School District - Bids,CA,page,https://www.emcsd.org/apps/pages/index.jsp?uREC_ID=1558082&type=d&pREC_ID=2393430,no,,auto; leaid 0612090
+yes,Escondido Union High School District - Bids,CA,page,https://www.euhsd.org/apps/pages/index.jsp?uREC_ID=2758003&type=d,no,,auto; leaid 0612910
+yes,Ocean View Elementary School District - Bids,CA,page,https://www.ovsd.org/departments/administrative-services/rfprfqbid-opportunities,no,,auto; leaid 0628140
+yes,Azusa Unified School District - Bids,CA,page,https://www.azusa.org/departments/business-services/purchasing,no,,auto; leaid 0603600
+yes,El Dorado Union High School District - Bids,CA,page,https://www.eduhsd.k12.ca.us/__catapult_pages/ba7f591b-6eba-42b8-97dd-39a82a618f65/Business-Services.html,no,,auto; leaid 0612070
+yes,Barstow Unified School District - Bids,CA,page,https://www.busdk12.com/purchasing-warehouse-and-printshop,no,,auto; leaid 0604020
+yes,Redwood City Elementary School District - Bids,CA,page,https://www.rcsdk8.net/our-programs-and-services/business-services/request-for-proposals,no,,auto; leaid 0632130
+yes,Paso Robles Joint Unified School District - Bids,CA,page,https://www.pasoschools.org/purchasing-department,no,,auto; leaid 0600048
+yes,Campbell Union Elementary School District - Bids,CA,page,https://www.campbellusd.org/bondbids,no,,auto; leaid 0607200
+yes,Delano Union Elementary School District - Bids,CA,page,https://www.duesd.org/governance/rfprfq-and-bid-notices,no,,auto; leaid 0610890
+yes,Santee School District - Bids,CA,page,https://www.santeesd.net/district/department/business_services/fiscal_services/purchasing/bid_opportunities_rfp,no,,auto; leaid 0635880
+yes,Fountain Valley Elementary School District - Bids,CA,page,https://www.fvsd.us/apps/pages/index.jsp?uREC_ID=258515&type=d&pREC_ID=894805,no,,auto; leaid 0614220
+yes,Franklin-Mckinley Elementary School District - Bids,CA,page,https://www.fmsd.org/community/business-opportunities/bids,no,,auto; leaid 0614370
+yes,Berryessa Union Elementary School District - Bids,CA,page,https://www.berryessa.k12.ca.us/Departments/Business-Services/Purchasing/index.html,no,,auto; leaid 0604800
+yes,Selma Unified School District - Bids,CA,page,https://www.selmausd.org/departments/business-support-services/business,no,,auto; leaid 0636270
+yes,Brea-Olinda Unified School District - Bids,CA,page,https://www.bousd.us/page/current-bid-openings,no,,auto; leaid 0605880
+yes,Pleasant Valley Elementary School District - Bids,CA,page,https://www.pleasantvalleysd.org/about-pvsd/measure-c-implementation/bids-agreements,no,,auto; leaid 0630990
+yes,Alta Loma Elementary School District - Bids,CA,page,https://www.alsd.k12.ca.us/documents/purchasing/639347,no,,auto; leaid 0602160
+yes,Whittier City Elementary School District - Bids,CA,page,https://www.whittiercity.net/apps/pages/index.jsp?uREC_ID=1085129&type=d&pREC_ID=1371894,no,,auto; leaid 0642450
+yes,Sunnyvale Elementary School District - Bids,CA,page,https://www.sesd.org/about-usnew/departments/operations/construction-contractor-information/rfqp-information,no,,auto; leaid 0638460
+yes,Kerman Unified School District - Bids,CA,page,https://www.kermanusd.com/page/catalog-purchasing-supplies,no,,auto; leaid 0619490
+yes,Union Elementary School District - Bids,CA,page,https://www.unionsd.org/community/request-for-proposals-rfp,no,,auto; leaid 0640320
+yes,Travis Unified School District - Bids,CA,page,https://www.travisusd.org/departments/educational-services-new/rfps-bids,no,,auto; leaid 0639630
+yes,El Centro Elementary School District - Bids,CA,page,https://www.ecesd.org/apps/pages/index.jsp?uREC_ID=423668&type=d&pREC_ID=2604139,no,,auto; leaid 0612030
+yes,Oakdale Joint Unified School District - Bids,CA,page,https://www.ojusd.org/district/business/introduction-to-fiscal-services/purchasing,no,,auto; leaid 0600062
+yes,Temple City Unified School District - Bids,CA,page,https://www.tcusd.net/purchasing-warehouse-home,no,,auto; leaid 0638980
+yes,Ramona City Unified School District - Bids,CA,page,https://www.ramonausd.net/purchasing-bfb19691,no,,auto; leaid 0631710
+yes,Magnolia Elementary School District - Bids,CA,page,https://www.magnoliasd.org/apps/pages/index.jsp?uREC_ID=1117787&type=d&pREC_ID=1393007,no,,auto; leaid 0623430
+yes,Fallbrook Union Elementary School District - Bids,CA,page,https://www.fuesd.org/business-services/,no,,auto; leaid 0613500
+yes,Mountain View Elementary School District - Bids,CA,page,https://www.mtviewschools.com/50809_3,no,,auto; leaid 0626190
+yes,Atwater Elementary School District - Bids,CA,page,https://www.aesd.edu/apps/pages/index.jsp?uREC_ID=785187&type=d&pREC_ID=1181328,no,,auto; leaid 0603420
+yes,Burton Elementary School District - Bids,CA,page,https://www.burtonschools.org/27657_2,no,,auto; leaid 0606570
+yes,Huntington Beach City Elementary School District - Bids,CA,page,https://www.hbcsd.k12.ca.us/10853_3,no,,auto; leaid 0618030
+yes,Lakeside Union Elementary School District - Bids,CA,page,https://www.lsusd.net/purchasing/,no,,auto; leaid 0620790
+yes,Mountain View Whisman Elementary School District - Bids,CA,page,https://www.mvwsd.org/district_business/purchasing,no,,auto; leaid 0626280
+yes,North Monterey County Unified School District - Bids,CA,page,https://www.nmcusd.org/departments/business-services,no,,auto; leaid 0627590
+yes,Mountain View-Los Altos Union School District - Bids,CA,page,https://www.mvla.net/business-services-home,no,,auto; leaid 0626310
+yes,Banning Unified School District - Bids,CA,page,https://www.banning.k12.ca.us/administration-services/fiscal-services/purchasing-vendor-services,no,,auto; leaid 0603840
+yes,Benicia Unified School District - Bids,CA,page,https://beniciaunified.org/departments/business-services/,no,,auto; leaid 0604620
+yes,La Habra City Elementary School District - Bids,CA,page,https://www.lahabraschools.org/business-services/,no,,auto; leaid 0620190
+yes,Charter Oak Unified School District - Bids,CA,page,https://www.cousd.net/apps/pages/index.jsp?uREC_ID=3185294&type=d,no,,auto; leaid 0608190
+yes,Garvey Elementary School District - Bids,CA,page,https://www.garvey.k12.ca.us/252310_3,no,,auto; leaid 0614940
+yes,Central Elementary School District - Bids,CA,page,https://www.centralsd.net/page/purchasing,no,,auto; leaid 0607950
+yes,San Ysidro Elementary School District - Bids,CA,page,https://www.sysdschools.org/departments/information-technology/bid-opportunities-and-rfp,no,,auto; leaid 0635220
+yes,Hanford Joint Union High School District - Bids,CA,page,https://www.hjuhsd.k12.ca.us/business-services,no,,auto; leaid 0616500
+yes,Delano Joint Union High School District - Bids,CA,page,https://www.djuhsd.org/departments/information-technology/e-rate-rfps,no,,auto; leaid 0610860
+yes,Lennox Elementary School District - Bids,CA,page,https://www.lennox.k12.ca.us/departments/business-services/bid-opportunities,no,,auto; leaid 0621420
+yes,Amador County Unified School District - Bids,CA,page,https://www.amadorcoe.org/bids,no,,auto; leaid 0602450
+yes,Belmont-Redwood Shores Elementary School District - Bids,CA,page,https://www.brssd.org/bid-opportunities,no,,auto; leaid 0604530
+yes,Cutler-Orosi Joint Unified School District - Bids,CA,page,https://www.cojusd.org/page/business,no,,auto; leaid 0610350
+yes,Fillmore Unified School District - Bids,CA,page,https://www.fillmoreusd.org/apps/pages/index.jsp?uREC_ID=369878&type=d&pREC_ID=831912,no,,auto; leaid 0613800
+yes,Lake Tahoe Unified School District - Bids,CA,page,https://www.ltusd.org/district-link/departments/business-services,no,,auto; leaid 0620640
+yes,Enterprise Elementary School District - Bids,CA,page,https://www.eesd.net/departments/business-services,no,,auto; leaid 0612810
+yes,El Segundo Unified School District - Bids,CA,page,https://www.elsegundousd.net/page/business-services,no,,auto; leaid 0612210
+no,El Segundo Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/esusd/Board.nsf,no,,auto; leaid 0612210
+yes,Del Norte County Unified School District - Bids,CA,page,https://www.dnusd.org/departments/business/district-business-rfps,no,,auto; leaid 0610770
+yes,Cypress Elementary School District - Bids,CA,page,https://www.cypsd.org/departments/business-services,no,,auto; leaid 0610440
+yes,Galt Joint Union Elementary School District - Bids,CA,page,https://www.galt.k12.ca.us/Our-District/Facilities-and-Planning/Formal-Bids/index.html,no,,auto; leaid 0614790
+yes,Los Gatos-Saratoga Joint Union School District - Bids,CA,page,https://www.lgsuhsd.org/departments/business-services/current-bids,no,,auto; leaid 0622800
+yes,Lemoore Union Elementary School District - Bids,CA,page,https://www.luesd.k12.ca.us/documents/departments/finance-and-business/purchasing/new-school-project-rfp-docs/57836,no,,auto; leaid 0621360
+yes,Lafayette Elementary School District - Bids,CA,page,https://www.lafsd.org/apps/pages/index.jsp?uREC_ID=3800244&type=d,no,,auto; leaid 0620310
+no,Lafayette Elementary School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/lafsd/Board.nsf/files/DRWSGC7297C9/$file/%5BLAFSD%5D%202026-27%20Board%20Approved%20Budget%20Reductions%20and%20Deferrals%20List_Approved%20March%203%202026.pdf,no,,auto; leaid 0620310
+yes,Beverly Hills Unified School District - Bids,CA,page,https://www.bhusd.org/school-district-beverly-hills-unified-/departments/business-services,no,,auto; leaid 0604830
+yes,Eastside Union Elementary School District - Bids,CA,page,https://www.eastsideusd.org/apps/pages/index.jsp?uREC_ID=4434674&type=d&pREC_ID=2675227,no,,auto; leaid 0611910
+yes,Duarte Unified School District - Bids,CA,page,https://www.duarteusd.org/apps/pages/index.jsp?uREC_ID=3815860&type=d,no,,auto; leaid 0611520
+yes,Mountain View Elementary School District - Bids,CA,page,https://www.mtnview.k12.ca.us/apps/pages/index.jsp?uREC_ID=3760749&type=d,no,,auto; leaid 0626220
+yes,Fruitvale Elementary School District - Bids,CA,page,https://www.fruitvale.k12.ca.us/apps/pages/index.jsp?uREC_ID=530844&type=d,no,,auto; leaid 0614700
+yes,Dixon Unified School District - Bids,CA,page,https://www.dixonusd.org/business-services/,no,,auto; leaid 0611280
+yes,Cambrian Elementary School District - Bids,CA,page,https://www.cambriansd.org/departments/business-services,no,,auto; leaid 0607140
+yes,Empire Union Elementary School District - Bids,CA,page,https://www.empire.k12.ca.us/page/business-services,no,,auto; leaid 0612690
+yes,Palo Verde Unified School District - Bids,CA,page,https://www.pvusd.us/Departments/Business-Services/index.html,no,,auto; leaid 0629640
+yes,Coronado Unified School District - Bids,CA,page,https://coronadousd.net/Departments/Business-Services/Purchasing/index.html,no,,auto; leaid 0609870
+yes,Cabrillo Unified School District - Bids,CA,page,https://www.cabrillo.us/departments/business-services,no,,auto; leaid 0606780
+yes,Solana Beach Elementary School District - Bids,CA,page,https://www.sbsd.k12.ca.us/departments/business-services,no,,auto; leaid 0636990
+yes,Fairfax Elementary School District - Bids,CA,page,https://www.fairfax.k12.ca.us/apps/pages/index.jsp?uREC_ID=3736129&type=d&pREC_ID=2433795,no,,auto; leaid 0613290
+yes,Golden Valley Unified School District - Bids,CA,page,https://www.gvusd.org/business-services,no,,auto; leaid 0600068
+yes,Orinda Union Elementary School District - Bids,CA,page,https://www.orindaschools.org/Departments/Business-Services/Bids-and-Proposal/index.html,no,,auto; leaid 0628860
+yes,Wiseburn Unified School District - Bids,CA,page,https://www.wiseburn.org/about/district-departments/business-services/bidding-opportunities,no,,auto; leaid 0601428
+yes,Laguna Beach Unified School District - Bids,CA,page,https://www.lbusd.org/departments/facilities/bids-and-public-notices,no,,auto; leaid 0620370
+no,Laguna Beach Unified School District - Board meetings,CA,boarddocs,http://go.boarddocs.com/ca/laguna/Board.nsf/goto?open&id=BLPP4V60332E,no,,auto; leaid 0620370
+yes,Delhi Unified School District - Bids,CA,page,https://www.delhi.k12.ca.us/page/openbids,no,,auto; leaid 0600039
+yes,South Whittier Elementary School District - Bids,CA,page,https://www.swhittier.k12.ca.us/business-services,no,,auto; leaid 0637560
+yes,Dos Palos-Oro Loma Joint Unified School District - Bids,CA,page,https://www.dpol.net/apps/pages/index.jsp?uREC_ID=793955&type=d&pREC_ID=1185594,no,,auto; leaid 0600033
+yes,Gateway Unified School District - Bids,CA,page,https://www.gatewayusd.org/departments/facilities-mo/notice-inviting-interested-contractors-for-the-informal-bid-list,no,,auto; leaid 0614950
+yes,Galt Joint Union High School District - Bids,CA,page,https://www.ghsd.us/apps/pages/index.jsp?uREC_ID=3755311&type=d,no,,auto; leaid 0614820
+yes,Gridley Unified School District - Bids,CA,page,https://www.gusd.org/Departments/Business-Services/Departments/Business-Services/CUPCCAA--Open-Bids/index.html,no,,auto; leaid 0600051
+yes,Lemoore Union High School District - Bids,CA,page,https://www.luhsd.k12.ca.us/apps/pages/index.jsp?uREC_ID=2141431&type=d,no,,auto; leaid 0621400
+yes,Castaic Union School District - Bids,CA,page,https://www.castaicusd.com/apps/pages/index.jsp?uREC_ID=799566&type=d&pREC_ID=1188988,no,,auto; leaid 0607740
+yes,Northern Humboldt Union High School District - Bids,CA,page,https://www.nohum.org/apps/pages/index.jsp?uREC_ID=1522504&type=d&pREC_ID=1714946,no,,auto; leaid 0603030
+yes,Saratoga Union Elementary School District - Bids,CA,page,https://www.saratogausd.org/departments/business-services/bids-and-request-for-proposals-rfp-and-qualifications-rfq,no,,auto; leaid 0635910
+yes,Grass Valley Elementary School District - Bids,CA,page,https://www.gvsd.us/Business-Services/index.html,no,,auto; leaid 0615780
+yes,Paradise Unified School District - Bids,CA,page,https://www.pusdk12.org/Departments/District-Services/Food-Services/Vendor-Information--Annual-Bids/index.html,no,,auto; leaid 0629820
+yes,Auburn Union Elementary School District - Bids,CA,page,https://www.auburn.k12.ca.us/Departments/Business-Services/Public-Notices-and-Bids/index.html,no,,auto; leaid 0603480
+yes,Colusa Unified School District - Bids,CA,page,https://www.colusa.k12.ca.us/Departments/Business-Services/index.html,no,,auto; leaid 0609570
+yes,Denair Unified School District - Bids,CA,page,https://www.qualitybidders.com/bids?district=237&area=all&license=1&showExpired=0,no,,auto; leaid 0611040
+yes,Hillsborough City Elementary School District - Bids,CA,page,https://www.hcsdk8.org/departments/business-services/current-rfqs,no,,auto; leaid 0617190
+yes,Hermosa Beach City Elementary School District - Bids,CA,page,https://www.hbcsd.org/apps/pages/index.jsp?uREC_ID=4418716&type=d&pREC_ID=2175329,no,,auto; leaid 0617040
+yes,Black Oak Mine Unified School District - Bids,CA,page,https://www.bomusd.org/business-services,no,,auto; leaid 0605240
+yes,Healdsburg Unified School District - Bids,CA,page,https://www.husd.com/apps/pages/index.jsp?uREC_ID=3782338&type=d&pREC_ID=2448065,no,,auto; leaid 0600044
+yes,John Swett Unified School District - Bids,CA,page,https://www.jsusd.org/rfqp-prop-39-lighting-proposals-for,no,,auto; leaid 0618990
+yes,Las Lomitas Elementary School District - Bids,CA,page,https://www.llesd.org/Departments/Finance--Business-Services/FoodChild-Nutrition-Services/History-of-Meal-Program--Vendor-Selection/index.html,no,,auto; leaid 0622380
+yes,Cascade Union Elementary School District - Bids,CA,page,https://www.cuesd.com/about/departments/business-services,no,,auto; leaid 0607680
+yes,Lucerne Valley Unified School District - Bids,CA,page,https://www.lucernevalleyusd.org/apps/pages/index.jsp?uREC_ID=1546727&type=d,no,,auto; leaid 0600015
+yes,Valle Lindo Elementary School District - Bids,CA,page,https://www.vallelindo.k12.ca.us/apps/pages/index.jsp?uREC_ID=1192622&type=d&pREC_ID=1698118,no,,auto; leaid 0640650
+yes,Hope Elementary School District - Bids,CA,page,https://www.hopesdk6.org/business-services,no,,auto; leaid 0617490
+yes,Hamilton Unified School District - Bids,CA,page,https://www.husdschools.org/departments/business/purchasing,no,,auto; leaid 0601339
+yes,Grant Elementary School District - Bids,CA,page,https://www.grantschoolcougars.com/District/Departments/Business-Services/index.html,no,,auto; leaid 0615690
+yes,Cardiff Elementary School District - Bids,CA,page,https://www.cardiffschools.com/departments/business-services,no,,auto; leaid 0607470
+yes,Chatom Union Elementary School District - Bids,CA,page,https://chatom.k12.ca.us/district/rfp/,no,,auto; leaid 0608250
+yes,Cutten Elementary School District - Bids,CA,page,https://hcoe.org/bids/,no,,auto; leaid 0610380
+yes,Portola Valley Elementary School District - Bids,CA,page,https://www.pvsd.net/departments/business-office-finance/request-for-proposals-rfps,no,,auto; leaid 0631470
+yes,Happy Valley Union Elementary School District - Bids,CA,page,https://www.hvusd.net/departments/business-services,no,,auto; leaid 0616570
+yes,Brittan Elementary School District - Bids,CA,page,https://www.brittan.k12.ca.us/Business-Services/index.html,no,,auto; leaid 0606090
+no,Anderson Valley Unified School District - Board meetings,CA,boarddocs,https://go.boarddocs.com/ca/avusd/Board.nsf/goto?open&id=Public,no,,auto; leaid 0602730
+yes,Junction Elementary School District - Bids,CA,page,https://www.junctionesd.net/departments/business-services,no,,auto; leaid 0619200
+yes,Le Grand Union Elementary School District - Bids,CA,page,https://www.legrand.k12.ca.us/documents/rfp-/-rfq-for-services/518508,no,,auto; leaid 0621240
+yes,Bayshore Elementary School District - Bids,CA,page,https://www.thebayshoreschool.org/Our-District/Bond-Information/Bayshore-ESD-RFQP-Lease-Leaseback-Construction-Services/index.html,no,,auto; leaid 0604200
+yes,Sausalito Elementary School District - Bids,CA,page,https://www.smcsd.org/Departments/Business-Services/index.html,no,,auto; leaid 0636000
+yes,Hope Elementary School District - Bids,CA,page,https://www.hopesdk6.org/business-services,no,,auto; leaid 0617520
+yes,Black Butte Union Elementary School District - Bids,CA,page,https://www.blackbutteschool.org/page/district-business-services,no,,auto; leaid 0605220
+yes,Elverta Joint Elementary School District - Bids,CA,page,https://www.ejesd.net/apps/pages/index.jsp?uREC_ID=3660334&type=d&pREC_ID=2417108,no,,auto; leaid 0612600
+yes,Geyserville Unified School District - Bids,CA,page,https://gusd.com/PDFs/notices/2026_geyserville_rfp_-_final_251223.pdf,no,,auto; leaid 0615150
+yes,Cinnabar Elementary School District - Bids,CA,page,https://cinnabar.org/business-services,no,,auto; leaid 0608700
+yes,Baker Valley Unified School District - Bids,CA,page,https://www.bakervalleyusd.org/our-district/business-services,no,,auto; leaid 0603610
+yes,Bolinas-Stinson Union Elementary School District - Bids,CA,page,https://www.bolinas-stinson.org/page/business-services,no,,auto; leaid 0605520
+yes,Alpine County Unified School District - Bids,CA,page,https://alpinecoe.k12.ca.us/District/Department/2-Business-Services,no,,auto; leaid 0602070
+yes,Junction City Elementary School District - Bids,CA,page,https://coho.tcoek12.org/Forms/Purchase_Request,no,,auto; leaid 0619170
+yes,Kneeland Elementary School District - Bids,CA,page,https://hcoe.org/bids/,no,,auto; leaid 0619980
+yes,Big Sur Unified School District - Bids,CA,page,https://www.bigsurunified.org/business-services,no,,auto; leaid 0600031
+yes,Junction Elementary School District - Bids,CA,page,https://www.junctionesd.net/departments/business-services,no,,auto; leaid 0619230
+no,Dade County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/sbmd/Board.nsf/Public,no,,auto; leaid 1200390
+yes,Broward County School District - Bids,FL,page,https://www.browardschools.com/bcps-departments/procurement/district-bid-opportunities-demandstar,no,,auto; leaid 1200180
+yes,Hillsborough County School District - Bids,FL,page,https://www.hillsboroughschools.org/page/procurement-services/,no,,auto; leaid 1200870
+yes,Orange County School District - Bids,FL,page,https://www.ocps.net/procurement-services-solicitations,no,,auto; leaid 1201440
+no,Orange County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fla/orcpsfl/Board.nsf/Public,no,,auto; leaid 1201440
+yes,Palm Beach County School District - Bids,FL,page,https://www2.palmbeachschools.org/purchasing/All-In-One/,no,,auto; leaid 1201500
+no,Palm Beach County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/palmbeach/board.nsf/goto?open&id=agks9k7131df,no,,auto; leaid 1201500
+yes,Duval County School District - Bids,FL,page,https://dcps.duvalschools.org/page/purchase-order-special-conditions/,no,,auto; leaid 1200480
+yes,Polk County School District - Bids,FL,page,https://www.polkschoolsfl.com/helpme/purchase_event_tickets,no,,auto; leaid 1201590
+yes,Lee County School District - Bids,FL,page,https://www.leeschools.net/support/procurement_services,no,,auto; leaid 1201080
+no,Lee County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DHXGC642E70F,no,,auto; leaid 1201080
+yes,Pinellas County School District - Bids,FL,page,https://www.pcsb.org/departments/finance/purchasing/current-solicitations,no,,auto; leaid 1201560
+no,Pinellas County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/pcsfl/Board.nsf/vpublic?open,no,,auto; leaid 1201560
+yes,Pasco County School District - Bids,FL,page,https://www.pasco.k12.fl.us/purchasing/page/business/,no,,auto; leaid 1201530
+yes,Brevard County School District - Bids,FL,page,https://www.brevardschools.org/page/procurement-distribution-services-staff/,no,,auto; leaid 1200150
+yes,Osceola County School District - Bids,FL,page,https://www.osceolaschools.net/23157_4,no,,auto; leaid 1201470
+no,Osceola County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/osceola/Board.nsf/Public,no,,auto; leaid 1201470
+yes,Volusia County School District - Bids,FL,page,https://www.vcsedu.org/directory/departments/operation-services/facilities-services/design-construction/bid-documents,no,,auto; leaid 1201920
+yes,Manatee County School District - Bids,FL,page,https://www.manateeschools.net/page/solicitations/,no,,auto; leaid 1201230
+yes,St. Johns County School District - Bids,FL,page,https://www.stjohns.k12.fl.us/purchasing/active/,no,,auto; leaid 1201740
+yes,Collier County School District - Bids,FL,page,https://www.collierschools.com/exploreccps/budget-and-finance/purchasing,no,,auto; leaid 1200330
+no,Collier County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/collier/Board.nsf/Public,no,,auto; leaid 1200330
+yes,Lake County School District - Bids,FL,page,https://www.lake.k12.fl.us/page/procurement/,no,,auto; leaid 1201050
+yes,St. Lucie County School District - Bids,FL,page,https://www.stlucie.k12.fl.us/purch/,no,,auto; leaid 1201770
+no,St. Lucie County School District - Board meetings,FL,boarddocs,https://www.boarddocs.com/fl/stlucie/Board.nsf/public,no,,auto; leaid 1201770
+yes,Sarasota County School District - Bids,FL,page,https://www.sarasotacountyschools.net/page/purchasing/,no,,auto; leaid 1201680
+yes,Clay County School District - Bids,FL,page,https://www.oneclay.net/o/ccds/page/public-notices-purchasing,no,,auto; leaid 1200300
+no,Clay County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/myoneclay/Board.nsf/goto?open&id=DHDGZL4468F3,no,,auto; leaid 1200300
+yes,Okaloosa County School District - Bids,FL,page,https://www.okaloosaschools.com/page/vendor-fingerprinting,no,,auto; leaid 1201380
+yes,Leon County School District - Bids,FL,page,https://www.leonschools.net/active-upcoming-bid-opportunities,no,,auto; leaid 1201110
+yes,Santa Rosa County School District - Bids,FL,page,https://santarosaschools.org/es/bids-and-proposals,no,,auto; leaid 1201650
+yes,Alachua County School District - Bids,FL,page,https://www.alachuaschools.net/page/awards-solicitations-and-other-contracts/,no,,auto; leaid 1200030
+no,Alachua County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/alaco/Board.nsf/goto?open&id=CL4SWT74B2C1,no,,auto; leaid 1200030
+yes,Bay County School District - Bids,FL,page,https://www.bay.k12.fl.us/page/purchasing-contracting-contacts/,no,,auto; leaid 1200090
+yes,Martin County School District - Bids,FL,page,https://www.martinschools.org/documents/departments/purchasing-and-warehouse/public-notices/bid-logs/262571,no,,auto; leaid 1201290
+yes,Indian River County School District - Bids,FL,page,https://www.indianriverschools.org/documents/departments-&amp;-programs/support-services/purchasing/814219,no,,auto; leaid 1200930
+yes,Charlotte County School District - Bids,FL,page,https://www.yourcharlotteschools.net/bids,no,,auto; leaid 1200240
+yes,Citrus County School District - Bids,FL,page,https://citrusschools.org/current-bid-opportunities,no,,auto; leaid 1200270
+yes,Flagler County School District - Bids,FL,page,https://flaglerschools.com/vendors-and-contractors,no,,auto; leaid 1200540
+yes,Nassau County School District - Bids,FL,page,https://www.nassau.k12.fl.us/o/ncsd/page/bids,no,,auto; leaid 1201350
+no,Nassau County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/nassau/Board.nsf/Public,no,,auto; leaid 1201350
+yes,Walton County School District - Bids,FL,page,https://www.walton.k12.fl.us/page/purchasing-procedures,no,,auto; leaid 1201980
+no,Walton County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/waltonsd/Board.nsf/Public,no,,auto; leaid 1201980
+yes,Sumter County School District - Bids,FL,page,https://www.sumter.k12.fl.us/bids-rfps,no,,auto; leaid 1201800
+yes,Monroe County School District - Bids,FL,page,https://www.keysschools.com/page/competitive-solicitations,no,,auto; leaid 1201320
+yes,Suwannee County School District - Bids,FL,page,https://www.suwannee.k12.fl.us/documents/departments/finance/bids/601630,no,,auto; leaid 1201830
+yes,Levy County School District - Bids,FL,page,https://www.levyk12.org/purchasing,no,,auto; leaid 1201140
+yes,Hardee County School District - Bids,FL,page,https://www.hardee.k12.fl.us/documents/public-information/financial-transparency/purchasing/rfp/sole-source/2024-2025/807466,no,,auto; leaid 1200750
+yes,Bradford County School District - Bids,FL,page,https://www.bradfordschools.org/purchasing-bids-and-rfps,no,,auto; leaid 1200120
+no,Bradford County School District - Board meetings,FL,boarddocs,http://go.boarddocs.com/fl/bradfordcsd/Board.nsf/public,no,,auto; leaid 1200120
+yes,Taylor County School District - Bids,FL,page,https://www.taylor.k12.fl.us/opensolicitations,no,,auto; leaid 1201860
+yes,Dixie County School District - Bids,FL,page,https://www.dixie.k12.fl.us/financeandbusinessservices,no,,auto; leaid 1200450
+yes,Gulf County School District - Bids,FL,page,https://gulfcoschools.com/school-board/rfps-bids-and-items-for-sale/,no,,auto; leaid 1200690
+yes,Hamilton County School District - Bids,FL,page,https://hamiltonfl.com/55908_3,no,,auto; leaid 1200720
+yes,Lafayette County School District - Bids,FL,page,https://www.lafayette.k12.fl.us/_theme/files/Vendors%20-%20Jessica%20Lunsford%20Act%20(JLA).pdf,no,,auto; leaid 1201020
