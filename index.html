@@ -239,7 +239,9 @@ async function load(){
 
   const states = [...new Set(ITEMS.map(i => i.state).filter(Boolean))].sort();
   $("#state").innerHTML = '<option value="">All states</option>' + states.map(x => `<option>${esc(x)}</option>`).join("");
-  const svcs = [...new Set(ITEMS.flatMap(i => i.services || []))].sort();
+  // always show every service, Tutoring first, even if there are no bids for it today
+  const ALL_SVCS = ["Tutoring","Special Ed & Therapy","Paras & Staffing","ESOL & English Learners","After School & Summer","Teachers & PD"];
+  const svcs = [...ALL_SVCS, ...[...new Set(ITEMS.flatMap(i => i.services || []))].filter(x => !ALL_SVCS.includes(x))];
   $("#svcchips").innerHTML = ['', ...svcs].map(x => `<button class="chip${x===SVC?" on":""}" data-svc="${esc(x)}">${x ? esc(x) : "All services"}</button>`).join("");
   const dst = [...new Set(DISTRICTS.map(d => d.state))].sort();
   $("#cstate").innerHTML = '<option value="">All states</option>' + dst.map(x => `<option>${esc(x)}</option>`).join("");
