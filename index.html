@@ -161,7 +161,7 @@ body:not(.is-admin) .admin{display:none!important}
         <option value="Board signal">Early heads-up</option>
         <option value="Web mention">Mentioned online</option>
       </select>
-      <label class="toggle"><input type="checkbox" id="showclosed"> Show closed</label>
+      <label class="toggle"><input type="checkbox" id="showclosed"> Show closed &amp; no due date</label>
     </div>
     <div class="chips" id="svcchips"></div>
     <div id="list"></div>
@@ -217,6 +217,10 @@ function districtName(i){
 }
 const isNew = i => i.first_seen && i.first_seen === LAST_RUN;
 const isOpen = i => !i.due_date || days(i.due_date) >= 0;
+// What shows by default: bids with an upcoming due date, plus recent heads-ups and mentions
+const daysSince = s => s ? -days(s) : 999;
+const isLive = i => i.type === "Open RFP" ? (i.due_date && days(i.due_date) >= 0)
+                                         : daysSince(i.last_seen || i.first_seen) <= 14;
 
 async function load(){
   const bust = "?v=" + Date.now();
@@ -231,9 +235,6 @@ async function load(){
   LAST_RUN = (r.updated || "").slice(0,10);
   $("#updated").textContent = r.updated ? "Last checked " + new Date(r.updated).toLocaleString(undefined,{weekday:"long",hour:"numeric",minute:"2-digit"}) : "Waiting for the first run";
 
-  $("#t-new").textContent = ITEMS.filter(isNew).length;
-  $("#t-open").textContent = ITEMS.filter(i => i.type === "Open RFP" && isOpen(i)).length;
-  $("#t-soon").textContent = ITEMS.filter(i => i.due_date && days(i.due_date) >= 0 && days(i.due_date) <= 14).length;
   $("#t-dist").textContent = DISTRICTS.length ? DISTRICTS.length.toLocaleString() : "-";
 
   const states = [...new Set(ITEMS.map(i => i.state).filter(Boolean))].sort();
@@ -259,11 +260,14 @@ function dueBox(i){
 function render(){
   const q = $("#q").value.trim().toLowerCase(), st = $("#state").value, ty = $("#type").value;
   const showClosed = $("#showclosed").checked;
-  const rows = ITEMS.filter(i =>
-    (!st || i.state === st) && (!ty || i.type === ty) && (!SVC || (i.services||[]).includes(SVC)) &&
-    (showClosed || isOpen(i)) &&
-    (!q || [i.title, i.source, i.snippet, (i.services||[]).join(" "), (i.keywords||[]).join(" ")].join(" ").toLowerCase().includes(q))
-  ).sort((a,b) => (isNew(b) - isNew(a)) || ((a.due_date||"9999") < (b.due_date||"9999") ? -1 : (a.due_date||"9999") > (b.due_date||"9999") ? 1 : 0) || b.score - a.score);
+  // tiles follow the state / service / search filters
+  const base = ITEMS.filter(i =>
+    (!st || i.state === st) && (!SVC || (i.services||[]).includes(SVC)) &&
+    (!q || [i.title, i.source, i.snippet, (i.services||[]).join(" "), (i.keywords||[]).join(" ")].join(" ").toLowerCase().includes(q)));
+  $("#t-new").textContent = base.filter(i => isNew(i) && isLive(i)).length;
+  $("#t-open").textContent = base.filter(i => i.type === "Open RFP" && isLive(i)).length;
+  $("#t-soon").textContent = base.filter(i => i.type === "Open RFP" && i.due_date && days(i.due_date) >= 0 && days(i.due_date) <= 14).length;
+  const rows = base.filter(i => (!ty || i.type === ty) && (showClosed || isLive(i))).sort((a,b) => (isNew(b) - isNew(a)) || ((a.due_date||"9999") < (b.due_date||"9999") ? -1 : (a.due_date||"9999") > (b.due_date||"9999") ? 1 : 0) || b.score - a.score);
 
   $("#list").innerHTML = rows.map(i => {
     const [kname, kcls] = KIND[i.type] || ["Lead","k-web"];
@@ -280,7 +284,7 @@ function render(){
         ${(i.services||[]).map(x => `<span class="tag svc">${esc(x)}</span>`).join("")}
       </div>
     </div>`;
-  }).join("") || `<div class="empty">${ITEMS.length ? "Nothing matches these filters." : "No bids yet. They'll show up here after the first morning check."}</div>`;
+  }).join("") || `<div class="empty">${ITEMS.length ? "No open bids match right now. Tick \"Show closed &amp; no due date\" to see older ones." : "No bids yet. They'll show up here after the first morning check."}</div>`;
 }
 
 function renderCoverage(){

@@ -176,6 +176,25 @@ def run_source(src):
     return [], entry
 
 
+def dead_links(urls):
+    """Returns the set of links that come back 404/410 (page gone)."""
+    urls = sorted({u for u in urls if u.startswith("http")})
+
+    def check(u):
+        try:
+            common.polite_wait(u)
+            r = common.session().head(u, allow_redirects=True, timeout=15)
+            if r.status_code in (400, 403, 405, 501):
+                r = common.session().get(u, allow_redirects=True, timeout=20, stream=True)
+                r.close()
+            return u if r.status_code in (404, 410) else None
+        except Exception:
+            return None  # can't tell (timeout etc): keep it
+
+    with ThreadPoolExecutor(max_workers=CONFIG.get("parallel_sites", 12)) as pool:
+        return {u for u in pool.map(check, urls) if u}
+
+
 def load_json(name, default):
     try:
         return json.loads((DATA / name).read_text(encoding="utf-8"))
@@ -217,6 +236,13 @@ def main():
     except Exception as e:
         log(f"  inbox failed: {e}")
         traceback.print_exc(limit=1)
+
+    # Drop leads whose link is dead (404 / gone)
+    dead = dead_links([i["url"] for i in all_found] + [i["url"] for i in existing.values()])
+    if dead:
+        log(f"  removing {len(dead)} leads with dead links")
+    all_found = [i for i in all_found if i["url"] not in dead]
+    existing = {k: v for k, v in existing.items() if v["url"] not in dead}
 
     for it in all_found:
         old = existing.get(it["id"])
