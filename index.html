@@ -161,7 +161,7 @@ body:not(.is-admin) .admin{display:none!important}
         <option value="Board signal">Early heads-up</option>
         <option value="Web mention">Mentioned online</option>
       </select>
-      <label class="toggle"><input type="checkbox" id="showclosed"> Show closed &amp; no due date</label>
+      <label class="toggle"><input type="checkbox" id="showclosed"> Show closed</label>
     </div>
     <div class="chips" id="svcchips"></div>
     <div id="list"></div>
@@ -219,8 +219,10 @@ const isNew = i => i.first_seen && i.first_seen === LAST_RUN;
 const isOpen = i => !i.due_date || days(i.due_date) >= 0;
 // What shows by default: bids with an upcoming due date, plus recent heads-ups and mentions
 const daysSince = s => s ? -days(s) : 999;
-const isLive = i => i.type === "Open RFP" ? (i.due_date && days(i.due_date) >= 0)
-                                         : daysSince(i.last_seen || i.first_seen) <= 14;
+// Open bids show if the due date is ahead, or if there's no date but the bid is still posted (seen on the latest check)
+const isLive = i => i.type === "Open RFP"
+  ? (i.due_date ? days(i.due_date) >= 0 : (i.last_seen || "") >= LAST_RUN)
+  : daysSince(i.last_seen || i.first_seen) <= 14;
 
 async function load(){
   const bust = "?v=" + Date.now();
@@ -287,7 +289,7 @@ function render(){
         ${(i.services||[]).map(x => `<span class="tag svc">${esc(x)}</span>`).join("")}
       </div>
     </div>`;
-  }).join("") || `<div class="empty">${ITEMS.length ? "No open bids match right now. Tick \"Show closed &amp; no due date\" to see older ones." : "No bids yet. They'll show up here after the first morning check."}</div>`;
+  }).join("") || `<div class="empty">${ITEMS.length ? "No open bids match right now. Tick \"Show closed\" to see older ones." : "No bids yet. They'll show up here after the first morning check."}</div>`;
 }
 
 function renderCoverage(){
