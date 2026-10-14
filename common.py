@@ -275,6 +275,13 @@ def row_context(a):
 NAV_HINT = re.compile(r"nav|menu|header|footer|breadcrumb|sidebar|skip|dropdown|megamenu|quicklinks|social", re.I)
 
 
+def page_base(soup, url):
+    """Respect <base href> so relative links resolve the way the browser does."""
+    from urllib.parse import urljoin
+    b = soup.find("base", href=True)
+    return urljoin(url, b["href"]) if b else url
+
+
 def strip_chrome(soup):
     """Remove menus, headers and footers so we only read the page's real content."""
     for t in soup(["script", "style", "noscript", "nav", "header", "footer", "form", "aside"]):

@@ -32,11 +32,13 @@ def is_yes(v, default=False):
 def scrape_page(src):
     url = src["url"]
     html = common.fetch_rendered(url) if is_yes(src.get("render")) else common.fetch(url)
-    soup = strip_chrome(BeautifulSoup(html, "html.parser"))
+    soup = BeautifulSoup(html, "html.parser")
+    base = common.page_base(soup, url)
+    soup = strip_chrome(soup)
 
     rows, seen = [], set()
     for a in soup.find_all("a", href=True):
-        href = urljoin(url, a["href"]).split("#")[0]
+        href = urljoin(base, a["href"]).split("#")[0]
         if not href.startswith("http") or href in seen:
             continue
         seen.add(href)

@@ -237,6 +237,8 @@ def which(url, table):
 
 def links_of(html, base):
     soup = BeautifulSoup(html, "html.parser")
+    from common import page_base
+    base = page_base(soup, base)
     out = []
     for a in soup.find_all("a", href=True):
         href = urljoin(base, a["href"]).split("#")[0]
