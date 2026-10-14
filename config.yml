@@ -73,7 +73,7 @@ services:
     - exceptional student education
     - exceptional student services
     - students with disabilities
-    - related services
+    - related services providers
     - speech language pathologist
     - speech-language pathologist
     - speech therapy
@@ -176,28 +176,74 @@ signals:
   - lrebg
   - a-g
   - student support services
+  - related services
 
-# Words that mean "this is a procurement / bid"
+# Words that mean "this is an actual bid / procurement" (needed for every lead from a district page)
 rfp_words:
   - rfp
+  - rfq
+  - rfi
+  - rfqual
+  - itb
+  - ifb
+  - itn
   - request for proposal
   - request for proposals
-  - rfq
   - request for quote
+  - request for quotes
   - request for qualifications
-  - rfi
   - request for information
-  - itb
   - invitation to bid
   - invitation for bid
-  - itn
   - invitation to negotiate
   - solicitation
-  - bid
-  - bids
-  - proposal
-  - proposals
-  - lots
+  - solicitations
+  - sealed bids
+  - sealed proposals
+  - proposals due
+  - bids due
+  - bid opening
+  - bid no
+  - bid number
+  - notice to vendors
+  - notice inviting bids
+  - notice inviting proposals
+
+# If the TITLE has one of these, it's not a bid (plans, reports, menus...)
+not_bids:
+  - expenditure plan
+  - expenditure report
+  - lcap
+  - local control and accountability
+  - budget
+  - audit
+  - annual report
+  - newsletter
+  - handbook
+  - calendar
+  - menu
+  - minutes
+  - agenda
+  - report card
+  - policy
+  - policies
+  - staff directory
+  - directory
+  - job description
+  - employment
+  - careers
+  - salary schedule
+  - application
+  - enrollment
+  - registration
+  - food distribution
+  - meal
+  - show submenu
+  - intent to award
+  - notice of award
+  - bid tabulation
+  - bid results
+  - award results
 
 # If these show up and there is no service keyword, skip the item.
 negative:

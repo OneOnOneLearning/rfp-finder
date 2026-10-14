@@ -50,8 +50,12 @@ GENERIC_HOSTS = ("google.com", "facebook.com", "wixsite.com", "weebly.com", "wor
                  "edlioschool.com", "schoolloop.com", "blogspot.com", "instagram.com", "youtube.com",
                  "twitter.com", "x.com", "squarespace.com", "smore.com", "canva.site")
 
-BID_WORDS = re.compile(r"purchas|procure|bids?\b|bidding|solicitation|rfp|rfq|vendor|doing business|business with|"
-                       r"contracting opportunit|bid opportunit|business services", re.I)
+BID_WORDS = re.compile(r"purchas|procure|\bbids?\b|bidding|solicitation|\brfps?\b|\brfqs?\b|vendor|doing business|"
+                       r"business with|contracting opportunit|bid opportunit|public notices", re.I)
+BUSINESS = re.compile(r"business services|business office|fiscal services|business & fiscal|finance", re.I)
+PAGE_BID_RX = re.compile(r"(?i)\b(rfps?|rfqs?|rfis?|itbs?|ifbs?|itns?|request for (proposals?|qualifications|quotes?|information)|"
+                         r"invitation (to|for) bids?|solicitations?|sealed (bids|proposals)|bid (no|number|opening|#)|"
+                         r"notice (inviting|to) (bids|proposals|bidders|vendors))\b")
 STRONG_BID = re.compile(r"current (bids|solicitations)|open (bids|solicitations)|bid opportunit|"
                         r"solicitations|procurement|purchasing", re.I)
 BAD_WORDS = re.compile(r"\bbus\b|transportation|employment|careers?\b|jobs?\b|policy|policies|calendar|"
@@ -159,7 +163,9 @@ def california_websites():
     except Exception as e:
         log(f"CDE directory not available: {e}")
         return {}
-    reader = csv.DictReader(io.StringIO(raw), delimiter="\t")
+    log(f"CDE file: {len(raw)} chars, starts with: {raw[:200]!r}")
+    reader = csv.DictReader(io.StringIO(raw.lstrip("\ufeff")), delimiter="\t")
+    log(f"CDE columns: {reader.fieldnames[:12] if reader.fieldnames else None}")
     direct, domains = {}, {}
     for r in reader:
         nces = (r.get("NCESDist") or "").strip()
@@ -270,55 +276,100 @@ def find_bids(website):
                 res["board_platform"], res["board_url"] = b, href
 
     note_extras(links)
-    cands = {}
+    cands, business = {}, []
     for href, text in links:
         sc = candidate_score(href, text, dom)
-        if sc >= 3:
+        if sc >= 3 and not which(href, PORTALS):
             cands[href] = max(cands.get(href, 0), sc)
+        elif BUSINESS.search(text or "") and base_domain(urlparse(href).netloc) == dom:
+            business.append(href)
 
     if not cands:  # look in the sitemap
         for sm in ("sitemap.xml", "sitemap_index.xml"):
             try:
                 xml = fetch(urljoin(final, "/" + sm), timeout=25)
-                urls = re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", xml)[:3000]
-                for u in urls:
-                    if BID_WORDS.search(urlparse(u).path) and not BAD_WORDS.search(urlparse(u).path):
-                        cands[u] = 3 + (2 if STRONG_BID.search(u.replace("-", " ")) else 0)
+                for u in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", xml)[:3000]:
+                    path = urlparse(u).path
+                    if BID_WORDS.search(path.replace("-", " ")) and not BAD_WORDS.search(path):
+                        cands[u] = 3 + (2 if STRONG_BID.search(path.replace("-", " ")) else 0)
                 if cands:
                     break
             except Exception:
                 continue
 
-    best_url, best_score = "", 0
-    for href, sc in sorted(cands.items(), key=lambda x: -x[1])[:4]:
-        if which(href, PORTALS):
-            res["portal"], res["portal_url"] = res["portal"] or which(href, PORTALS), res["portal_url"] or href
-            if sc > best_score:
-                best_url, best_score = href, sc
-            continue
+    checked, best = set(), ("", 0.0, 0)  # url, score, bid mentions
+
+    def evaluate(href, base_sc, depth):
+        nonlocal best
+        if href in checked or len(checked) >= 10:
+            return
+        checked.add(href)
         try:
             page_html = fetch(href, timeout=25)
-        except Blocked:
-            continue
         except Exception:
-            continue
+            return
         sub_links, page_text = links_of(page_html, href)
         note_extras(sub_links)
-        hits = len(re.findall(r"(?i)\b(rfp|rfq|itb|itn|solicitation|bid|proposal)s?\b", page_text))
-        total = sc + min(hits, 20) / 4
-        if total > best_score:
-            best_url, best_score = href, total
-        # one level deeper: "Current Solicitations" under "Purchasing"
-        for h2, t2 in sub_links:
-            if STRONG_BID.search(t2 or "") and re.search(r"(?i)current|open|active|opportunit", t2 or "") \
-                    and base_domain(urlparse(h2).netloc) == dom:
-                best_url, best_score = h2, total + 2
-                break
+        mentions = len(PAGE_BID_RX.findall(page_text))
+        score = base_sc + min(mentions, 20) / 2
+        if mentions >= 2 and score > best[1]:
+            best = (href, score, mentions)
+        if depth < 1:
+            deeper = [(h, t) for h, t in sub_links if BID_WORDS.search(t or "") and not BAD_WORDS.search(t or "")
+                      and base_domain(urlparse(h).netloc) == dom and h != href]
+            deeper.sort(key=lambda x: -candidate_score(x[0], x[1], dom))
+            for h, t in deeper[:3]:
+                evaluate(h, candidate_score(h, t, dom) + (2 if re.search(r"(?i)current|open|active|opportunit", t) else 0),
+                         depth + 1)
 
-    res["bids_page"] = best_url
-    if not best_url:
-        res["note"] = "bids page not found"
+    for href, sc in sorted(cands.items(), key=lambda x: -x[1])[:5]:
+        evaluate(href, sc, 0)
+    if not best[0]:
+        for href in business[:2]:
+            evaluate(href, 1, 0)
+
+    res["bids_page"] = best[0]
+    if not best[0]:
+        res["note"] = "bids posted on " + res["portal"] if res["portal"] else "bids page not found"
     return res
+
+
+def guess_website(d):
+    """Try common district web addresses (e.g. lodiusd.net, tvusd.k12.ca.us) and check the page is theirs."""
+    import socket
+    name = re.sub(r"(?i)\b(school district|district|schools?|county|public|city)\b", " ", d["name"])
+    words = [w for w in re.findall(r"[a-z]+", name.lower()) if w not in ("of", "the", "and")]
+    if not words:
+        return ""
+    kind = {"unified": "usd", "elementary": "esd", "union": "usd", "high": "uhsd", "joint": ""}
+    core = [w for w in words if w not in kind]
+    if not core:
+        return ""
+    initials, joined = "".join(w[0] for w in core), "".join(core)
+    suffixes = ["usd", "sd", "esd", "uhsd", "hsd", ""] if d["state"] == "CA" else ["schools", "", "sd", "k12"]
+    stems = []
+    for base in (joined, initials if len(initials) >= 2 else None, core[0]):
+        if base:
+            stems += [base + suf for suf in suffixes]
+    tlds = [".org", ".net", ".us", ".k12.ca.us", ".com"] if d["state"] == "CA" else [".org", ".net", ".k12.fl.us", ".com"]
+    hosts = list(dict.fromkeys(f"{st}{t}" for st in stems for t in tlds))
+    must = core[0] if len(core[0]) > 3 else " ".join(core)
+    for host in hosts[:60]:
+        try:
+            socket.getaddrinfo(host, 443)
+        except Exception:
+            continue
+        for url in (f"https://www.{host}/", f"https://{host}/"):
+            try:
+                final, html = fetch_final_url(url, timeout=12)
+            except Exception:
+                continue
+            soup = BeautifulSoup(html[:200000], "html.parser")
+            head = clean((soup.title.get_text(" ") if soup.title else "") + " " + soup.get_text(" ")[:3000]).lower()
+            if must in head and re.search(r"school|district|student|education", head):
+                return homepage_from(final)
+            break
+    return ""
 
 
 # ------------------------------------------------------------ main
@@ -329,7 +380,7 @@ def discover_one(d, overrides):
     if o:
         d["website"] = homepage_from(o.get("website")) or d.get("website", "")
     if not d.get("website"):
-        d["website"] = florida_guess(d)
+        d["website"] = florida_guess(d) or guess_website(d)
         d["website_source"] = "guessed" if d["website"] else ""
     if not d.get("website"):
         d.update(status="no website", bids_page="", note="website not found")
@@ -412,6 +463,8 @@ def main():
         {"updated": NOW_ISO, "states": STATES, "summary": summary, "districts": allds}, indent=1), encoding="utf-8")
     write_sources(allds)
     log("Summary: " + ", ".join(f"{k}: {v}" for k, v in summary.most_common()))
+    import common
+    (DATA / "discover_log.txt").write_text("\n".join(common.LOG_LINES[-3000:]), encoding="utf-8")
 
 
 if __name__ == "__main__":

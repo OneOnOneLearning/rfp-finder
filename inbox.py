@@ -16,7 +16,7 @@ from urllib.parse import parse_qs, urlparse
 
 from bs4 import BeautifulSoup
 
-from common import CONFIG, DATA, TODAY, clean, log, make_item, row_context, score_text
+from common import CONFIG, DATA, TODAY, clean, log, make_item, not_a_bid, row_context, score_text
 
 STATE_NAMES = {"FL": ["florida", " fl "], "CA": ["california", " ca "], "TX": ["texas"], "GA": ["georgia"],
                "NY": ["new york"], "NJ": ["new jersey"], "IL": ["illinois"], "NC": ["north carolina"],
@@ -88,10 +88,12 @@ def items_from_email(msg):
         if re.search(r"(?i)unsubscribe|preferences|privacy|manage alert|log ?in|sign ?in|view in browser", title):
             continue
         seen.add(href)
+        if not_a_bid(title):
+            continue
         ctx = row_context(a)
         text = f"{title} {ctx} {subject}"
         score, kws, services, is_rfp = score_text(text)
-        if score >= CONFIG.get("min_score", 5):
+        if score >= CONFIG.get("min_score", 5) and services:
             kind = "Open RFP" if (is_rfp or portal != "Google Alerts") else "Web mention"
             item = make_item({**src, "state": guess_state(text)}, title, href, text, score, kws, services, kind)
             found.append(item)

@@ -24,8 +24,12 @@ UA = f"OOOL-RFP-Finder/2.0 (+mailto:{CONFIG.get('contact_email', '')})"
 DOC_EXT = (".pdf", ".doc", ".docx")
 
 
+LOG_LINES = []
+
+
 def log(msg):
     print(msg, flush=True)
+    LOG_LINES.append(str(msg))
 
 
 def clean(text):
@@ -178,6 +182,12 @@ _SERVICE_RX = {cat: _rx(terms) for cat, terms in SERVICES.items()}
 _SIGNAL_RX = _rx(CONFIG["signals"])
 _RFP_RX = _rx(CONFIG["rfp_words"])
 _NEG_RX = _rx(CONFIG["negative"])
+_NOTBID_RX = _rx(CONFIG.get("not_bids", []) or ["zzzz"])
+
+
+def not_a_bid(title):
+    """True if a title is clearly a plan/report/menu/etc, not a bid."""
+    return bool(_NOTBID_RX.search((title or "").lower()))
 
 
 def score_text(text):
@@ -224,7 +234,7 @@ def find_due_date(text):
     """Best guess at a due date: a date right after words like 'due' or 'closing'."""
     if not text:
         return None
-    best = None
+    best, latest = None, None
     for m in DATE_RX.finditer(text[:20000]):
         d = parse_date(m.group(1))
         if not d or d.year < TODAY.year - 1 or d.year > TODAY.year + 3:
@@ -233,7 +243,10 @@ def find_due_date(text):
             return d.isoformat()
         if d >= TODAY and (best is None or d < best):
             best = d
-    return best.isoformat() if best else None
+        if latest is None or d > latest:
+            latest = d
+    # no future dates at all usually means the bid already closed
+    return (best or latest).isoformat() if (best or latest) else None
 
 
 def snippet_around(text, terms, width=240):
@@ -253,9 +266,26 @@ def row_context(a):
         node = node.parent
         if node is None:
             break
-        if node.name in ("tr", "li", "article") or (node.name == "div" and len(node.get_text()) > 40):
-            return clean(node.get_text(" "))[:800]
+        if node.name in ("tr", "li", "article", "p") or (node.name == "div" and len(node.get_text()) > 40):
+            txt = clean(node.get_text(" "))
+            return txt[:800] if len(txt) <= 1500 else clean(a.get_text(" "))  # giant blocks are menus
     return clean(a.get_text(" "))
+
+
+NAV_HINT = re.compile(r"nav|menu|header|footer|breadcrumb|sidebar|skip|dropdown|megamenu|quicklinks|social", re.I)
+
+
+def strip_chrome(soup):
+    """Remove menus, headers and footers so we only read the page's real content."""
+    for t in soup(["script", "style", "noscript", "nav", "header", "footer", "form", "aside"]):
+        t.decompose()
+    for t in soup.find_all(True):
+        if t.attrs is None:
+            continue
+        ident = " ".join(t.get("class", []) or []) + " " + (t.get("id") or "") + " " + (t.get("role") or "")
+        if NAV_HINT.search(ident) and t.name in ("div", "ul", "section", "aside"):
+            t.decompose()
+    return soup
 
 
 def make_item(src, title, url, text, score, keywords, services, kind):

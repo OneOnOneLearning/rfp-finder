@@ -19,7 +19,7 @@ from bs4 import BeautifulSoup
 
 import common
 from common import (CONFIG, DATA, DOC_EXT, NOW_ISO, ROOT, TODAY, Blocked, clean, close_browser,
-                    doc_text, log, make_item, row_context, score_text)
+                    doc_text, log, make_item, not_a_bid, row_context, score_text, strip_chrome)
 
 MIN = CONFIG.get("min_score", 5)
 
@@ -32,9 +32,7 @@ def is_yes(v, default=False):
 def scrape_page(src):
     url = src["url"]
     html = common.fetch_rendered(url) if is_yes(src.get("render")) else common.fetch(url)
-    soup = BeautifulSoup(html, "html.parser")
-    for t in soup(["script", "style", "noscript"]):
-        t.decompose()
+    soup = strip_chrome(BeautifulSoup(html, "html.parser"))
 
     rows, seen = [], set()
     for a in soup.find_all("a", href=True):
@@ -46,6 +44,8 @@ def scrape_page(src):
         ctx = row_context(a)
         if len(title) < 30 and len(ctx) > len(title):
             title = ctx[:160]  # short links like "RFP 27-014" get the whole row as the title
+        if not_a_bid(title) or re.search(r"(?i)meet\.google|zoom\.us|teams\.microsoft|mailto:|facebook|twitter|instagram", href):
+            continue
         text = f"{title} {ctx}"
         score, kws, services, is_rfp = score_text(text)
         is_doc = href.lower().split("?")[0].endswith(DOC_EXT)
@@ -69,9 +69,9 @@ def scrape_page(src):
                 r.update(score=s2, kws=k2, services=sv2, is_rfp=r["is_rfp"] or rfp2,
                          text=r["text"] + " " + body[:6000])
 
-    return [make_item(src, r["title"], r["href"], r["text"], r["score"], r["kws"], r["services"],
-                      "Open RFP" if r["is_rfp"] else "Web mention")
-            for r in rows if r["score"] >= MIN and len(r["title"]) > 3]
+    # From a district/portal page we only keep real bids: bid words + one of our services
+    return [make_item(src, r["title"], r["href"], r["text"], r["score"], r["kws"], r["services"], "Open RFP")
+            for r in rows if r["score"] >= MIN and r["is_rfp"] and r["services"] and len(r["title"]) > 3]
 
 
 def scrape_boarddocs(src):
