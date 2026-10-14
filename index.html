@@ -109,7 +109,7 @@ body:not(.is-admin) .admin{display:none!important}
   <header>
     <div>
       <h1>RFP Finder</h1>
-      <div class="updated" id="updated">Loading...</div>
+      <div class="updated" id="updated"></div>
     </div>
     <div class="hdr-right">
       <button class="iconbtn" id="themebtn" title="Switch light / dark" aria-label="Switch light or dark mode"></button>
@@ -199,6 +199,7 @@ body:not(.is-admin) .admin{display:none!important}
 
 <script src="dashboard-config.js"></script>
 <script src="https://alcdn.msauth.net/browser/2.38.3/js/msal-browser.min.js"></script>
+<script>window.msal || document.write('<script src="https://cdn.jsdelivr.net/npm/@azure/msal-browser@2.38.3/lib/msal-browser.min.js"><\/script>')</script>
 <script>
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -371,11 +372,24 @@ function start(account){
             redirectUri: location.origin + location.pathname },
     cache: { cacheLocation: "localStorage" }
   });
-  try { await pca.handleRedirectPromise(); } catch(e) { $("#gatemsg").textContent = "Sign-in didn't work. Try again."; }
-  const acct = pca.getAllAccounts()[0];
+  const showErr = (e) => { console.error(e); $("#gatemsg").textContent = "Sign-in error: " + (e && (e.errorMessage || e.message) || e); };
+  let resp = null;
+  try {
+    if (pca.initialize) await pca.initialize();
+    resp = await pca.handleRedirectPromise();
+  } catch(e) { showErr(e); }
+  const acct = (resp && resp.account) || pca.getAllAccounts()[0];
   if (acct){ pca.setActiveAccount(acct); start(acct); }
   else { $("#gate").hidden = false; }
-  $("#signin").onclick = () => pca.loginRedirect({ scopes: ["openid", "profile"] });
+  $("#signin").onclick = async () => {
+    $("#gatemsg").textContent = "Opening Microsoft sign-in...";
+    try {
+      // clear a stuck sign-in left over from an earlier try
+      Object.keys(sessionStorage).filter(k => k.includes("interaction.status")).forEach(k => sessionStorage.removeItem(k));
+    } catch(e) {}
+    try { await pca.loginRedirect({ scopes: ["openid", "profile"], prompt: "select_account" }); }
+    catch(e) { showErr(e); }
+  };
   $("#signout").onclick = () => pca.logoutRedirect({ account: pca.getActiveAccount() });
 })();
 </script>
