@@ -1,0 +1,59 @@
+name: RFP Finder (daily)
+
+on:
+  schedule:
+    # Weekdays at 10:52 UTC = 6:52 AM Eastern (5:52 AM in winter)
+    - cron: "52 10 * * 1-5"
+  workflow_dispatch: # "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rfp-finder
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install libraries
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: First run only - find every district
+        run: |
+          if [ ! -f data/districts.json ]; then python discover.py; fi
+
+      - name: Look for RFPs
+        run: python scraper.py
+
+      - name: Save results to the dashboard
+        run: |
+          git config user.name "rfp-finder-bot"
+          git config user.email "rfp-finder-bot@users.noreply.github.com"
+          git add data/ sources_auto.csv
+          git diff --cached --quiet || git commit -m "Daily RFP update $(date -u +%F)"
+          git pull --rebase --autostash || true
+          git push
+
+      - name: Email new leads
+        run: python notify.py

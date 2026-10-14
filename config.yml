@@ -1,0 +1,223 @@
+# =========================================================
+#  OOOL RFP Finder - settings
+#  You can edit this file right on GitHub (pencil icon).
+# =========================================================
+
+# Which states to cover. Add more any time, e.g. [FL, CA, TX, GA]
+states: [FL, CA]
+
+# Include charter school organizations too? (CA has 1,000+ of them)
+include_charters: false
+
+# Board meeting agendas on BoardDocs (early warning before RFPs).
+# BoardDocs asks bots not to visit (robots.txt). Leave false unless your VP says OK.
+check_boarddocs: false
+
+# Shown to website owners in their logs so they know who is visiting.
+contact_email: "msuarez@oneononelearning.com"
+
+# Be polite: seconds to wait between requests to the same website.
+delay_seconds: 2
+
+# How many websites to check at the same time (different sites only).
+parallel_sites: 12
+
+# Respect each website's robots.txt rules (recommended: keep true).
+respect_robots_txt: true
+
+# How long to keep old items on the dashboard (days since last seen).
+keep_days: 120
+
+# Max bid documents (PDF/Word) to open per source each run.
+max_docs_per_source: 15
+
+# Read the bot Gmail inbox for portal alerts and Google Alerts emails.
+inbox:
+  enabled: true
+  folder: INBOX
+  first_run_days: 14   # how far back to look the very first time
+
+# ---------------------------------------------------------
+#  KEYWORDS
+#  Each service category word = 5 points.
+#  signals = related programs/funding = 2 points.
+#  An item needs min_score points to show up.
+# ---------------------------------------------------------
+min_score: 5
+
+services:
+  Tutoring:
+    - tutoring
+    - tutor
+    - tutors
+    - tutorial services
+    - high-dosage
+    - high dosage
+    - high-impact tutoring
+    - academic intervention
+    - reading intervention
+    - math intervention
+    - literacy intervention
+    - intervention services
+    - supplemental educational services
+    - supplemental academic instruction
+    - academic support services
+    - learning recovery
+    - homework help
+    - test prep
+    - small group instruction
+    - virtual tutoring
+    - online tutoring
+  Special Ed & Therapy:
+    - special education services
+    - exceptional student education
+    - exceptional student services
+    - students with disabilities
+    - related services
+    - speech language pathologist
+    - speech-language pathologist
+    - speech therapy
+    - occupational therapist
+    - occupational therapy
+    - physical therapist
+    - physical therapy
+    - behavior analyst
+    - bcba
+    - registered behavior technician
+    - applied behavior analysis
+    - school psychologist
+    - psychoeducational
+    - therapeutic services
+    - one-on-one aide
+    - one-to-one aide
+    - nursing services
+    - mental health services
+  Paras & Staffing:
+    - paraprofessional
+    - paraprofessionals
+    - para-professional
+    - paraeducator
+    - instructional assistant
+    - instructional aide
+    - teacher aide
+    - teacher assistant
+    - classroom aide
+    - educational staffing
+    - staffing services
+    - temporary staffing
+    - contracted personnel
+    - contract staffing
+    - substitute teachers
+    - substitute teacher services
+  ESOL & English Learners:
+    - esol
+    - english learner
+    - english learners
+    - english language learner
+    - english language learners
+    - ell students
+    - ell services
+    - english language development
+    - bilingual services
+    - newcomer
+    - dual language
+  After School & Summer:
+    - after school program
+    - after-school program
+    - afterschool program
+    - after school programs
+    - expanded learning
+    - expanded learning opportunities
+    - elo-p
+    - extended learning
+    - extended day
+    - summer school
+    - summer learning
+    - summer program
+    - summer enrichment
+    - 21st century community learning centers
+    - 21st cclc
+  Teachers & PD:
+    - certified teachers
+    - certified teacher
+    - florida certified teacher
+    - credentialed teachers
+    - contracted teachers
+    - teacher staffing
+    - professional development services
+    - professional learning services
+    - instructional coaching
+    - teacher coaching
+    - teacher training
+    - virtual training
+
+signals:
+  - title i
+  - title 1
+  - title iii
+  - esser
+  - educational services
+  - educational, therapeutic
+  - therapeutic
+  - consulting and evaluating
+  - iep
+  - individual education plan
+  - homeless
+  - mckinney-vento
+  - credit recovery
+  - enrichment
+  - mentoring
+  - wraparound
+  - grant writers
+  - program evaluators
+  - acceleration
+  - mtss
+  - new worlds reading
+  - lrebg
+  - a-g
+  - student support services
+
+# Words that mean "this is a procurement / bid"
+rfp_words:
+  - rfp
+  - request for proposal
+  - request for proposals
+  - rfq
+  - request for quote
+  - request for qualifications
+  - rfi
+  - request for information
+  - itb
+  - invitation to bid
+  - invitation for bid
+  - itn
+  - invitation to negotiate
+  - solicitation
+  - bid
+  - bids
+  - proposal
+  - proposals
+  - lots
+
+# If these show up and there is no service keyword, skip the item.
+negative:
+  - roofing
+  - hvac
+  - asphalt
+  - paving
+  - plumbing
+  - construction
+  - electrical
+  - fencing
+  - generator
+  - custodial
+  - janitorial
+  - produce
+  - food service
+  - transportation
+  - e-rate
+  - furniture
+  - fuel
+  - landscaping
+  - uniforms
+  - pest control

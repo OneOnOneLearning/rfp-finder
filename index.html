@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RFP Finder</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f7f9; --card:#ffffff; --ink:#15181d; --ink2:#4a5260; --muted:#7b8494; --line:#e4e7ec;
+  --accent:#1f5eff; --rfp:#0b7a4b; --rfp-bg:#e5f5ed; --board:#8a5a00; --board-bg:#fbf0d9;
+  --web:#3b4fc4; --web-bg:#e8ecfd; --warn:#b42318; --warn-bg:#fdeceb; --soon:#9a5b00; --soon-bg:#fff4e0;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0f1115; --card:#181b21; --ink:#eef0f3; --ink2:#b7bdc8; --muted:#8a92a0; --line:#2a2f38;
+  --accent:#7aa2ff; --rfp:#5fd39c; --rfp-bg:#123224; --board:#f0c060; --board-bg:#33270e;
+  --web:#9fb0ff; --web-bg:#1d2447; --warn:#ff8a80; --warn-bg:#3a1714; --soon:#ffc56b; --soon-bg:#35270f;
+}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 Inter,system-ui,Segoe UI,Arial,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:24px 16px 60px}
+header{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px;margin-bottom:18px}
+h1{margin:0;font-size:24px;letter-spacing:-.02em}
+.updated{color:var(--muted);font-size:13px}
+.tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:18px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.tile .n{font-size:28px;font-weight:700;letter-spacing:-.02em}
+.tile .l{color:var(--ink2);font-size:13px}
+.tabs{display:flex;gap:6px;margin-bottom:12px}
+.tab{border:1px solid var(--line);background:var(--card);color:var(--ink2);padding:7px 14px;border-radius:999px;cursor:pointer;font:inherit;font-size:14px}
+.tab.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px;align-items:center}
+.filters input[type=search],.filters select{font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+.filters input[type=search]{flex:1;min-width:200px}
+.filters label{font-size:14px;color:var(--ink2);display:flex;gap:6px;align-items:center}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:10px}
+.top{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:4px}
+.badge{font-size:12px;font-weight:600;padding:2px 8px;border-radius:999px}
+.b-rfp{color:var(--rfp);background:var(--rfp-bg)} .b-board{color:var(--board);background:var(--board-bg)} .b-web{color:var(--web);background:var(--web-bg)}
+.b-new{color:var(--accent);border:1px solid var(--accent)}
+.b-due{color:var(--ink2);background:var(--bg)} .b-soon{color:var(--soon);background:var(--soon-bg)} .b-past{color:var(--warn);background:var(--warn-bg)}
+.title{font-weight:600;color:var(--ink);text-decoration:none;font-size:16px}
+.title:hover{text-decoration:underline}
+.meta{color:var(--muted);font-size:13px;margin:2px 0 6px}
+.snip{color:var(--ink2);font-size:14px}
+.kw{display:inline-block;font-size:12px;color:var(--ink2);border:1px solid var(--line);border-radius:6px;padding:1px 6px;margin:6px 4px 0 0}
+.empty{text-align:center;color:var(--muted);padding:40px 10px}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);font-size:14px;vertical-align:top}
+th{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+.ok{color:var(--rfp)} .err{color:var(--warn)} .blk{color:var(--soon)}
+.tablewrap{overflow-x:auto}
+.hint{color:var(--ink2);font-size:14px;margin:0 0 12px}
+.svc{font-size:12px;font-weight:600;color:var(--ink2)}
+@media (max-width:700px){.tiles{grid-template-columns:repeat(2,1fr)} h1{font-size:20px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>RFP Finder</h1>
+    <span class="updated" id="updated">Loading...</span>
+  </header>
+
+  <div class="tiles">
+    <div class="tile"><div class="n" id="t-new">-</div><div class="l">New today</div></div>
+    <div class="tile"><div class="n" id="t-rfp">-</div><div class="l">Open RFPs</div></div>
+    <div class="tile"><div class="n" id="t-soon">-</div><div class="l">Due in next 14 days</div></div>
+    <div class="tile"><div class="n" id="t-src">-</div><div class="l">Districts covered</div></div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab on" data-tab="leads">Leads</button>
+    <button class="tab" data-tab="coverage">Coverage</button>
+    <button class="tab" data-tab="sources">Sources</button>
+  </div>
+
+  <section id="leads">
+    <div class="filters">
+      <input type="search" id="q" placeholder="Search title, district, keyword...">
+      <select id="state"><option value="">All states</option></select>
+      <select id="service"><option value="">All services</option></select>
+      <select id="type">
+        <option value="">All types</option>
+        <option>Open RFP</option><option>Board signal</option><option>Web mention</option>
+      </select>
+      <label><input type="checkbox" id="newonly"> New only</label>
+      <label><input type="checkbox" id="hidepast" checked> Hide past due</label>
+    </div>
+    <div id="list"></div>
+  </section>
+
+  <section id="coverage" hidden>
+    <p class="hint">Every district the bot knows about. "Found" means it checks their bids page every weekday. For anything else, add the right link to <b>district_overrides.csv</b> on GitHub.</p>
+    <div class="filters">
+      <input type="search" id="cq" placeholder="Search district or county...">
+      <select id="cstate"><option value="">All states</option></select>
+      <select id="cstatus"><option value="">All statuses</option></select>
+    </div>
+    <div class="tablewrap"><table>
+      <thead><tr><th>District</th><th>State</th><th>Students</th><th>Status</th><th>Bids page</th><th>Bid portal</th><th>Board meetings</th></tr></thead>
+      <tbody id="covrows"></tbody>
+    </table></div>
+    <p class="hint" id="covmore"></p>
+  </section>
+
+  <section id="sources" hidden>
+    <div class="tablewrap"><table>
+      <thead><tr><th>Source</th><th>State</th><th>Status</th><th>Found</th><th>Note</th></tr></thead>
+      <tbody id="srcrows"></tbody>
+    </table></div>
+  </section>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const today = new Date(); today.setHours(0,0,0,0);
+const iso = d => d.toISOString().slice(0,10);
+const todayISO = iso(new Date(today.getTime() - today.getTimezoneOffset()*60000));
+const days = s => Math.round((new Date(s + "T00:00:00") - today) / 86400000);
+let ITEMS = [], LAST_RUN = "", DISTRICTS = [];
+
+async function load(){
+  const bust = "?v=" + Date.now();
+  const [r, s, dz] = await Promise.all([
+    fetch("data/rfps.json" + bust).then(x => x.json()).catch(() => ({items:[]})),
+    fetch("data/status.json" + bust).then(x => x.json()).catch(() => ({sources:[]})),
+    fetch("data/districts.json" + bust).then(x => x.json()).catch(() => ({districts:[]}))
+  ]);
+  DISTRICTS = dz.districts || [];
+  ITEMS = r.items || [];
+  LAST_RUN = (r.updated || "").slice(0,10);
+  $("#updated").textContent = r.updated ? "Last checked " + new Date(r.updated).toLocaleString() : "No runs yet";
+
+  const states = [...new Set(ITEMS.map(i => i.state).filter(Boolean))].sort();
+  $("#state").innerHTML = '<option value="">All states</option>' + states.map(s => `<option>${esc(s)}</option>`).join("");
+
+  const live = ITEMS.filter(i => !i.due_date || days(i.due_date) >= 0);
+  $("#t-new").textContent = ITEMS.filter(isNew).length;
+  $("#t-rfp").textContent = live.filter(i => i.type === "Open RFP").length;
+  $("#t-soon").textContent = live.filter(i => i.due_date && days(i.due_date) <= 14).length;
+  const src = s.sources || [];
+  const covered = DISTRICTS.filter(d => d.status === "found").length;
+  $("#t-src").textContent = DISTRICTS.length ? `${covered} / ${DISTRICTS.length}` : src.length;
+
+  const svcs = [...new Set(ITEMS.flatMap(i => i.services || []))].sort();
+  $("#service").innerHTML = '<option value="">All services</option>' + svcs.map(x => `<option>${esc(x)}</option>`).join("");
+  const dst = [...new Set(DISTRICTS.map(d => d.state))].sort();
+  $("#cstate").innerHTML = '<option value="">All states</option>' + dst.map(x => `<option>${esc(x)}</option>`).join("");
+  const sts = [...new Set(DISTRICTS.map(d => d.status))].sort();
+  $("#cstatus").innerHTML = '<option value="">All statuses</option>' + sts.map(x => `<option>${esc(x)}</option>`).join("");
+  renderCoverage();
+
+  $("#srcrows").innerHTML = src.map(x => `<tr>
+      <td><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a></td>
+      <td>${esc(x.state)}</td>
+      <td class="${x.status==="ok"?"ok":x.status==="blocked"?"blk":"err"}">${x.status==="ok"?"OK":x.status==="blocked"?"Skipped (robots.txt)":x.status==="off"?"Not set up":"Error"}</td>
+      <td>${x.found ?? 0}</td>
+      <td>${esc(x.message)}</td></tr>`).join("") || '<tr><td colspan="5">No runs yet.</td></tr>';
+  render();
+}
+
+const isNew = i => i.first_seen && i.first_seen === LAST_RUN;
+
+function render(){
+  const q = $("#q").value.trim().toLowerCase(), st = $("#state").value, ty = $("#type").value, sv = $("#service").value;
+  const newOnly = $("#newonly").checked, hidePast = $("#hidepast").checked;
+  const rows = ITEMS.filter(i =>
+    (!st || i.state === st) && (!ty || i.type === ty) && (!sv || (i.services||[]).includes(sv)) && (!newOnly || isNew(i)) &&
+    (!hidePast || !i.due_date || days(i.due_date) >= 0) &&
+    (!q || [i.title, i.source, i.snippet, (i.keywords||[]).join(" ")].join(" ").toLowerCase().includes(q))
+  ).sort((a,b) => (isNew(b)-isNew(a)) || ((a.due_date||"9999") < (b.due_date||"9999") ? -1 : 1) || b.score - a.score);
+
+  $("#list").innerHTML = rows.map(i => {
+    const tcls = i.type === "Open RFP" ? "b-rfp" : i.type === "Board signal" ? "b-board" : "b-web";
+    let due = "";
+    if (i.due_date){
+      const d = days(i.due_date);
+      const cls = d < 0 ? "b-past" : d <= 7 ? "b-soon" : "b-due";
+      const txt = d < 0 ? "Past due" : d === 0 ? "Due today" : `Due ${i.due_date} (${d}d)`;
+      due = `<span class="badge ${cls}">${txt}</span>`;
+    }
+    const when = i.meeting_date ? ` &middot; meeting ${esc(i.meeting_date)}` : "";
+    return `<div class="card">
+      <div class="top"><span class="badge ${tcls}">${esc(i.type)}</span>${isNew(i)?'<span class="badge b-new">New</span>':""}${due}</div>
+      <a class="title" href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+      <div class="meta">${esc(i.state)} &middot; ${esc(i.source)}${when} &middot; first seen ${esc(i.first_seen)}</div>
+      ${(i.services||[]).length ? `<div class="svc">${(i.services).map(esc).join(" &middot; ")}</div>` : ""}
+      <div class="snip">${esc(i.snippet)}</div>
+      <div>${(i.keywords||[]).map(k => `<span class="kw">${esc(k)}</span>`).join("")}</div>
+    </div>`;
+  }).join("") || '<div class="empty">Nothing matches right now. New leads show up here after each daily run.</div>';
+}
+
+["#q","#state","#type","#service","#newonly","#hidepast"].forEach(s => $(s).addEventListener("input", render));
+["#cq","#cstate","#cstatus"].forEach(s => $(s).addEventListener("input", renderCoverage));
+
+function renderCoverage(){
+  const q = $("#cq").value.trim().toLowerCase(), st = $("#cstate").value, ss = $("#cstatus").value;
+  const rows = DISTRICTS.filter(d => (!st || d.state === st) && (!ss || d.status === ss) &&
+    (!q || `${d.name} ${d.county} ${d.city}`.toLowerCase().includes(q)));
+  const link = (u, t) => u ? `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a>` : '<span class="err">missing</span>';
+  const shown = rows.slice(0, 400);
+  $("#covrows").innerHTML = shown.map(d => `<tr>
+    <td>${d.website ? `<a href="${esc(d.website)}" target="_blank" rel="noopener">${esc(d.name)}</a>` : esc(d.name)}<div class="meta">${esc(d.county)}</div></td>
+    <td>${esc(d.state)}</td>
+    <td>${(d.students||0).toLocaleString()}</td>
+    <td class="${d.status==="found"?"ok":d.status==="portal only"?"blk":"err"}">${esc(d.status)}${d.note?`<div class="meta">${esc(d.note)}</div>`:""}</td>
+    <td>${link(d.bids_page, "open")}</td>
+    <td>${d.portal ? link(d.portal_url, d.portal) : ""}</td>
+    <td>${d.board_platform ? link(d.board_url, d.board_platform) : ""}</td></tr>`).join("")
+    || '<tr><td colspan="7">The district list fills in after the first run.</td></tr>';
+  $("#covmore").textContent = rows.length > shown.length ? `Showing ${shown.length} of ${rows.length}. Use search to narrow it down.` : "";
+}
+document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => {
+  document.querySelectorAll(".tab").forEach(x => x.classList.toggle("on", x === b));
+  ["leads","coverage","sources"].forEach(t => $("#" + t).hidden = b.dataset.tab !== t);
+}));
+load();
+</script>
+</body>
+</html>

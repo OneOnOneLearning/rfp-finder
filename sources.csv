@@ -1,0 +1,4 @@
+active,name,state,type,url,render,extra,notes
+yes,Florida Vendor Bid System (state agencies),FL,page,https://vendor.myfloridamarketplace.com/search/bids,yes,,State-level bids; JavaScript site
+yes,Cal eProcure (state of California),CA,page,https://caleprocure.ca.gov/pages/Events-BS3/event-search.aspx,yes,,State-level bids; JavaScript site
+no,Google Alert 1,FL,rss,PASTE_GOOGLE_ALERT_RSS_LINK_HERE,no,,Optional. Google Alert emails to the bot Gmail already get read automatically
