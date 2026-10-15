@@ -1,1 +1,84 @@
-{"updated": "2026-10-14T16:11:11+00:00", "items": []}
+{
+ "updated": "2026-10-15T15:10:38+00:00",
+ "items": [
+  {
+   "id": "0cafe6ad7ca9a582",
+   "title": "RFQ-P 730 Licensed Nursing Services",
+   "url": "https://www.oxnardunion.org/departments/business-services/purchasing-warehousing/rfp-details/~board/rfp/post/rfq-p-730-licensed-nursing-services",
+   "source": "Oxnard Union High School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "Special Ed & Therapy"
+   ],
+   "keywords": [
+    "nursing services"
+   ],
+   "snippet": "RFQ-P 730 Licensed Nursing Services RFQ-P 730 Licensed Nursing Services...",
+   "due_date": null,
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "a5d7a443675241fc",
+   "title": "RFP #26.02 Special Education Services District Wide - RFP Documents",
+   "url": "https://drive.google.com/file/d/1yqG_SVLXFWAp9GwS6GgJv4XeQcKN5MWK/view?usp=sharing",
+   "source": "Inglewood Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "Special Ed & Therapy"
+   ],
+   "keywords": [
+    "special education services"
+   ],
+   "snippet": "RFP #26.02 Special Education Services District Wide - RFP Documents RFP #26.02 Special Education Services District Wide - RFP Documents...",
+   "due_date": null,
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "43997f7bd046e884",
+   "title": "RFP #25.110 Extended Learning Opportunities Program (ELOP)",
+   "url": "https://drive.google.com/file/d/1l_BoG0wadhpJ9hkFTLNOPzyRtsOhDstK/view?usp=sharing",
+   "source": "Inglewood Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "After School & Summer"
+   ],
+   "keywords": [
+    "extended learning"
+   ],
+   "snippet": "RFP #25.110 Extended Learning Opportunities Program (ELOP) RFP #25.110 Extended Learning Opportunities Program (ELOP)...",
+   "due_date": null,
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "9c0fd04f58ae85f6",
+   "title": "RFP Requests For Proposals Requests For Proposals Request for Proposals (RFP)Inclusive Instructional Practices, Co-Teaching Implementation Support, Professional",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/0e83b732-b1b9-4555-a3a9-d83851941093/RBJUHSD%20Coteaching%20Rfp%20Three%20Year%20Plan.pdf",
+   "source": "Red Bluff Joint Union High School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 15,
+   "services": [
+    "Special Ed & Therapy",
+    "Paras & Staffing"
+   ],
+   "keywords": [
+    "paraprofessional",
+    "students with disabilities",
+    "mtss"
+   ],
+   "snippet": "...and modification systems; \u2022 High school scheduling considerations; \u2022 Effective paraprofessional utilization; \u2022 MTSS alignment; \u2022 Special education and 504 compliance considerations. Professional development shall include: \u2022 In-person train...",
+   "due_date": "2029-06-30",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  }
+ ]
+}

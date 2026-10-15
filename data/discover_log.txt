@@ -1,0 +1,33 @@
+  NCES SY2425/1 not available ({'code': 400, 'message': 'Failed to execute query.', 'details': []})
+  NCES SY2425/0 not available ({'code': 404, 'message': 'Layer not found', 'details': []})
+  NCES SY2324/1 not available ({'code': 400, 'message': 'Failed to execute query.', 'details': []})
+  NCES SY2324/0 not available ({'code': 404, 'message': 'Layer not found', 'details': []})
+NCES SY2223: 1005 agencies in FL, CA
+998 districts to cover
+Wikidata: 4318 district websites
+CDE file: 8795605 chars, starts with: 'CDSCode\tNCESDist\tNCESSchool\tStatusType\tCounty\tDistrict\tSchool\tStreet\tStreetAbr\tCity\tZip\tState\tMailStreet\tMailStrAbr\tMailCity\tMailZip\tMailState\tPhone\tExt\tFaxNumber\tWebSite\tOpenDate\tClosedDate\tCharter\tC'
+CDE columns: ['CDSCode', 'NCESDist', 'NCESSchool', 'StatusType', 'County', 'District', 'School', 'Street', 'StreetAbr', 'City', 'Zip', 'State']
+CDE: 0 California district websites
+Checking 998 districts (0 up to date)
+  50/998
+  100/998
+  150/998
+  200/998
+  250/998
+  300/998
+  350/998
+  400/998
+  450/998
+  500/998
+  550/998
+  600/998
+  650/998
+  700/998
+  750/998
+  800/998
+  850/998
+  900/998
+  950/998
+  998/998
+sources_auto.csv: 309 sources
+Summary: no bids page: 439, found: 262, no website: 239, error: 46, portal only: 7, blocked: 5

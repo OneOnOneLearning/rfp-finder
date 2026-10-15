@@ -1,6 +1,354 @@
 {
- "updated": "2026-10-14T16:11:11+00:00",
+ "updated": "2026-10-15T15:10:38+00:00",
  "items": [
+  {
+   "id": "9c0fd04f58ae85f6",
+   "title": "RFP Requests For Proposals Requests For Proposals Request for Proposals (RFP)Inclusive Instructional Practices, Co-Teaching Implementation Support, Professional",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/0e83b732-b1b9-4555-a3a9-d83851941093/RBJUHSD%20Coteaching%20Rfp%20Three%20Year%20Plan.pdf",
+   "source": "Red Bluff Joint Union High School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 15,
+   "services": [
+    "Special Ed & Therapy",
+    "Paras & Staffing"
+   ],
+   "keywords": [
+    "paraprofessional",
+    "students with disabilities",
+    "mtss"
+   ],
+   "snippet": "...and modification systems; \u2022 High school scheduling considerations; \u2022 Effective paraprofessional utilization; \u2022 MTSS alignment; \u2022 Special education and 504 compliance considerations. Professional development shall include: \u2022 In-person train...",
+   "due_date": "2029-06-30",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "0cafe6ad7ca9a582",
+   "title": "RFQ-P 730 Licensed Nursing Services",
+   "url": "https://www.oxnardunion.org/departments/business-services/purchasing-warehousing/rfp-details/~board/rfp/post/rfq-p-730-licensed-nursing-services",
+   "source": "Oxnard Union High School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "Special Ed & Therapy"
+   ],
+   "keywords": [
+    "nursing services"
+   ],
+   "snippet": "RFQ-P 730 Licensed Nursing Services RFQ-P 730 Licensed Nursing Services...",
+   "due_date": null,
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "a5d7a443675241fc",
+   "title": "RFP #26.02 Special Education Services District Wide - RFP Documents",
+   "url": "https://drive.google.com/file/d/1yqG_SVLXFWAp9GwS6GgJv4XeQcKN5MWK/view?usp=sharing",
+   "source": "Inglewood Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "Special Ed & Therapy"
+   ],
+   "keywords": [
+    "special education services"
+   ],
+   "snippet": "RFP #26.02 Special Education Services District Wide - RFP Documents RFP #26.02 Special Education Services District Wide - RFP Documents...",
+   "due_date": null,
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "43997f7bd046e884",
+   "title": "RFP #25.110 Extended Learning Opportunities Program (ELOP)",
+   "url": "https://drive.google.com/file/d/1l_BoG0wadhpJ9hkFTLNOPzyRtsOhDstK/view?usp=sharing",
+   "source": "Inglewood Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "After School & Summer"
+   ],
+   "keywords": [
+    "extended learning"
+   ],
+   "snippet": "RFP #25.110 Extended Learning Opportunities Program (ELOP) RFP #25.110 Extended Learning Opportunities Program (ELOP)...",
+   "due_date": null,
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "96e11177d05a2985",
+   "title": "Final - RFP No. 1328-25_26 Enrichment Programming and Staffing Services for AUSD Adventures Extended Day Program",
+   "url": "https://4.files.edl.io/93ab/12/15/25/152256-40518807-34ef-4356-824f-778126869196.pdf",
+   "source": "Alhambra Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 15,
+   "services": [
+    "Paras & Staffing",
+    "After School & Summer"
+   ],
+   "keywords": [
+    "extended day",
+    "staffing services",
+    "enrichment"
+   ],
+   "snippet": "...No. 1328-25_26 Enrichment Programming and Staffing Services for AUSD Adventures Extended Day Program Final - RFP No. 1328-25_26 Enrichment Programming and Staffing Services for AUSD Adventures Extended Day Program...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "e551a2c65d5ca7c1",
+   "title": "RFP 2506 Expanded Learning Program \u2013 Culinary Arts Addendum 1",
+   "url": "https://www.ggusd.us/media/12039/rfp-2506-addendum.pdf",
+   "source": "Garden Grove Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "After School & Summer"
+   ],
+   "keywords": [
+    "expanded learning"
+   ],
+   "snippet": "RFP 2506 Expanded Learning Program \u2013 Culinary Arts Addendum 1 RFP 2506 Expanded Learning Program \u2013 Culinary Arts Addendum 1...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "df50e2b9ec072532",
+   "title": "RFP 2506 Expanded Learning Program \u2013 Culinary Arts",
+   "url": "https://www.ggusd.us/media/11936/rfp-2506-expanded-learning-programs-culinary-arts.pdf",
+   "source": "Garden Grove Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "After School & Summer"
+   ],
+   "keywords": [
+    "expanded learning"
+   ],
+   "snippet": "RFP 2506 Expanded Learning Program \u2013 Culinary Arts RFP 2506 Expanded Learning Program \u2013 Culinary Arts...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "2d48e6d6a750fd0a",
+   "title": "RFP 2502 Expanded Learning Programs \u2013 Modern Dance Addendum 1",
+   "url": "https://www.ggusd.us/media/11184/rfp-2502-addendum-no-1.pdf",
+   "source": "Garden Grove Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "After School & Summer"
+   ],
+   "keywords": [
+    "expanded learning"
+   ],
+   "snippet": "RFP 2502 Expanded Learning Programs \u2013 Modern Dance Addendum 1 RFP 2502 Expanded Learning Programs \u2013 Modern Dance Addendum 1...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "5e49b6589f3651c5",
+   "title": "RFP 2502 Expanded Learning Programs \u2013 Modern Dance",
+   "url": "https://www.ggusd.us/media/11117/rfp-2502-expanded-learning-programs-modern-dance.pdf",
+   "source": "Garden Grove Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "After School & Summer"
+   ],
+   "keywords": [
+    "expanded learning"
+   ],
+   "snippet": "RFP 2502 Expanded Learning Programs \u2013 Modern Dance RFP 2502 Expanded Learning Programs \u2013 Modern Dance...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "663c961b9cf3a411",
+   "title": "NOTICE TO BIDDERS \u2013 Request for Proposals for Special Education Services (RFP No. 2526-1)",
+   "url": "https://www.centralunified.org/fs/resource-manager/view/e2f12e37-a20d-4a8e-a4d5-f405cc7f6fc4",
+   "source": "Central Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "Special Ed & Therapy"
+   ],
+   "keywords": [
+    "special education services"
+   ],
+   "snippet": "NOTICE TO BIDDERS \u2013 Request for Proposals for Special Education Services (RFP No. 2526-1) NOTICE TO BIDDERS \u2013 Request for Proposals for Special Education Services (RFP No. 2526-1)...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "id": "b4a07e101e644c29",
+   "title": "Request for Proposal for Special Education Services 2526-1",
+   "url": "https://www.centralunified.org/fs/resource-manager/view/d1345fc8-c913-4560-9c3b-0e85b1fe9386",
+   "source": "Central Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "Special Ed & Therapy"
+   ],
+   "keywords": [
+    "special education services"
+   ],
+   "snippet": "Request for Proposal for Special Education Services 2526-1 Request for Proposal for Special Education Services 2526-1...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "id": "93cbf6839dea5886",
+   "title": "Addendum No. 1 Special Education Services RFP # 2526-1",
+   "url": "https://www.centralunified.org/fs/resource-manager/view/da3fdce9-24cc-46d2-8601-dfba2d84982b",
+   "source": "Central Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "Special Ed & Therapy"
+   ],
+   "keywords": [
+    "special education services"
+   ],
+   "snippet": "Addendum No. 1 Special Education Services RFP # 2526-1 Addendum No. 1 Special Education Services RFP # 2526-1...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "id": "767bf8355ce891a4",
+   "title": "Bid No. 2023-15-SUP-PSA Expanded Learning Program",
+   "url": "https://anaheimelementary.org/administrative-services/purchasing/bid-opportunities/bid-no-2023-15-sup-psa-expanded-learning-program/",
+   "source": "Anaheim Elementary School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "After School & Summer"
+   ],
+   "keywords": [
+    "expanded learning"
+   ],
+   "snippet": "Bid No. 2023-15-SUP-PSA Expanded Learning Program Bid No. 2023-15-SUP-PSA Expanded Learning Program...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "9ca172cfc4faaf3a",
+   "title": "RFP 1322-25.26 MEDICAL AND ED STAFFING SERVICES",
+   "url": "https://4.files.edl.io/2234/07/08/25/175458-df0dc1b6-9f03-4ef9-acf5-5c85a1a1961f.pdf",
+   "source": "Alhambra Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "Paras & Staffing"
+   ],
+   "keywords": [
+    "staffing services"
+   ],
+   "snippet": "RFP 1322-25.26 MEDICAL AND ED STAFFING SERVICES RFP 1322-25.26 MEDICAL AND ED STAFFING SERVICES...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "3b46676bcb0331dd",
+   "title": "RFP 1313-24.25 Staffing Service for After School Education Safety and Expanded Learning Opportunity Program",
+   "url": "https://4.files.edl.io/e7e3/10/11/24/165838-7c240277-2b54-4124-bb54-a154b97fcdda.pdf",
+   "source": "Alhambra Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "After School & Summer"
+   ],
+   "keywords": [
+    "expanded learning"
+   ],
+   "snippet": "RFP 1313-24.25 Staffing Service for After School Education Safety and Expanded Learning Opportunity Program RFP 1313-24.25 Staffing Service for After School Education Safety and Expanded Learning Opportunity Program...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "39c91448a429a28a",
+   "title": "FINALDOCUMENT-RFPMARIACHI_GARDENINGANDENVIRONMENTALSCIENCEELO-PROGRAMLevelUpFINAL_2.pdf",
+   "url": "https://www.mylusd.org/fs/resource-manager/view/9de23e4d-6166-4248-812b-d27fd1449ca8",
+   "source": "Lynwood Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "After School & Summer"
+   ],
+   "keywords": [
+    "extended learning"
+   ],
+   "snippet": "...FOR PROPOSAL (RFP) No. #01TECH26 MARIACHI, GARDENING AND ENVIRONMENTAL SCIENCE, EXTENDED LEARNING OPPORTUNITIES PROGRAM, LEVELUP Open RFP Document: FINALDOCUMENT-RFPMARIACHI_GARDENINGANDENVIRONMENTALSCIENCEELO-PROGRAMLevelUpFINAL_2.pdf Non-...",
+   "due_date": "2025-08-12",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "id": "887ebe5f246e22f6",
+   "title": "For current and active projects solicited through the Purchasing Department, please see the documents below. REQUEST FOR PROPOSAL (RFP) No. #01TECH26 MARIACHI,",
+   "url": "https://www.mylusd.org/fs/resource-manager/view/a05f084b-5295-4b2a-95c1-d24cd97bb23b",
+   "source": "Lynwood Unified School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "After School & Summer"
+   ],
+   "keywords": [
+    "extended learning"
+   ],
+   "snippet": "...FOR PROPOSAL (RFP) No. #01TECH26 MARIACHI, GARDENING AND ENVIRONMENTAL SCIENCE, EXTENDED LEARNING OPPORTUNITIES PROGRAM, LEVELUP Open RFP Document: FINALDOCUMENT-RFPMARIACHI_GARDENINGANDENVIRONMENTALSCIENCEELO-PROGRAMLevelUpFINAL_2.pdf Non-...",
+   "due_date": "2025-08-12",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
+  {
+   "id": "af4d232ef20bce71",
+   "title": "Academics Adult School Career Technical Education What is Career and Technical Education? CTE Admission Procedures Career Pathways CTE End of the Year Student S",
+   "url": "https://www.djuhsd.org/academics",
+   "source": "Delano Joint Union High School District - Bids",
+   "state": "CA",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "After School & Summer"
+   ],
+   "keywords": [
+    "summer school"
+   ],
+   "snippet": "...ligibility Request for Proposal Placement in Mathematics Special Education link Summer School...",
+   "due_date": null,
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14"
+  },
   {
    "id": "26c66501df5a7180",
    "title": "ITB 1001-2027 Temporary Staffing Services 9/28/2026 @ 12:00 pm Est 10/15/2026 @ 2:00 pm Est N/A N/A Addendum 001 ITB 1001-2027",
@@ -40,25 +388,6 @@
    "last_seen": "2026-10-14"
   },
   {
-   "id": "afcc534d8a1e0866",
-   "title": "RFP 18-001 Physical Therapy Services",
-   "url": "http://hamiltonfl.com/index.cfm?p=rfp-18-001-physical-therapy-services",
-   "source": "Hamilton County School District - Bids",
-   "state": "FL",
-   "type": "Open RFP",
-   "score": 8,
-   "services": [
-    "Special Ed & Therapy"
-   ],
-   "keywords": [
-    "physical therapy"
-   ],
-   "snippet": "RFP 18-001 Physical Therapy Services RFP 18-001 Physical Therapy Services...",
-   "due_date": null,
-   "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14"
-  },
-  {
    "id": "ce10d93cef561dfc",
    "title": "Taylor County School Board RFQ",
    "url": "https://content.myconnectsuite.com/api/documents/73004aa19fa844029009e70fb0425da7.pdf",
@@ -75,7 +404,7 @@
    "snippet": "...s (Chapter 112, F.S.) \u2022 Advice regarding student matters, including discipline, exceptional student education (ESE) and Section 504 compliance, FERPA and student records confidentiality, and student expulsion/discipline hearings \u2022 Support f...",
    "due_date": "2026-10-16",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14"
+   "last_seen": "2026-10-15"
   }
  ]
 }
