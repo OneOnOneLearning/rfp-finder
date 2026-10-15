@@ -198,6 +198,12 @@ def not_a_bid(title):
     return bool(_NOTBID_RX.search((title or "").lower()))
 
 
+def service_hits(text):
+    """How many times our service words appear (to tell a real tutoring RFP from a passing mention)."""
+    t = (text or "").lower()
+    return sum(len(rx.findall(t)) for rx in _SERVICE_RX.values())
+
+
 def score_text(text):
     """Returns (score, keywords, services, is_rfp)."""
     t = (text or "").lower()

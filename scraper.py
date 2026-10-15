@@ -19,7 +19,7 @@ from bs4 import BeautifulSoup
 
 import common
 from common import (CONFIG, DATA, DOC_EXT, NOW_ISO, ROOT, TODAY, Blocked, clean, close_browser,
-                    doc_text, log, make_item, not_a_bid, row_context, score_text, strip_chrome)
+                    doc_text, log, make_item, not_a_bid, row_context, score_text, service_hits, strip_chrome)
 
 MIN = CONFIG.get("min_score", 5)
 
@@ -67,9 +67,24 @@ def scrape_page(src):
             continue
         if body:
             s2, k2, sv2, rfp2 = score_text(body)
+            # The document has to really be about our services: mentioned in the opening
+            # (title/scope) or several times. One passing mention (like a lawyer RFQ that
+            # says "advice on exceptional student education") doesn't count.
+            really_about_us = service_hits(body[:1000]) >= 1 or service_hits(body) >= 3
+            if not r["services"] and not really_about_us:
+                continue
             if s2 > r["score"]:
                 r.update(score=s2, kws=k2, services=sv2, is_rfp=r["is_rfp"] or rfp2,
                          text=r["text"] + " " + body[:6000])
+
+    # Same bid listed twice (main document + addendum): keep one
+    best_by_title = {}
+    for r in rows:
+        key = re.sub(r"(?i)\baddendum\b.*", "", r["title"]).strip().lower()[:80]
+        cur = best_by_title.get(key)
+        if cur is None or ("addendum" in cur["href"].lower() and "addendum" not in r["href"].lower()):
+            best_by_title[key] = r
+    rows = list(best_by_title.values())
 
     # From a district/portal page we only keep real bids: bid words + one of our services
     return [make_item(src, r["title"], r["href"], r["text"], r["score"], r["kws"], r["services"], "Open RFP")
