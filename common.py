@@ -98,8 +98,16 @@ def robots_ok(url, force=False):
 def fetch(url, method="GET", data=None, binary=False, max_bytes=None, timeout=40, force=False):
     if not robots_ok(url, force):
         raise Blocked(f"robots.txt asks bots not to visit {urlparse(url).netloc}")
-    polite_wait(url)
-    r = session().request(method, url, data=data, timeout=timeout, stream=bool(max_bytes))
+    for attempt in range(3):
+        polite_wait(url)
+        r = session().request(method, url, data=data, timeout=timeout, stream=bool(max_bytes))
+        if r.status_code != 429 or attempt == 2:
+            break
+        try:
+            wait = min(int(r.headers.get("Retry-After", "20")), 60)
+        except ValueError:
+            wait = 20
+        time.sleep(wait * (attempt + 1))  # site says "slow down": wait and try again
     r.raise_for_status()
     if max_bytes:
         buf = io.BytesIO()
