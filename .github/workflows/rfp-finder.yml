@@ -2,9 +2,13 @@ name: RFP Finder (daily)
 
 on:
   schedule:
-    # Every day at 10:52 UTC = 6:52 AM Eastern (5:52 AM in winter)
+    # GitHub sometimes skips scheduled runs, so there are 3 tries a day.
+    # The first one that works does the job; the others see it's done and stop.
+    # Times are UTC: 10:52 = 6:52 AM Eastern, 13:17 = 9:17 AM, 16:41 = 12:41 PM
     - cron: "52 10 * * *"
-  workflow_dispatch: # "Run workflow" button
+    - cron: "17 13 * * *"
+    - cron: "41 16 * * *"
+  workflow_dispatch: # "Run workflow" button (always runs)
 
 permissions:
   contents: write
@@ -28,32 +32,57 @@ jobs:
       - name: Get the code
         uses: actions/checkout@v4
 
+      - name: Already ran today?
+        id: check
+        run: |
+          last=$(python3 -c "import json;print(json.load(open('data/rfps.json')).get('updated','')[:10])" 2>/dev/null || echo "")
+          today=$(date -u +%F)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$last" = "$today" ]; then
+            echo "Already ran today ($today), skipping."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Set up Python
+        if: steps.check.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Install libraries
+        if: steps.check.outputs.skip != 'true'
         run: |
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
-      - name: First run only - find every district
+      - name: Find districts (only when the list is missing or unfinished)
+        if: steps.check.outputs.skip != 'true'
+        continue-on-error: true
         run: |
-          if [ ! -f data/districts.json ]; then python discover.py; fi
+          if [ ! -f data/districts.json ] || grep -q '"pending"' data/districts.json; then python discover.py; fi
 
       - name: Look for RFPs
+        if: steps.check.outputs.skip != 'true'
         run: python scraper.py
 
       - name: Save results to the dashboard
+        if: steps.check.outputs.skip != 'true' && always()
         run: |
           git config user.name "rfp-finder-bot"
           git config user.email "rfp-finder-bot@users.noreply.github.com"
-          git add data/ sources_auto.csv
-          git diff --cached --quiet || git commit -m "Daily RFP update $(date -u +%F)"
-          git pull --rebase --autostash || true
-          git push
+          git add data/ sources_auto.csv 2>/dev/null || git add data/
+          git diff --cached --quiet && exit 0
+          git commit -m "Daily RFP update $(date -u +%F)"
+          for i in 1 2 3; do
+            # if someone edited the repo meanwhile, keep their changes but the bot's fresh data
+            git pull --rebase -X theirs origin main && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1
 
       - name: Email new leads
+        if: steps.check.outputs.skip != 'true'
         run: python notify.py

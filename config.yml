@@ -6,6 +6,9 @@
 # Which states to cover. Add more any time, e.g. [FL, CA, TX, GA]
 states: [FL, CA]
 
+# Max minutes per run spent finding district bids pages (the rest continues next run)
+discover_minutes: 90
+
 # Include charter school organizations too? (CA has 1,000+ of them)
 include_charters: false
 

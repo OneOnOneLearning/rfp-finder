@@ -25,7 +25,11 @@ from common import (CONFIG, DATA, NOW_ISO, ROOT, TODAY, Blocked, clean, fetch,
                     fetch_final_url, log)
 
 STATES = [s.upper() for s in CONFIG.get("states", ["FL", "CA"])]
-REFRESH_DAYS = 30
+REFRESH_DAYS = 30        # re-check districts we found every 30 days
+RETRY_DAYS = 7           # re-try districts we could not figure out every 7 days
+import time
+STARTED = time.time()
+BUDGET_MIN = CONFIG.get("discover_minutes", 90)
 
 # NCES district types: 1 regular, 2 component, 4 regional/county office, 7 charter
 TYPES = {"1", "2", "4"} | ({"7"} if CONFIG.get("include_charters") else set())
@@ -376,6 +380,9 @@ def guess_website(d):
 
 # ------------------------------------------------------------ main
 def discover_one(d, overrides):
+    if (time.time() - STARTED) / 60 > BUDGET_MIN:  # out of time: pick it up next run
+        d.setdefault("status", "pending")
+        return d
     for k in ("bids_page", "portal", "portal_url", "board_platform", "board_url", "note"):
         d.setdefault(k, "")
     o = match_override(d, overrides)
@@ -442,7 +449,10 @@ def main():
     stale = (TODAY - timedelta(days=REFRESH_DAYS)).isoformat()
     for d in districts:
         prev = old.get(d["leaid"], {})
-        if prev and not redo_all and prev.get("checked", "") >= stale and prev.get("status") == "found":
+        retry = (TODAY - timedelta(days=RETRY_DAYS)).isoformat()
+        if prev and not redo_all and prev.get("status") != "pending" and (
+                (prev.get("status") == "found" and prev.get("checked", "") >= stale)
+                or prev.get("checked", "") >= retry):
             keep.append({**prev, **{k: d[k] for k in ("name", "students", "county", "city")}})
             continue
         d["website"] = homepage_from(websites.get(d["leaid"], "")) or prev.get("website", "")

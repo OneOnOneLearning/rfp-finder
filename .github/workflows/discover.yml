@@ -36,6 +36,11 @@ jobs:
           git config user.name "rfp-finder-bot"
           git config user.email "rfp-finder-bot@users.noreply.github.com"
           git add data/districts.json sources_auto.csv
-          git diff --cached --quiet || git commit -m "District list update $(date -u +%F)"
-          git pull --rebase --autostash || true
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "District list update $(date -u +%F)"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1
