@@ -161,7 +161,9 @@ def load_sources():
                 if row["type"] == "boarddocs":
                     row["active"] = "yes" if CONFIG.get("check_boarddocs") and row.get("active") != "no" else "no"
                 out[url.rstrip("/").lower()] = row
-    return [r for r in out.values() if is_yes(r.get("active"), True)]
+    states = {x.upper() for x in CONFIG.get("states", [])}
+    return [r for r in out.values() if is_yes(r.get("active"), True)
+            and (not states or not r.get("state") or r["state"].upper() in states)]
 
 
 def run_source(src):
@@ -255,6 +257,11 @@ def main():
             it["first_seen"] = it["last_seen"] = TODAY.isoformat()
             existing[it["id"]] = it
             new_items.append(it)
+
+    states = {x.upper() for x in CONFIG.get("states", [])}
+    if states:  # only keep leads for the states we cover (or leads with no state)
+        existing = {k: v for k, v in existing.items() if not v.get("state") or v["state"].upper() in states}
+        new_items = [i for i in new_items if not i.get("state") or i["state"].upper() in states]
 
     cutoff = (TODAY - timedelta(days=CONFIG.get("keep_days", 120))).isoformat()
     items = [i for i in existing.values()

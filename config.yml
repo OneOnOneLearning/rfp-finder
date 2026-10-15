@@ -4,7 +4,7 @@
 # =========================================================
 
 # Which states to cover. Add more any time, e.g. [FL, CA, TX, GA]
-states: [FL, CA]
+states: [FL]
 
 # Max minutes per run spent finding district bids pages (the rest continues next run)
 discover_minutes: 90

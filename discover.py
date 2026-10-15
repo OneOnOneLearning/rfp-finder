@@ -469,7 +469,7 @@ def main():
             if i % 50 == 0 or i == len(todo):
                 log(f"  {i}/{len(todo)}")
 
-    allds = sorted(keep + done, key=lambda d: (d["state"], -d.get("students", 0)))
+    allds = sorted([d for d in keep + done if d.get("state") in STATES], key=lambda d: (d["state"], -d.get("students", 0)))
     summary = Counter(d.get("status", "") for d in allds)
     (DATA / "districts.json").write_text(json.dumps(
         {"updated": NOW_ISO, "states": STATES, "summary": summary, "districts": allds}, indent=1), encoding="utf-8")
