@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-18T14:02:50+00:00",
+ "updated": "2026-10-19T17:00:05+00:00",
  "sources": [
+  {
+   "name": "Desoto County School District - Bids",
+   "state": "FL",
+   "type": "page",
+   "url": "https://www.desotoschools.com/departments/purchasing/bids",
+   "checked_at": "2026-10-19T17:00:05+00:00",
+   "status": "error",
+   "found": 0,
+   "message": "HTTPError: 404 Client Error: Not Found for url: https://www.desotoschools.com/departments/purchasing/bids"
+  },
   {
    "name": "Bot inbox (portal + Google Alert emails)",
    "state": "",
@@ -9,14 +19,14 @@
    "found": 0,
    "status": "ok",
    "message": "0 new emails read",
-   "checked_at": "2026-10-18T14:02:50+00:00"
+   "checked_at": "2026-10-19T17:00:05+00:00"
   },
   {
    "name": "Bradford County School District - Bids",
    "state": "FL",
    "type": "page",
    "url": "https://www.bradfordschools.org/purchasing-bids-and-rfps",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -26,7 +36,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.browardschools.com/bcps-departments/procurement/district-bid-opportunities-demandstar",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -36,7 +46,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.calhounflschools.org/finance-department",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -46,7 +56,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.yourcharlotteschools.net/bids",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -56,7 +66,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://citrusschools.org/current-bid-opportunities",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -66,17 +76,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.collierschools.com/exploreccps/budget-and-finance/purchasing",
-   "checked_at": "2026-10-18T14:02:50+00:00",
-   "status": "ok",
-   "found": 0,
-   "message": ""
-  },
-  {
-   "name": "Desoto County School District - Bids",
-   "state": "FL",
-   "type": "page",
-   "url": "https://www.desotoschools.com/departments/purchasing/bids",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -86,7 +86,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://flaglerschools.com/vendors-and-contractors",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -96,7 +96,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://vendor.myfloridamarketplace.com/search/bids",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -106,7 +106,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://gulfcoschools.com/school-board/rfps-bids-and-items-for-sale/",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -116,7 +116,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://hamiltonfl.com/55908_3",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -126,7 +126,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.hernandoschools.org/bids-solicitations",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -136,7 +136,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.lafayette.k12.fl.us/_theme/files/Vendors%20-%20Jessica%20Lunsford%20Act%20(JLA).pdf",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -146,7 +146,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.leeschools.net/support/procurement_services",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -156,7 +156,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.leonschools.net/construction-facilities-bid-opportu",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -166,7 +166,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.levyk12.org/purchasing",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -176,7 +176,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.marionschools.net/departments/purchasing",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -186,7 +186,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.keysschools.com/page/competitive-solicitations",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -196,7 +196,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.ocps.net/procurement-services-solicitations",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -206,7 +206,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.palmbeachschools.org/doing-business-with-the-district",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -216,7 +216,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.pasco.k12.fl.us/purchasing/page/business/",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -226,7 +226,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.pcsb.org/departments/finance/purchasing",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -236,7 +236,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.polkschoolsfl.com/about/publicnotices",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -246,7 +246,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.putnamschools.org/page/posted-rfps",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -256,7 +256,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.sarasotacountyschools.net/page/rfq-selection-process/",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -266,7 +266,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.stjohns.k12.fl.us/purchasing/business/",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -276,7 +276,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.stlucie.k12.fl.us/purch/",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -286,7 +286,7 @@
    "state": "FL",
    "type": "page",
    "url": "http://www.sumter.k12.fl.us/120530_3",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -296,7 +296,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.taylor.k12.fl.us/opensolicitations",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -306,7 +306,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.union.k12.fl.us/finance",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -316,7 +316,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.vcsedu.org/directory/departments/financial-services/procurement",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -326,7 +326,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://www.walton.k12.fl.us/page/purchasing-procedures",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -336,7 +336,7 @@
    "state": "FL",
    "type": "page",
    "url": "https://washington.org/meetings/service-request-rfp",
-   "checked_at": "2026-10-18T14:02:50+00:00",
+   "checked_at": "2026-10-19T17:00:05+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
