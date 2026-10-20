@@ -124,14 +124,15 @@ def read_inbox():
     except Exception:
         state = {}
 
-    items = []
+    items, email_log = [], []
     try:
         M = imaplib.IMAP4_SSL(os.getenv("IMAP_HOST") or "imap.gmail.com")
         M.login(user, pw)
         M.select(cfg.get("folder", "INBOX"), readonly=True)
         uidvalidity = M.response("UIDVALIDITY")[1][0]
         uidvalidity = uidvalidity.decode() if isinstance(uidvalidity, bytes) else str(uidvalidity)
-        last = int(state.get("last_uid", 0)) if state.get("uidvalidity") == uidvalidity else 0
+        last = int(state.get("last_uid", 0)) if (state.get("uidvalidity") == uidvalidity
+                                                 and state.get("v") == 2) else 0
         if last:
             typ, data = M.uid("search", None, f"UID {last + 1}:*")
         else:
@@ -143,15 +144,28 @@ def read_inbox():
             if not msgdata or not msgdata[0]:
                 continue
             try:
-                items += items_from_email(email.message_from_bytes(msgdata[0][1]))
+                msg = email.message_from_bytes(msgdata[0][1])
+                got = items_from_email(msg)
+                items += got
+                sender = parseaddr(_dec(msg.get("From")))[1].lower()
+                known = next((n for k, n in SENDERS.items() if k in sender), "")
+                email_log.append({"date": _dec(msg.get("Date"))[:31], "from": known or sender.split("@")[-1],
+                                  "subject": _dec(msg.get("Subject"))[:140] if known else "(not a bid portal)",
+                                  "leads_kept": len(got)})
             except Exception as e:
                 log(f"    could not read email {uid}: {e}")
         M.logout()
         if uids:
-            state = {"uidvalidity": uidvalidity, "last_uid": max(uids)}
+            state = {"uidvalidity": uidvalidity, "last_uid": max(uids), "v": 2}
         else:
-            state.setdefault("uidvalidity", uidvalidity)
+            state.update(uidvalidity=uidvalidity, v=2)
         state_file.write_text(json.dumps(state))
+        log_file = DATA / "inbox_log.json"
+        try:
+            old_log = json.loads(log_file.read_text())
+        except Exception:
+            old_log = []
+        log_file.write_text(json.dumps((email_log + old_log)[:200], indent=1))
         status.update(status="ok", found=len(items), message=f"{len(uids)} new emails read")
     except Exception as e:
         status.update(status="error", message=f"{type(e).__name__}: {str(e)[:150]}")

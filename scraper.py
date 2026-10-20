@@ -36,7 +36,24 @@ def scrape_page(src):
     base = common.page_base(soup, url)
     soup = strip_chrome(soup)
 
+    # If the page itself is clearly a bids page, every row on it counts as a bid
+    page_text = clean(soup.get_text(" "))
+    page_is_bids = bool(re.search(r"(?i)\b(solicitations?|bids?|rfps?|itbs?|itns?|rfqs?|proposals?|procurement)\b",
+                                  (soup.title.get_text(" ") if soup.title else "") + " " + page_text[:1500]))
+
     rows, seen = [], set()
+    # Table rows with no link (e.g. "Upcoming solicitations" tables)
+    for tr in soup.find_all("tr"):
+        if tr.find("a", href=True) or tr.find("th"):
+            continue
+        txt = clean(tr.get_text(" "))
+        if len(txt) < 12 or txt.lower() in seen or not_a_bid(txt):
+            continue
+        seen.add(txt.lower())
+        score, kws, services, is_rfp = score_text(txt)
+        rows.append(dict(href=url, title=txt[:160], text=txt, score=score, kws=kws, services=services,
+                         is_rfp=is_rfp or page_is_bids, is_doc=False))
+
     for a in soup.find_all("a", href=True):
         href = urljoin(base, a["href"]).split("#")[0]
         if not href.startswith("http") or href in seen:
@@ -52,7 +69,11 @@ def scrape_page(src):
         score, kws, services, is_rfp = score_text(text)
         is_doc = href.lower().split("?")[0].endswith(DOC_EXT)
         rows.append(dict(href=href, title=title, text=text, score=score, kws=kws,
-                         services=services, is_rfp=is_rfp, is_doc=is_doc))
+                         services=services, is_doc=is_doc,
+                         # on a bids page, a link counts as a bid if it looks like one (a document,
+                         # a bid number, or a full title), not a short menu link like "ESOL Department"
+                         is_rfp=is_rfp or (page_is_bids and bool(services) and
+                                           (is_doc or bool(re.search(r"\d", title)) or len(title) >= 35))))
 
     # Open the most promising bid documents (titles are often vague, the details are inside)
     docs = [r for r in rows if r["is_doc"] and (r["is_rfp"] or r["score"] > 0)]
@@ -80,7 +101,7 @@ def scrape_page(src):
     # Same bid listed twice (main document + addendum): keep one
     best_by_title = {}
     for r in rows:
-        key = re.sub(r"(?i)\baddendum\b.*", "", r["title"]).strip().lower()[:80]
+        key = re.sub(r"(?i)\baddendum\b.*", "", r["title"]).strip().lower()[:80] + ("" if r["href"] != url else "#row")
         cur = best_by_title.get(key)
         if cur is None or ("addendum" in cur["href"].lower() and "addendum" not in r["href"].lower()):
             best_by_title[key] = r
@@ -176,6 +197,22 @@ def load_sources():
                 if row["type"] == "boarddocs":
                     row["active"] = "yes" if CONFIG.get("check_boarddocs") and row.get("active") != "no" else "no"
                 out[url.rstrip("/").lower()] = row
+    p = ROOT / "district_overrides.csv"
+    if p.exists():
+        with open(p, newline="", encoding="utf-8-sig") as f:
+            for row in csv.DictReader(f):
+                row = {k.strip().lower(): (v or "").strip() for k, v in row.items() if k}
+                url = row.get("bids_page", "")
+                if url.startswith("http"):
+                    # the hand-set page replaces whatever the bot found for that district
+                    dist = (row.get("district") or "").lower()
+                    for k in [k for k, v in out.items() if v.get("notes", "").startswith("auto")
+                              and v.get("state") == row.get("state") and dist and dist in v.get("name", "").lower()]:
+                        del out[k]
+                    out[url.rstrip("/").lower()] = {
+                        "active": "yes", "name": f"{row.get('district')} - Bids", "state": row.get("state", ""),
+                        "type": "page", "url": url, "render": row.get("render", "") or "no", "extra": "",
+                        "notes": "set by hand"}
     states = {x.upper() for x in CONFIG.get("states", [])}
     return [r for r in out.values() if is_yes(r.get("active"), True)
             and (not states or not r.get("state") or r["state"].upper() in states)]

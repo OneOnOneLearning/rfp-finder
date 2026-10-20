@@ -1,4 +1,4 @@
-state,district,website,bids_page,board_url,notes
+state,district,website,bids_page,board_url,notes,render
 FL,Broward,https://www.browardschools.com/,https://www.browardschools.com/bcps-departments/procurement/district-bid-opportunities-demandstar,,Bids on DemandStar
 FL,Lee,https://www.leeschools.net/,https://www.leeschools.net/support/procurement_services,,
 FL,Citrus,https://citrusschools.org/,https://citrusschools.org/current-bid-opportunities,,Links to VendorLink
@@ -13,3 +13,5 @@ CA,Oakland Unified,,,https://go.boarddocs.com/ca/ousd/Board.nsf/Public,
 FL,Washington,https://www.wcsdschools.com/,,,washington.org was the wrong site (DC tourism)
 FL,Hillsborough,https://www.hillsboroughschools.org/,,,Bids on VendorLink (sign up there)
 FL,Seminole,https://www.scps.k12.fl.us/,,,Bids on VendorLink (sign up there)
+FL,Palm Beach,https://www.palmbeachschools.org/,https://www.palmbeachschools.org/doing-business-with-the-district/goods-and-services-vendorssuppliers/upcoming-solicitations,,Upcoming list; bids released on BidNet
+FL,Pinellas,https://www.pcsb.org/,https://www.pcsb.org/departments/finance/purchasing/current-solicitations,,,yes

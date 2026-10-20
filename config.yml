@@ -71,6 +71,15 @@ services:
     - small group instruction
     - virtual tutoring
     - online tutoring
+    - academic support
+    - remediation
+    - remedial
+    - supplemental instruction
+    - learning support
+    - literacy services
+    - reading services
+    - math support
+    - credit recovery
   Special Ed & Therapy:
     - special education services
     - exceptional student education
@@ -112,6 +121,12 @@ services:
     - contract staffing
     - substitute teachers
     - substitute teacher services
+    - staff augmentation
+    - staffing
+    - personnel services
+    - temporary personnel
+    - temporary employees
+    - temporary help
   ESOL & English Learners:
     - esol
     - english learner
@@ -140,6 +155,17 @@ services:
     - summer enrichment
     - 21st century community learning centers
     - 21st cclc
+  General Education Services:
+    - educational services
+    - education services
+    - instructional services
+    - student services
+    - student support services
+    - educational consulting
+    - educational programs
+    - academic services
+    - school improvement services
+    - turnaround services
   Teachers & PD:
     - certified teachers
     - certified teacher
@@ -159,7 +185,6 @@ signals:
   - title 1
   - title iii
   - esser
-  - educational services
   - educational, therapeutic
   - therapeutic
   - consulting and evaluating
@@ -167,7 +192,6 @@ signals:
   - individual education plan
   - homeless
   - mckinney-vento
-  - credit recovery
   - enrichment
   - mentoring
   - wraparound
@@ -178,7 +202,6 @@ signals:
   - new worlds reading
   - lrebg
   - a-g
-  - student support services
   - related services
 
 # Words that mean "this is an actual bid / procurement" (needed for every lead from a district page)
