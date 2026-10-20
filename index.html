@@ -194,6 +194,11 @@ body:not(.is-admin) .admin{display:none!important}
       <thead><tr><th>Source</th><th>State</th><th>Result</th><th>Found</th><th>Details</th></tr></thead>
       <tbody id="srcrows"></tbody>
     </table></div>
+    <h3 style="margin:22px 0 10px;font-size:16px">Emails the bot read</h3>
+    <div class="tablewrap"><table>
+      <thead><tr><th>Date</th><th>From</th><th>Subject</th><th>Leads kept</th></tr></thead>
+      <tbody id="mailrows"></tbody>
+    </table></div>
   </section>
   </div>
 </div>
@@ -208,7 +213,7 @@ const today = new Date(); today.setHours(0,0,0,0);
 const days = s => Math.round((new Date(s + "T00:00:00") - today) / 86400000);
 const fmtDate = s => new Date(s + "T00:00:00").toLocaleDateString(undefined, {month:"short", day:"numeric", year:"numeric"});
 const KIND = {"Open RFP":["Open bid","k-bid"], "Board signal":["Early heads-up","k-early"], "Web mention":["Mentioned online","k-web"]};
-let ITEMS = [], LAST_RUN = "", DISTRICTS = [], SOURCES = [], SVC = "";
+let ITEMS = [], LAST_RUN = "", DISTRICTS = [], SOURCES = [], SVC = "", MAIL = [];
 
 function districtName(i){
   const s = i.source || "";
@@ -231,6 +236,7 @@ async function load(){
     fetch("data/status.json" + bust).then(x => x.json()).catch(() => ({sources:[]})),
     fetch("data/districts.json" + bust).then(x => x.json()).catch(() => ({districts:[]}))
   ]);
+  MAIL = await fetch("data/inbox_log.json" + bust).then(x => x.json()).catch(() => []);
   DISTRICTS = dz.districts || [];
   ITEMS = r.items || [];
   SOURCES = s.sources || [];
@@ -325,6 +331,9 @@ function renderHealth(){
       <td>${x.url && x.url.startsWith("http") ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>` : esc(x.name)}</td>
       <td>${esc(x.state)}</td><td>${label(x)}</td><td>${x.found ?? 0}</td><td class="sub">${esc(x.message)}</td></tr>`).join("")
     || '<tr><td colspan="5">No runs yet.</td></tr>';
+  $("#mailrows").innerHTML = MAIL.map(m => `<tr><td class="sub">${esc(m.date)}</td><td>${esc(m.from)}</td>
+      <td>${esc(m.subject)}</td><td>${m.leads_kept}</td></tr>`).join("")
+    || '<tr><td colspan="4">No emails yet. Portal alerts and Google Alerts show up here once they start arriving.</td></tr>';
 }
 
 ["#q","#state","#type","#showclosed"].forEach(s => $(s).addEventListener("input", render));
