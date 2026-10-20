@@ -249,6 +249,7 @@ def find_due_date(text):
     if not text:
         return None
     best, latest = None, None
+    text = re.sub(r"(\d)(st|nd|rd|th)\b", r"\1", text)  # "March 3rd, 2024" -> "March 3, 2024"
     for m in DATE_RX.finditer(text[:20000]):
         d = parse_date(m.group(1))
         if not d or d.year < TODAY.year - 1 or d.year > TODAY.year + 3:
@@ -260,7 +261,13 @@ def find_due_date(text):
         if latest is None or d > latest:
             latest = d
     # no future dates at all usually means the bid already closed
-    return (best or latest).isoformat() if (best or latest) else None
+    if best or latest:
+        return (best or latest).isoformat()
+    # no full dates found: if every year mentioned is in the past, treat it as closed
+    years = [int(y) for y in re.findall(r"\b(20[1-3]\d)\b", text[:20000])]
+    if years and max(years) < TODAY.year:
+        return f"{max(years)}-12-31"
+    return None
 
 
 def snippet_around(text, terms, width=240):

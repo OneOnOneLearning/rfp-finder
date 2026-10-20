@@ -72,8 +72,9 @@ services:
     - virtual tutoring
     - online tutoring
     - academic support
-    - remediation
-    - remedial
+    - remedial instruction
+    - remedial reading
+    - remedial math
     - supplemental instruction
     - learning support
     - literacy services
@@ -270,6 +271,11 @@ not_bids:
   - bid tabulation
   - bid results
   - award results
+  - award
+  - awarded
+  - cancelled
+  - canceled
+  - debris
 
 # If these show up and there is no service keyword, skip the item.
 negative:
@@ -293,3 +299,6 @@ negative:
   - landscaping
   - uniforms
   - pest control
+  - disaster recovery
+  - environmental remediation
+  - mold remediation
