@@ -1,4 +1,43 @@
 {
- "updated": "2026-10-20T15:07:58+00:00",
- "items": []
+ "updated": "2026-10-20T18:54:38+00:00",
+ "items": [
+  {
+   "id": "bef84bcc36e136a1",
+   "title": "27C-010M Staff Augmentation Services 958-26, 958-77 Sept 2026 Feb 2027",
+   "url": "https://www.palmbeachschools.org/doing-business-with-the-district/goods-and-services-vendorssuppliers/upcoming-solicitations",
+   "source": "Palm Beach - Bids",
+   "state": "FL",
+   "type": "Open RFP",
+   "score": 5,
+   "services": [
+    "Paras & Staffing"
+   ],
+   "keywords": [
+    "staff augmentation"
+   ],
+   "snippet": "27C-010M Staff Augmentation Services 958-26, 958-77 Sept 2026 Feb 2027...",
+   "due_date": null,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20"
+  },
+  {
+   "id": "1efb08679b73e610",
+   "title": "RFP 54-331-2503 - NEFEC - Disaster Recovery and Remediation Services/Debris Monitoring",
+   "url": "https://5il.co/2tb7z",
+   "source": "Putnam County School District - Bids",
+   "state": "FL",
+   "type": "Open RFP",
+   "score": 8,
+   "services": [
+    "Tutoring"
+   ],
+   "keywords": [
+    "remediation"
+   ],
+   "snippet": "RFP 54-331-2503 - NEFEC - Disaster Recovery and Remediation Services/Debris Monitoring RFP 54-331-2503 - NEFEC - Disaster Recovery and Remediation Services/Debris Monitoring ( Award )...",
+   "due_date": null,
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20"
+  }
+ ]
 }
