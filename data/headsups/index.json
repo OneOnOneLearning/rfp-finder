@@ -1,0 +1,209 @@
+{
+ "updated": "2026-10-22T17:47:45+00:00",
+ "states": {
+  "AK": {
+   "count": 15,
+   "hot": 0
+  },
+  "AL": {
+   "count": 225,
+   "hot": 0
+  },
+  "AR": {
+   "count": 17,
+   "hot": 1
+  },
+  "AZ": {
+   "count": 33,
+   "hot": 0
+  },
+  "CA": {
+   "count": 385,
+   "hot": 0
+  },
+  "CO": {
+   "count": 65,
+   "hot": 0
+  },
+  "CT": {
+   "count": 43,
+   "hot": 5
+  },
+  "DE": {
+   "count": 38,
+   "hot": 0
+  },
+  "FL": {
+   "count": 25,
+   "hot": 0
+  },
+  "GA": {
+   "count": 164,
+   "hot": 0
+  },
+  "IA": {
+   "count": 9,
+   "hot": 0
+  },
+  "ID": {
+   "count": 42,
+   "hot": 0
+  },
+  "IL": {
+   "count": 83,
+   "hot": 0
+  },
+  "IN": {
+   "count": 70,
+   "hot": 1
+  },
+  "KS": {
+   "count": 37,
+   "hot": 0
+  },
+  "KY": {
+   "count": 28,
+   "hot": 0
+  },
+  "LA": {
+   "count": 77,
+   "hot": 0
+  },
+  "MA": {
+   "count": 75,
+   "hot": 0
+  },
+  "MD": {
+   "count": 45,
+   "hot": 0
+  },
+  "ME": {
+   "count": 7,
+   "hot": 0
+  },
+  "MI": {
+   "count": 167,
+   "hot": 2
+  },
+  "MN": {
+   "count": 91,
+   "hot": 0
+  },
+  "MO": {
+   "count": 103,
+   "hot": 0
+  },
+  "MS": {
+   "count": 89,
+   "hot": 0
+  },
+  "MT": {
+   "count": 1,
+   "hot": 0
+  },
+  "NC": {
+   "count": 35,
+   "hot": 0
+  },
+  "ND": {
+   "count": 8,
+   "hot": 0
+  },
+  "NE": {
+   "count": 13,
+   "hot": 0
+  },
+  "NH": {
+   "count": 8,
+   "hot": 0
+  },
+  "NJ": {
+   "count": 104,
+   "hot": 2
+  },
+  "NM": {
+   "count": 1,
+   "hot": 0
+  },
+  "NV": {
+   "count": 8,
+   "hot": 0
+  },
+  "NY": {
+   "count": 83,
+   "hot": 0
+  },
+  "OH": {
+   "count": 149,
+   "hot": 0
+  },
+  "OK": {
+   "count": 36,
+   "hot": 0
+  },
+  "OR": {
+   "count": 61,
+   "hot": 0
+  },
+  "PA": {
+   "count": 526,
+   "hot": 0
+  },
+  "RI": {
+   "count": 3,
+   "hot": 0
+  },
+  "SC": {
+   "count": 29,
+   "hot": 0
+  },
+  "SD": {
+   "count": 3,
+   "hot": 0
+  },
+  "TN": {
+   "count": 111,
+   "hot": 0
+  },
+  "TX": {
+   "count": 332,
+   "hot": 0
+  },
+  "UT": {
+   "count": 20,
+   "hot": 1
+  },
+  "VA": {
+   "count": 44,
+   "hot": 0
+  },
+  "VT": {
+   "count": 2,
+   "hot": 0
+  },
+  "WA": {
+   "count": 114,
+   "hot": 0
+  },
+  "WI": {
+   "count": 32,
+   "hot": 0
+  },
+  "WV": {
+   "count": 1,
+   "hot": 0
+  },
+  "WY": {
+   "count": 9,
+   "hot": 0
+  }
+ },
+ "sources": 3951,
+ "checked_ever": 3676,
+ "run": {
+  "problem": 695,
+  "ok": 2973,
+  "skipped": 283
+ },
+ "new": 3666
+}

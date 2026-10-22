@@ -1,49 +1,1075 @@
 active,name,state,type,url,render,extra,notes
-no,Dade County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/sbmd/Board.nsf/Public,no,,auto; leaid 1200390
+yes,Matanuska-Susitna Borough School District - Bids,AK,page,https://www.matsuk12.us/business-departments/purchasing/other-solicitations,no,,auto; leaid 0200510
+yes,Fairbanks North Star Borough School District - Bids,AK,page,https://www.k12northstar.org/departments/administrative-services/purchasing-information-resources/solicitations,no,,auto; leaid 0200600
+yes,Galena City School District - Bids,AK,page,https://www.gcsdk12.org/resources/procurement,no,,auto; leaid 0200130
+yes,Lower Kuskokwim School District - Bids,AK,page,https://www.lksd.org/bidding-opportunities,no,,auto; leaid 0200001
+yes,Yukon-Koyukuk School District - Bids,AK,page,https://www.yksd.com/o/yksd/page/solicitations,no,,auto; leaid 0200862
+yes,Kodiak Island Borough School District - Bids,AK,page,https://www.kibsd.org/wp-content/uploads/2026/05/FY27-01-Cafeteria-Food-Supplies-RFQ.pdf,no,,auto; leaid 0200480
+yes,Northwest Arctic Borough School District - Bids,AK,page,https://www.nwarctic.org/our_district/requests_for_proposals___bids/a_t_c_r_f_p_-_lease_of_property,no,,auto; leaid 0200625
+yes,Baldwin County School District - Bids,AL,page,https://www.bcbe.org/departments/business-and-finance/purchasing/bcbe-bids,no,,auto; leaid 0100270
+yes,Birmingham City School District - Bids,AL,page,https://www.bhamcityschools.org/o/bcs/page/itb-rfp-rfq-and-addendums,no,,auto; leaid 0100390
+yes,Madison County School District - Bids,AL,page,https://www.mcssk12.org/department/purchasing/vendor-registration,no,,auto; leaid 0102220
+yes,Hoover City School District - Bids,AL,page,https://www.hoovercityschools.net/61592_3,no,,auto; leaid 0100007
+yes,Elmore County School District - Bids,AL,page,https://www.elmoreco.com/request-for-proposals-bids-2,no,,auto; leaid 0101290
+yes,St. Clair County School District - Bids,AL,page,https://www.sccboe.org/procurement,no,,auto; leaid 0103062
+yes,Auburn City School District - Bids,AL,page,https://www.auburnschools.org/214305_3,no,,auto; leaid 0100210
+yes,Lee County School District - Bids,AL,page,https://www.lee.k12.al.us/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=92012373,no,,auto; leaid 0102070
+yes,Dothan City School District - Bids,AL,page,https://www.dothan.k12.al.us/departments/bids-rfps,no,,auto; leaid 0101230
+yes,Lauderdale County School District - Bids,AL,page,https://www.lcschools.org/departments/departments/become-a-registered-vendor,no,,auto; leaid 0102010
+yes,Phenix City City School District - Bids,AL,page,https://www.pcboe.net/about/district-bids/tech-bids,no,,auto; leaid 0102700
+yes,Walker County School District - Bids,AL,page,https://www.walkerschools.org/departments/school-nutrition-bidsrfp,no,,auto; leaid 0103450
+yes,Enterprise City School District - Bids,AL,page,https://www.enterpriseschools.net/departments/purchasing,no,,auto; leaid 0101320
+yes,Opelika City School District - Bids,AL,page,https://www.opelikaschools.org/85368_3,no,,auto; leaid 0102580
+yes,Athens City School District - Bids,AL,page,https://www.acs-k12.org/departments/business-finance/invitation-to-bid,no,,auto; leaid 0100120
+yes,Escambia County School District - Bids,AL,page,https://www.escambiak12.net/documents/system/business-&amp;-finance/business-reporting/-current-itb/rfp-postings/828376,no,,auto; leaid 0101350
+yes,Franklin County School District - Bids,AL,page,https://www.franklin.k12.al.us/departments/technology/rfps,no,,auto; leaid 0101590
+yes,Pelham City School District - Bids,AL,page,https://www.pelhamschools.org/district/business-office/request-for-proposals,no,,auto; leaid 0100194
+yes,Marion County School District - Bids,AL,page,https://www.marionschools.net/departments/purchasing,no,,auto; leaid 0102310
+yes,Bessemer City School District - Bids,AL,page,https://www.bessk12.org/departments/business-and-accounting/bids,no,,auto; leaid 0100330
+yes,Muscle Shoals City School District - Bids,AL,page,https://www.mscs.k12.al.us/documents/bids,no,,auto; leaid 0102520
+yes,Coffee County School District - Bids,AL,page,https://www.coffee.k12.ga.us/bids,no,,auto; leaid 0100810
+yes,Geneva County School District - Bids,AL,page,https://www.genevacountyschools.com/open-bids,no,,auto; leaid 0101660
+yes,Washington County School District - Bids,AL,page,https://washington.org/meetings/service-request-rfp,no,,auto; leaid 0103480
+yes,Fort Smith Public Schools - Bids,AR,page,https://www.fortsmithschools.org/departments/finance/purchasing,no,,auto; leaid 0506330
+yes,Sheridan School District - Bids,AR,page,https://www.sheridanschools.org/documents/request-for-proposals/archived-rfps/21162355,no,,auto; leaid 0500015
+yes,Gilbert Unified District - Bids,AZ,page,https://www.gilbertschools.net/about/purchasing,no,,auto; leaid 0403400
+yes,Deer Valley Unified District - Bids,AZ,page,https://www.dvusd.org/departments/fiscal-and-business-support-services/purchasing,no,,auto; leaid 0407750
+yes,Paradise Valley Unified District - Bids,AZ,page,https://www.pvschools.net/departments-directory/purchasing,no,,auto; leaid 0405930
+yes,Washington Elementary District - Bids,AZ,page,https://washington.org/meetings/service-request-rfp,no,,auto; leaid 0409060
+yes,Sunnyside Unified District - Bids,AZ,page,https://www.susd12.org/purchasing,no,,auto; leaid 0408170
+yes,Kyrene Elementary District - Bids,AZ,page,https://www.kyrene.org/about-kyrene/departments/finance/purchasing,no,,auto; leaid 0404230
+yes,Tolleson Union High School District - Bids,AZ,page,https://www.tollesonschools.com/departments/business-services,no,,auto; leaid 0408520
+yes,Marana Unified District - Bids,AZ,page,https://www.maranausd.org/administration/departments/procurement/musd-bid-postings,no,,auto; leaid 0404630
+yes,Tempe Union High School District - Bids,AZ,page,https://www.tempeunion.org/departments/purchasing-warehouse/purchasing-warehouse,no,,auto; leaid 0408340
+yes,Yuma Union High School District - Bids,AZ,page,https://www.yumaschools.org/o/ysd/page/rfpprocurement,no,,auto; leaid 0409630
+yes,Litchfield Elementary District - Bids,AZ,page,https://www.litchfieldschools.org/page/current-bids,no,,auto; leaid 0404380
+yes,Tempe School District - Bids,AZ,page,https://www.tempeschools.org/discover/contact-us/purchasing,no,,auto; leaid 0408310
+yes,Alhambra Elementary District - Bids,AZ,page,https://www.alhambraesd.org/o/aesd/page/purchasing,no,,auto; leaid 0400600
+yes,Agua Fria Union High School District - Bids,AZ,page,https://www.aguafria.org/departments/business-services/purchasing,no,,auto; leaid 0400450
+yes,Flagstaff Unified District - Bids,AZ,page,https://www.fusd1.org/information-for-vendors,no,,auto; leaid 0402860
+yes,Kingman Unified School District - Bids,AZ,page,https://www.kusd.org/o/kusd/page/rfps-ifbs,no,,auto; leaid 0400295
+yes,Buckeye Elementary District - Bids,AZ,page,https://www.besd33.org/departments/purchasing,no,,auto; leaid 0401380
+yes,Humboldt Unified District - Bids,AZ,page,https://www.humboldtunified.com/district-departments/businessfinance-office/wwwhumboldtunifiedcomdistrict-departmentshuman-resourcessalary-schedules/purchasing,no,,auto; leaid 0403870
+yes,Lake Havasu Unified District - Bids,AZ,page,https://www.lhusd.org/documents/departments/business-services/bids-and-requests-for-proposal-(rfp)/rfp-23-24-02-cost-reimbursable-fsmc-contract/rfp-documentation/23984808,no,,auto; leaid 0404280
+yes,Creighton Elementary District - Bids,AZ,page,https://www.creightonschools.org/departments/business-services,no,,auto; leaid 0402430
+yes,Cave Creek Unified District - Bids,AZ,page,https://www.ccusd93.org/all-departments/business-services/finance/vendors,no,,auto; leaid 0400001
+yes,J. O. Combs Unified School District - Bids,AZ,page,https://www.jocombs.org/departments/business-services,no,,auto; leaid 0403990
+yes,Apache Junction Unified District - Bids,AZ,page,https://www.ajusd.org/rfps,no,,auto; leaid 0400790
+yes,Tolleson Elementary District - Bids,AZ,page,https://www.tollesonschools.com/departments/business-services,no,,auto; leaid 0408490
+yes,Osborn Elementary District - Bids,AZ,page,https://www.osbornschools.org/departments/business-services/purchasing,no,,auto; leaid 0405670
+yes,Page Unified District - Bids,AZ,page,https://www.pageud.org/departments/business-office,no,,auto; leaid 0405820
+yes,Chino Valley Unified District - Bids,AZ,page,https://www.chinovalleyschools.com/apps/pages/index.jsp?uREC_ID=4426632&type=d,no,,auto; leaid 0400003
+yes,Los Angeles Unified School District - Bids,CA,page,https://procurement.lausd.org/apps/pages/Solicitations,no,,auto; leaid 0622710
+yes,Long Beach Unified School District - Bids,CA,page,https://www.lbschools.net/departments/purchasing-and-contracts/vendor-information,no,,auto; leaid 0622500
+yes,Elk Grove Unified School District - Bids,CA,page,https://blogs.egusd.net/bids/,no,,auto; leaid 0612330
+yes,Corona-Norco Unified School District - Bids,CA,page,https://www.cnusd.k12.ca.us/departments/business_services/purchasing/bids_rfps,no,,auto; leaid 0609850
+yes,San Francisco Unified School District - Bids,CA,page,https://www.sfusd.edu/business-with-sfusd/current-bids-and-rfps,no,,auto; leaid 0634410
+yes,Kern High School District - Bids,CA,page,https://www.kernhigh.org/apps/pages/index.jsp?uREC_ID=619524&type=d&pREC_ID=1083278,no,,auto; leaid 0619540
+yes,Clovis Unified School District - Bids,CA,page,https://www.cusd.com/bid-schedule,no,,auto; leaid 0609030
+yes,Capistrano Unified School District - Bids,CA,page,https://www.capousd.org/subsites/Purchasing/ACTIVE-Procurements/index.html,no,,auto; leaid 0607440
+yes,Santa Ana Unified School District - Bids,CA,page,https://www.sausd.us/departments/business-services/facilities/maintenance-operations/vendor-registration-bids,no,,auto; leaid 0635310
+yes,Sacramento City Unified School District - Bids,CA,page,https://www.scusd.edu/departments/business-and-operations/purchasing-services,no,,auto; leaid 0633840
+yes,Garden Grove Unified School District - Bids,CA,page,https://www.ggusd.us/business/purchasing,no,,auto; leaid 0614880
+yes,San Juan Unified School District - Bids,CA,page,https://www.sanjuan.edu/our-district/contracts-and-bids,no,,auto; leaid 0634620
+yes,Oakland Unified School District - Bids,CA,page,https://www.ousd.org/community/requests-for-proposals-rfps,no,,auto; leaid 0628050
+yes,Fontana Unified School District - Bids,CA,page,https://www.fusd.net/departments/business-services-division/purchasing/opengov,no,,auto; leaid 0613920
+yes,Moreno Valley Unified School District - Bids,CA,page,https://www.mvusd.net/departments/business-services/purchasing/bids,no,,auto; leaid 0625800
+yes,San Ramon Valley Unified School District - Bids,CA,page,https://www.srvusd.net/Departments/Business-Services/Technology/E-Rate-RFPs/index.html,no,,auto; leaid 0635130
+yes,Mount Diablo Unified School District - Bids,CA,page,https://www.mdusd.org/departments/business-services/purchasing-warehouse/bid-information/construction-bids,no,,auto; leaid 0626370
+yes,Visalia Unified School District - Bids,CA,page,https://www.vusd.org/departments/business-services/business-functions/facilities/bid-schedule-department-bids-rfp-opportunities,no,,auto; leaid 0641160
+yes,Temecula Valley Unified School District - Bids,CA,page,https://www.tvusd.k12.ca.us/community/bids/purchasing-bidsrfps,no,,auto; leaid 0600028
+yes,Chino Valley Unified School District - Bids,CA,page,http://chino.k12.ca.us/36621_4,no,,auto; leaid 0608460
+yes,Orange Unified School District - Bids,CA,page,https://www.orangeusd.org/departments/business-services/purchasing/bids,no,,auto; leaid 0628650
+yes,Manteca Unified School District - Bids,CA,page,https://www.mantecausd.net/staff/departments/business-services/purchasing,no,,auto; leaid 0623610
+yes,Rialto Unified School District - Bids,CA,page,https://www.rialto.k12.ca.us/service-areas/business-services/purchasing-services/vendor-registration-bidding-opportunities,no,,auto; leaid 0632370
+yes,Twin Rivers Unified School District - Bids,CA,page,https://www.trusd.net/Departments/Contract-Services--Risk-Management/Doing-Business-with-TRUSD/index.html,no,,auto; leaid 0601332
+yes,Saddleback Valley Unified School District - Bids,CA,page,https://www.svusd.org/departments/business-services/facilities-maintenance-operations-construction/bidding-opportunities,no,,auto; leaid 0633860
+yes,Placentia-Yorba Linda Unified School District - Bids,CA,page,https://www.pylusd.org/apps/pages/index.jsp?uREC_ID=185004&type=d,no,,auto; leaid 0630660
+yes,Murrieta Valley Unified School District - Bids,CA,page,https://www.murrieta.k12.ca.us/directory/business-operations/purchasing/bids-contractor-info/current-bids,no,,auto; leaid 0600029
+yes,Downey Unified School District - Bids,CA,page,https://web.dusd.net/purchasing/,no,,auto; leaid 0611460
+yes,Chula Vista Elementary School District - Bids,CA,page,https://www.cvesd.org/departments/business-services/purchasing-warehouse-publications/bids-rfq,no,,auto; leaid 0608610
+yes,Antelope Valley Union Joint High School District - Bids,CA,page,https://www.avdistrict.org/about/district-departments/business-services/bids-rfps-rfa,no,,auto; leaid 0602820
+yes,Tustin Unified School District - Bids,CA,page,https://www.tustin.k12.ca.us/departments/administrative-services/it-rfps,no,,auto; leaid 0640150
+yes,East Side Union High School District - Bids,CA,page,https://www.esuhsd.org/Community/Purchasing/index.html,no,,auto; leaid 0611820
+yes,Lake Elsinore Unified School District - Bids,CA,page,https://www.leusd.k12.ca.us/department-directory/fiscal-services/purchasing/current-bids,no,,auto; leaid 0600027
+yes,Folsom-Cordova Unified School District - Bids,CA,page,https://www.fcusd.org/departments/fiscal-services-accounts-payable-benefits-budget-payroll-purchasing/purchasing,no,,auto; leaid 0613890
+yes,Montebello Unified School District - Bids,CA,page,https://www.montebello.k12.ca.us/apps/pages/index.jsp?uREC_ID=2210592&type=d&pREC_ID=2407706,no,,auto; leaid 0625470
+yes,Madera Unified School District - Bids,CA,page,https://www.maderausd.org/purchasing/active-bids-rfps/,no,,auto; leaid 0623340
+yes,Redlands Unified School District - Bids,CA,page,https://www.redlandsusd.net/departments/business-services/purchasing-receiving/bidsrfps,no,,auto; leaid 0632070
+yes,San Marcos Unified School District - Bids,CA,page,https://www.smusd.org/bid-proposal-opportunities,no,,auto; leaid 0634880
+yes,Colton Joint Unified School District - Bids,CA,page,https://www.cjusd.net/departments/departments-services/home/purchasing,no,,auto; leaid 0609390
+yes,Panama-Buena Vista School District - Bids,CA,page,https://www.pbvusd.k12.ca.us/departments/business-services/facilites-planning-construction/vendor-information,no,,auto; leaid 0606390
+yes,Vista Unified School District - Bids,CA,page,https://www.vistausd.org/departments/businessservices/fiscal-services/purchasing,no,,auto; leaid 0641190
+yes,Ontario-Montclair School District - Bids,CA,page,https://www.omsd.net/main-purchasing/bidding,no,,auto; leaid 0628470
+yes,Abc Unified School District - Bids,CA,page,https://www.abcusd.us/apps/pages/index.jsp?uREC_ID=2014922&type=d&pREC_ID=2555122,no,,auto; leaid 0601620
+yes,Hayward Unified School District - Bids,CA,page,https://www.husd.us/departments/purchasing/active-bids-proposals,no,,auto; leaid 0616740
+yes,Newport-Mesa Unified School District - Bids,CA,page,https://web.nmusd.us/departments/business-services/purchasing/bid-archives,no,,auto; leaid 0627240
+yes,Compton Unified School District - Bids,CA,page,https://www.compton.k12.ca.us/departments/business-services/purchasing-contracts,no,,auto; leaid 0609620
+yes,Oxnard Union High School District - Bids,CA,page,https://www.oxnardunion.org/departments/business-services/purchasing-warehousing/rfp-archive,no,,auto; leaid 0629270
+yes,Grossmont Union High School District - Bids,CA,page,https://www.guhsd.net/Departments/Business-Services/Purchasing/Solicitations/index.html,no,,auto; leaid 0616230
+yes,Hacienda La Puente Unified School District - Bids,CA,page,https://www.hlpschools.org/district/business-services-division/purchasing-warehouse,no,,auto; leaid 0616325
+yes,Napa Valley Unified School District - Bids,CA,page,https://www.nvusd.org/partnerships/vendorandcontractoropportunities,no,,auto; leaid 0626640
+yes,Simi Valley Unified School District - Bids,CA,page,https://www.simivalleyusd.org/community1/available-rfq-rfp-and-bids,no,,auto; leaid 0636840
+yes,Central Unified School District - Bids,CA,page,https://www.centralunified.org/departments/executive-services/facilities-planning/request-for-qualifications-rfq,no,,auto; leaid 0607970
+yes,Cajon Valley Union Elementary School District - Bids,CA,page,https://www.cajonvalley.net/departments/purchasing/eprocurement-instructions,no,,auto; leaid 0606810
+yes,Alhambra Unified School District - Bids,CA,page,https://www.ausd.us/apps/pages/index.jsp?uREC_ID=495951&type=d&pREC_ID=227117,no,,auto; leaid 0600153
+yes,Anaheim Elementary School District - Bids,CA,page,https://anaheimelementary.org/administrative-services/purchasing/bid-opportunities/,no,,auto; leaid 0602610
+yes,Huntington Beach Union High School District - Bids,CA,page,https://www.hbuhsd.edu/apps/pages/index.jsp?uREC_ID=305862&type=d,no,,auto; leaid 0618060
+yes,Burbank Unified School District - Bids,CA,page,https://www.burbankusd.org/departments/purchasing-services,no,,auto; leaid 0606450
+yes,Oxnard Elementary School District - Bids,CA,page,https://www.oxnardsd.org/departments/purchasing/purchasing,no,,auto; leaid 0629220
+yes,Pasadena Unified School District - Bids,CA,page,https://www.pusd.us/departments/measure-o/archived/measure-tt/bidding-opportunities,no,,auto; leaid 0629940
+yes,Lancaster Elementary School District - Bids,CA,page,https://www.lancsd.org/Departments/Child-Nutrition-Services/Purchasing-Announcements/index.html,no,,auto; leaid 0620880
+yes,Tracy Unified School District - Bids,CA,page,https://www.tracy.k12.ca.us/departments/business-services,no,,auto; leaid 0600047
+yes,Santa Clara Unified School District - Bids,CA,page,https://www.santaclarausd.org/about-us/departments/nutrition-services/open-bids-and-proposals,no,,auto; leaid 0635430
+yes,Pleasanton Unified School District - Bids,CA,page,https://www.pleasantonusd.net/departments/business-services/purchasing,no,,auto; leaid 0600020
+yes,Apple Valley Unified School District - Bids,CA,page,https://www.avusd.org/departments/administrative-services/business-services/rfps-and-bids,no,,auto; leaid 0600017
+yes,Cupertino Union Elementary School District - Bids,CA,page,https://www.cusdk8.org/departments/operations/purchasing/bid-opportunities,no,,auto; leaid 0610290
+yes,Turlock Unified School District - Bids,CA,page,https://www.turlock.k12.ca.us/departments/business-services/online-bidding-for-warehouse-supplies,no,,auto; leaid 0600158
+yes,Fullerton Joint Union High School District - Bids,CA,page,https://www.fjuhsd.org/purchasing-department,no,,auto; leaid 0614760
+yes,Paramount Unified School District - Bids,CA,page,https://www.paramountusd.com/departments/business-services/purchasing,no,,auto; leaid 0629850
+yes,San Dieguito Union High School District - Bids,CA,page,https://www.sduhsd.net/Departments/Business-Services/Purchasing/Current-Bids/index.html,no,,auto; leaid 0634380
+yes,Chico Unified School District - Bids,CA,page,https://www.chicousd.org/Departments/Business-Services/Request-for-Proposal-RFP/index.html,no,,auto; leaid 0608370
+yes,Lynwood Unified School District - Bids,CA,page,https://www.mylusd.org/departments/business-services/purchasing/bids-and-rfps,no,,auto; leaid 0623160
+yes,Rowland Unified School District - Bids,CA,page,https://www.rowlandschools.org/ourpages/users/cmartinez/BID%20NO_%20FY2627-RFQ-01_Architectural_Services.pdf,no,,auto; leaid 0633750
+yes,Fullerton Elementary School District - Bids,CA,page,https://www.fullertonsd.org/departments/business-services/business-services-divisions/about-purchasing-warehouse-instructional-materials/current-bids-rfps-rfqs,no,,auto; leaid 0614730
+yes,Roseville City Elementary School District - Bids,CA,page,https://www.rjuhsd.us/departments/facilities-development/bids-projects/archived-bids,no,,auto; leaid 0633600
+yes,Covina-Valley Unified School District - Bids,CA,page,https://www.c-vusd.org/departments/business-services/purchasing/closed-bids,no,,auto; leaid 0610050
+yes,La Mesa-Spring Valley School District - Bids,CA,page,https://www.lmsvschools.org/purchasing-services/,no,,auto; leaid 0620250
+yes,Pittsburg Unified School District - Bids,CA,page,https://pittsburgusd.net/Departments/Business-Services/Facilities-Planning--Management/Facilities-Archived-Bids/index.html,no,,auto; leaid 0630600
+yes,Roseville Joint Union High School District - Bids,CA,page,https://www.rjuhsd.us/departments/facilities-development/bids-projects/archived-bids,no,,auto; leaid 0633630
+yes,Palos Verdes Peninsula Unified School District - Bids,CA,page,https://www.pvpusd.net/apps/pages/index.jsp?uREC_ID=1434178&type=d&pREC_ID=1598355,no,,auto; leaid 0629700
+yes,Baldwin Park Unified School District - Bids,CA,page,https://www.bpusd.net/apps/pages/index.jsp?uREC_ID=887794&type=d&pREC_ID=1238603,no,,auto; leaid 0603690
+yes,San Jacinto Unified School District - Bids,CA,page,https://www.sanjacinto.k12.ca.us/apps/pages/index.jsp?uREC_ID=4481445&type=d&pREC_ID=1595995,no,,auto; leaid 0634440
+yes,Santa Rosa High School District - Bids,CA,page,https://www.srcschools.org/departments/business-services/purchasing/bids,no,,auto; leaid 0635830
+yes,Upland Unified School District - Bids,CA,page,https://www.upland.k12.ca.us/district-office/business/purchasing-warehouse,no,,auto; leaid 0600016
+yes,Fremont Union High School District - Bids,CA,page,https://www.fuhsd.org/departments/nutrition-services/bids,no,,auto; leaid 0614430
+yes,Bellflower Unified School District - Bids,CA,page,https://www.busd.k12.ca.us/departments/business-services/fiscal-services,no,,auto; leaid 0604440
+yes,Las Virgenes Unified School District - Bids,CA,page,https://www.lvusd.org/departments/business-services/current-rfps,no,,auto; leaid 0621000
+yes,Kings Canyon Joint Unified School District - Bids,CA,page,https://www.kcusd.com/departments/purchasing-warehouse/bid-opportunities,no,,auto; leaid 0619700
+yes,Lucia Mar Unified School District - Bids,CA,page,https://www.luciamarschools.org/bids-construction,no,,auto; leaid 0623080
+yes,Brentwood Union Elementary School District - Bids,CA,page,https://www.brentwood.k12.ca.us/page/purchasing/,no,,auto; leaid 0605910
+yes,Monterey Peninsula Unified School District - Bids,CA,page,https://www.mpusd.net/facilities-construction-bids-and-cu,no,,auto; leaid 0625530
+yes,Castro Valley Unified School District - Bids,CA,page,https://cv.k12.ca.us/142782_3,no,,auto; leaid 0607800
+yes,Greenfield Union School District - Bids,CA,page,https://www.gfusd.net/apps/pages/index.jsp?uREC_ID=444398&type=d&pREC_ID=2421061,no,,auto; leaid 0616050
+yes,Berkeley Unified School District - Bids,CA,page,https://www.berkeleyschools.net/departments/purchasing/,no,,auto; leaid 0604740
+yes,San Mateo Union High School District - Bids,CA,page,https://www.smuhsd.org/departments/capital-facilities/facilities-construction-contracts-bids,no,,auto; leaid 0634980
+yes,Westside Union Elementary School District - Bids,CA,page,https://www.westside.k12.ca.us/departments/business/vendors/bids,no,,auto; leaid 0642120
+yes,Evergreen Elementary School District - Bids,CA,page,https://www.eesd.org/departments/business-and-finanace/purchasing-bids,no,,auto; leaid 0613140
+yes,Alameda City Unified School District - Bids,CA,page,https://www.alamedaunified.org/departments/fiscal-services/archived-bids,no,,auto; leaid 0601770
+yes,Santa Monica-Malibu Unified School District - Bids,CA,page,https://www.smmusd.org/departments/purchasing/proposals-quotes-bids,no,,auto; leaid 0635700
+yes,Campbell Union High School District - Bids,CA,page,http://www.cuhsd.org/apps/pages/purchasing,no,,auto; leaid 0607230
+yes,Yucaipa-Calimesa Joint Unified School District - Bids,CA,page,https://www.yucaipaschools.com/page/purchasing,no,,auto; leaid 0643560
+yes,Salinas City Elementary School District - Bids,CA,page,https://www.salinascityesd.org/department/maintenance/contractor-bid-opportunities,no,,auto; leaid 0633930
+yes,Westminster School District - Bids,CA,page,https://www.wsdk8.us/departments/business-services/purchasing/current-bidding-opportunities,no,,auto; leaid 0642150
+yes,Morgan Hill Unified School District - Bids,CA,page,https://www.mhusd.org/departments/business-services/purchasing-and-vendor-registration,no,,auto; leaid 0625830
+yes,West Covina Unified School District - Bids,CA,page,https://www.wcusd.org/departments/business-services/purchasing-repographics-and-warehouse,no,,auto; leaid 0642000
+yes,Snowline Joint Unified School District - Bids,CA,page,https://www.snowlineschools.com/apps/pages/index.jsp?uREC_ID=1048049&type=d&pREC_ID=2744369,no,,auto; leaid 0636970
+yes,El Monte Union High School District - Bids,CA,page,https://www.emuhsd.org/bids,no,,auto; leaid 0612120
+yes,South San Francisco Unified School District - Bids,CA,page,https://www.ssfusd.org/departments/business-services/facilities-department/business-with-ssfusd/bids-and-rfps/rfps-rfqs-rfos-rfis,no,,auto; leaid 0637530
+yes,Adelanto Elementary School District - Bids,CA,page,https://www.aesd.net/divisions/business-services/fiscal-services/purchasing-services,no,,auto; leaid 0601710
+yes,East Whittier City Elementary School District - Bids,CA,page,https://www.ewcsd.org/apps/pages/index.jsp?uREC_ID=349821&type=d&pREC_ID=915826,no,,auto; leaid 0611850
+yes,Alum Rock Union Elementary School District - Bids,CA,page,https://www.arusd.org/departments/business-services/purchasing/bids,no,,auto; leaid 0602310
+yes,Alisal Union Elementary School District - Bids,CA,page,https://www.alisal.org/apps/pages/index.jsp?uREC_ID=4378323&type=d&pREC_ID=2582030,no,,auto; leaid 0601950
+yes,Inglewood Unified School District - Bids,CA,page,https://www.inglewoodusd.com/apps/pages/index.jsp?uREC_ID=4454985&type=d&pREC_ID=1758605,no,,auto; leaid 0618390
+yes,Hawthorne Elementary School District - Bids,CA,page,https://www.hawthornesd.org/departments/purchasing/bids,no,,auto; leaid 0616680
+yes,El Monte City School District - Bids,CA,page,https://www.emcsd.org/apps/pages/index.jsp?uREC_ID=1558082&type=d&pREC_ID=2393432,no,,auto; leaid 0612090
+yes,Ocean View Elementary School District - Bids,CA,page,https://www.ovsd.org/departments/purchasing,no,,auto; leaid 0628140
+yes,Azusa Unified School District - Bids,CA,page,https://www.azusa.org/departments/business-services/purchasing,no,,auto; leaid 0603600
+yes,Redwood City Elementary School District - Bids,CA,page,https://www.rcsdk8.net/our-programs-and-services/business-services/request-for-proposals,no,,auto; leaid 0632130
+yes,Paso Robles Joint Unified School District - Bids,CA,page,https://www.pasoschools.org/active-rfps-bids,no,,auto; leaid 0600048
+yes,Delano Union Elementary School District - Bids,CA,page,https://www.duesd.org/governance/rfprfq-and-bid-notices,no,,auto; leaid 0610890
+yes,Patterson Joint Unified School District - Bids,CA,page,https://www.patterson.k12.ca.us/district/departments/fiscal-services/purchasing-transport,no,,auto; leaid 0630030
+yes,Santee School District - Bids,CA,page,https://www.santeesd.net/district/department/business_services/fiscal_services/purchasing/bid_opportunities_rfp,no,,auto; leaid 0635880
+yes,Franklin-Mckinley Elementary School District - Bids,CA,page,https://www.fmsd.org/community/business-opportunities/bids,no,,auto; leaid 0614370
+yes,Berryessa Union Elementary School District - Bids,CA,page,https://www.berryessa.k12.ca.us/Departments/Business-Services/Purchasing/BIDS/index.html,no,,auto; leaid 0604800
+yes,Pleasant Valley Elementary School District - Bids,CA,page,https://www.pleasantvalleysd.org/about-pvsd/measure-c-implementation/bids-agreements,no,,auto; leaid 0630990
+yes,Sunnyvale Elementary School District - Bids,CA,page,https://www.sesd.org/about-usnew/departments/operations/construction-contractor-information/rfqp-information,no,,auto; leaid 0638460
+yes,Kerman Unified School District - Bids,CA,page,https://www.kermanusd.com/page/catalog-purchasing-supplies,no,,auto; leaid 0619490
+yes,Union Elementary School District - Bids,CA,page,https://www.unionsd.org/community/request-for-proposals-rfp,no,,auto; leaid 0640320
+yes,Travis Unified School District - Bids,CA,page,https://www.travisusd.org/departments/educational-services-new/rfps-bids,no,,auto; leaid 0639630
+yes,El Centro Elementary School District - Bids,CA,page,https://www.ecesd.org/apps/pages/index.jsp?uREC_ID=423668&type=d&pREC_ID=2604139,no,,auto; leaid 0612030
+yes,Oakdale Joint Unified School District - Bids,CA,page,https://www.ojusd.org/district/business/introduction-to-fiscal-services/purchasing,no,,auto; leaid 0600062
+yes,Temple City Unified School District - Bids,CA,page,https://www.tcusd.net/purchasing-warehouse,no,,auto; leaid 0638980
+yes,Sulphur Springs Union Elementary School District - Bids,CA,page,https://www.sssd.k12.ca.us/skyline-ranch-lease-leaseback-rfq,no,,auto; leaid 0638220
+yes,Mountain View Elementary School District - Bids,CA,page,https://www.mtviewschools.com/50812_3,no,,auto; leaid 0626190
+yes,Burton Elementary School District - Bids,CA,page,https://www.burtonschools.org/29295_3,no,,auto; leaid 0606570
+yes,Lawndale Elementary School District - Bids,CA,page,https://www.lawndalesd.net/community/construction-rfps/projects,no,,auto; leaid 0621210
+yes,Romoland Elementary School District - Bids,CA,page,https://www.romoland.net/departments/nutrition-services/bid-opportunities-rfp,no,,auto; leaid 0633390
+yes,Lakeside Union Elementary School District - Bids,CA,page,https://www.lsusd.net/purchasing/,no,,auto; leaid 0620790
+yes,Coalinga-Huron Unified School District - Bids,CA,page,https://www.chusd.org/o/chusd/page/archived-bids,no,,auto; leaid 0609120
+yes,Mountain View-Los Altos Union School District - Bids,CA,page,https://www.mvla.net/rfp,no,,auto; leaid 0626310
+yes,Banning Unified School District - Bids,CA,page,https://www.banning.k12.ca.us/administration-services/business-services/bid-information,no,,auto; leaid 0603840
+yes,La Habra City Elementary School District - Bids,CA,page,https://www.lahabraschools.org/business-services/rfp,no,,auto; leaid 0620190
+yes,Charter Oak Unified School District - Bids,CA,page,https://www.cousd.net/apps/pages/index.jsp?uREC_ID=3185294&type=d&pREC_ID=2663774,no,,auto; leaid 0608190
+yes,Garvey Elementary School District - Bids,CA,page,https://www.garvey.k12.ca.us/252310_3,no,,auto; leaid 0614940
+yes,Buckeye Union Elementary School District - Bids,CA,page,https://www.buckeyeusd.org/district-services/facilities/rfqbiddingnotices,no,,auto; leaid 0606270
+yes,San Ysidro Elementary School District - Bids,CA,page,https://www.sysdschools.org/departments/information-technology/bid-opportunities-and-rfp,no,,auto; leaid 0635220
+yes,Center Joint Unified School District - Bids,CA,page,https://www.centerusd.org/Departments/Fiscal-Services/index.html,no,,auto; leaid 0607900
+yes,Delano Joint Union High School District - Bids,CA,page,https://www.djuhsd.org/departments/information-technology/e-rate-rfps,no,,auto; leaid 0610860
+yes,Lennox Elementary School District - Bids,CA,page,https://www.lennox.k12.ca.us/departments/technology/bids,no,,auto; leaid 0621420
+yes,Tahoe-Truckee Unified School District - Bids,CA,page,https://www.ttusd.org/departments/technology-services/rfps,no,,auto; leaid 0638770
+yes,Belmont-Redwood Shores Elementary School District - Bids,CA,page,https://www.brssd.org/bid-opportunities,no,,auto; leaid 0604530
+yes,Fillmore Unified School District - Bids,CA,page,https://www.fillmoreusd.org/apps/pages/index.jsp?uREC_ID=369878&type=d&pREC_ID=1114715,no,,auto; leaid 0613800
+yes,Martinez Unified School District - Bids,CA,page,https://www.martinezusd.net/rfp,no,,auto; leaid 0624030
+yes,Del Mar Union Elementary School District - Bids,CA,page,https://www.dmusd.org/Departments/Business-Services/Purchasing/Bid-Opportunities/index.html,no,,auto; leaid 0610740
+yes,Southern Kern Unified School District - Bids,CA,page,https://www.skusd.k12.ca.us/departments/information-technology/rfps,no,,auto; leaid 0637620
+yes,Rescue Union Elementary School District - Bids,CA,page,https://www.rescueusd.org/__catapult_pages/b4e4923c-bc1f-4560-8ecd-e998d0913e47/Bids--Proposals.html,no,,auto; leaid 0632310
+yes,Del Norte County Unified School District - Bids,CA,page,https://www.dnusd.org/departments/business/district-business-rfps,no,,auto; leaid 0610770
+yes,Galt Joint Union Elementary School District - Bids,CA,page,https://www.galt.k12.ca.us/Our-District/Facilities-and-Planning/Formal-Bids/index.html,no,,auto; leaid 0614790
+yes,Los Gatos-Saratoga Joint Union School District - Bids,CA,page,https://www.lgsuhsd.org/departments/business-services/current-bids,no,,auto; leaid 0622800
+yes,Lafayette Elementary School District - Bids,CA,page,https://www.lafsd.org/apps/pages/index.jsp?uREC_ID=3800244&type=d&pREC_ID=2655251,no,,auto; leaid 0620310
+yes,Eastside Union Elementary School District - Bids,CA,page,https://www.eastsideusd.org/apps/pages/index.jsp?uREC_ID=4434674&type=d&pREC_ID=2679241,no,,auto; leaid 0611910
+yes,Dixon Unified School District - Bids,CA,page,https://www.dixonusd.org/business-services/,no,,auto; leaid 0611280
+yes,Bassett Unified School District - Bids,CA,page,https://www.bassettusd.org/apps/pages/index.jsp?uREC_ID=1184493&type=d&pREC_ID=2695056,no,,auto; leaid 0604110
+yes,Cambrian Elementary School District - Bids,CA,page,https://www.cambriansd.org/departments/business-services,no,,auto; leaid 0607140
+yes,Palo Verde Unified School District - Bids,CA,page,https://www.pvusd.us/Departments/Business-Services/index.html,no,,auto; leaid 0629640
+yes,Coronado Unified School District - Bids,CA,page,https://coronadousd.net/Departments/Business-Services/Purchasing/index.html,no,,auto; leaid 0609870
+yes,Cabrillo Unified School District - Bids,CA,page,https://www.cabrillo.us/departments/business-services,no,,auto; leaid 0606780
+yes,Solana Beach Elementary School District - Bids,CA,page,https://www.sbsd.k12.ca.us/departments/business-services,no,,auto; leaid 0636990
+yes,Fairfax Elementary School District - Bids,CA,page,https://www.fairfax.k12.ca.us/apps/pages/index.jsp?uREC_ID=3736129&type=d&pREC_ID=2433795,no,,auto; leaid 0613290
+yes,Escalon Unified School District - Bids,CA,page,https://www.escalonusd.org/apps/pages/index.jsp?uREC_ID=1556462&type=d&pREC_ID=1682220,no,,auto; leaid 0612840
+yes,Exeter Unified School District - Bids,CA,page,https://exetersd.org/bids-rfps,no,,auto; leaid 0601423
+yes,Orinda Union Elementary School District - Bids,CA,page,https://www.orindaschools.org/Departments/Facilities-and-Maintenance/Bids-and-Proposals/index.html,no,,auto; leaid 0628860
+yes,Wiseburn Unified School District - Bids,CA,page,https://www.wiseburn.org/about/district-departments/business-services/bidding-opportunities,no,,auto; leaid 0601428
+yes,San Lorenzo Valley Unified School District - Bids,CA,page,https://www.slvusd.org/apps/pages/index.jsp?uREC_ID=1128477&type=d&pREC_ID=1399235,no,,auto; leaid 0634740
+yes,Rosemead Elementary School District - Bids,CA,page,https://www.rosemead.k12.ca.us/our-district/departments/administrative-services-division/bidrfprfq-information,no,,auto; leaid 0633570
+yes,Orland Joint Unified School District - Bids,CA,page,https://www.orlandusd.net/Departments/Facilities/Current-Bids/index.html,no,,auto; leaid 0600045
+yes,Gateway Unified School District - Bids,CA,page,https://www.gatewayusd.org/departments/technology/rfp,no,,auto; leaid 0614950
+yes,Salida Union Elementary School District - Bids,CA,page,https://www.salida.k12.ca.us/42365_3,no,,auto; leaid 0633900
+yes,Millbrae Elementary School District - Bids,CA,page,https://www.millbraeschooldistrict.org/departments/business-services/fiscal/purchasing,no,,auto; leaid 0624900
+yes,Galt Joint Union High School District - Bids,CA,page,https://www.ghsd.us/apps/pages/index.jsp?uREC_ID=604382&type=d&pREC_ID=1094521,no,,auto; leaid 0614820
+yes,Cherry Creek School District 5 - Bids,CO,page,https://www.cherrycreekschools.org/programs-and-services/purchasingstrategic-sourcing-and-supplier-management/open-solicitations-for-cherry-creek,no,,auto; leaid 0802910
+yes,Adams-Arapahoe School District 28J - Bids,CO,page,https://www.aurorak12.org/divisions/division_of_finance/departments/purchasing/,no,,auto; leaid 0802340
+yes,Adams 12 Five Star Schools - Bids,CO,page,https://www.adams12.org/resources/purchasing/purchasing-faq,no,,auto; leaid 0806900
+yes,Poudre School District R-1 - Bids,CO,page,https://www.psdschools.org/about/strategic-sourcing-and-contracts/solicitations,no,,auto; leaid 0803990
+yes,School District 49 - Bids,CO,page,https://www.d49.org/our-departments/business-office/purchasing-department,no,,auto; leaid 0803870
+yes,Greeley School District 6 - Bids,CO,page,https://www.greeleyschools.org/departments/finance/purchasing,no,,auto; leaid 0804410
+yes,Thompson School District R-2J - Bids,CO,page,https://www.tsd.org/departments/business-services/materials-and-procurement/purchasing-buying-and-bidding-methods,no,,auto; leaid 0805400
+yes,Pueblo County School District 70 - Bids,CO,page,https://www.district70.org/district-information/district-departments/business-services/vendor-forms,no,,auto; leaid 0806150
+yes,Mapleton School District 1 - Bids,CO,page,https://www.mapleton.us/about-us/financial-transparency/purchasing,no,,auto; leaid 0805550
+yes,Eagle County School District Re 50 - Bids,CO,page,https://www.eagleschools.net/departments/finance/other-district-specific-financial-information/rfq,no,,auto; leaid 0803540
+yes,Lewis-Palmer School District 38 - Bids,CO,page,https://www.lewispalmer.org/page/rfps-requests-for-proposal,no,,auto; leaid 0805820
+yes,Durango School District 9-R - Bids,CO,page,https://www.durangoschools.org/apps/pages/index.jsp?uREC_ID=459697&type=d&pREC_ID=1034447,no,,auto; leaid 0803480
+yes,Cheyenne Mountain School District 12 - Bids,CO,page,https://www.cheyenne.org/meetings/submit-rfp/,no,,auto; leaid 0802940
+yes,Englewood School District 1 - Bids,CO,page,https://www.englewoodschools.net/our-district/departments/business-services/purchasing,no,,auto; leaid 0803780
+yes,Bridgeport School District - Bids,CT,page,https://www.bridgeportedu.net/departments/finance-department,no,,auto; leaid 0900450
+yes,New Britain School District - Bids,CT,page,https://www.csdnb.org/departments/finance/rfps-and-calls-for-bids,no,,auto; leaid 0902670
+yes,Greenwich School District - Bids,CT,page,https://www.greenwichschools.org/departments/purchasing,no,,auto; leaid 0901710
+yes,East Hartford School District - Bids,CT,page,https://www.easthartford.org/departments/purchasing/,no,,auto; leaid 0901260
+yes,Westport School District - Bids,CT,page,https://www.westportps.org/departments/business-office/bids,no,,auto; leaid 0905040
+yes,South Windsor School District - Bids,CT,page,https://www.southwindsorschools.org/closed-rfps-and-bids,no,,auto; leaid 0904170
+yes,Ridgefield School District - Bids,CT,page,https://www.ridgefield.org/business-services,no,,auto; leaid 0903810
+yes,Middletown School District - Bids,CT,page,https://www.middletownschools.org/rfp,no,,auto; leaid 0902490
+yes,Torrington School District - Bids,CT,page,https://www.torrington.org/departments/departments/business-services/bids,no,,auto; leaid 0904590
+yes,Monroe School District - Bids,CT,page,https://www.monroeps.org/bid-information,no,,auto; leaid 0902550
+yes,Branford School District - Bids,CT,page,https://www.branfordschools.org/250218_3,no,,auto; leaid 0900420
+yes,Killingly School District - Bids,CT,page,https://www.killinglyschools.org/departments/business-office/bids-rfps,no,,auto; leaid 0902070
+yes,Ledyard School District - Bids,CT,page,https://www.ledyard.net/page/bidsrfps,no,,auto; leaid 0902160
+yes,Ansonia School District - Bids,CT,page,https://www.ansonia.org/district1/rfp,no,,auto; leaid 0900060
+yes,Colchester School District - Bids,CT,page,https://www.colchesterct.org/rfps-request-for-proposals,no,,auto; leaid 0900840
+yes,Regional School District 10 - Bids,CT,page,https://www.region10ct.org/district-information/finance-and-operations,no,,auto; leaid 0903520
+yes,Seymour School District - Bids,CT,page,https://www.seymourschools.org/district-departments/finance-operations/bid-information,no,,auto; leaid 0903990
+yes,Montville School District - Bids,CT,page,https://www.montvilleschools.org/apps/pages/index.jsp?uREC_ID=3752198&type=d&pREC_ID=2431298,no,,auto; leaid 0902580
+yes,Regional School District 16 - Bids,CT,page,https://www.region16ct.org/apps/pages/index.jsp?uREC_ID=2189187&type=d&pREC_ID=2187526,no,,auto; leaid 0903538
+yes,Plainfield School District - Bids,CT,page,https://www.plainfieldschools.org/cms/One.aspx?portalId=283129&pageId=83566687,no,,auto; leaid 0903270
+yes,District Of Columbia Public Schools - Bids,DC,page,https://dcps.dc.gov/page/doing-business-dcps,no,,auto; leaid 1100030
 yes,Broward County School District - Bids,FL,page,https://www.browardschools.com/bcps-departments/procurement/district-bid-opportunities-demandstar,no,,auto; leaid 1200180
 yes,Orange County School District - Bids,FL,page,https://www.ocps.net/procurement-services-solicitations,no,,auto; leaid 1201440
-no,Orange County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fla/orcpsfl/Board.nsf/Public,no,,auto; leaid 1201440
-yes,Palm Beach County School District - Bids,FL,page,https://www.palmbeachschools.org/doing-business-with-the-district,no,,auto; leaid 1201500
-no,Palm Beach County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/palmbeach/board.nsf/goto?open&id=agks9k7131df,no,,auto; leaid 1201500
+yes,Palm Beach County School District - Bids,FL,page,https://www.palmbeachschools.org/doing-business-with-the-district/goods-and-services-vendorssuppliers/upcoming-solicitations,no,,auto; leaid 1201500
 yes,Polk County School District - Bids,FL,page,https://www.polkschoolsfl.com/about/publicnotices,no,,auto; leaid 1201590
 yes,Lee County School District - Bids,FL,page,https://www.leeschools.net/support/procurement_services,no,,auto; leaid 1201080
-no,Lee County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DHXGC642E70F,no,,auto; leaid 1201080
-yes,Pinellas County School District - Bids,FL,page,https://www.pcsb.org/departments/finance/purchasing,no,,auto; leaid 1201560
-no,Pinellas County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/pcsfl/Board.nsf/vpublic?open,no,,auto; leaid 1201560
+yes,Pinellas County School District - Bids,FL,page,https://www.pcsb.org/departments/finance/purchasing/current-solicitations,no,,auto; leaid 1201560
 yes,Pasco County School District - Bids,FL,page,https://www.pasco.k12.fl.us/purchasing/page/business/,no,,auto; leaid 1201530
-no,Pasco County School District - Board meetings,FL,boarddocs,https://www.boarddocs.com/fl/pasco/Board.nsf/Public,no,,auto; leaid 1201530
-no,Osceola County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/osceola/Board.nsf/Public,no,,auto; leaid 1201470
 yes,Volusia County School District - Bids,FL,page,https://www.vcsedu.org/directory/departments/financial-services/procurement,no,,auto; leaid 1201920
 yes,St. Johns County School District - Bids,FL,page,https://www.stjohns.k12.fl.us/purchasing/business/,no,,auto; leaid 1201740
 yes,Collier County School District - Bids,FL,page,https://www.collierschools.com/exploreccps/budget-and-finance/purchasing,no,,auto; leaid 1200330
-no,Collier County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/collier/Board.nsf/Public,no,,auto; leaid 1200330
 yes,St. Lucie County School District - Bids,FL,page,https://www.stlucie.k12.fl.us/purch/,no,,auto; leaid 1201770
-no,St. Lucie County School District - Board meetings,FL,boarddocs,https://www.boarddocs.com/fl/stlucie/Board.nsf/public,no,,auto; leaid 1201770
 yes,Sarasota County School District - Bids,FL,page,https://www.sarasotacountyschools.net/page/rfq-selection-process/,no,,auto; leaid 1201680
 yes,Marion County School District - Bids,FL,page,https://www.marionschools.net/departments/purchasing,no,,auto; leaid 1201260
-no,Clay County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/myoneclay/Board.nsf/goto?open&id=DHDGZL4468F3,no,,auto; leaid 1200300
 yes,Leon County School District - Bids,FL,page,https://www.leonschools.net/construction-facilities-bid-opportu,no,,auto; leaid 1201110
-no,Alachua County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/alaco/Board.nsf/goto?open&id=CL4SWT74B2C1,no,,auto; leaid 1200030
 yes,Hernando County School District - Bids,FL,page,https://www.hernandoschools.org/bids-solicitations,no,,auto; leaid 1200810
 yes,Charlotte County School District - Bids,FL,page,https://www.yourcharlotteschools.net/bids,no,,auto; leaid 1200240
 yes,Citrus County School District - Bids,FL,page,https://citrusschools.org/current-bid-opportunities,no,,auto; leaid 1200270
 yes,Flagler County School District - Bids,FL,page,https://flaglerschools.com/vendors-and-contractors,no,,auto; leaid 1200540
-no,Nassau County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/nassau/Board.nsf/Public,no,,auto; leaid 1201350
 yes,Walton County School District - Bids,FL,page,https://www.walton.k12.fl.us/page/purchasing-procedures,no,,auto; leaid 1201980
-no,Walton County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/waltonsd/Board.nsf/Public,no,,auto; leaid 1201980
 yes,Putnam County School District - Bids,FL,page,https://www.putnamschools.org/page/posted-rfps,no,,auto; leaid 1201620
 yes,Sumter County School District - Bids,FL,page,http://www.sumter.k12.fl.us/120530_3,no,,auto; leaid 1201800
 yes,Monroe County School District - Bids,FL,page,https://www.keysschools.com/page/competitive-solicitations,no,,auto; leaid 1201320
 yes,Levy County School District - Bids,FL,page,https://www.levyk12.org/purchasing,no,,auto; leaid 1201140
-yes,Desoto County School District - Bids,FL,page,https://www.desotoschools.com/departments/purchasing/bids,no,,auto; leaid 1200420
-no,Desoto County School District - Board meetings,FL,boarddocs,https://go.boarddocs.com/fl/desoto/Board.nsf/goto?open&id=CAJVQ6779D6C,no,,auto; leaid 1200420
-yes,Washington County School District - Bids,FL,page,https://washington.org/meetings/service-request-rfp,no,,auto; leaid 1202010
 yes,Bradford County School District - Bids,FL,page,https://www.bradfordschools.org/purchasing-bids-and-rfps,no,,auto; leaid 1200120
-no,Bradford County School District - Board meetings,FL,boarddocs,http://go.boarddocs.com/fl/bradfordcsd/Board.nsf/public,no,,auto; leaid 1200120
 yes,Taylor County School District - Bids,FL,page,https://www.taylor.k12.fl.us/opensolicitations,no,,auto; leaid 1201860
 yes,Union County School District - Bids,FL,page,https://www.union.k12.fl.us/finance,no,,auto; leaid 1201890
 yes,Calhoun County School District - Bids,FL,page,https://www.calhounflschools.org/finance-department,no,,auto; leaid 1200210
 yes,Gulf County School District - Bids,FL,page,https://gulfcoschools.com/school-board/rfps-bids-and-items-for-sale/,no,,auto; leaid 1200690
 yes,Hamilton County School District - Bids,FL,page,https://hamiltonfl.com/55908_3,no,,auto; leaid 1200720
 yes,Lafayette County School District - Bids,FL,page,https://www.lafayette.k12.fl.us/_theme/files/Vendors%20-%20Jessica%20Lunsford%20Act%20(JLA).pdf,no,,auto; leaid 1201020
-no,Jefferson County School District - Board meetings,FL,boarddocs,https://www.boarddocs.com/mi/jsd/Board.nsf,no,,auto; leaid 1200990
+yes,Cobb County School District - Bids,GA,page,https://media.cobbk12.org/media/WWWCobb/medialib/newsletter-dec-2025.87c584123105.pdf,no,,auto; leaid 1301290
+yes,Forsyth County School District - Bids,GA,page,https://www.forsyth.k12.ga.us/district-services/finance-business/procurement-services/purchasing/euna-procurement-formerly-bonfire,no,,auto; leaid 1302220
+yes,Clayton County School District - Bids,GA,page,https://www.clayton.k12.ga.us/departments/business-services/purchasing-department/bid-information,no,,auto; leaid 1301230
+yes,Atlanta City School District - Bids,GA,page,https://www.atlantapublicschools.us/about/departments/finance/procurement-services/outstanding-solicitations,no,,auto; leaid 1300120
+yes,Henry County School District - Bids,GA,page,https://www.henry.k12.ga.us/divisions/business-and-financial-services/purchasing/solicitations,no,,auto; leaid 1302820
+yes,Chatham County School District - Bids,GA,page,https://www.chathamsd.org/documents/rfp's-request-for-proposal(s)-open-bids/701400,no,,auto; leaid 1301020
+yes,Muscogee County School District - Bids,GA,page,https://www.muscogee.k12.ga.us/community/doing-business-with-us/doing-business-with-us-clone,no,,auto; leaid 1303870
+yes,Richmond County School District - Bids,GA,page,https://www.rcboe.org/staff-departments/business-office-and-bids/current-bid-solicitations,no,,auto; leaid 1304380
+yes,Hall County School District - Bids,GA,page,https://www.hallco.org/web/active-rfps-bids/,no,,auto; leaid 1302610
+yes,Coweta County School District - Bids,GA,page,https://www.cowetaschools.net/en-US/rfp-advertisements-d29a9b33,no,,auto; leaid 1301500
+yes,Fayette County School District - Bids,GA,page,https://www.fcboe.org/departments/purchasing/solicitations-surplus,no,,auto; leaid 1302130
+yes,Newton County School District - Bids,GA,page,https://www.newtoncountyschools.org/departments/division_of_operations/procurement,no,,auto; leaid 1303930
+yes,Walton County School District - Bids,GA,page,https://www.walton.k12.ga.us/departments/school-nutrition/snp-solicitations,no,,auto; leaid 1305390
+yes,Effingham County School District - Bids,GA,page,https://www.effinghamschools.com/post-details/~board/district-homepage-news/post/rfp-construction-management-at-risk-services-sept2026,no,,auto; leaid 1301980
+yes,Whitfield County School District - Bids,GA,page,https://www.wcsga.net/departments/operations-1/procurement,no,,auto; leaid 1305700
+yes,Troup County School District - Bids,GA,page,https://www.troup.org/departments/about-finance/request-for-proposals,no,,auto; leaid 1300001
+yes,Bulloch County School District - Bids,GA,page,https://www.bulloch.k12.ga.us/business-services/bids-requests-for-proposals,no,,auto; leaid 1300630
+yes,Catoosa County School District - Bids,GA,page,https://www.catoosa.k12.ga.us/rfps-rfqs-home,no,,auto; leaid 1300930
+yes,Marietta City School District - Bids,GA,page,https://www.marietta-city.org/departments1/purchasing/current-rfq-rfp-bids,no,,auto; leaid 1303510
+yes,Oconee County School District - Bids,GA,page,https://www.oconeeschools.org/district-services/district-operations/school-nutrition/school-nutrition-solicitations,no,,auto; leaid 1303960
+yes,Gainesville City School District - Bids,GA,page,https://www.gcssk12.net/departments/business-and-operations/operations/bid-opportunities,no,,auto; leaid 1302310
+yes,Coffee County School District - Bids,GA,page,https://www.coffee.k12.ga.us/bids,no,,auto; leaid 1301350
+yes,Buford City School District - Bids,GA,page,https://www.bufordcityschools.org/apps/pages/index.jsp?uREC_ID=1618106&type=d&pREC_ID=1846234,no,,auto; leaid 1300600
+yes,Thomas County School District - Bids,GA,page,https://www.tcjackets.net/departments/financial-services/purchasing-resources,no,,auto; leaid 1304890
+yes,Long County School District - Bids,GA,page,https://www.longcountyps.com/page/rfp-bids,no,,auto; leaid 1303360
+yes,Jefferson City School District - Bids,GA,page,https://www.jeffcityschools.org/departments/finance-human-resources/finance-and-human-resources,no,,auto; leaid 1303030
+yes,Gilmer County School District - Bids,GA,page,https://www.gilmerschools.com/134837_3,no,,auto; leaid 1302340
+yes,Emanuel County School District - Bids,GA,page,https://www.emanuel.k12.ga.us/departments/administrative-services-and-operations/operations/open-bids,no,,auto; leaid 1302040
+yes,Dawson County School District - Bids,GA,page,https://www.dawsoncountyschools.org/departments/nutrition/bids,no,,auto; leaid 1301650
+yes,Stephens County School District - Bids,GA,page,https://www.stephenscountyschools.com/departments/finance/purchasing-and-accounts-payable,no,,auto; leaid 1304560
+yes,White County School District - Bids,GA,page,https://www.white.k12.ga.us/departments/operations/school_nutrition/invitation_for_bid___request_for_quotes,no,,auto; leaid 1305670
+yes,Sumter County School District - Bids,GA,page,https://www.sumterschools.org/invitationtobid,no,,auto; leaid 1304620
+yes,Tattnall County School District - Bids,GA,page,https://www.tattnallschools.org/facilitiesandmaintenance,no,,auto; leaid 1304770
+yes,Morgan County School District - Bids,GA,page,"https://www.morgan.k12.ga.us/documents/departments/finance/rfq,-rfp,-bids/542608",no,,auto; leaid 1303780
+yes,Appling County School District - Bids,GA,page,https://www.appling.k12.ga.us/bids-ads-and-rfps,no,,auto; leaid 1300060
+yes,Haralson County School District - Bids,GA,page,https://www.haralson.k12.ga.us/RFP.aspx,no,,auto; leaid 1302670
+yes,Brantley County School District - Bids,GA,page,https://www.brantley.k12.ga.us/rfp-page,no,,auto; leaid 1300480
+yes,Mcduffie County School District - Bids,GA,page,https://www.mcduffie.k12.ga.us/apps/pages/index.jsp?uREC_ID=1006441&type=d&pREC_ID=1417348,no,,auto; leaid 1303570
+yes,Elbert County School District - Bids,GA,page,https://www.elbert.k12.ga.us/ecsd-board-of-education/invitation-to-bidrfprfq,no,,auto; leaid 1302010
+yes,Banks County School District - Bids,GA,page,https://www.banks.k12.ga.us/apps/news/article/2229559?categoryId=19174,no,,auto; leaid 1300240
+yes,Fannin County School District - Bids,GA,page,https://www.fannin.k12.ga.us/departments/finance,no,,auto; leaid 1302100
+yes,Greene County School District - Bids,GA,page,https://www.greene.k12.ga.us/community/rfps-invitations-to-bid,no,,auto; leaid 1302490
+yes,Jasper County School District - Bids,GA,page,https://www.jasper.k12.ga.us/departments/business-and-finance/open-bids-rfps-and-rfqs,no,,auto; leaid 1302970
+yes,Hawaii Department Of Education - Bids,HI,page,https://hawaiipublicschools.org/useful-links/vendors-working-with-hidoe/,no,,auto; leaid 1500030
+yes,Cedar Rapids Community School District - Bids,IA,page,https://www.crschools.us/our-district/departments/purchasing/bids,no,,auto; leaid 1906540
+yes,Iowa City Community School District - Bids,IA,page,https://www.iowacityschools.org/our-district/departments/technology-innovation/technology-rfp-bid-process,no,,auto; leaid 1914700
+yes,Davenport Community School District - Bids,IA,page,https://www.davenportschools.org/about/departments/business-office/purchasing,no,,auto; leaid 1908580
+yes,Linn-Mar Community School District - Bids,IA,page,https://www.linnmar.k12.ia.us/construction-plans-and-rfps/,no,,auto; leaid 1917220
+yes,Southeast Polk Community School District - Bids,IA,page,https://www.southeastpolk.org/business-services/,no,,auto; leaid 1926820
+yes,Muscatine Community School District - Bids,IA,page,https://www.muscatine.k12.ia.us/district/about-our-district/rfps-2/,no,,auto; leaid 1920130
+yes,Mason City Community School District - Bids,IA,page,https://www.masonk12.net/district/bids--rfps/,no,,auto; leaid 1918780
+yes,Lewis Central Community School District - Bids,IA,page,https://lewiscentral.org/bid_notices/31/notice_of_sale_four_vehicles/,no,,auto; leaid 1916680
+yes,Bondurant-Farrar Community School District - Bids,IA,page,https://www.bfschools.org/our-district/bids-projects-proposals/bids-proposals-and-projects,no,,auto; leaid 1905070
+yes,North Polk Community School District - Bids,IA,page,https://www.northpolk.org/departments/buildings-grounds/notice-to-biddersrfp,no,,auto; leaid 1920910
+yes,Ballard Community School District - Bids,IA,page,https://ballard.k12.ia.us/departments/business-and-finance/,no,,auto; leaid 1904200
+yes,Pocatello School District 25 - Bids,ID,page,https://www.sd25.us/district/budget,no,,auto; leaid 1602640
+yes,Vallivue School District 139 - Bids,ID,page,https://www.vallivue.org/apps/pages/index.jsp?uREC_ID=3771558&type=d,no,,auto; leaid 1600600
+yes,Post Falls School District 273 - Bids,ID,page,https://finance.pfsd.com/resources/vendor-contracts,no,,auto; leaid 1602670
+yes,Kuna Joint School District 3 - Bids,ID,page,https://www.kunaschools.org/35777_3,no,,auto; leaid 1601770
+yes,Lewiston Independent School District 340 - Bids,ID,page,https://www.lewistonschools.net/documents/departments/business-office/purchasing/754155,no,,auto; leaid 1601860
+yes,Lakeland Joint School District 272 - Bids,ID,page,https://www.lakelandschools.org/community/bids_and_rfp.php,no,,auto; leaid 1601800
+yes,Lake Pend Oreille School District 84 - Bids,ID,page,https://www.lposd.org/public-information/public-notices/request-for-proposalsbid-notices,no,,auto; leaid 1600002
+yes,Mountain Home School District 193 - Bids,ID,page,https://www.mtnhomesd.org/departments/maintenancefacilities/itb-rfps,no,,auto; leaid 1602250
+yes,Blaine County School District 61 - Bids,ID,page,https://www.blaineschools.org/departments/finance/school-finance-basics,no,,auto; leaid 1600300
+yes,Shelley Joint School District 60 - Bids,ID,page,https://www.shelleyschools.org/rfps,no,,auto; leaid 1602910
+yes,Indian Prairie Community Unit School District 204 - Bids,IL,page,https://www.ipsd.org/departments/business-office/procurement,no,,auto; leaid 1741690
+yes,Community Unit School District 300 - Bids,IL,page,https://www.d300.org/support-services/purchasing,no,,auto; leaid 1708550
+yes,Naperville Community Unit District 203 - Bids,IL,page,https://www.naperville203.org/departments-services/business-services/bids-and-proposals,no,,auto; leaid 1727710
+yes,Aurora East Unit School District 131 - Bids,IL,page,https://www.d131.org/departments/business-office,no,,auto; leaid 1704680
+yes,Mclean County Unit School District 5 - Bids,IL,page,https://www.unit5.org/departments/finance/solicitations,no,,auto; leaid 1728620
+yes,St. Charles Community Unit School District 303 - Bids,IL,page,https://district.d303.org/departments/business-services,no,,auto; leaid 1737170
+yes,Palatine Community Consolidated School District 15 - Bids,IL,page,https://www.ccsd15.net/our-district/departments/business-auxiliary-services/bids,no,,auto; leaid 1730420
+yes,Champaign Community Unit School District 4 - Bids,IL,page,https://www.champaignschools.org/documents/departments/finance/district-bids-%26-rfps/open-bids-and-rfps/24537444,no,,auto; leaid 1709420
+yes,Cicero School District 99 - Bids,IL,page,https://www.cicd99.edu/business,no,,auto; leaid 1710200
+yes,Elmhurst School District 205 - Bids,IL,page,https://www.elmhurst205.org/page/bid-requests-rfp,no,,auto; leaid 1713970
+yes,Moline-Coal Valley School District 40 - Bids,IL,page,https://www.molineschools.org/our-district/departments/business-office/bidsrfps,no,,auto; leaid 1726400
+yes,Yorkville Community Unit School District 115 - Bids,IL,page,https://www.y115.org/about-y115/finances/formal-bidrequest-for-proposal-process-rfp,no,,auto; leaid 1743960
+yes,Quincy School District 172 - Bids,IL,page,https://www.qps.org/qps-district-rfps-and-bids/,no,,auto; leaid 1733000
+yes,Round Lake Community Unit School District 116 - Bids,IL,page,https://www.rlas-116.org/departments/business-office/bids-rfps/prior-bid-documents-rfp,no,,auto; leaid 1734990
+yes,Harlem Unit School District 122 - Bids,IL,page,https://www.harlem122.org/departments/business-services/bids,no,,auto; leaid 1718240
+yes,Oak Park Elementary School District 97 - Bids,IL,page,https://www.op97.org/business-office/bids,no,,auto; leaid 1729250
+yes,Arlington Heights School District 25 - Bids,IL,page,https://www.sd25.org/departments/facilities-management/contractors-and-vendors,no,,auto; leaid 1704140
+yes,Danville Community Consolidated School District 118 - Bids,IL,page,https://www.danvilleschools.net/request-for-proposals-rfp-1,no,,auto; leaid 1711790
+yes,East St. Louis School District 189 - Bids,IL,page,https://www.estl189.com/departments/purchasing,no,,auto; leaid 1713320
+yes,Minooka Community Consolidated School District 201 - Bids,IL,page,https://www.minooka.com/news/posts/village-of-minooka-issues-rfp-for-cdbg-community-revitalization-grant-administration-services/,no,,auto; leaid 1726310
+yes,Crete-Monee Community Unit School District 201-U - Bids,IL,page,https://www.cm201u.org/departments/business/bids_rfps,no,,auto; leaid 1711250
+yes,Hinsdale Township High School District 86 - Bids,IL,page,https://www.hinsdale86.org/departments/business-office/purchasing,no,,auto; leaid 1719320
+yes,North Shore School District 112 - Bids,IL,page,https://www.nssd112.org/departments/business-services/bids-rfps-contracts,no,,auto; leaid 1700119
+yes,Warren Township High School District 121 - Bids,IL,page,https://www.warrenschools.com/i-want-to/current-bids,no,,auto; leaid 1740800
+yes,Marion Community Unit School District 2 - Bids,IL,page,https://www.marionschools.net/departments/purchasing,no,,auto; leaid 1724600
+yes,Sycamore Community Unit School District 427 - Bids,IL,page,https://www.sycamoreschools.org/departments/business-operations/bid-opportunities,no,,auto; leaid 1738460
+yes,Glen Ellyn School District 41 - Bids,IL,page,https://www.glenellyn.org/868/Open-Bids-RFPs-and-RFQs,no,,auto; leaid 1716800
+yes,North Chicago School District 187 - Bids,IL,page,https://www.northchicago.org/services/bids.php,no,,auto; leaid 1700110
+yes,Thornton Fractional Township High School District 215 - Bids,IL,page,https://www.tfd215.org/departments/hrbusiness/bid-documents/,no,,auto; leaid 1738940
+yes,Burbank School District 111 - Bids,IL,page,https://www.bsd111.org/apps/pages/index.jsp?uREC_ID=2838601&type=d&pREC_ID=2321966,no,,auto; leaid 1736810
+yes,Minooka Community High School District 111 - Bids,IL,page,https://www.minooka.com/news/posts/village-of-minooka-issues-rfp-for-cdbg-community-revitalization-grant-administration-services/,no,,auto; leaid 1726340
+yes,Antioch Community Consolidated School District 34 - Bids,IL,page,https://www.antiochschools.net/o/ausd/page/mof-rfp,no,,auto; leaid 1703840
+yes,Aptakisic-Tripp Community Consolidated School District - Bids,IL,page,https://www.d102.org/documents/district-rfps/fy25-rfps/765220,no,,auto; leaid 1703900
+yes,Berkeley School District 87 - Bids,IL,page,https://www.berkeleyschools.net/departments/purchasing/bid-opportuniities/,no,,auto; leaid 1706000
+yes,Bradley-Bourbonnais Consolidated High School District 307 - Bids,IL,page,https://www.bradleyschools.org/district/bids-rfps-and-rfqs,no,,auto; leaid 1706960
+yes,Indianapolis Public Schools - Bids,IN,page,https://www.myips.org/central-services/finance-doing-business-with-ips/doing-business-with-ips,no,,auto; leaid 1804770
+yes,Warren Township Metropolitan School District - Bids,IN,page,https://www.warrenschools.com/i-want-to/current-bids,no,,auto; leaid 1812360
+yes,Washington Township Metropolitan School District - Bids,IN,page,https://washington.org/meetings/service-request-rfp,no,,auto; leaid 1812720
+yes,Brownsburg Community School Corporation - Bids,IN,page,https://www.brownsburg.org/Bids.aspx,no,,auto; leaid 1801020
+yes,Southwest Allen County Metropolitan School District - Bids,IN,page,https://www.southwestschools.org/departments/treasurer/bidding/,no,,auto; leaid 1800030
+yes,Plainfield Community School Corporation - Bids,IN,page,https://www.plainfieldschools.org/cms/One.aspx?portalId=283129&pageId=83566687,no,,auto; leaid 1808970
+yes,Mishawaka School City - Bids,IN,page,https://www.mishawakaschools.com/about-us/publicnotice,no,,auto; leaid 1806840
+yes,Huntington County Community School Corporation - Bids,IN,page,https://www.huntingtonsd.org/huntington-sd-16j-tap-assessor-rfp,no,,auto; leaid 1804710
+yes,Mooresville Consolidated School Corporation - Bids,IN,page,https://www.mooresvilleschools.org/UserFiles/Servers/Server_23651958/File/Board/Mooresville%20Schools%20RFQ-RFP_Issued%202026.06.24.pdf,no,,auto; leaid 1807140
+yes,Jennings County Schools - Bids,IN,page,https://www.jenningsk12.org/departments/business-and-finance/rfp,no,,auto; leaid 1805190
+yes,North Lawrence Community Schools - Bids,IN,page,https://www.northlawrencecommunityschools.org/public-notice/current-public-notices-copy,no,,auto; leaid 1807860
+yes,City Of East Chicago School District - Bids,IN,page,https://www.scec.k12.in.us/services/finance,no,,auto; leaid 1802880
+yes,New Prairie United School Corporation - Bids,IN,page,https://www.npusc.k12.in.us/business-office-bids-and-rfps/,no,,auto; leaid 1807560
+yes,Hanover Community School Corporation - Bids,IN,page,https://www.hanover.k12.in.us/departments-home/technology-department/rfp,no,,auto; leaid 1804350
+yes,Washington Community School Corporation - Bids,IN,page,https://washington.org/meetings/service-request-rfp,no,,auto; leaid 1812450
+yes,Southwest Dubois County School Corporation - Bids,IN,page,https://www.southwestschools.org/departments/treasurer/bidding/,no,,auto; leaid 1810870
+yes,Olathe Unified School District 233 - Bids,KS,page,https://www.olatheschools.org/departments/business-and-finance,no,,auto; leaid 2010140
+yes,Shawnee Mission Public Schools Unified School District - Bids,KS,page,https://www.smsd.org/about/departments/purchasing-bidding/bids-bid-summaries,no,,auto; leaid 2011640
+yes,Kansas City Unified School District 500 - Bids,KS,page,https://kckschools.org/purchasing,no,,auto; leaid 2007950
+yes,Lawrence Unified School District 497 - Bids,KS,page,https://www.usd497.org/about-us/departments/nutrition-and-wellness/food-service/information-for-vendors,no,,auto; leaid 2008400
+yes,De Soto Unified School District 232 - Bids,KS,page,https://www.usd232.org/departments/student-nutrition/food-service-rfps,no,,auto; leaid 2005490
+yes,Manhattan-Ogden Unified School District 383 - Bids,KS,page,https://www.manhattan.org/Bids.aspx,no,,auto; leaid 2009180
+yes,Goddard Unified School District 265 - Bids,KS,page,https://www.goddardusd.com/page/active-rfps/,no,,auto; leaid 2006540
+yes,Haysville Unified School District 261 - Bids,KS,page,https://www.usd261.com/departments/business-office,no,,auto; leaid 2007050
+yes,Seaman Unified School District 345 - Bids,KS,page,https://www.seamanschools.org/departments/business/bids_rfps,no,,auto; leaid 2011490
+yes,Great Bend Unified School District 428 - Bids,KS,page,https://sites.google.com/usd428.net/compbidding,no,,auto; leaid 2006660
+yes,Piper-Kansas City Unified School District 203 - Bids,KS,page,https://www.piperschools.com/welcome/procurement-opportunities,no,,auto; leaid 2010680
+yes,Tonganoxie Unified School District 464 - Bids,KS,page,https://www.tonganoxie.org/business/pages/public-solicitations,no,,auto; leaid 2012210
+yes,Fayette County School District - Bids,KY,page,https://www.fcps.net/community/purchasing-office/awarded-bids,no,,auto; leaid 2101860
+yes,Warren County School District - Bids,KY,page,https://www.warrenschools.com/i-want-to/current-bids,no,,auto; leaid 2105730
+yes,Kenton County School District - Bids,KY,page,https://www.kenton.kyschools.us/departments/purchasing/purchasing-procedures-guidelines,no,,auto; leaid 2103090
+yes,Bullitt County School District - Bids,KY,page,https://www.bullittschools.org/page/legal-notices-and-rfps,no,,auto; leaid 2100750
+yes,Marion County School District - Bids,KY,page,https://www.marionschools.net/departments/purchasing,no,,auto; leaid 2103780
+yes,Harrison County School District - Bids,KY,page,https://www.harrisonschools.org/board_of_education/request_for_proposals,no,,auto; leaid 2102580
+yes,Mason County School District - Bids,KY,page,https://www.masonk12.net/district/bids--rfps/,no,,auto; leaid 2103870
+yes,East Baton Rouge Parish School District - Bids,LA,page,https://ebrschools.org/fiscalmanagement/businessoperations/,no,,auto; leaid 2200540
+yes,St. Tammany Parish School District - Bids,LA,page,https://www.stpsb.org/our-district/departments-and-services/finance/purchasing-dept-bids,no,,auto; leaid 2201650
+yes,Calcasieu Parish School District - Bids,LA,page,https://www.cpsb.org/our-district/current-bids,no,,auto; leaid 2200330
+yes,St. Bernard Parish School District - Bids,LA,page,https://www.sbpsb.org/departments/business-finance/bid-advertisements-rfps,no,,auto; leaid 2201410
+yes,St. Martin Parish School District - Bids,LA,page,https://www.saintmartinschools.org/departments/computer-services/category-2-rfp,no,,auto; leaid 2201590
+yes,Lincoln Parish School District - Bids,LA,page,https://www.lincolnparish.gov/rfps,no,,auto; leaid 2200990
+yes,Washington Parish School District - Bids,LA,page,https://washington.org/meetings/service-request-rfp,no,,auto; leaid 2201860
+yes,Orleans Parish School District - Bids,LA,page,http://nolapublicschools.com/community/business-resources/solicitations,no,,auto; leaid 2201170
+yes,Springfield School District - Bids,MA,page,https://www.springfieldschools.com/administration/business-office/bids-requests-and-proposals/archived-bids-requests-and-proposals,no,,auto; leaid 2511130
+yes,Brookline School District - Bids,MA,page,https://brookline.com/invitation-for-bids-for-integrated-pest-management-at-state-federal-subsidized-housing/,no,,auto; leaid 2503150
+yes,Malden School District - Bids,MA,page,https://www.maldenps.org/students-families/out-of-school-time-programs/2026-2027-beforeafter-school-programming-faq,no,,auto; leaid 2507170
+yes,Chelsea School District - Bids,MA,page,https://www.chelseaschools.org/information/rfp-information,no,,auto; leaid 2503540
+yes,Weymouth School District - Bids,MA,page,https://www.weymouthschools.org/departments/finance-operations/procurement/current-bids,no,,auto; leaid 2512840
+yes,Somerville School District - Bids,MA,page,https://www.somervilleschools.org/documents/boe/rfps/rfp---solar-energy-power-purchase-agreement-to-provide-solar-generated-electricity/863069,no,,auto; leaid 2510890
+yes,Barnstable School District - Bids,MA,page,https://www.barnstable.k12.ma.us/departments/bps-business-office,no,,auto; leaid 2502310
+yes,Belmont School District - Bids,MA,page,https://www.belmont.k12.ma.us/page/sis-rfp,no,,auto; leaid 2502490
+yes,Tewksbury School District - Bids,MA,page,https://www.tewksburyschools.org/board-of-education/bid-and-rfp-opportunities,no,,auto; leaid 2511580
+yes,Auburn School District - Bids,MA,page,https://www.auburnschools.org/214305_3,no,,auto; leaid 2502220
+yes,Pembroke School District - Bids,MA,page,https://www.pembrokek12.org/district/bids,no,,auto; leaid 2509420
+yes,Mendon-Upton School District - Bids,MA,page,https://mendonschools.org/mendon-active-rfp/,no,,auto; leaid 2507680
+yes,Baltimore County Public Schools - Bids,MD,page,https://www.bcps.org/operations/fiscalservices/purchasing/invitation_to_bid/,no,,auto; leaid 2400120
+yes,Frederick County Public Schools - Bids,MD,page,https://www.fcps.org/connect_with_fcps/solicitations_awards,no,,auto; leaid 2400330
+yes,Harford County Public Schools - Bids,MD,page,https://www.hcps.org/departments/BusinessServices/procurement.aspx,no,,auto; leaid 2400390
+yes,St. Marys County Public Schools - Bids,MD,page,https://www.smcps.org/offices/fiscal-services/purchasing/bid-board,no,,auto; leaid 2400600
+yes,Calvert County Public Schools - Bids,MD,page,https://www.calvertnet.k12.md.us/departments/finance/procurement,no,,auto; leaid 2400150
+yes,Cecil County Public Schools - Bids,MD,page,https://www.ccps.org/administration/business-services/purchasing-department/bids-proposals,no,,auto; leaid 2400240
+yes,Queen Annes County Public Schools - Bids,MD,page,https://www.qacps.org/administrative-services/purchasing/,no,,auto; leaid 2400540
+yes,Portland - Bids,ME,page,https://www.portlandschools.org/department/finance/procurement,no,,auto; leaid 2309930
+yes,Auburn - Bids,ME,page,https://www.auburnschools.org/214305_3,no,,auto; leaid 2302610
+yes,South Portland - Bids,ME,page,https://www.southportland.gov/Bids.aspx?CatID=18,no,,auto; leaid 2312330
+yes,Scarborough - Bids,ME,page,https://www.scarboroughschools.org/central-office/business-operations/solicitations,no,,auto; leaid 2310530
+yes,Detroit Public Schools Community District - Bids,MI,page,https://www.detroitk12.org/services-and-supports/services/procurement,no,,auto; leaid 2601103
+yes,Dearborn City School District - Bids,MI,page,https://dearbornschools.org/services/doing-business-with-dearborn-public-schools/,no,,auto; leaid 2611600
+yes,Ann Arbor Public Schools - Bids,MI,page,https://www.a2schools.org/departments/finance-operations/finance/procurement-business-services/bids,no,,auto; leaid 2602820
+yes,Plymouth-Canton Community Schools - Bids,MI,page,https://www.pccsk12.com/departments/finance-and-operations/bids,no,,auto; leaid 2628560
+yes,Rochester Community School District - Bids,MI,page,https://www.rochester.k12.mi.us/about-us/departments/purchasing,no,,auto; leaid 2629940
+yes,Grand Rapids Public Schools - Bids,MI,page,https://grps.org/departments/business-services/,no,,auto; leaid 2616440
+yes,Troy School District - Bids,MI,page,https://www.troy.k12.mi.us/departments/business-services/archived-bids-72024-to,no,,auto; leaid 2634260
+yes,Lansing Public School District - Bids,MI,page,https://www.lansingschools.net/downloads/purchasing/5.2_efinance_guide.pdf,no,,auto; leaid 2621150
+yes,L'Anse Creuse Public Schools - Bids,MI,page,https://www.lc-ps.org/departments/business-office/vendor-information-bids-rfps/,no,,auto; leaid 2621870
+yes,South Lyon Community Schools - Bids,MI,page,https://www.slcs.us/departments/administration_building/business_and_finance/bids.php,no,,auto; leaid 2632250
+yes,Midland Public Schools - Bids,MI,page,https://www.midlandps.org/rfp,no,,auto; leaid 2623820
+yes,Northville Public Schools - Bids,MI,page,https://www.northvilleschools.org/departments/finance-operations/bid-information,no,,auto; leaid 2625980
+yes,Hudsonville Public School District - Bids,MI,page,https://www.hudsonvillepublicschools.org/about/bids-and-proposals,no,,auto; leaid 2618840
+yes,Davison Community Schools - Bids,MI,page,https://www.davisonschools.org/departments/facilities-and-operations/bid-documents,no,,auto; leaid 2611430
+yes,Grandville Public Schools - Bids,MI,page,https://www.gpsbulldogs.org/apps/pages/index.jsp?uREC_ID=272453&type=d&pREC_ID=630998,no,,auto; leaid 2616470
+yes,Anchor Bay School District - Bids,MI,page,https://www.anchorbay.misd.net/departments/business-and-finance/,no,,auto; leaid 2602790
+yes,Saginaw City School District - Bids,MI,page,https://www.spsd.net/o/sps/page/spsd-rfp,no,,auto; leaid 2630390
+yes,Bloomfield Hills School District - Bids,MI,page,https://www.bloomfield.org/about-bhs/finance/rfp-advertisements,no,,auto; leaid 2606090
+yes,Southfield Public School District - Bids,MI,page,https://www.southfieldk12.org/departments/budget-and-finance/purchasing/request-for-proposals-rfps,no,,auto; leaid 2632310
+yes,Saline Area Schools - Bids,MI,page,https://www.salineschools.org/departments/central-office/finance-department/bids-and-proposals/,no,,auto; leaid 2630660
+yes,West Bloomfield School District - Bids,MI,page,https://www.wbsd.org/departments/business-office/bids,no,,auto; leaid 2635820
+yes,Jackson Public Schools - Bids,MI,page,https://www.jpsk12.org/services/finance,no,,auto; leaid 2619620
+yes,Byron Center Public Schools - Bids,MI,page,https://www.bcpsk12.net/district/finance-operations/request-for-proposals-rfps/,no,,auto; leaid 2607560
+yes,Lapeer Community Schools - Bids,MI,page,https://www.lapeerschools.org/page/lcs-bids,no,,auto; leaid 2621180
+yes,Van Buren Public Schools - Bids,MI,page,https://www.vanburenschools.net/documents/departments/business-office/purchasing-rfp/archived-purchasing-rfps/21848809,no,,auto; leaid 2634560
+yes,Carman-Ainsworth Community School District - Bids,MI,page,https://www.carman.k12.mi.us/departments/business-office/bids-rfp-s,no,,auto; leaid 2607890
+yes,Avondale School District - Bids,MI,page,https://www.avondaleschools.org/about/departments/business-services/,no,,auto; leaid 2603690
+yes,Allen Park Public Schools - Bids,MI,page,https://www.allenparkschools.com/departments/finance/finance,no,,auto; leaid 2602520
+yes,Dexter Community School District - Bids,MI,page,https://www.dexterschools.org/departments/business-office/bids-rfps,no,,auto; leaid 2612030
+yes,Muskegon City School District - Bids,MI,page,https://muskegonpublicschools.org/about-us/departments/finance/,no,,auto; leaid 2624840
+yes,Mason Public Schools - Bids,MI,page,https://www.masonk12.net/district/bids--rfps/,no,,auto; leaid 2623070
+yes,Cedar Springs Public Schools - Bids,MI,page,https://www.csredhawks.org/departments/business-office/bids,no,,auto; leaid 2608520
+yes,Thornapple Kellogg School District - Bids,MI,page,https://www.tkschools.org/apps/pages/index.jsp?uREC_ID=307706&type=d&pREC_ID=2414095,no,,auto; leaid 2633810
+yes,Warren Woods Public Schools - Bids,MI,page,https://www.warrenwoods.misd.net/our-district/departments/business/,no,,auto; leaid 2635220
+yes,Kenowa Hills Public Schools - Bids,MI,page,https://www.khps.org/bid-opportunities,no,,auto; leaid 2620280
+yes,Melvindale-North Allen Park School District - Bids,MI,page,https://www.melnapschools.com/our-district/request-for-proposals/,no,,auto; leaid 2623460
+yes,Owosso Public Schools - Bids,MI,page,https://www.owosso.k12.mi.us/bids,no,,auto; leaid 2627210
+yes,Hazel Park City School District - Bids,MI,page,https://www.hazelparkschools.org/departments/business-office/,no,,auto; leaid 2618030
+yes,Flint City School District - Bids,MI,page,https://www.flintschools.org/o/fcs/page/bids,no,,auto; leaid 2614520
+yes,Fruitport Community Schools - Bids,MI,page,https://www.fruitportschools.net/departments/business-office/bidrfp-advertisements/,no,,auto; leaid 2615390
+yes,Marysville Public Schools - Bids,MI,page,https://www.marysville.k12.mi.us/district/bid-announcements-and-rfp-s/,no,,auto; leaid 2623040
+yes,St. Johns Public Schools - Bids,MI,page,https://www.sjredwings.org/our-district/businessoffice/,no,,auto; leaid 2632820
+yes,Haslett Public Schools - Bids,MI,page,https://www.haslettschools.org/departments/business-office/home,no,,auto; leaid 2617940
+yes,Tecumseh Public Schools - Bids,MI,page,https://www.tps.k12.mi.us/documents/request-for-proposal-(rfp)/25605799,no,,auto; leaid 2633720
+yes,Public Schools Of Petoskey - Bids,MI,page,https://www.petoskeyschools.org/departments/business-office/rfp/,no,,auto; leaid 2627930
+yes,Sparta Area Schools - Bids,MI,page,https://www.spartaschools.org/about/departments/businessoffice/rfp/,no,,auto; leaid 2632370
+yes,North Branch Area Schools - Bids,MI,page,https://www.nbbroncos.net/board-of-education/request-for-bids,no,,auto; leaid 2625680
+yes,Big Rapids Public Schools - Bids,MI,page,https://www.brps.org/page/business-office,no,,auto; leaid 2605780
+yes,Three Rivers Community Schools - Bids,MI,page,https://www.trschools.org/our-district/bond-project/bond-project-rfp-bids/,no,,auto; leaid 2633840
+yes,Chelsea School District - Bids,MI,page,https://www.chelseaschools.org/information/rfp-information,no,,auto; leaid 2608940
+yes,Romulus Community Schools - Bids,MI,page,https://www.romulusk12.org/apps/pages/index.jsp?uREC_ID=2838587&type=d&pREC_ID=2513065,no,,auto; leaid 2630120
+yes,Brandon School District - Bids,MI,page,https://brandonschooldistrict.org/index.php/rfp-s,no,,auto; leaid 2606570
+yes,Redford Union School District - Bids,MI,page,https://www.redfordu.k12.mi.us/district/business-and-finance/,no,,auto; leaid 2629460
+yes,Van Dyke Public Schools - Bids,MI,page,https://www.vdps.net/page/district-bids-and-rfps,no,,auto; leaid 2634680
+yes,Eaton Rapids Public Schools - Bids,MI,page,https://www.erpsk12.org/public-bids,no,,auto; leaid 2612690
+yes,Breitung Township Schools - Bids,MI,page,https://www.kingsford.org/bts-open-bids,no,,auto; leaid 2606720
+yes,Sault Ste. Marie Area Schools - Bids,MI,page,https://www.saultschools.org/departments/business-services,no,,auto; leaid 2630990
+yes,Milan Area Schools - Bids,MI,page,https://www.milanareaschools.org/district/district-resources/bid4michigan-bid-system,no,,auto; leaid 2623850
+yes,Anoka-Hennepin Public School District - Bids,MN,page,https://www.ahschools.us/services/purchasing,no,,auto; leaid 2703180
+yes,St. Paul Public School District - Bids,MN,page,https://www.spps.org/about/departments/business-financial-affairs/purchasing-services/staff-resources/purchasing-resources-tools,no,,auto; leaid 2733840
+yes,Minneapolis Public School District - Bids,MN,page,https://www.mpschools.org/departments/finance/procurement,no,,auto; leaid 2721240
+yes,Osseo Public School District - Bids,MN,page,https://www.osseoschools.org/departments/business-services/procurement-and-contracts,no,,auto; leaid 2725200
+yes,Wayzata Public School District - Bids,MN,page,https://www.wayzataschools.org/district/departments/finance-operations/bids-proposals/open-bids,no,,auto; leaid 2742160
+yes,Minnetonka Public School District - Bids,MN,page,https://www.minnetonkaschools.org/district/departments/bids,no,,auto; leaid 2711670
+yes,Centennial Public School District - Bids,MN,page,https://www.isd12.org/departments/business-office/rfp,no,,auto; leaid 2708100
+yes,Austin Public School District - Bids,MN,page,https://www.austinisd.org/cp/bids,no,,auto; leaid 2703450
+yes,Northfield Public School District - Bids,MN,page,https://northfieldschools.org/2026/05/notice-of-request-for-bids-northfield-high-school-2/,no,,auto; leaid 2723880
+yes,Princeton Public School District - Bids,MN,page,https://www.princetonk12.org/offices/business/rfps-bids-and-quotes,no,,auto; leaid 2730030
+yes,Fridley Public School District - Bids,MN,page,https://www.fridleyschools.org/about-us/departments/business-finance,no,,auto; leaid 2712420
+yes,Dassel-Cokato Public School District - Bids,MN,page,https://www.dasselcokato.com/articles/collinwood-twp-pn/ad-for-bids-collinwood-township-meeker-county-minnesota190th-street-pavement-improvements/?pubid=enterprisedispatch,no,,auto; leaid 2710060
+yes,Springfield R-Xii School District - Bids,MO,page,https://www.sps.org/about/departments/purchasing-and-distribution/becoming-an-sps-vendor,no,,auto; leaid 2928860
+yes,Rockwood R-Vi School District - Bids,MO,page,https://www.rsdmo.org/departments/purchasing/purchasing-manual,no,,auto; leaid 2926850
+yes,North Kansas City 74 School District - Bids,MO,page,https://www.nkschools.org/about-us/departments/business-office,no,,auto; leaid 2922800
+yes,St. Louis City School District - Bids,MO,page,https://www.slps.org/departments/finance-division/welcome-to-procurement/bonfire-bid-opportunities,no,,auto; leaid 2929280
+yes,Lee'S Summit R-Vii School District - Bids,MO,page,https://www.lsr7.org/departments/purchasing-distribution,no,,auto; leaid 2918300
+yes,Parkway C-2 School District - Bids,MO,page,https://www.parkwayschools.net/contact/departments/facilities/construction-bids,no,,auto; leaid 2923580
+yes,Hazelwood School District - Bids,MO,page,https://www.hazelwoodschools.org/departments/finance-and-facilities/bids-and-proposals,no,,auto; leaid 2913830
+yes,Fox C-6 School District - Bids,MO,page,https://www.foxc6.org/community/invitations-to-bid,no,,auto; leaid 2912300
+yes,Ferguson-Florissant R-Ii School District - Bids,MO,page,https://www.fergflor.org/departments/communications-and-marketing/legal-notices,no,,auto; leaid 2912010
+yes,Raytown C-2 School District - Bids,MO,page,https://www.raytownschools.org/district-info/procurement,no,,auto; leaid 2926070
+yes,Joplin School District - Bids,MO,page,https://www.joplinschools.org/55552_2,no,,auto; leaid 2916350
+yes,Nixa School District - Bids,MO,page,https://www.nixapublicschools.net/our-district/departments/communication/open-bids-and-notices,no,,auto; leaid 2922530
+yes,Kirkwood R-Vii School District - Bids,MO,page,https://www.kirkwoodschools.org/community-alumni/rfprfq,no,,auto; leaid 2916770
+yes,Ritenour School District - Bids,MO,page,https://www.ritenourschools.org/departments/facilities-support-services/request-for-proposals,no,,auto; leaid 2926640
+yes,Carthage R-Ix School District - Bids,MO,page,https://www.carthagetigers.org/bids-rfps,no,,auto; leaid 2907460
+yes,Sedalia 200 School District - Bids,MO,page,https://www.sedalia.com/bids-rfps/,no,,auto; leaid 2927830
+yes,Neosho R-V School District - Bids,MO,page,https://www.neoshosd.org/rfp,no,,auto; leaid 2921810
+yes,Ladue School District - Bids,MO,page,https://www.ladueschools.net/about-us/bids-proposals,no,,auto; leaid 2917820
+yes,Webster Groves School District - Bids,MO,page,https://www.webster.k12.mo.us/departments/business-operations/rfp-rfq,no,,auto; leaid 2931530
+yes,Cape Girardeau 63 School District - Bids,MO,page,https://www.capetigers.com/documents/departments/technology/rfp-specification-documents/open-rfp-documents/346862,no,,auto; leaid 2907120
+yes,Washington School District - Bids,MO,page,https://washington.org/meetings/service-request-rfp,no,,auto; leaid 2931110
+yes,Warren County R-Iii School District - Bids,MO,page,https://www.warrenschools.com/i-want-to/current-bids,no,,auto; leaid 2931050
+yes,Normandy Schools Collaborative - Bids,MO,page,https://www.normandysc.org/departments/business-operations/request-for-qualificationsbids,no,,auto; leaid 2922650
+yes,Bolivar R-I School District - Bids,MO,page,https://www.bolivarschools.org/rfp,no,,auto; leaid 2905370
+yes,Affton 101 School District - Bids,MO,page,"https://www.afftonschools.net/documents/district-information/rfp/bid-opportunities/rfp-dugout-renovation--bids-due-oct-1,-2021/256021",no,,auto; leaid 2902910
+yes,Mexico 59 School District - Bids,MO,page,https://www.mexicoschools.net/59525_2,no,,auto; leaid 2920810
+yes,Jennings School District - Bids,MO,page,https://www.jenningsk12.org/departments/business-and-finance/rfp,no,,auto; leaid 2916290
+yes,Orchard Farm R-V School District - Bids,MO,page,https://www.ofsd.k12.mo.us/departments/business_office/proposals___bids,no,,auto; leaid 2923160
+yes,Clayton School District - Bids,MO,page,https://www.claytonschools.net/departments/business-and-finance,no,,auto; leaid 2909720
+yes,Dexter R-Xi School District - Bids,MO,page,https://www.dexterschools.org/departments/business-office/bids-rfps,no,,auto; leaid 2910770
+yes,Jackson Public School District - Bids,MS,page,https://www.jackson.k12.ms.us/departments/business-services/rfps-bids,no,,auto; leaid 2802190
+yes,Jones County School District - Bids,MS,page,https://www.jonesk12.org/rfps,no,,auto; leaid 2802280
+yes,Vicksburg Warren School District - Bids,MS,page,https://www.vwsd.org/page/bidrfp,no,,auto; leaid 2804470
+yes,Lee County School District - Bids,MS,page,https://www.leeschools.net/support/construction_solicitations,no,,auto; leaid 2802550
+yes,Ocean Springs School District - Bids,MS,page,https://www.oceanschools.org/our-district/business-office/request-for-proposals-and-bids,no,,auto; leaid 2803360
+yes,Biloxi Public School District - Bids,MS,page,https://www.biloxischools.net/69136_2,no,,auto; leaid 2800630
+yes,Pearl River County School District - Bids,MS,page,https://www.pearlriver.org/bids-rfps,no,,auto; leaid 2803540
+yes,Cleveland School District - Bids,MS,page,https://www.cleveland.k12.ms.us/departments/technology/district-bids-rfps,no,,auto; leaid 2800750
+yes,Stone County School District - Bids,MS,page,https://www.stoneschools.org/about/bids-and-rfps,no,,auto; leaid 2804170
+yes,Mccomb School District - Bids,MS,page,https://www.mccomb.k12.ms.us/apps/pages/index.jsp?uREC_ID=367777&type=d&pREC_ID=823914,no,,auto; leaid 2802880
+yes,Kosciusko School District - Bids,MS,page,https://www.kosciuskoschools.com/departments/business-office/purchasing-rfps,no,,auto; leaid 2802340
+yes,Yazoo City Municipal School District - Bids,MS,page,https://www.yazoocity.k12.ms.us/o/ycmsd/page/request-for-proposals,no,,auto; leaid 2804770
+yes,Pass Christian Public School District - Bids,MS,page,https://www.pc.k12.ms.us/apps/pages/index.jsp?uREC_ID=1196948&type=d&pREC_ID=1439399,no,,auto; leaid 2803510
+yes,Helena Elementary School District - Bids,MT,page,https://www.helenaschools.org/departments/business-finance,no,,auto; leaid 3000005
+yes,Helena High School District - Bids,MT,page,https://www.helenaschools.org/departments/business-finance,no,,auto; leaid 3013830
+yes,Cumberland County Schools - Bids,NC,page,https://cumberlandschools.org/local-copy-of-request-for-proposal-invitation-to-bid-documents/?et_fb=1&PageSpeed=off,no,,auto; leaid 3700011
+yes,Alamance-Burlington Schools - Bids,NC,page,https://www.abss.k12.nc.us/page/bids/,no,,auto; leaid 3700030
+yes,Harnett County Schools - Bids,NC,page,https://www.harnett.k12.nc.us/about-us/building-projects-and-bid-opportunities,no,,auto; leaid 3702010
+yes,Rowan-Salisbury Schools - Bids,NC,page,https://www.rssed.org/rfps,no,,auto; leaid 3704050
+yes,Burke County Schools - Bids,NC,page,https://www.burke.k12.nc.us/departments/finance,no,,auto; leaid 3700480
+yes,Pender County Schools - Bids,NC,page,https://www.pender.k12.nc.us/documents/rfps-and-rfqs/16764113,no,,auto; leaid 3703570
+yes,Duplin County Schools - Bids,NC,page,https://www.duplinschools.net/departments/finance/requests-for-bids,no,,auto; leaid 3701200
+yes,Lee County Schools - Bids,NC,page,https://www.leeschools.net/support/construction_solicitations,no,,auto; leaid 3702560
+yes,Chatham County Schools - Bids,NC,page,https://www.chathamsd.org/documents/rfp's-request-for-proposal(s)-open-bids/701400,no,,auto; leaid 3700750
+yes,Rutherford County Schools - Bids,NC,page,https://www.rutherfordschools.org/blog/category/board-of-education/public-notices/,no,,auto; leaid 3704080
+yes,Granville County Schools - Bids,NC,page,https://www.gcs.k12.nc.us/bids-and-proposals,no,,auto; leaid 3701800
+yes,Mooresville City Schools - Bids,NC,page,https://www.mgsd.k12.nc.us/public-notices,no,,auto; leaid 3703120
+yes,Kannapolis City Schools - Bids,NC,page,https://www.kcs.k12.nc.us/departments/operations-facilities,no,,auto; leaid 3702430
+yes,Pasquotank County Schools - Bids,NC,page,https://www.ecpps.k12.nc.us/resources/bidopportunities,no,,auto; leaid 3703540
+yes,Macon County Schools - Bids,NC,page,https://www.maconk12.org/files/user/217/file/P_Card.pdf,no,,auto; leaid 3702760
+yes,Cherokee County Schools - Bids,NC,page,https://www.cherokee.k12.nc.us/apps/pages/index.jsp?uREC_ID=1503623&type=d,no,,auto; leaid 3700780
+yes,Caswell County Schools - Bids,NC,page,https://www.caswell.k12.nc.us/departments/federal-programs/title-i/title-i-purchases,no,,auto; leaid 3700660
+yes,Thomasville City Schools - Bids,NC,page,https://thomasville.org/departments/administration/city-clerk/no-solicitation-registration,no,,auto; leaid 3704500
+yes,Halifax County Schools - Bids,NC,page,https://www.halifax.k12.nc.us/departments/finance,no,,auto; leaid 3701950
+yes,Polk County Schools - Bids,NC,page,https://polkschools.org/wp-content/uploads/2026/09/2026-2027-Annual-Notices_v2.pdf,no,,auto; leaid 3703720
+yes,Grand Forks Public School District 1 - Bids,ND,page,https://www.gfschools.org/departments/buildings-and-grounds/open-solicitations-rfps-rfqs-bid-opportunities,no,,auto; leaid 3808130
+yes,Mckenzie County Public School District 1 - Bids,ND,page,https://www.mckenzieschools.org/manuals,no,,auto; leaid 3812540
+yes,Omaha Public Schools - Bids,NE,page,https://www.ops.org/departments/operations/purchasing-bids-rfp-rfq,no,,auto; leaid 3174820
+yes,Papillion-La Vista Community Schools - Bids,NE,page,https://www.plcschools.org/our-district/bids-rfps-and-rfis,no,,auto; leaid 3175270
+yes,Westside Community Schools - Bids,NE,page,https://www.westside66.org/bond-phase-2/phase-ii-rfpsrfqs,no,,auto; leaid 3178660
+yes,Bennington Public Schools - Bids,NE,page,https://www.benningtonschools.org/technologyrfps,no,,auto; leaid 3103990
+yes,Londonderry School District - Bids,NH,page,https://www.londonderry.org/departments/business-office,no,,auto; leaid 3304410
+yes,Dover School District - Bids,NH,page,https://www.sau11.nh.gov/apps/pages/index.jsp?uREC_ID=1281162&type=d&pREC_ID=2747640,no,,auto; leaid 3302640
+yes,Timberlane Regional School District - Bids,NH,page,https://www.timberlane.net/rfp,no,,auto; leaid 3306720
+yes,Windham School District - Bids,NH,page,https://www.windhamsd.org/our_district/superintendent_s_office/business_office,no,,auto; leaid 3307170
+yes,Exeter Regional Cooperative School District - Bids,NH,page,https://exetersd.org/bids-rfps,no,,auto; leaid 3300017
+yes,Elizabeth City School District - Bids,NJ,page,https://www.epsnj.org/community/bids-requests-proposal,no,,auto; leaid 3404590
+yes,Paterson City School District - Bids,NJ,page,https://www.paterson.k12.nj.us/departments/purchasing,no,,auto; leaid 3412690
+yes,Edison Township School District - Bids,NJ,page,https://www.edison.k12.nj.us/page/online-bidsrfp,no,,auto; leaid 3404500
+yes,Toms River Regional School District - Bids,NJ,page,https://www.trschools.com/community/Notices_of_Solicitation,no,,auto; leaid 3416230
+yes,Plainfield City School District - Bids,NJ,page,https://www.plainfieldschools.org/cms/One.aspx?portalId=283129&pageId=83566687,no,,auto; leaid 3413140
+yes,Middletown Township School District - Bids,NJ,page,https://www.middletownschools.org/rfp,no,,auto; leaid 3410110
+yes,Brick Township School District - Bids,NJ,page,https://www.bricknj.gov/departments/purchasing_contracting/opportunities_to_bid.php,no,,auto; leaid 3402220
+yes,East Brunswick Township School District - Bids,NJ,page,https://www.ebnet.org/departments/financial-services/bid-information,no,,auto; leaid 3404110
+yes,West New York Town School District - Bids,NJ,page,https://www.wnyschools.net/apps/pages/index.jsp?uREC_ID=1833010&type=d&pREC_ID=1986300,no,,auto; leaid 3417580
+yes,South Brunswick Township School District - Bids,NJ,page,https://www.sbschools.org/page/content-rfps-and-bids,no,,auto; leaid 3415210
+yes,Irvington Township School District - Bids,NJ,page,https://irvington.k12.nj.us/rfp-27-009-rebid-professional-dry-cleaning-services/,no,,auto; leaid 3407680
+yes,Piscataway Township School District - Bids,NJ,page,https://www.piscatawayschools.org/79055_3,no,,auto; leaid 3413050
+yes,Bridgeton City School District - Bids,NJ,page,https://www.bridgeton.org/departments/business/purchasing_office,no,,auto; leaid 3402250
+yes,Fair Lawn Borough School District - Bids,NJ,page,https://www.fairlawnschools.org/documents/departments-and-services/business-office/rfps-&amp;-bids/rfps/bids-received-closed/381727,no,,auto; leaid 3404980
+yes,Long Branch City School District - Bids,NJ,page,https://www.longbranch.org/641/Public-Notices-Advertisements,no,,auto; leaid 3408940
+yes,Howell Township School District - Bids,NJ,page,https://www.howell.k12.nj.us/apps/pages/index.jsp?uREC_ID=1163696&type=d&pREC_ID=1473839,no,,auto; leaid 3407560
+yes,Hackensack City School District - Bids,NJ,page,https://www.hackensackschools.org/bidding-opportunities,no,,auto; leaid 3406270
+yes,Millville City School District - Bids,NJ,page,https://www.millville.org/apps/pages/index.jsp?uREC_ID=2848439&type=d&pREC_ID=2324711,no,,auto; leaid 3410320
+yes,Lakewood Township School District - Bids,NJ,page,https://www.lakewoodpiners.org/departments/bids-rfps,no,,auto; leaid 3408220
+yes,Winslow Township School District - Bids,NJ,page,https://www.winslowtownship.com/news/?FeedID=2073&ShowDetailsDate=false,no,,auto; leaid 3418060
+yes,Pennsauken Township School District - Bids,NJ,page,https://www.pennsauken.net/board-of-education/purchasing,no,,auto; leaid 3412870
+yes,Bernards Township School District - Bids,NJ,page,https://www.bernards.org/departments/purchasing,no,,auto; leaid 3401650
+yes,Randolph Township School District - Bids,NJ,page,https://www.rtnj.org/our-district/public-notices,no,,auto; leaid 3413650
+yes,Rahway City School District - Bids,NJ,page,https://www.rahway.net/departments/business,no,,auto; leaid 3413530
+yes,Summit City School District - Bids,NJ,page,https://www.summit.k12.nj.us/district/business-office/bid-documents,no,,auto; leaid 3415900
+yes,Matawan-Aberdeen Regional School District - Bids,NJ,page,https://www.marsd.org/departments/business-office,no,,auto; leaid 3409750
+yes,Carteret Borough School District - Bids,NJ,page,https://www.carteretschools.org/about-us/district-information/public-notices,no,,auto; leaid 3402820
+yes,Teaneck Township School District - Bids,NJ,page,https://www.teaneckschools.org/BIDSRFPs.aspx,no,,auto; leaid 3416080
+yes,Lacey Township School District - Bids,NJ,page,https://www.laceyschools.org/departments-programs/finance-and-operations/current-bidsquotationsrfps,no,,auto; leaid 3408100
+yes,Princeton Public Schools - Bids,NJ,page,https://www.princetonk12.org/offices/business/rfps-bids-and-quotes,no,,auto; leaid 3413410
+yes,Lawrence Township School District - Bids,NJ,page,https://www.ltschools.org/services/operations/current-rfps,no,,auto; leaid 3408400
+yes,Black Horse Pike Regional School District - Bids,NJ,page,https://www.bhprsd.org/departments/business-office/purchasing,no,,auto; leaid 3401770
+yes,Tenafly Borough School District - Bids,NJ,page,https://www.tenaflyschools.org/our-district/district-administration/office-of-the-business-administrator/request-for-proposals-purchasing-bids,no,,auto; leaid 3416110
+yes,Neptune Township School District - Bids,NJ,page,https://neptunetownship.org/public-notices,no,,auto; leaid 3411160
+yes,Hopewell Valley Regional School District - Bids,NJ,page,https://www.hvrsd.org/page/rfp-notices,no,,auto; leaid 3407530
+yes,Montville Township School District - Bids,NJ,page,https://www.montvilleschools.org/apps/pages/index.jsp?uREC_ID=3752198&type=d&pREC_ID=2431298,no,,auto; leaid 3410650
+yes,Roxbury Township School District - Bids,NJ,page,https://www.roxbury.org/district-offices/business-office/bids-rfps-quotes,no,,auto; leaid 3414340
+yes,Ocean Township School District - Bids,NJ,page,https://www.oceanschools.org/our-district/business-office/request-for-proposals-and-bids,no,,auto; leaid 3412060
+yes,Hoboken City School District - Bids,NJ,page,https://www.hoboken.k12.nj.us/central_office/business_office/Distric_purchasing_manual,no,,auto; leaid 3407350
+yes,West Milford Township School District - Bids,NJ,page,https://www.wmtps.org/page/bidsrequests-for-proposals,no,,auto; leaid 3417520
+yes,Voorhees Township School District - Bids,NJ,page,https://www.voorhees.k12.nj.us/our-district-09/welcome-from-dr-hackett/business-administratorboard-secretary/bids-quotes-rfps,no,,auto; leaid 3416830
+yes,Englewood City School District - Bids,NJ,page,https://www.englewoodschools.net/our-district/departments/business-services/purchasing,no,,auto; leaid 3404740
+yes,Delran Township School District - Bids,NJ,page,https://delrantownship.org/public-bid-notices-and-request-for-proposals-qualifications/,no,,auto; leaid 3403780
+yes,Haddonfield Borough School District - Bids,NJ,page,https://boe.haddonfieldschools.org/bids-and-quotes/,no,,auto; leaid 3406390
+yes,Lyndhurst Township School District - Bids,NJ,page,https://www.lyndhurstschools.net/board-of-education/legal-notices,no,,auto; leaid 3409210
+yes,Glen Rock Borough School District - Bids,NJ,page,https://www.glenrocknj.org/page/request-for-proposal-rfp/,no,,auto; leaid 3405970
+yes,Rutherford Borough School District - Bids,NJ,page,https://www.rutherfordschools.org/blog/category/board-of-education/public-notices/,no,,auto; leaid 3414460
+yes,Berkeley Heights Township School District - Bids,NJ,page,https://www.berkeleyschools.net/departments/purchasing/bid-opportuniities/,no,,auto; leaid 3401530
+yes,Harrison Town School District - Bids,NJ,page,https://www.harrisonschools.org/board_of_education/request_for_proposals,no,,auto; leaid 3406870
+yes,Berkeley Township School District - Bids,NJ,page,https://www.berkeleyschools.net/departments/purchasing/bid-opportuniities/,no,,auto; leaid 3401560
+yes,Rockaway Township School District - Bids,NJ,page,http://www.rockawaytownship.org/bids.aspx,no,,auto; leaid 3414130
+yes,Springfield Township School District - Bids,NJ,page,https://www.springfieldschools.com/administration/business-office/bids-requests-and-proposals/archived-bids-requests-and-proposals,no,,auto; leaid 3415630
+yes,Hawthorne Borough School District - Bids,NJ,page,https://www.hawthorneschools.org/boe/rfps-bids,no,,auto; leaid 3406990
+yes,Somerville Borough School District - Bids,NJ,page,https://www.somervilleschools.org/documents/boe/rfps/rfp---solar-energy-power-purchase-agreement-to-provide-solar-generated-electricity/863069,no,,auto; leaid 3415090
+yes,Leonia Borough School District - Bids,NJ,page,https://www.leoniaschools.org/vendor-information-and-bidrfp-oppor,no,,auto; leaid 3408520
+yes,Ramapo-Indian Hill Regional School District - Bids,NJ,page,https://www.rih.org/public-notices,no,,auto; leaid 3413560
+yes,Los Lunas Public Schools - Bids,NM,page,https://www.llschools.net/departments/purchasing/purchasing-services-rfps-itbs-and-contracts,no,,auto; leaid 3501680
+yes,Alamogordo Public Schools - Bids,NM,page,https://www.alamogordoschools.org/documents/departments/business-&amp;-finance/procurement/previous-solicitations/2024-2025-solicitations/842079,no,,auto; leaid 3500030
+yes,Deming Public Schools - Bids,NM,page,https://www.demingps.org/district_info/current_bids_and_proposals,no,,auto; leaid 3500690
+yes,Los Alamos Public Schools - Bids,NM,page,https://www.laschools.net/departments/business-services/procurement,no,,auto; leaid 3501650
+yes,Lovington Public Schools - Bids,NM,page,https://www.lovingtonschools.net/business-office,no,,auto; leaid 3501740
+yes,Portales Municipal Schools - Bids,NM,page,https://vrapp.vendorregistry.com/Bids/View/BidsList?BuyerId=b425892b-c8ea-43e8-8c62-b94a6ca25118,no,,auto; leaid 3502100
+yes,Taos Municipal Schools - Bids,NM,page,https://www.taosschools.org/page/rfps,no,,auto; leaid 3502520
+yes,Buffalo City School District - Bids,NY,page,https://www.buffaloschools.org/o/dept-family-and-community-engagement/page/doing-business-with-bps/,no,,auto; leaid 3605850
+yes,Rochester City School District - Bids,NY,page,https://www.rcsdk12.org/departments/finance/purchasing/purchasing-staff,no,,auto; leaid 3624750
+yes,Syracuse City School District - Bids,NY,page,https://www.syracusecityschools.com/rfp,no,,auto; leaid 3628590
+yes,Newburgh City School District - Bids,NY,page,https://www.newburghschools.org/page.php?page=12,no,,auto; leaid 3620700
+yes,Williamsville Central School District - Bids,NY,page,https://www.williamsvillek12.org/departments/business/purchasing,no,,auto; leaid 3631470
+yes,Middletown City School District - Bids,NY,page,https://www.middletownschools.org/rfp,no,,auto; leaid 3619320
+yes,Mount Vernon School District - Bids,NY,page,https://mountvernonschools.org/technology/technology-rfp-information,no,,auto; leaid 3620100
+yes,Great Neck Union Free School District - Bids,NY,page,https://www.greatneck.k12.ny.us/administration/business-services/office-of-business-services/purchasing-accounts-payable,no,,auto; leaid 3612510
+yes,West Seneca Central School District - Bids,NY,page,https://www.wscschools.org/departments/business-office/purchasing,no,,auto; leaid 3630780
+yes,Riverhead Central School District - Bids,NY,page,https://www.riverhead.net/district/purchasing-department/,no,,auto; leaid 3624690
+yes,Lakeland Central School District - Bids,NY,page,https://www.lakelandschools.org/community/bids_and_rfp.php,no,,auto; leaid 3616620
+yes,Farmingdale Union Free School District - Bids,NY,page,https://www.farmingdaleschools.org/purchasing,no,,auto; leaid 3610980
+yes,Orchard Park Central School District - Bids,NY,page,https://www.opschools.org/parent-and-student-resources/universal-pre-k/rfp-application,no,,auto; leaid 3621900
+yes,Westbury Union Free School District - Bids,NY,page,https://www.westburyschools.org/departments/finance-operations,no,,auto; leaid 3630960
+yes,Scarsdale Union Free School District - Bids,NY,page,https://www.scarsdaleschools.org/135263_2,no,,auto; leaid 3625950
+yes,Penfield Central School District - Bids,NY,page,https://www.penfield.edu/198487_3,no,,auto; leaid 3622710
+yes,Niskayuna Central School District - Bids,NY,page,https://www.niskayuna.gov/government/public_notices.php,no,,auto; leaid 3620880
+yes,Herricks Union Free School District - Bids,NY,page,https://www.herricks.org/district-administration/business-office/bidsrequests-for-proposals,no,,auto; leaid 3614280
+yes,Huntington Union Free School District - Bids,NY,page,https://www.huntingtonsd.org/huntington-sd-16j-tap-assessor-rfp,no,,auto; leaid 3615090
+yes,Clarence Central School District - Bids,NY,page,https://www.clarenceschools.org/departments/business-office/bids-rfps,no,,auto; leaid 3607590
+yes,Poughkeepsie City School District - Bids,NY,page,https://www.poughkeepsieschools.org/requests-for-proposalsbids-2,no,,auto; leaid 3623760
+yes,Watertown City School District - Bids,NY,page,https://www.watertowncsd.org/about-us/departments/business-office,no,,auto; leaid 3630120
+yes,Gates-Chili Central School District - Bids,NY,page,https://www.gateschili.org/vendors,no,,auto; leaid 3611880
+yes,Harrison Central School District - Bids,NY,page,https://www.harrisonschools.org/board_of_education/request_for_proposals,no,,auto; leaid 3613740
+yes,Bedford Central School District - Bids,NY,page,https://www.bcsdny.org/departments/business/bidsrfps-forms,no,,auto; leaid 3619950
+yes,Spencerport Central School District - Bids,NY,page,https://www.spencerportschools.org/archived-bids,no,,auto; leaid 3627780
+yes,Sweet Home Central School District - Bids,NY,page,https://www.sweethomeschools.org/departments/business-office/bid-and-rfp-information,no,,auto; leaid 3628500
+yes,Elmont Union Free School District - Bids,NY,page,https://www.elmontschools.org/finance-and-operations,no,,auto; leaid 3610620
+yes,North Tonawanda City School District - Bids,NY,page,https://www.ntschools.org/departments/business-office/purchasing,no,,auto; leaid 3621240
+yes,Cornwall Central School District - Bids,NY,page,https://www.cornwallschools.com/rfp,no,,auto; leaid 3608430
+yes,Amherst Central School District - Bids,NY,page,https://www.amherstschools.org/departments/business-office,no,,auto; leaid 3602920
+yes,South Orangetown Central School District - Bids,NY,page,https://www.socsd.org/about/bids-rfps,no,,auto; leaid 3627450
+yes,South Glens Falls Central School District - Bids,NY,page,https://www.sgfcsd.org/o/sgfcsd/page/bids-rfps,no,,auto; leaid 3627240
+yes,Nyack Union Free School District - Bids,NY,page,https://www.nyackschools.org/departments/business-office,no,,auto; leaid 3621480
+yes,Lynbrook Union Free School District - Bids,NY,page,https://www.lynbrookschools.org/district-bids-requests-proposals,no,,auto; leaid 3617910
+yes,Pelham Union Free School District - Bids,NY,page,https://www.pelhamschools.org/district/business-office/request-for-proposals,no,,auto; leaid 3622680
+yes,Somers Central School District - Bids,NY,page,https://www.somersschools.org/our-district/district-departments/business-and-operations/current-invitation-for-bids-or-proposals,no,,auto; leaid 3627180
+yes,Ardsley Union Free School District - Bids,NY,page,https://www.ardsleyschools.org/departments/business-and-finance/purchasing,no,,auto; leaid 3603180
+yes,Cheektowaga-Maryvale Union Free School District - Bids,NY,page,https://www.cheektowagak12.org/district/district-departments/business-office/bidsrfp,no,,auto; leaid 3618600
+yes,Honeoye Falls-Lima Central School District - Bids,NY,page,https://www.hflcsd.org/bids-and-rfps,no,,auto; leaid 3614700
+yes,Beekmantown Central School District - Bids,NY,page,https://www.bcsdk12.org/district/bidsandrfps,no,,auto; leaid 3604290
+yes,Columbus City School District - Bids,OH,page,https://www.ccsoh.us/our-district/departments/vendors,no,,auto; leaid 3904380
+yes,Cincinnati City School District - Bids,OH,page,https://www.cps-k12.org/our-community/doing-business-with-cps,no,,auto; leaid 3904375
+yes,Lakota Local School District - Bids,OH,page,https://www.lakotaonline.com/get-involved/partner-with-us/bid-opportunities,no,,auto; leaid 3904611
+yes,Dublin City School District - Bids,OH,page,https://www.dublinschools.net/departments/operations/bids-and-rfps,no,,auto; leaid 3904702
+yes,Westerville City School District - Bids,OH,page,https://www.westerville.k12.oh.us/our-district/rfpsrfqsnotice-to-bidders,no,,auto; leaid 3904504
+yes,Worthington City School District - Bids,OH,page,https://www.worthington.k12.oh.us/departments/public-notices,no,,auto; leaid 3904513
+yes,Canton City School District - Bids,OH,page,https://www.ccsdistrict.org/86873_3,no,,auto; leaid 3904371
+yes,Willoughby-Eastlake City School District - Bids,OH,page,https://www.weschools.org/departments/finance,no,,auto; leaid 3904510
+yes,Washington Local School District - Bids,OH,page,https://washington.org/meetings/service-request-rfp,no,,auto; leaid 3904823
+yes,Upper Arlington City School District - Bids,OH,page,https://www.uaschools.org/departments/treasurer/public-notices,no,,auto; leaid 3904493
+yes,Middletown City School District - Bids,OH,page,https://www.middletownschools.org/rfp,no,,auto; leaid 3904440
+yes,Plain Local School District - Bids,OH,page,https://www.plainlocal.org/administrative-departments/business-office,no,,auto; leaid 3904993
+yes,Elyria City School District - Bids,OH,page,https://www.elyriaschools.org/departments/operations/invitation_to_bid,no,,auto; leaid 3904394
+yes,Sycamore Community City School District - Bids,OH,page,https://www.sycamoreschools.org/departments/business-operations/bid-opportunities,no,,auto; leaid 3904486
+yes,Southwest Licking Local School District - Bids,OH,page,https://www.southwestschools.org/departments/treasurer/bidding/,no,,auto; leaid 3904804
+yes,Warren City School District - Bids,OH,page,https://www.warrenschools.com/i-want-to/current-bids,no,,auto; leaid 3904499
+yes,Shaker Heights City School District - Bids,OH,page,https://www.shaker.org/business-operations/contract-bid-information,no,,auto; leaid 3904475
+yes,Southwest Local School District - Bids,OH,page,https://www.southwestschools.org/departments/treasurer/bidding/,no,,auto; leaid 3904738
+yes,Lakewood City School District - Bids,OH,page,https://www.lakewoodco.gov/Local-Government/Departments/City-Clerks-Office/Refresh-Public-Notices/Legal-Notices,no,,auto; leaid 3904419
+yes,Amherst Exempted Village School District - Bids,OH,page,https://www.amherstschools.org/departments/business-office,no,,auto; leaid 3904519
+yes,Avon Lake City School District - Bids,OH,page,https://www.avonlakecityschools.org/district/operations/rfp,no,,auto; leaid 3904812
+yes,Mount Vernon City School District - Bids,OH,page,https://mountvernonschools.org/technology/technology-rfp-information,no,,auto; leaid 3910012
+yes,Monroe Local School District - Bids,OH,page,https://www.monroelocalschools.com/departments/operations/rfp-rfq,no,,auto; leaid 3900094
+yes,Chillicothe City School District - Bids,OH,page,https://www.chillicotheschools.org/page/bids,no,,auto; leaid 3904374
+yes,Trotwood-Madison City School District - Bids,OH,page,https://trotwood.org/business/bids-rfps/,no,,auto; leaid 3904869
+yes,Bay Village City School District - Bids,OH,page,https://www.bayk12.org/page/public-notices,no,,auto; leaid 3904354
+yes,Circleville City School District - Bids,OH,page,https://www.circlevillecityschools.org/page/public-notices,no,,auto; leaid 3904376
+yes,Three Rivers Local School District - Bids,OH,page,https://www.threeriversschools.org/taylor-high-school-blog/entry/landscaping-mowing-rfp-253/for/,no,,auto; leaid 3904739
+yes,Washington Court House City School District - Bids,OH,page,https://washington.org/meetings/service-request-rfp,no,,auto; leaid 3910011
+yes,Gallipolis City School District - Bids,OH,page,https://www.gallipoliscityschools.k12.oh.us/public-notices-2,no,,auto; leaid 3904403
+yes,Tulsa Public Schools - Bids,OK,page,https://www.tulsaschools.org/about/teams/finance/purchasing,no,,auto; leaid 4030240
+yes,Oklahoma City Public Schools - Bids,OK,page,https://www.okcps.org/about-okcps/district-information/bids,no,,auto; leaid 4022770
+yes,Putnam City Public Schools - Bids,OK,page,https://www.putnamschools.org/page/posted-rfps,no,,auto; leaid 4025290
+yes,Choctaw/Nicoma Park Schools - Bids,OK,page,https://www.cnpschools.org/departments/business-and-finance,no,,auto; leaid 4007620
+yes,Coweta Public Schools - Bids,OK,page,https://www.cowetaschools.net/en-US/rfp-advertisements-d29a9b33,no,,auto; leaid 4008850
+yes,Noble Public Schools - Bids,OK,page,https://nobleschools.org/construction-rfp/,no,,auto; leaid 4021630
+yes,Chickasha Public Schools - Bids,OK,page,https://www.chickasha.gov/Bids.aspx,no,,auto; leaid 4007560
+yes,Skiatook Public Schools - Bids,OK,page,https://www.skiatookschools.org/page/rfp,no,,auto; leaid 4027750
+yes,Beaverton School District 48J - Bids,OR,page,https://www.beaverton.k12.or.us/departments/purchasing,no,,auto; leaid 4101920
+yes,Hillsboro School District 1J - Bids,OR,page,https://www.hsd.k12.or.us/departments/budget-and-finance/overview,no,,auto; leaid 4100023
+yes,North Clackamas School District 12 - Bids,OR,page,https://www.nclack.k12.or.us/departments/business-services/purchasing/bids-and-rfps,no,,auto; leaid 4108830
+yes,Eugene School District 4J - Bids,OR,page,https://4j.lane.edu/bids,no,,auto; leaid 4104740
+yes,Medford School District 549 - Bids,OR,page,https://www.medford.k12.or.us/departments1/facilities-grounds/purchasing-and-contractor-bid-documents,no,,auto; leaid 4108040
+yes,Tigard-Tualatin School District 23J - Bids,OR,page,https://www.ttsdschools.org/bond/open-rfps,no,,auto; leaid 4112240
+yes,Gresham-Barlow School District 1J - Bids,OR,page,https://www.gresham.k12.or.us/departments/business-services1/new-page,no,,auto; leaid 4106000
+yes,Reynolds School District 7 - Bids,OR,page,https://www.reynolds.k12.or.us/rfp,no,,auto; leaid 4110520
+yes,Springfield School District 19 - Bids,OR,page,https://www.springfield.k12.or.us/services/business/procurement,no,,auto; leaid 4111670
+yes,Greater Albany School District 8J - Bids,OR,page,https://www.albany.k12.or.us/departments/business/open-rfps,no,,auto; leaid 4101120
+yes,Lake Oswego School District 7J - Bids,OR,page,https://www.losdschools.org/business-services/vendor-terms-and-conditions,no,,auto; leaid 4107230
+yes,Douglas County Sd 4 - Bids,OR,page,https://www.roseburg.k12.or.us/purchasing,no,,auto; leaid 4110710
+yes,Centennial School District 28J - Bids,OR,page,https://www.csd28j.org/16945_2,no,,auto; leaid 4102800
+yes,Hermiston School District 8 - Bids,OR,page,https://www.hermiston.k12.or.us/45373_3,no,,auto; leaid 4106300
+yes,Bethel School District 52 - Bids,OR,page,https://www.bethel.k12.or.us/rfp,no,,auto; leaid 4102040
+yes,Three Rivers School District - Bids,OR,page,https://www.3rsd.org/departments/business-and-finance/bids-rfps,no,,auto; leaid 4106900
+yes,North Bend School District 13 - Bids,OR,page,https://www.nbend.k12.or.us/rfq,no,,auto; leaid 4108820
+yes,Coos Bay School District 9 - Bids,OR,page,https://www.cbd9.net/purchasing,no,,auto; leaid 4103660
+yes,Parkrose School District 3 - Bids,OR,page,https://www.parkrose.com/solicitation-request,no,,auto; leaid 4109480
+yes,St. Helens School District 502 - Bids,OR,page,https://www.sthelens.k12.or.us/departments/departments/request-for-proposals-invitations-to-bid,no,,auto; leaid 4111720
+yes,Scappoose School District 1J - Bids,OR,page,https://www.scappoosek12.org/departments/businessoffice,no,,auto; leaid 4110980
+yes,La Grande School District 1 - Bids,OR,page,https://www.lagrandesd.org/rfp-information,no,,auto; leaid 4107200
+yes,Pittsburgh School District - Bids,PA,page,https://www.pghschools.org/community/business-opportunities/rfps,no,,auto; leaid 4219170
+yes,Central Bucks School District - Bids,PA,page,https://www.cbsd.org/departments/business/bidsrequests-for-proposal,no,,auto; leaid 4205310
+yes,Reading School District - Bids,PA,page,https://www.readingsd.org/documents/departments/business-services/open-bids/rfps/rfqs/718532,no,,auto; leaid 4220040
+yes,Downingtown Area School District - Bids,PA,page,https://www.dasd.org/departments/business/purchasing,no,,auto; leaid 4207710
+yes,North Penn School District - Bids,PA,page,https://www.npenn.org/central_office/business_office/bid_specifications,no,,auto; leaid 4217280
+yes,Upper Darby School District - Bids,PA,page,https://www.upperdarbysd.org/departments12/procurement-department/bids-proposals/bid-proposal-advertisements,no,,auto; leaid 4224320
+yes,Central Dauphin School District - Bids,PA,page,https://www.cdschools.org/administration/purchasing,no,,auto; leaid 4205400
+yes,West Chester Area School District - Bids,PA,page,https://www.wcasd.net/our-team/departments/business-finance/purchasing/bidrfp-opportunities,no,,auto; leaid 4225290
+yes,Parkland School District - Bids,PA,page,https://www.parklandsd.org/departments/business-administration/vendor-procurement-information/vendor-protest-procedures,no,,auto; leaid 4218510
+yes,Scranton School District - Bids,PA,page,https://www.scrsd.org/departments/purchasing,no,,auto; leaid 4221090
+yes,North Allegheny School District - Bids,PA,page,https://www.northallegheny.org/departments/purchasing,no,,auto; leaid 4217010
+yes,Pocono Mountain School District - Bids,PA,page,https://www.pmsd.org/departments/business-office/procurement,no,,auto; leaid 4219500
+yes,Norristown Area School District - Bids,PA,page,https://www.norristown.gov/Bids.aspx,no,,auto; leaid 4216980
+yes,Hempfield School District - Bids,PA,page,https://www.hempfieldsd.org/operations/business-office,no,,auto; leaid 4211790
+yes,Tredyffrin-Easttown School District - Bids,PA,page,https://www.tesd.net/departments/business-officetax-office/purchasing,no,,auto; leaid 4223640
+yes,State College Area School District - Bids,PA,page,https://www.scasd.org/our-district/biddingproposal-opportunities/about-the-bidding-process,no,,auto; leaid 4222770
+yes,Boyertown Area School District - Bids,PA,page,https://www.boyertownasd.org/departments/business-and-finance/bids-purchasing-and-requests-for-proposal,no,,auto; leaid 4203960
+yes,Haverford Township School District - Bids,PA,page,https://www.haverford.k12.pa.us/departments/business-office/available-bidsrfps,no,,auto; leaid 4211670
+yes,Pennridge School District - Bids,PA,page,https://www.pennridge.org/departments/business-services/current-bidrfp-information-clone,no,,auto; leaid 4218750
+yes,Millcreek Township School District - Bids,PA,page,https://www.mtsd.org/bidding,no,,auto; leaid 4215330
+yes,East Stroudsburg Area School District - Bids,PA,page,https://www.esasd.net/community/bids,no,,auto; leaid 4208670
+yes,Dallastown Area School District - Bids,PA,page,https://www.dallastown.net/departments/business_office/audit_services_-_r_f_p,no,,auto; leaid 4207230
+yes,Bensalem Township School District - Bids,PA,page,https://www.bensalemsd.org/apps/pages/index.jsp?uREC_ID=1237220&type=d&pREC_ID=2711752,no,,auto; leaid 4203330
+yes,Souderton Area School District - Bids,PA,page,https://www.soudertonsd.org/departments/business/bids,no,,auto; leaid 4221870
+yes,Butler Area School District - Bids,PA,page,https://www.basdk12.org/our-district/request-for-proposals-rfp,no,,auto; leaid 4204590
+yes,Manheim Township School District - Bids,PA,page,https://www.mtwp.net/about/business-office/purchasing-procurement/,no,,auto; leaid 4214580
+yes,Central York School District - Bids,PA,page,https://www.cysd.k12.pa.us/our-district/departments/business-office/purchasing-and-bidding,no,,auto; leaid 4205490
+yes,Hempfield Area School District - Bids,PA,page,https://www.hasdpa.net/apps/pages/index.jsp?uREC_ID=1189959&type=d&pREC_ID=1433530,no,,auto; leaid 4211760
+yes,Carlisle Area School District - Bids,PA,page,https://www.carlisleschools.org/our_district/facilities_and_maintenance/invitations_to_bid,no,,auto; leaid 4205010
+yes,Norwin School District - Bids,PA,page,https://www.norwinsd.org/apps/pages/index.jsp?uREC_ID=1142216&type=d&pREC_ID=1407017,no,,auto; leaid 4217940
+yes,Avon Grove School District - Bids,PA,page,https://www.avongrove.org/departments/bussiness-services/bids-and-rfps,no,,auto; leaid 4202790
+yes,Williamsport Area School District - Bids,PA,page,https://www.wasd.org/business-services,no,,auto; leaid 4226460
+yes,Cheltenham School District - Bids,PA,page,https://www.cheltenham.org/departments/business/request-for-proposal,no,,auto; leaid 4205760
+yes,Moon Area School District - Bids,PA,page,https://www.moonarea.net/departments/business-office/request-for-proposals-rfp,no,,auto; leaid 4215830
+yes,Upper St. Clair School District - Bids,PA,page,https://www.uscsd.k12.pa.us/information/bids-rfps,no,,auto; leaid 4224570
+yes,Spring Grove Area School District - Bids,PA,page,https://www.sgasd.org/departments/business-office/purchasing-and-bidding,no,,auto; leaid 4222590
+yes,Peters Township School District - Bids,PA,page,https://www.ptsd.k12.pa.us/business-office,no,,auto; leaid 4218960
+yes,Exeter Township School District - Bids,PA,page,https://exetersd.org/bids-rfps,no,,auto; leaid 4209480
+yes,Shaler Area School District - Bids,PA,page,https://shalerarea.org/departments/bids-and-rfps/,no,,auto; leaid 4221200
+yes,Wallingford-Swarthmore School District - Bids,PA,page,https://www.wssd.org/departments/business-office/procurement,no,,auto; leaid 4224790
+yes,Abington Heights School District - Bids,PA,page,https://www.ahsd.org/community_corner/2025_e-_rate_r_f_p,no,,auto; leaid 4202010
+yes,Northern York County School District - Bids,PA,page,https://www.northernpolarbears.com/services/business-office,no,,auto; leaid 4217760
+yes,Trinity Area School District - Bids,PA,page,https://www.trinitypride.org/request-for-proposals-bids,no,,auto; leaid 4223760
+yes,Derry Township School District - Bids,PA,page,https://www.hershey.k12.pa.us/our-district/business-office/rfp-bids,no,,auto; leaid 4207590
+yes,Woodland Hills School District - Bids,PA,page,https://www.whsd.net/apps/pages/index.jsp?uREC_ID=4380349&type=d&pREC_ID=2585284,no,,auto; leaid 4216500
+yes,Southern Lehigh School District - Bids,PA,page,https://www.slsd.org/district-offices/business-services/request-for-proposals-rfps,no,,auto; leaid 4222350
+yes,Montour School District - Bids,PA,page,https://www.montourschools.com/apps/pages/index.jsp?uREC_ID=348983&type=d&pREC_ID=1442134,no,,auto; leaid 4215720
+yes,Daniel Boone Area School District - Bids,PA,page,https://www.dboone.org/documents/rfps/food-service-rfp-attachments/22759508,no,,auto; leaid 4207290
+yes,Penn Hills School District - Bids,PA,page,https://www.phsd.org/departments/business-and-finance/invitations-to-bid,no,,auto; leaid 4218590
+yes,New Castle Area School District - Bids,PA,page,https://www.ncasd.com/district/budgets-finance/,no,,auto; leaid 4216620
+yes,Cocalico School District - Bids,PA,page,https://www.cocalico.org/district/business_office/rfp_bid_information,no,,auto; leaid 4206270
+yes,Manheim Central School District - Bids,PA,page,https://www.manheimcentral.org/departments/business-services/purchasing,no,,auto; leaid 4214550
+yes,Hampton Township School District - Bids,PA,page,https://www.ht-sd.org/about/administration/administrative-services/invitation-to-bid-consumable-supplies,no,,auto; leaid 4211400
+yes,Ringgold School District - Bids,PA,page,https://www.ringgold.org/departments/business-office/bids,no,,auto; leaid 4220400
+yes,Springfield Township School District - Bids,PA,page,https://www.springfieldschools.com/administration/business-office/bids-requests-and-proposals/archived-bids-requests-and-proposals,no,,auto; leaid 4222620
+yes,Pottsville Area School District - Bids,PA,page,https://www.pottsville.k12.pa.us/departments/business/bids-rfps,no,,auto; leaid 4219710
+yes,West Mifflin Area School District - Bids,PA,page,https://www.wmasd.org/bidsandrfp.aspx,no,,auto; leaid 4225680
+yes,Middletown Area School District - Bids,PA,page,https://www.raiderweb.org/our_district/business_office/rfps_bids_tabulations,no,,auto; leaid 4215240
+yes,Elizabeth Forward School District - Bids,PA,page,https://www.efsd.net/departments/business-office/rfp-bids,no,,auto; leaid 4209090
+yes,Greater Nanticoke Area School District - Bids,PA,page,https://www.gnasd.com/departments/bids__quotes__and_purchasing,no,,auto; leaid 4216290
+yes,Tuscarora School District - Bids,PA,page,https://www.tus.k12.pa.us/62366_3,no,,auto; leaid 4222740
+yes,Shamokin Area School District - Bids,PA,page,https://www.indians.k12.pa.us/233908_2,no,,auto; leaid 4221240
+yes,Lehighton Area School District - Bids,PA,page,https://www.lehighton.org/departments/business-office/current-rfp-s,no,,auto; leaid 4213500
+yes,Tunkhannock Area School District - Bids,PA,page,https://www.tasd.net/request-for-proposals-rfps,no,,auto; leaid 4223850
+yes,Hanover Area School District - Bids,PA,page,https://www.hanoverarea.org/page/bids/,no,,auto; leaid 4211420
+yes,North Schuylkill School District - Bids,PA,page,https://www.northschuylkill.net/district_requestforproposals.html,no,,auto; leaid 4210110
+yes,South Butler County School District - Bids,PA,page,https://www.knochsd.org/apps/pages/index.jsp?uREC_ID=1168783&type=d&pREC_ID=1841360,no,,auto; leaid 4221930
+yes,Northern Tioga School District - Bids,PA,page,https://www.ntiogasd.org/online-bidding/,no,,auto; leaid 4217730
+yes,Northwestern Lehigh School District - Bids,PA,page,https://www.nwlehighsd.org/departments/business-offices/bidsproposals,no,,auto; leaid 4217850
+yes,Avonworth School District - Bids,PA,page,https://www.avonworth.k12.pa.us/departments/business-services/requests-for-proposals-rfp,no,,auto; leaid 4202820
+yes,Punxsutawney Area School District - Bids,PA,page,https://www.punxsy.k12.pa.us/apps/pages/index.jsp?uREC_ID=1129377&type=d&pREC_ID=1399939,no,,auto; leaid 4219800
+yes,New Kensington-Arnold School District - Bids,PA,page,https://www.nkasd.com/apps/pages/index.jsp?uREC_ID=1084051&type=d&pREC_ID=1370397,no,,auto; leaid 4216740
+yes,Milton Area School District - Bids,PA,page,https://www.milton.k12.pa.us/page/bid-solicitations/,no,,auto; leaid 4215480
+yes,Providence School District - Bids,RI,page,https://www.providenceschools.org/about-us/bids-contracts/archive-bids-and-contracts,no,,auto; leaid 4400900
+yes,Cumberland School District - Bids,RI,page,https://cumberlandschools.org/local-copy-of-request-for-proposal-invitation-to-bid-documents/?et_fb=1&PageSpeed=off,no,,auto; leaid 4400270
+yes,Chariho Regional School District - Bids,RI,page,https://www.chariho.k12.ri.us/central_administration/business_office/bids/archived_bids/furnish_and_install_roller_shades_bid,no,,auto; leaid 4400150
+yes,Bristol-Warren Regional School District - Bids,RI,page,https://www.bwrsd.org/departments1/business-finance-office/bids,no,,auto; leaid 4400065
+yes,East Greenwich School District - Bids,RI,page,https://www.egsd.net/school-committee/rfp-bids,no,,auto; leaid 4400300
+yes,South Kingstown School District - Bids,RI,page,https://www.skschools.org/purchasing-bids-and-interlocal-agre,no,,auto; leaid 4401020
+yes,Middletown School District - Bids,RI,page,https://www.middletownschools.org/rfp,no,,auto; leaid 4400630
+yes,Charleston County School District - Bids,SC,page,https://www.ccsdschools.com/departments2/financial-services/contracts-and-procurement/solicitations,no,,auto; leaid 4501440
+yes,Horry County School District - Bids,SC,page,https://www.horrycountyschools.net/departments-services/fiscal-services/procurement,no,,auto; leaid 4502490
+yes,Richland School District 2 - Bids,SC,page,https://www.richland2.org/departments/businessservices/procurement,no,,auto; leaid 4503390
+yes,Richland School District 1 - Bids,SC,page,https://www.richlandone.org/departments/procurement-services/procurement-authorization-levels-monthly-po-information,no,,auto; leaid 4503360
+yes,Beaufort County School District - Bids,SC,page,https://www.beaufortschools.net/community/working-with-the-district/vendor-registration,no,,auto; leaid 4501110
+yes,Lexington School District 5 - Bids,SC,page,https://www.lexrich5.org/departments/office-of-finance/procurement/solicitations-and-awards,no,,auto; leaid 4502820
+yes,Pickens County School District - Bids,SC,page,https://www.pickens.k12.sc.us/documents/departments/procurement/solicitation-&amp;-awards/solicitations/190296,no,,auto; leaid 4503330
+yes,Sumter County Consolidated School District - Bids,SC,page,https://www.sumterschools.org/invitationtobid,no,,auto; leaid 4503902
+yes,Oconee County School District - Bids,SC,page,https://www.oconee.k12.sc.us/171139_3,no,,auto; leaid 4503060
+yes,Georgetown County School District - Bids,SC,page,https://www.gcsd.k12.sc.us/documents/departments/business-services/procurement/solicitations-/current-solicitations/729210,no,,auto; leaid 4502280
+yes,Newberry County School District - Bids,SC,page,https://www.newberry.k12.sc.us/documents/department-of-finance/solicitations-and-awards/solicitations-fy-25-26/826109,no,,auto; leaid 4503030
+yes,York School District 1 - Bids,SC,page,https://www.york.k12.sc.us/departments/finance/procurement/bids-and-awards,no,,auto; leaid 4503810
+yes,Dillon School District 4 - Bids,SC,page,https://www.dillon.k12.sc.us/about_us/current_r_f_p_s,no,,auto; leaid 4501920
+yes,Marion School District 10 - Bids,SC,page,https://www.marionschools.net/departments/purchasing,no,,auto; leaid 4503908
+yes,Sioux Falls School District 49-5 - Bids,SD,page,https://www.sf.k12.sd.us/page/purchasing-catalog,no,,auto; leaid 4666270
+yes,Shelby County School District - Bids,TN,page,https://www.scsk12.org/procurement/db?PID=282,no,,auto; leaid 4700148
+yes,Metropolitan Nashville Public School District - Bids,TN,page,https://www.mnps.org/departments/procurement/current-solicitations,no,,auto; leaid 4703180
+yes,Hamilton County School District - Bids,TN,page,https://hcde.org/finance/purchasing/,no,,auto; leaid 4701590
+yes,Sumner County School District - Bids,TN,page,https://www.sumnerschools.org/about-us/departments/finance/invitation-to-bid,no,,auto; leaid 4704020
+yes,Sevier County School District - Bids,TN,page,https://www.sevier.org/bids,no,,auto; leaid 4703780
+yes,Putnam County School District - Bids,TN,page,https://www.putnamschools.org/page/posted-rfps,no,,auto; leaid 4703480
+yes,Bradley County School District - Bids,TN,page,https://www.bradleyschools.org/district/bids-rfps-and-rfqs,no,,auto; leaid 4700330
+yes,Collierville School District - Bids,TN,page,https://www.colliervilleschools.org/bidopportunities,no,,auto; leaid 4700149
+yes,Bartlett City School District - Bids,TN,page,https://www.bartlettschools.org/departments/purchasing/bid-rfp-opportunities,no,,auto; leaid 4700153
+yes,Washington County School District - Bids,TN,page,https://washington.org/meetings/service-request-rfp,no,,auto; leaid 4704380
+yes,Cumberland County School District - Bids,TN,page,https://cumberlandschools.org/local-copy-of-request-for-proposal-invitation-to-bid-documents/?et_fb=1&PageSpeed=off,no,,auto; leaid 4700900
+yes,Warren County School District - Bids,TN,page,https://www.warrenschools.com/i-want-to/current-bids,no,,auto; leaid 4704350
+yes,Germantown Municipal School District - Bids,TN,page,https://www.gmsdk12.org/departments/finance/bidrfp-opportunities,no,,auto; leaid 4700151
+yes,Maryville City School District - Bids,TN,page,https://www.maryvillemo.gov/bids,no,,auto; leaid 4702700
+yes,Coffee County School District - Bids,TN,page,https://www.coffee.k12.ga.us/bids,no,,auto; leaid 4700780
+yes,Macon County School District - Bids,TN,page,https://www.maconk12.org/files/user/217/file/P_Card.pdf,no,,auto; leaid 4702550
+yes,Marion County School District - Bids,TN,page,https://www.marionschools.net/departments/purchasing,no,,auto; leaid 4702640
+yes,Giles County School District - Bids,TN,page,https://www.gilesk12.org/departments/finance/bids-and-rfps,no,,auto; leaid 4701410
+yes,Elizabethton City School District - Bids,TN,page,https://www.elizabethton.org/departments/purchasing/index.php,no,,auto; leaid 4701110
+yes,Millington Municipal School District - Bids,TN,page,https://www.millingtonschools.org/16897_4,no,,auto; leaid 4700150
+yes,Unicoi County School District - Bids,TN,page,https://www.unicoischools.com/page/bids,no,,auto; leaid 4704230
+yes,Polk County School District - Bids,TN,page,https://polkschools.org/wp-content/uploads/2026/09/2026-2027-Annual-Notices_v2.pdf,no,,auto; leaid 4703450
+yes,Lakeland School System District - Bids,TN,page,https://www.lakelandk12.org/departments/finance,no,,auto; leaid 4700154
+yes,Houston Independent School District - Bids,TX,page,https://www.houstonisd.org/community-partnerships/purchasing-services,no,,auto; leaid 4823640
+yes,Cypress-Fairbanks Independent School District - Bids,TX,page,https://www.cfisd.net/our-district/procurement-services/solicitations,no,,auto; leaid 4816110
+yes,Fort Bend Independent School District - Bids,TX,page,https://www.fortbendisd.gov/departments/purchasing,no,,auto; leaid 4819650
+yes,Austin Independent School District - Bids,TX,page,https://www.austinisd.org/cp/bids,no,,auto; leaid 4808940
+yes,Fort Worth Independent School District - Bids,TX,page,https://www.fwisd.org/departments/operations/capital-improvement-program/evaluations-vendor-opportunities,no,,auto; leaid 4819700
+yes,Conroe Independent School District - Bids,TX,page,https://www.conroeisd.net/page/contracts-procurement-transparency,no,,auto; leaid 4815000
+yes,Arlington Independent School District - Bids,TX,page,https://www.aisd.net/community/how-to-do-business-with-arlington-isd/,no,,auto; leaid 4808700
+yes,Garland Independent School District - Bids,TX,page,https://www.garlandisd.net/about/financial-information/contracts-and-procurement,no,,auto; leaid 4820340
+yes,Pasadena Independent School District - Bids,TX,page,https://www.pasadenaisd.org/purchasing,no,,auto; leaid 4834320
+yes,San Antonio Independent School District - Bids,TX,page,https://www.saisd.net/page/procurement-services,no,,auto; leaid 4838730
+yes,Lamar Consolidated Independent School District - Bids,TX,page,https://www.lcisd.org/purchasing,no,,auto; leaid 4826580
+yes,United Independent School District - Bids,TX,page,https://www.uisd.net/ebid-vendor-information,no,,auto; leaid 4843650
+yes,Clear Creek Independent School District - Bids,TX,page,https://www.ccisd.net/vendor-contractor,no,,auto; leaid 4814280
+yes,Mesquite Independent School District - Bids,TX,page,https://www.mesquiteisd.org/current-bids-and-proposals,no,,auto; leaid 4830390
+yes,Mansfield Independent School District - Bids,TX,page,https://www.mansfieldisd.org/departments/purchasing/doing-business-with-misd,no,,auto; leaid 4828920
+yes,Keller Independent School District - Bids,TX,page,https://www.kellerisd.net/departments/purchasing/current-bidsproposals,no,,auto; leaid 4825260
+yes,Denton Independent School District - Bids,TX,page,https://www.dentonisd.org/our-district/departments-services/purchasing/current-bid-opportunities,no,,auto; leaid 4816740
+yes,Amarillo Independent School District - Bids,TX,page,https://www.amaisd.org/purchasing,no,,auto; leaid 4808130
+yes,Comal Independent School District - Bids,TX,page,https://www.comalisd.org/apps/pages/purchasing,no,,auto; leaid 4814730
+yes,Lubbock Independent School District - Bids,TX,page,https://www.lubbockisd.org/o/lisd/page/solicitations-and-auctions,no,,auto; leaid 4828500
+yes,Goose Creek Consolidated Independent School District - Bids,TX,page,https://www.gccisd.net/community/business-services/purchasing/awarded-solicitations,no,,auto; leaid 4821150
+yes,Mckinney Independent School District - Bids,TX,page,https://www.mckinneyisd.net/o/misd/page/purchasing,no,,auto; leaid 4829850
+yes,Eagle Mountain-Saginaw Independent School District - Bids,TX,page,https://www.emsisd.com/about-ems-isd/departments/business-services/purchasing/bid-opportunities/current-bid-opportunities,no,,auto; leaid 4817700
+yes,Birdville Independent School District - Bids,TX,page,https://www.birdvilleschools.net/departments/purchasing,no,,auto; leaid 4810230
+yes,Allen Independent School District - Bids,TX,page,https://www.allenisd.org/o/aisd/page/purchasing,no,,auto; leaid 4807890
+yes,Galena Park Independent School District - Bids,TX,page,https://www.galenaparkisd.com/departments/purchasing/awarded-bids,no,,auto; leaid 4820250
+yes,Pearland Independent School District - Bids,TX,page,https://www.pearlandisd.org/news/isd-news-details/~board/pearland-isd-news/post/bid-opportunities-10-2026,no,,auto; leaid 4834440
+yes,Hallsville Independent School District - Bids,TX,page,https://www.hisd.com/purchasing,no,,auto; leaid 4822170
+yes,Beaumont Independent School District - Bids,TX,page,https://www.bmtisd.com/departments/business-finance/purchasing/closed-bid-opportunities,no,,auto; leaid 4809670
+yes,Crowley Independent School District - Bids,TX,page,https://www.crowleyisdtx.org/departments/purchasing,no,,auto; leaid 4815910
+yes,Weslaco Independent School District - Bids,TX,page,https://www.wisd.us/resources/bids-and-proposals,no,,auto; leaid 4844960
+yes,Forney Independent School District - Bids,TX,page,https://www.forneyisd.net/departments/finance/purchasing-accounts-payable,no,,auto; leaid 4819560
+yes,Mission Consolidated Independent School District - Bids,TX,page,https://www.mcisd.net/apps/pages/vendorcommunity,no,,auto; leaid 4831040
+yes,College Station Independent School District - Bids,TX,page,https://www.csisd.org/departments/purchasing/current-bid-opportunities,no,,auto; leaid 4807350
+yes,Magnolia Independent School District - Bids,TX,page,https://www.magnoliaisd.org/departments/purchasing/bid-opportunities,no,,auto; leaid 4828740
+yes,Southwest Independent School District - Bids,TX,page,https://www.southwestschools.org/departments/treasurer/bidding/,no,,auto; leaid 4840950
+yes,Belton Independent School District - Bids,TX,page,https://www.bisd.net/departments/business-services/purchasing/rfps-and-bids,no,,auto; leaid 4809860
+yes,San Angelo Independent School District - Bids,TX,page,https://www.saisd.org/departments/child-nutrition-services/bids,no,,auto; leaid 4838700
+yes,Georgetown Independent School District - Bids,TX,page,https://georgetown.k12.ma.us/budget-finance/,no,,auto; leaid 4820600
+yes,Bastrop Independent School District - Bids,TX,page,https://www.bisdtx.org/departments/business-finance/purchasing,no,,auto; leaid 4809570
+yes,Duncanville Independent School District - Bids,TX,page,https://www.duncanvilleisd.org/departments/financial-services/purchasing/current-bids-rfps,no,,auto; leaid 4817640
+yes,Lake Travis Independent School District - Bids,TX,page,https://www.ltisdschools.org/departments/purchasing/purchasing-manuals,no,,auto; leaid 4826470
+yes,Del Valle Independent School District - Bids,TX,page,https://www.dvisd.net/departments/construction-planning/current-request-for-bids-or-proposals,no,,auto; leaid 4816620
+yes,Canyon Independent School District - Bids,TX,page,https://canyonisd.net/87930_4,no,,auto; leaid 4812810
+yes,Sheldon Independent School District - Bids,TX,page,https://www.sheldonisd.com/departments/finance/purchasing/requests-for-proposalsbids-clone,no,,auto; leaid 4839990
+yes,Waxahachie Independent School District - Bids,TX,page,https://www.wisd.org/departments/business-finance/purchasing,no,,auto; leaid 4844730
+yes,East Central Independent School District - Bids,TX,page,https://www.ecisd.net/departments/purchasing,no,,auto; leaid 4817850
+yes,New Braunfels Independent School District - Bids,TX,page,https://nbisd.org/departments/business-office/awarded-bids/,no,,auto; leaid 4832370
+yes,Sharyland Independent School District - Bids,TX,page,https://www.sharylandisd.org/departments/business-and-finance-services/purchasing,no,,auto; leaid 4839930
+yes,San Benito Consolidated Independent School District - Bids,TX,page,https://www.sbcisd.net/departments/purchasing/purchasing,no,,auto; leaid 4838790
+yes,Manor Independent School District - Bids,TX,page,https://www.manorisd.net/departments/business-and-finance/purchasing,no,,auto; leaid 4828890
+yes,Willis Independent School District - Bids,TX,page,https://www.willisisd.org/about/departments/business-finance,no,,auto; leaid 4845900
+yes,San Marcos Consolidated Independent School District - Bids,TX,page,https://www.smcisd.net/departments/business-finance/purchasing,no,,auto; leaid 4838970
+yes,Port Arthur Independent School District - Bids,TX,page,https://www.paisd.org/departments/business-office/purchasing/archived-bids,no,,auto; leaid 4835400
+yes,Copperas Cove Independent School District - Bids,TX,page,https://www.ccisd.com/apps/pages/index.jsp?uREC_ID=4477463&type=d&pREC_ID=2757654,no,,auto; leaid 4815240
+yes,Liberty Hill Independent School District - Bids,TX,page,https://www.lhisd.org/departments/business-and-financial-services/purchasing,no,,auto; leaid 4827420
+yes,Aledo Independent School District - Bids,TX,page,https://www.aledoisd.org/departments/business-office/purchasing,no,,auto; leaid 4807780
+yes,Princeton Independent School District - Bids,TX,page,https://www.princetonk12.org/offices/business/rfps-bids-and-quotes,no,,auto; leaid 4835850
+yes,Eanes Independent School District - Bids,TX,page,https://www.eanesisd.net/dept/purchasing/bid/past,no,,auto; leaid 4817760
+yes,Barbers Hill Independent School District - Bids,TX,page,https://www.bhisd.net/departments/finance/purchasing,no,,auto; leaid 4809450
+yes,Cleburne Independent School District - Bids,TX,page,https://www.c-isd.com/departments/business/purchasing/current-rfp-bids,no,,auto; leaid 4814310
+yes,La Porte Independent School District - Bids,TX,page,https://www.lpisd.org/35511_3,no,,auto; leaid 4826190
+yes,White Settlement Independent School District - Bids,TX,page,https://www.wsisd.com/departments/business-services/purchasing,no,,auto; leaid 4845540
+yes,Crosby Independent School District - Bids,TX,page,https://www.crosbyisd.org/departments/business-services/purchasing,no,,auto; leaid 4815750
+yes,Highland Park Independent School District - Bids,TX,page,https://www.hpisd.org/departments/business-service/purchasing,no,,auto; leaid 4823250
+yes,Red Oak Independent School District - Bids,TX,page,https://www.redoakisd.org/departments/business-services/purchasing/current-bidrfp-opportunities,no,,auto; leaid 4836660
+yes,Galveston Independent School District - Bids,TX,page,https://www.gisd.org/solicitations,no,,auto; leaid 4820280
+yes,Roma Independent School District - Bids,TX,page,https://www.romaisd.com/awarded-bids-2021-2022,no,,auto; leaid 4837740
+yes,Joshua Independent School District - Bids,TX,page,https://www.joshuaisd.org/departments/finance/purchasing,no,,auto; leaid 4824930
+yes,Dayton Independent School District - Bids,TX,page,https://www.daytonisd.net/business-services,no,,auto; leaid 4816410
+yes,Pine Tree Independent School District - Bids,TX,page,https://www.ptisd.org/page/purchasing,no,,auto; leaid 4834980
+yes,Edcouch-Elsa Independent School District - Bids,TX,page,https://www.eeisd.org/page/purchasing/,no,,auto; leaid 4818060
+yes,Santa Fe Independent School District - Bids,TX,page,https://www.sfisd.org/departments/business/current-bids-and-proposals,no,,auto; leaid 4839270
+yes,Lumberton Independent School District - Bids,TX,page,https://www.lumbertonisd.org/departments/business-services/purchasing-department,no,,auto; leaid 4813530
+yes,Calallen Independent School District - Bids,TX,page,https://www.calallen.org/departments/business-office/purchasing-procurement,no,,auto; leaid 4812420
+yes,Kilgore Independent School District - Bids,TX,page,https://www.kisd.org/our-district/district-departments/business-office,no,,auto; leaid 4825620
+yes,Huffman Independent School District - Bids,TX,page,https://www.huffmanisd.net/departments/business-and-finance/purchasing,no,,auto; leaid 4823820
+yes,Tuloso-Midway Independent School District - Bids,TX,page,https://www.tmisd.us/purchasing,no,,auto; leaid 4843350
+yes,La Vernia Independent School District - Bids,TX,page,https://www.lvisd.org/page/rfqs-and-solicitations/,no,,auto; leaid 4826310
+yes,Brownwood Independent School District - Bids,TX,page,https://www.brownwoodisd.org/bids,no,,auto; leaid 4811700
+yes,Mineral Wells Independent School District - Bids,TX,page,https://www.mwisd.net/117125_2,no,,auto; leaid 4830950
+yes,Taylor Independent School District - Bids,TX,page,https://www.taylorisd.org/rfqrfp,no,,auto; leaid 4842280
+yes,Gainesville Independent School District - Bids,TX,page,https://www.gainesvilleisd.org/departments/business-office/purchasing-bids,no,,auto; leaid 4820220
+yes,Fredericksburg Independent School District - Bids,TX,page,https://www.fisd.org/our-district/departments/financial-transparency,no,,auto; leaid 4819840
+yes,La Vega Independent School District - Bids,TX,page,https://www.lavegaisd.org/departments/business-office,no,,auto; leaid 4826280
+yes,Hidalgo Independent School District - Bids,TX,page,http://www.hidalgo-isd.org/apps/pages/index.jsp?uREC_ID=2789918&type=d&pREC_ID=2309020,no,,auto; leaid 4823100
+yes,Navasota Independent School District - Bids,TX,page,http://www.navasotaisd.org/apps/pages/index.jsp?uREC_ID=136097&type=d&pREC_ID=565149,no,,auto; leaid 4832190
+yes,Kennedale Independent School District - Bids,TX,page,https://www.kennedaleisd.net/departments/financial-services/purchasing/bid-opportunities,no,,auto; leaid 4825500
+yes,Gilmer Independent School District - Bids,TX,page,https://www.gilmerschools.com/134837_3,no,,auto; leaid 4820700
+yes,Hudson Independent School District - Bids,TX,page,https://www.hudsonisd.org/rfp-for-erate24,no,,auto; leaid 4823790
+yes,Wimberley Independent School District - Bids,TX,page,https://www.wimberleyisd.net/departments1/business-support-services/purchasing/bids-and-proposals,no,,auto; leaid 4800009
+yes,Hardin-Jefferson Independent School District - Bids,TX,page,https://www.hjisd.net/departments/finance-and-operations/bids-rfps,no,,auto; leaid 4822410
+yes,Royal Independent School District - Bids,TX,page,https://www.royal-isd.net/page/procurement-purchasing/,no,,auto; leaid 4838190
+yes,Gonzales Independent School District - Bids,TX,page,https://www.gonzalesisd.net/departments/financial-services/purchasing/purchasing-2023-bond-program,no,,auto; leaid 4821060
+yes,Robstown Independent School District - Bids,TX,page,https://www.robstownisd.org/apps/pages/index.jsp?uREC_ID=290366&type=d&pREC_ID=900134,no,,auto; leaid 4837440
+yes,Connally Independent School District - Bids,TX,page,https://www.connally.org/rfp-rfq,no,,auto; leaid 4814970
+yes,Jasper Independent School District - Bids,TX,page,https://www.jasperisd.net/50236_3,no,,auto; leaid 4824630
+yes,Spring Hill Independent School District - Bids,TX,page,https://www.shisd.net/apps/pages/index.jsp?uREC_ID=1647924&type=d&pREC_ID=1791024,no,,auto; leaid 4841190
+yes,Hamshire-Fannett Independent School District - Bids,TX,page,https://www.hfisd.net/a-z-1/financebusiness/current-bid-opportunities,no,,auto; leaid 4822320
+yes,Raymondville Independent School District - Bids,TX,page,https://www.raymondvilleisd.org/departments/purchasing-department/2026-2027-bid-requests-clone,no,,auto; leaid 4836540
+yes,Liberty-Eylau Independent School District - Bids,TX,page,https://leisd.net/foodservice-management-rfp-informat,no,,auto; leaid 4827390
+yes,Cache School District - Bids,UT,page,https://www.ccsdut.org/departments/business-services/solicitations,no,,auto; leaid 4900120
+yes,Iron School District - Bids,UT,page,https://drive.google.com/drive/folders/15ocgD-JLXpS-_R0QaUK0zVclXH1Q2mW0?usp=sharing,no,,auto; leaid 4900390
+yes,Sevier School District - Bids,UT,page,https://www.sevier.org/bids,no,,auto; leaid 4900930
+yes,North Sanpete School District - Bids,UT,page,https://www.nsanpete.org/departments/finance/planned-projects-and-bids,no,,auto; leaid 4900660
+yes,Fairfax County Public Schools - Bids,VA,page,https://www.fcps.edu/get-involved/procurement-services/design-construction-services-current-solicitations,no,,auto; leaid 5101260
+yes,Prince William County Public Schools - Bids,VA,page,https://www.pwcs.edu/about/departments/procurement_supply_services/procurement_information,no,,auto; leaid 5103130
+yes,Virginia Beach City Public Schools - Bids,VA,page,https://www.vbschools.com/budget/procurement,no,,auto; leaid 5103840
+yes,Norfolk City Public Schools - Bids,VA,page,https://www.norfolkpublicschools.org/district/business-services/current-rfp.html,no,,auto; leaid 5102670
+yes,Newport News City Public Schools - Bids,VA,page,https://sbo.nn.k12.va.us/procurement/current_solicitations.html,no,,auto; leaid 5102640
+yes,Richmond City Public Schools - Bids,VA,page,https://www.rvaschools.net/current-bids-and-rfps,no,,auto; leaid 5103240
+yes,Washington County Public Schools - Bids,VA,page,https://washington.org/meetings/service-request-rfp,no,,auto; leaid 5103900
+yes,Prince George County Public Schools - Bids,VA,page,https://www.pgs.k12.va.us/bids-and-rfp-postings,no,,auto; leaid 5103090
+yes,Danville City Public Schools - Bids,VA,page,https://www.danvilleschools.net/request-for-proposals-rfp-1,no,,auto; leaid 5101110
+yes,Warren County Public Schools - Bids,VA,page,https://www.warrenschools.com/i-want-to/current-bids,no,,auto; leaid 5103870
+yes,Charlottesville City Public Schools - Bids,VA,page,https://www.charlottesvilleschools.org/budget,no,,auto; leaid 5100780
+yes,Petersburg City Public Schools - Bids,VA,page,https://www.petersburg.k12.va.us/66975_4,no,,auto; leaid 5102910
+yes,Winchester City Public Schools - Bids,VA,page,https://www.wps.k12.va.us/departments/finance/purchasing,no,,auto; leaid 5104050
+yes,Amherst County Public Schools - Bids,VA,page,https://www.amherstschools.org/departments/business-office,no,,auto; leaid 5100210
+yes,Wythe County Public Schools - Bids,VA,page,https://www.wythe.k12.va.us/page/bidsrfps,no,,auto; leaid 5104110
+yes,Radford City Public Schools - Bids,VA,page,https://www.rcps.org/community/procurement,no,,auto; leaid 5103180
+yes,Giles County Public Schools - Bids,VA,page,https://gcps.ss13.sharpschool.com/central_office/bids___r_f_ps,no,,auto; leaid 5101590
+yes,New Kent County Public Schools - Bids,VA,page,https://www.newkentschools.org/about-nkcps/departments/finance/current-solicitation-documents,no,,auto; leaid 5102610
+yes,Page County Public Schools - Bids,VA,page,https://www.pageud.org/departments/business-office,no,,auto; leaid 5102850
+yes,Lee County Public Schools - Bids,VA,page,https://www.leeschools.net/support/construction_solicitations,no,,auto; leaid 5102190
+yes,Staunton City Public Schools - Bids,VA,page,https://www.stauntonschools.org/documents/bids-%2F-rfqs-%2F-rfps-%2F-public-sales-%2F-surplus-equipm/20197966,no,,auto; leaid 5103690
+yes,Maple Run Unified School District - Bids,VT,page,https://www.maplerun.org/documents/notices-&amp;-reports/rfp/rfqs/77933,no,,auto; leaid 5000399
+yes,Tacoma Public Schools - Bids,WA,page,https://www.tacomaschools.org/departments/purchasing/contact,no,,auto; leaid 5308700
+yes,Puyallup School District - Bids,WA,page,https://www.puyallupsd.org/about-us/departments/business-services/accounting-purchasing/procurement-open-bids,no,,auto; leaid 5306960
+yes,Northshore School District - Bids,WA,page,https://www.nsd.org/our-district/departments/business-services/purchasing/business,no,,auto; leaid 5305910
+yes,Federal Way School District - Bids,WA,page,https://www.fwps.org/departments/business-services/invitation-to-bid,no,,auto; leaid 5302820
+yes,Bethel School District - Bids,WA,page,https://www.bethelsd.org/programs-departments/business-office/purchasing-and-procurement,no,,auto; leaid 5300480
+yes,Edmonds School District - Bids,WA,page,https://www.edmonds.wednet.edu/our-district/capital-projects/qualifications-proposals-bids,no,,auto; leaid 5302400
+yes,Pasco School District - Bids,WA,page,https://www.psd1.org/departments/finance/procurement,no,,auto; leaid 5306570
+yes,Highline School District - Bids,WA,page,https://www.highlineschools.org/departments/business-finance/purchasing/closed-bids,no,,auto; leaid 5303540
+yes,Auburn School District - Bids,WA,page,https://www.auburn.wednet.edu/district-departments/business-services/rfqsbidsrfps,no,,auto; leaid 5300300
+yes,Yakima School District - Bids,WA,page,https://www.ysd7.org/about/finances/purchasing,no,,auto; leaid 5310110
+yes,Renton School District - Bids,WA,page,https://www.rentonschools.us/departments/business-services/purchasing,no,,auto; leaid 5307230
+yes,North Thurston Public Schools - Bids,WA,page,https://www.ntps.org/departments/financial-services/rfp,no,,auto; leaid 5305850
+yes,Central Valley School District - Bids,WA,page,https://www.cvsd.org/apps/pages/index.jsp?uREC_ID=1230877&type=d&pREC_ID=1488209,no,,auto; leaid 5301110
+yes,Richland School District - Bids,WA,page,https://www.rsd.edu/news-announcements/news-details/~board/district-news/post/rsd-request-for-proposals-rfp-integrated-financial-and-student-information-systems,no,,auto; leaid 5307320
+yes,Clover Park School District - Bids,WA,page,https://www.cloverpark.k12.wa.us/bids-and-quotes,no,,auto; leaid 5301410
+yes,Central Kitsap School District - Bids,WA,page,https://www.ckschools.org/purchasing-bids,no,,auto; leaid 5301080
+yes,Marysville School District - Bids,WA,page,https://www.msd25.org/documents/departments/purchasing/rfp/rfq-&amp;-awarded-bids/54386,no,,auto; leaid 5304860
+yes,Lake Stevens School District - Bids,WA,page,https://www.lkstevens.wednet.edu/departments/school-planning-construction/current/current-bid-requests,no,,auto; leaid 5304200
+yes,Shoreline School District - Bids,WA,page,https://www.ssd412.org/departments/business-finance/purchasing,no,,auto; leaid 5307920
+yes,South Kitsap School District - Bids,WA,page,https://www.skschools.org/purchasing-bids-and-interlocal-agre,no,,auto; leaid 5308160
+yes,Camas School District - Bids,WA,page,https://sites.google.com/camas.wednet.edu/budget-finance/home/bid-documents-rfps,no,,auto; leaid 5300810
+yes,Snoqualmie Valley School District - Bids,WA,page,https://www.svsd410.org/departments/operations/public-bid-documents,no,,auto; leaid 5308040
+yes,Mount Vernon School District - Bids,WA,page,https://mountvernonschools.org/technology/technology-rfp-information,no,,auto; leaid 5305400
+yes,Oak Harbor School District - Bids,WA,page,https://www.ohsd.net/bidopportunities,no,,auto; leaid 5305940
+yes,North Kitsap School District - Bids,WA,page,https://www.nkschools.org/about-us/departments/business-office,no,,auto; leaid 5305760
+yes,Stanwood-Camano School District - Bids,WA,page,https://www.stanwood.wednet.edu/departments/fiscal-services/purchasing-and-bid-opportunities,no,,auto; leaid 5308340
+yes,Ferndale School District - Bids,WA,page,https://www.ferndalesd.org/request-for-proposal-rfp,no,,auto; leaid 5302850
+yes,Toppenish School District - Bids,WA,page,https://www.toppenish.wednet.edu/rfp,no,,auto; leaid 5308970
+yes,Port Angeles School District - Bids,WA,page,https://www.portangelesschools.org/capital-projects/capital-project-port-angeles-high-school/gccm-rfq-and-information,no,,auto; leaid 5306820
+yes,Aberdeen School District - Bids,WA,page,https://www.asd5.org/departments/business-office/purchasing-procurement/open-rfps-and-rfqs,no,,auto; leaid 5300030
+yes,Wapato School District - Bids,WA,page,https://www.wapatosd.org/technologyrfps,no,,auto; leaid 5309480
+yes,Goldendale School District - Bids,WA,page,https://www.goldendaleschools.org/departments/technology-services/rfp,no,,auto; leaid 5303090
+yes,Lakewood School District - Bids,WA,page,https://www.lakewoodco.gov/Local-Government/Departments/City-Clerks-Office/Refresh-Public-Notices/Legal-Notices,no,,auto; leaid 5304260
+yes,Blaine School District - Bids,WA,page,https://www.blaineschools.org/departments/finance/school-finance-basics,no,,auto; leaid 5300570
+yes,Kenosha School District - Bids,WI,page,https://www.kusd.edu/district/departments/finance/,no,,auto; leaid 5507320
+yes,Janesville School District - Bids,WI,page,https://www.janesville.k12.wi.us/departments/business-services,no,,auto; leaid 5507020
+yes,Elmbrook School District - Bids,WI,page,https://www.elmbrookschools.org/departments/business-services,no,,auto; leaid 5501770
+yes,Middleton-Cross Plains School District - Bids,WI,page,https://www.mcpasd.k12.wi.us/documents/services/technology-services/technology-rfps/closed-rfps/16682033,no,,auto; leaid 5509510
+yes,D.C. Everest Area School District - Bids,WI,page,https://www.dce.k12.wi.us/departments/business-office/rfps,no,,auto; leaid 5513170
+yes,Beloit School District - Bids,WI,page,https://www.sdb.k12.wi.us/departments/business-services/purchasing-services,no,,auto; leaid 5501050
+yes,Shorewood School District - Bids,WI,page,https://www.shorewood.k12.wi.us/departments/business-services,no,,auto; leaid 5513800
+yes,Seymour Community School District - Bids,WI,page,https://www.seymourschools.org/district-departments/finance-operations/bid-information,no,,auto; leaid 5513530
+yes,Berkeley County School District - Bids,WV,page,https://www.berkeleyschools.net/departments/purchasing/bid-opportuniities/,no,,auto; leaid 5400060
+yes,Harrison County School District - Bids,WV,page,https://www.harrisonschools.org/board_of_education/request_for_proposals,no,,auto; leaid 5400510
+yes,Putnam County School District - Bids,WV,page,https://www.putnamschools.org/page/posted-rfps,no,,auto; leaid 5401200
+yes,Marion County School District - Bids,WV,page,https://www.marionschools.net/departments/purchasing,no,,auto; leaid 5400720
+yes,Mason County School District - Bids,WV,page,https://www.masonk12.net/district/bids--rfps/,no,,auto; leaid 5400780
+yes,Laramie County School District 1 - Bids,WY,page,https://www.laramie1.org/purchasing-department,no,,auto; leaid 5601980
+yes,Lincoln County School District 2 - Bids,WY,page,https://lcsd2.org/bids/,no,,auto; leaid 5604060
