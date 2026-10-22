@@ -3,9 +3,9 @@ name: RFP Finder (daily)
 on:
   schedule:
     # GitHub often runs scheduled jobs late or skips them, so the bot tries
-    # every hour from 6 AM to 4 PM Eastern (10:00-20:00 UTC).
+    # every hour from 1 AM to 4 PM Eastern (05:00-20:00 UTC), so the long run is done by morning.
     # The first try that works does the job; the rest see it's done and stop in seconds.
-    - cron: "17 10-20 * * *"
+    - cron: "17 5-20 * * *"
   workflow_dispatch: # "Run workflow" button (always runs)
 
 permissions:
@@ -18,7 +18,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 345
     env:
       SMTP_HOST: ${{ secrets.SMTP_HOST }}
       SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -55,22 +55,30 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
-      - name: Find districts (only when the list is missing or unfinished)
+      - name: Find districts (keeps going where it left off; up to 75 min)
         if: steps.check.outputs.skip != 'true'
         continue-on-error: true
-        run: |
-          if [ ! -f data/districts.json ] || grep -q '"pending"' data/districts.json; then python discover.py; fi
+        timeout-minutes: 90
+        run: python discover.py
 
-      - name: Look for RFPs
+      - name: Look for RFPs on district websites (up to 45 min)
         if: steps.check.outputs.skip != 'true'
+        continue-on-error: true
+        timeout-minutes: 60
         run: python scraper.py
+
+      - name: Read board meetings, budgets and Title I plans (up to 3 hours)
+        if: steps.check.outputs.skip != 'true'
+        continue-on-error: true
+        timeout-minutes: 195
+        run: python meetings.py
 
       - name: Save results to the dashboard
         if: steps.check.outputs.skip != 'true' && always()
         run: |
           git config user.name "rfp-finder-bot"
           git config user.email "rfp-finder-bot@users.noreply.github.com"
-          git add data/ sources_auto.csv 2>/dev/null || git add data/
+          git add data/ sources_auto.csv meeting_sources.csv 2>/dev/null || git add data/
           git diff --cached --quiet && exit 0
           git commit -m "Daily RFP update $(date -u +%F)"
           for i in 1 2 3; do

@@ -82,6 +82,8 @@ header h1{margin:0;font-size:26px;letter-spacing:-.02em}
 .tag{font-size:12px;font-weight:600;padding:3px 9px;border-radius:999px}
 .k-bid{background:var(--green-bg);color:var(--green)} .k-early{background:var(--violet-bg);color:var(--violet)}
 .k-web{background:var(--slate-bg);color:var(--slate)} .k-new{background:var(--brand-bg);color:var(--brand)}
+.k-hot{background:var(--red-bg);color:var(--red)}
+mark{background:var(--amber-bg);color:inherit;border-radius:3px;padding:0 2px}
 .svc{background:var(--soft);color:var(--ink2);font-weight:500}
 .empty{text-align:center;color:var(--muted);padding:48px 12px;background:var(--card);border:1px dashed var(--line);border-radius:14px}
 
@@ -127,21 +129,62 @@ body:not(.is-admin) .admin{display:none!important}
   </div>
 
   <div id="app" hidden>
-  <div class="tiles">
+
+  <div class="tabs">
+    <button class="tab on" data-tab="headsups">Heads-ups</button>
+    <button class="tab" data-tab="leads">Bids</button>
+    <button class="tab admin" data-tab="coverage">Districts</button>
+    <button class="tab admin" data-tab="health">Bot health</button>
+  </div>
+
+  <!-- HEADS-UPS -->
+  <section id="headsups">
+    <div class="tiles">
+      <button class="tile" data-hq="hot"><div class="n" id="h-hot">-</div><div class="l">Hot this week</div></button>
+      <button class="tile" data-hq="new"><div class="n" id="h-new">-</div><div class="l">New today</div></button>
+      <button class="tile" data-hq="all"><div class="n" id="h-all">-</div><div class="l">Heads-ups (last 30 days)</div></button>
+      <button class="tile admin" data-hq="cov"><div class="n" id="h-cov">-</div><div class="l">Meeting sites checked</div></button>
+    </div>
+    <details class="help">
+      <summary>What am I looking at?</summary>
+      <dl>
+        <dt><span class="tag k-hot">Hot</span></dt><dd>Something is happening: a board approving tutoring money, adding interventionist or aide positions, or a contract with a competitor. Emailed the same day.</dd>
+        <dt><span class="tag svc">Funding</span></dt><dd>Title I, ESSER, grants or other money that can pay for tutoring and staff.</dd>
+        <dt><span class="tag svc">New positions</span></dt><dd>Interventionists, tutors, teacher assistants or paras being hired or added.</dd>
+        <dt><span class="tag svc">Services</span></dt><dd>Tutoring, intervention, after school, therapy or staffing services being discussed or bought.</dd>
+        <dt><span class="tag svc">Competitor</span></dt><dd>A competitor is named, usually a contract or renewal. Good to know when it ends.</dd>
+      </dl>
+    </details>
+    <div class="bar">
+      <input type="search" id="hq" placeholder="Search district, word, competitor...">
+      <select id="hstate"><option value="">All states</option></select>
+      <select id="hsource">
+        <option value="">Meetings &amp; plans</option>
+        <option value="Board meeting">Board meetings</option>
+        <option value="Budget / plan">Budgets &amp; plans</option>
+      </select>
+      <select id="hwhen">
+        <option value="30">Last 30 days</option>
+        <option value="7">Last 7 days</option>
+        <option value="90">Last 90 days</option>
+        <option value="9999">Everything</option>
+      </select>
+      <label class="toggle"><input type="checkbox" id="hhot"> Hot only</label>
+    </div>
+    <div class="chips" id="hchips"></div>
+    <div id="hlist"></div>
+    <div style="text-align:center;margin-top:10px"><button class="chip" id="hmore" hidden>Show more</button></div>
+  </section>
+
+  <!-- BIDS -->
+  <section id="leads" hidden>
+    <div class="tiles">
     <button class="tile" data-quick="new"><div class="n" id="t-new">-</div><div class="l">New today</div></button>
     <button class="tile" data-quick="open"><div class="n" id="t-open">-</div><div class="l">Open bids</div></button>
     <button class="tile" data-quick="soon"><div class="n" id="t-soon">-</div><div class="l">Closing in 2 weeks</div></button>
     <button class="tile admin" data-quick="districts"><div class="n" id="t-dist">-</div><div class="l">District bids pages checked daily</div></button>
   </div>
 
-  <div class="tabs">
-    <button class="tab on" data-tab="leads">Bids</button>
-    <button class="tab admin" data-tab="coverage">Districts</button>
-    <button class="tab admin" data-tab="health">Bot health</button>
-  </div>
-
-  <!-- BIDS -->
-  <section id="leads">
     <details class="help">
       <summary>What am I looking at?</summary>
       <dl>
@@ -214,6 +257,7 @@ const days = s => Math.round((new Date(s + "T00:00:00") - today) / 86400000);
 const fmtDate = s => new Date(s + "T00:00:00").toLocaleDateString(undefined, {month:"short", day:"numeric", year:"numeric"});
 const KIND = {"Open RFP":["Open bid","k-bid"], "Board signal":["Early heads-up","k-early"], "Web mention":["Mentioned online","k-web"]};
 let ITEMS = [], LAST_RUN = "", DISTRICTS = [], SOURCES = [], SVC = "", MAIL = [];
+let HEADS = [], HINDEX = {}, HCAT = "", HSHOW = 60;
 
 function districtName(i){
   const s = i.source || "";
@@ -226,7 +270,7 @@ const isOpen = i => !i.due_date || days(i.due_date) >= 0;
 const daysSince = s => s ? -days(s) : 999;
 // Open bids show if the due date is ahead, or if there's no date but the bid is still posted (seen on the latest check)
 const isLive = i => i.type === "Open RFP"
-  ? (i.due_date ? days(i.due_date) >= 0 : (i.last_seen || "") >= LAST_RUN)
+  ? (i.due_date ? days(i.due_date) >= 0 : daysSince(i.last_seen) <= 5)
   : daysSince(i.last_seen || i.first_seen) <= 14;
 
 async function load(){
@@ -237,6 +281,16 @@ async function load(){
     fetch("data/districts.json" + bust).then(x => x.json()).catch(() => ({districts:[]}))
   ]);
   MAIL = await fetch("data/inbox_log.json" + bust).then(x => x.json()).catch(() => []);
+  HINDEX = await fetch("data/headsups/index.json" + bust).then(x => x.json()).catch(() => ({states:{}}));
+  const shards = await Promise.all(Object.keys(HINDEX.states || {}).filter(k => HINDEX.states[k].count)
+    .map(k => fetch(`data/headsups/${k}.json` + bust).then(x => x.json()).catch(() => ({items:[]}))));
+  HEADS = shards.flatMap(x => x.items || []);
+  const hst = [...new Set(HEADS.map(h => h.state).filter(Boolean))].sort();
+  $("#hstate").innerHTML = '<option value="">All states</option>' + hst.map(x => `<option>${esc(x)}</option>`).join("");
+  $("#hchips").innerHTML = ["", "Funding", "New positions", "Services", "Competitor"].map(x =>
+    `<button class="chip${x===HCAT?" on":""}" data-cat="${esc(x)}">${x || "Everything"}</button>`).join("");
+  $("#h-cov").textContent = HINDEX.sources ? `${(HINDEX.checked_ever||0).toLocaleString()} of ${HINDEX.sources.toLocaleString()}` : "-";
+  renderHeads();
   DISTRICTS = dz.districts || [];
   ITEMS = r.items || [];
   SOURCES = s.sources || [];
@@ -266,6 +320,42 @@ function dueBox(i){
   const cls = d <= 7 ? "urgent" : d <= 14 ? "soon" : "ok";
   const left = d === 0 ? "due today" : d === 1 ? "1 day left" : `${d} days left`;
   return `<div class="due ${cls}">Due ${fmtDate(i.due_date)}<small>${left}</small></div>`;
+}
+
+function hl(text, terms){
+  let out = esc(text);
+  [...new Set(terms || [])].sort((a,b) => b.length - a.length).forEach(t => {
+    const rx = new RegExp("(?<![A-Za-z0-9])(" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")(?![A-Za-z0-9])", "gi");
+    out = out.replace(rx, "<mark>$1</mark>");
+  });
+  return out;
+}
+function renderHeads(){
+  const q = $("#hq").value.trim().toLowerCase(), st = $("#hstate").value, src = $("#hsource").value;
+  const when = +$("#hwhen").value, hotOnly = $("#hhot").checked;
+  const recent = h => daysSince(h.first_seen) <= when || daysSince(h.date) <= when;
+  const base = HEADS.filter(h => (!st || h.state === st) && (!src || h.source === src) &&
+    (!HCAT || (h.categories||[]).includes(HCAT)) &&
+    (!q || [h.district, h.meeting, h.snippet, (h.terms||[]).join(" ")].join(" ").toLowerCase().includes(q)));
+  $("#h-hot").textContent = base.filter(h => h.hot && daysSince(h.first_seen) <= 7).length;
+  $("#h-new").textContent = base.filter(h => h.first_seen === (HINDEX.updated||"").slice(0,10)).length;
+  $("#h-all").textContent = base.filter(h => daysSince(h.first_seen) <= 30 || daysSince(h.date) <= 30).length;
+  const rows = base.filter(h => recent(h) && (!hotOnly || h.hot))
+    .sort((a,b) => (b.first_seen||"").localeCompare(a.first_seen||"") || (b.hot - a.hot) || (b.date||"").localeCompare(a.date||""));
+  $("#hlist").innerHTML = rows.slice(0, HSHOW).map(h => `<div class="card${h.hot ? " isnew" : ""}">
+      <div>
+        <div class="who"><b>${esc(h.district)}</b><span>&middot; ${esc(h.state)}</span><span>&middot; ${esc(h.source)}${h.date ? " " + esc(fmtDate(h.date)) : ""}</span></div>
+        <div class="title">${esc(h.meeting || "Board meeting")}</div>
+        <div class="about">${hl(h.snippet, h.terms)}</div>
+      </div>
+      <div class="right"><a class="btn" href="${esc(h.url)}" target="_blank" rel="noopener">${h.source === "Board meeting" ? "View agenda" : "View document"}</a></div>
+      <div class="tags">
+        ${h.hot ? '<span class="tag k-hot">Hot</span>' : ""}
+        ${(h.categories||[]).map(c => `<span class="tag svc">${esc(c)}</span>`).join("")}
+      </div>
+    </div>`).join("") || `<div class="empty">${HEADS.length ? "Nothing matches these filters." : "No heads-ups yet. They show up as the bot reads board meetings over the next few days."}</div>`;
+  $("#hmore").hidden = rows.length <= HSHOW;
+  $("#hmore").textContent = `Show more (${(rows.length - HSHOW).toLocaleString()} left)`;
 }
 
 function render(){
@@ -317,7 +407,8 @@ function renderCoverage(){
     <td>${(d.students||0).toLocaleString()}</td>
     <td>${status(d)}</td>
     <td>${d.bids_page ? `<a href="${esc(d.bids_page)}" target="_blank" rel="noopener">Bids page</a>` : ""}${d.portal ? `<div class="sub">Portal: ${d.portal_url ? `<a href="${esc(d.portal_url)}" target="_blank" rel="noopener">${esc(d.portal)}</a>` : esc(d.portal)}</div>` : ""}</td>
-    <td>${d.board_url ? `<a href="${esc(d.board_url)}" target="_blank" rel="noopener">${esc(d.board_platform || "Link")}</a>` : ""}</td></tr>`).join("")
+    <td>${d.board_url ? `<a href="${esc(d.board_url)}" target="_blank" rel="noopener">${esc(d.board_platform || "Link")}</a>`
+        : d.board_page ? `<a href="${esc(d.board_page)}" target="_blank" rel="noopener">Board page</a>` : ""}${d.funding_page ? `<div class="sub"><a href="${esc(d.funding_page)}" target="_blank" rel="noopener">Title I / federal</a></div>` : ""}</td></tr>`).join("")
     || '<tr><td colspan="5">The district list fills in after the first run.</td></tr>';
   $("#covmore").textContent = rows.length > shown.length ? `Showing ${shown.length} of ${rows.length}. Search to narrow it down.` : "";
 }
@@ -326,7 +417,10 @@ function renderHealth(){
   const label = x => x.status==="ok" ? '<span class="good">Worked</span>' : x.status==="blocked" ? '<span class="meh">Site said no bots</span>'
     : x.status==="off" ? '<span class="meh">Not set up yet</span>' : '<span class="bad">Problem</span>';
   const ok = SOURCES.filter(x => x.status === "ok").length;
-  $("#healthsum").innerHTML = SOURCES.length ? `<div class="pill"><b>${ok}</b> worked</div><div class="pill"><b>${SOURCES.length - ok}</b> had a problem</div>` : "";
+  const r = HINDEX.run || {};
+  $("#healthsum").innerHTML = (SOURCES.length ? `<div class="pill">Bids pages: <b>${ok}</b> worked, <b>${SOURCES.length - ok}</b> problem</div>` : "")
+    + (HINDEX.sources ? `<div class="pill">Meetings &amp; plans last run: <b>${r.ok||0}</b> read, <b>${r.problem||0}</b> problem, <b>${r.skipped||0}</b> left for next run</div>
+       <div class="pill">Checked at least once: <b>${(HINDEX.checked_ever||0).toLocaleString()}</b> of ${HINDEX.sources.toLocaleString()}</div>` : "");
   $("#srcrows").innerHTML = SOURCES.map(x => `<tr>
       <td>${x.url && x.url.startsWith("http") ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>` : esc(x.name)}</td>
       <td>${esc(x.state)}</td><td>${label(x)}</td><td>${x.found ?? 0}</td><td class="sub">${esc(x.message)}</td></tr>`).join("")
@@ -337,17 +431,28 @@ function renderHealth(){
 }
 
 ["#q","#state","#type","#showclosed"].forEach(s => $(s).addEventListener("input", render));
+["#hq","#hstate","#hsource","#hwhen","#hhot"].forEach(s => $(s).addEventListener("input", () => { HSHOW = 60; renderHeads(); }));
+$("#hmore").addEventListener("click", () => { HSHOW += 60; renderHeads(); });
+$("#hchips").addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  HCAT = b.dataset.cat; document.querySelectorAll("#hchips .chip").forEach(c => c.classList.toggle("on", c === b)); HSHOW = 60; renderHeads();
+});
+document.querySelectorAll("[data-hq]").forEach(b => b.addEventListener("click", () => {
+  const k = b.dataset.hq;
+  if (k === "cov") return showTab("health");
+  $("#hhot").checked = k === "hot"; $("#hwhen").value = k === "new" ? "7" : "30"; HSHOW = 60; renderHeads();
+}));
 ["#cq","#cstate","#cstatus"].forEach(s => $(s).addEventListener("input", renderCoverage));
 $("#svcchips").addEventListener("click", e => {
   const b = e.target.closest(".chip"); if (!b) return;
-  SVC = b.dataset.svc; document.querySelectorAll(".chip").forEach(c => c.classList.toggle("on", c === b)); render();
+  SVC = b.dataset.svc; document.querySelectorAll("#svcchips .chip").forEach(c => c.classList.toggle("on", c === b)); render();
 });
 function showTab(t){
   document.querySelectorAll(".tab").forEach(x => x.classList.toggle("on", x.dataset.tab === t));
-  ["leads","coverage","health"].forEach(id => $("#" + id).hidden = id !== t);
+  ["headsups","leads","coverage","health"].forEach(id => $("#" + id).hidden = id !== t);
 }
 document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => showTab(b.dataset.tab)));
-document.querySelectorAll(".tile").forEach(b => b.addEventListener("click", () => {
+document.querySelectorAll("[data-quick]").forEach(b => b.addEventListener("click", () => {
   const k = b.dataset.quick;
   if (k === "districts") return showTab("coverage");
   showTab("leads"); $("#showclosed").checked = false; $("#q").value = "";
@@ -378,7 +483,7 @@ $("#themebtn").addEventListener("click", () => {
 const CFG = window.RFP_CONFIG || {};
 const ADMINS = (CFG.admins || []).map(a => a.toLowerCase());
 function start(account){
-  const email = (account && (account.username || "")).toLowerCase();
+  const email = ((account && account.username) || "").toLowerCase();
   document.body.classList.toggle("is-admin", !CFG.clientId || ADMINS.includes(email));
   if (account){ $("#user").hidden = false; $("#username").textContent = account.name || account.username; }
   $("#gate").hidden = true; $("#app").hidden = false;

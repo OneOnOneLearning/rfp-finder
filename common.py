@@ -64,6 +64,8 @@ def session():
 def polite_wait(url):
     domain = urlparse(url).netloc.lower()
     delay = CONFIG.get("delay_seconds", 2)
+    if "boarddocs.com" in domain:  # every district shares one BoardDocs server
+        delay = CONFIG.get("boarddocs_delay_seconds", 1.5)
     with _lock:
         now = time.time()
         start = max(now, _next_ok.get(domain, 0))

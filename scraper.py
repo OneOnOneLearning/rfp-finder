@@ -214,8 +214,9 @@ def load_sources():
                         "type": "page", "url": url, "render": row.get("render", "") or "no", "extra": "",
                         "notes": "set by hand"}
     states = {x.upper() for x in CONFIG.get("states", [])}
-    return [r for r in out.values() if is_yes(r.get("active"), True)
-            and (not states or not r.get("state") or r["state"].upper() in states)]
+    every_state = not states or "ALL" in states
+    return [r for r in out.values() if is_yes(r.get("active"), True) and r["type"] in ("page", "rss")
+            and (every_state or not r.get("state") or r["state"].upper() in states)]
 
 
 def run_source(src):
@@ -259,36 +260,63 @@ def load_json(name, default):
 
 
 def main():
-    sources = load_sources()
-    log(f"{len(sources)} sources to check")
+    import time
+    started = time.time()
+    budget = CONFIG.get("rfp_minutes", 45) * 60
+    every = CONFIG.get("rfp_every_days", 3)
+    priority = [x.upper() for x in CONFIG.get("priority_states", [])]
+
+    all_sources = load_sources()
+    rstate = load_json("rfp_state.json", {})
+    due = (TODAY - timedelta(days=every)).isoformat()
+    # each bids page every few days: priority states first, then the ones checked longest ago
+    sources = [s for s in all_sources if rstate.get(s["url"], "") <= due]
+    sources.sort(key=lambda s: (s.get("state", "") not in priority, rstate.get(s["url"], "")))
+    log(f"{len(all_sources)} bids pages, {len(sources)} due today")
     existing = {i["id"]: i for i in load_json("rfps.json", {"items": []}).get("items", [])}
+    old_status = {x["url"]: x for x in load_json("status.json", {"sources": []}).get("sources", [])}
     status, new_items, all_found = [], [], []
 
     plain = [s for s in sources if not is_yes(s.get("render"))]
     rendered = [s for s in sources if is_yes(s.get("render"))]
 
+    def timed(s):
+        if time.time() - started > budget:
+            return [], None
+        return run_source(s)
+
     with ThreadPoolExecutor(max_workers=CONFIG.get("parallel_sites", 12)) as pool:
-        futures = {pool.submit(run_source, s): s for s in plain}
+        futures = {pool.submit(timed, s): s for s in plain}
         for i, fut in enumerate(as_completed(futures), 1):
             items, entry = fut.result()
+            if entry is None:
+                continue
+            rstate[entry["url"]] = TODAY.isoformat()
             all_found += items
             status.append(entry)
             if entry["status"] != "ok" or items:
                 log(f"  [{i}/{len(plain)}] {entry['name']}: {entry['status']} {len(items)} {entry['message'][:80]}")
     for s in rendered:  # headless browser runs one at a time
-        items, entry = run_source(s)
+        items, entry = timed(s)
+        if entry is None:
+            continue
+        rstate[entry["url"]] = TODAY.isoformat()
         all_found += items
         status.append(entry)
         log(f"  [browser] {entry['name']}: {entry['status']} {len(items)} {entry['message'][:80]}")
     close_browser()
 
     try:
+        if not (CONFIG.get("inbox", {}) or {}).get("enabled", False):
+            raise StopIteration
         from inbox import read_inbox
         items, entry = read_inbox()
         entry["checked_at"] = NOW_ISO
         all_found += items
         status.append(entry)
         log(f"  inbox: {entry['status']} {len(items)} {entry.get('message', '')}")
+    except StopIteration:
+        pass
     except Exception as e:
         log(f"  inbox failed: {e}")
         traceback.print_exc(limit=1)
@@ -311,7 +339,7 @@ def main():
             new_items.append(it)
 
     states = {x.upper() for x in CONFIG.get("states", [])}
-    if states:  # only keep leads for the states we cover (or leads with no state)
+    if states and "ALL" not in states:  # only keep leads for the states we cover (or leads with no state)
         existing = {k: v for k, v in existing.items() if not v.get("state") or v["state"].upper() in states}
         new_items = [i for i in new_items if not i.get("state") or i["state"].upper() in states]
 
@@ -320,7 +348,12 @@ def main():
              if i.get("last_seen", "") >= cutoff or (i.get("due_date") or "") >= TODAY.isoformat()]
     items.sort(key=lambda i: (i.get("first_seen", ""), i.get("score", 0)), reverse=True)
 
+    # keep the last result for pages not checked today
+    live = {s["url"] for s in all_sources}
+    checked = {x["url"] for x in status}
+    status += [x for u, x in old_status.items() if u in live and u not in checked]
     status.sort(key=lambda s: (s["status"] == "ok", s["name"]))
+    (DATA / "rfp_state.json").write_text(json.dumps(rstate, separators=(",", ":")), encoding="utf-8")
     (DATA / "rfps.json").write_text(json.dumps({"updated": NOW_ISO, "items": items}, indent=1), encoding="utf-8")
     (DATA / "status.json").write_text(json.dumps({"updated": NOW_ISO, "sources": status}, indent=1),
                                       encoding="utf-8")

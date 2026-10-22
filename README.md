@@ -6,23 +6,30 @@ A free bot that watches **every school district in Florida and California** (and
 
 ## How it works
 
-It has 4 layers, so if one misses something, another catches it:
+Every day (it tries every hour from 1 AM to 4 PM Eastern until one run works):
 
-1. **Every district's bids page.** Once a month, `discover.py` pulls the official federal list of every district, finds each one's website, then hunts down their purchasing/bids page, the bid portal they use, and their board meeting site. Every weekday, `scraper.py` checks all of those pages and opens the bid PDFs to read what's inside (a lot of RFPs hide "tutoring" in Lot 5 of a 30-page PDF).
-2. **Bid portal email alerts.** Hundreds of districts post on the same few portals (DemandStar, BidNet, PlanetBids, Bonfire...). The bot Gmail is signed up for free alerts on those, and the bot reads that inbox every morning.
-3. **Google Alerts.** Also delivered to the bot Gmail, so news and mentions anywhere on the web get caught.
-4. **Board meetings** (optional, off by default, see the bottom).
+1. **Finds districts** (`discover.py`). Starts from the federal list of every US school district, finds each one's website, board meeting site (BoardDocs or the district's own board page), Title I / federal programs page, and bids page. Florida and the biggest districts go first; it keeps going where it left off each day.
+2. **Reads board meetings, budgets and Title I plans** (`meetings.py`). Looks back 3 months the first time, then only new and upcoming meetings. Flags:
+   - **Funding**: Title I, ESSER, grants...
+   - **New positions**: interventionists, tutors, teacher assistants, paras
+   - **Services**: tutoring, intervention, after school, therapy, staffing
+   - **Competitor**: Varsity Tutors, FEV, Kelly Education, Sylvan... (list in `config.yml`)
+   - It's **Hot** when there's action next to it (approve, contract, new positions, hire, RFP). Hot ones are emailed the same day; the rest go in the Monday roundup.
+3. **Checks district websites for RFPs** (`scraper.py`). District websites only, no bid portals.
+4. **Emails** (`notify.py`): daily if anything is hot or there are new bids, plus a weekly roundup on Mondays.
 
-Everything gets scored by keywords in `config.yml`, tagged by service (Tutoring, Special Ed & Therapy, etc.), and put on the dashboard. New stuff gets emailed.
+Each district is re-checked every 3 days, so the work is spread out. Covering the whole US the first time takes about 1 to 2 weeks of daily runs; the Bot health tab shows progress.
 
 ## Files
 
 | File | What it does |
 |---|---|
 | `config.yml` | States, keywords, settings. Edit this to tune it |
-| `discover.py` | Finds every district and its bids page (monthly) |
+| `discover.py` | Finds every district, its board meetings, Title I page and bids page |
+| `meetings.py` | Reads board meetings, budgets and plans for heads-ups |
+| `signals.py` | Decides what counts as a heads-up and what's hot |
 | `scraper.py` | Checks everything for new leads (weekdays) |
-| `inbox.py` | Reads portal + Google Alert emails in the bot Gmail |
+| `inbox.py` | Reads portal emails in the bot Gmail (turned off) |
 | `notify.py` | Sends the email |
 | `common.py` | Shared code |
 | `index.html` | The dashboard |

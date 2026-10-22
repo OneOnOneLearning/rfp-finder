@@ -24,7 +24,12 @@ from bs4 import BeautifulSoup
 from common import (CONFIG, DATA, NOW_ISO, ROOT, TODAY, Blocked, clean, fetch,
                     fetch_final_url, log)
 
-STATES = [s.upper() for s in CONFIG.get("states", ["FL", "CA"])]
+ALL_STATES = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "DC", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS",
+              "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC",
+              "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
+_cfg_states = [s.upper() for s in CONFIG.get("states", ["FL"])]
+STATES = ALL_STATES if "ALL" in _cfg_states else _cfg_states
+PRIORITY = [s.upper() for s in CONFIG.get("priority_states", [])]
 REFRESH_DAYS = 30        # re-check districts we found every 30 days
 RETRY_DAYS = 7           # re-try districts we could not figure out every 7 days
 import time
@@ -56,6 +61,10 @@ GENERIC_HOSTS = ("google.com", "facebook.com", "wixsite.com", "weebly.com", "wor
 
 BID_WORDS = re.compile(r"purchas|procure|\bbids?\b|bidding|solicitation|\brfps?\b|\brfqs?\b|vendor|doing business|"
                        r"business with|contracting opportunit|bid opportunit|public notices", re.I)
+BOARD_PAGE = re.compile(r"(?i)board (meetings?|agendas?|of education|of trustees|docs|minutes)|school board|"
+                        r"governing board|meeting agendas|agendas? (and|&) minutes|board policies and meetings")
+FUNDING_PAGE = re.compile(r"(?i)\btitle (i|1)\b|federal programs|school improvement|\bgrants?\b|esser|"
+                          r"federal and state programs|categorical programs")
 BUSINESS = re.compile(r"business services|business office|fiscal services|business & fiscal|finance", re.I)
 PAGE_BID_RX = re.compile(r"(?i)\b(rfps?|rfqs?|rfis?|itbs?|ifbs?|itns?|request for (proposals?|qualifications|quotes?|information)|"
                          r"invitation (to|for) bids?|solicitations?|sealed (bids|proposals)|bid (no|number|opening|#)|"
@@ -89,7 +98,7 @@ def nces_districts():
                         break
                     offset += 1000
                 if rows:
-                    log(f"NCES {year}: {len(rows)} agencies in {', '.join(STATES)}")
+                    log(f"NCES {year}: {len(rows)} agencies in {len(STATES)} states")
                     return rows
             except Exception as e:
                 log(f"  NCES {year}/{layer} not available ({str(e)[:80]})")
@@ -268,7 +277,8 @@ def candidate_score(href, text, site_domain):
 
 def find_bids(website):
     """Returns dict with bids_page, portal, portal_url, board_platform, board_url, note."""
-    res = {"bids_page": "", "portal": "", "portal_url": "", "board_platform": "", "board_url": "", "note": ""}
+    res = {"bids_page": "", "portal": "", "portal_url": "", "board_platform": "", "board_url": "", "note": "",
+           "board_page": "", "funding_page": ""}
     final, html = fetch_final_url(website)
     res["website"] = homepage_from(final) or website
     dom = base_domain(urlparse(final).netloc)
@@ -282,6 +292,20 @@ def find_bids(website):
                 res["board_platform"], res["board_url"] = b, href
 
     note_extras(links)
+    same_site = lambda h: base_domain(urlparse(h).netloc) == dom
+    for href, text in links:
+        if not res["board_page"] and BOARD_PAGE.search(text or "") and same_site(href) and not BAD_WORDS.search(text or ""):
+            res["board_page"] = href
+        if not res["funding_page"] and FUNDING_PAGE.search(text or "") and same_site(href) \
+                and not re.search(r"(?i)title (ix|vi|vii)", text or ""):
+            res["funding_page"] = href
+    # The board meetings page usually links to the agenda site (BoardDocs, Simbli...)
+    if res["board_page"] and not res["board_platform"]:
+        try:
+            bl, _ = links_of(fetch(res["board_page"], timeout=25), res["board_page"])
+            note_extras(bl)
+        except Exception:
+            pass
     cands, business = {}, []
     for href, text in links:
         sc = candidate_score(href, text, dom)
@@ -410,24 +434,35 @@ def discover_one(d, overrides):
     return d
 
 
+JS_BOARDS = {"Simbli", "Diligent Community", "PrimeGov", "CivicClerk", "eSCRIBE", "Granicus"}
+
+
 def write_sources(districts):
-    rows = []
-    check_bd = bool(CONFIG.get("check_boarddocs"))
+    """sources_auto.csv = district bids pages (RFPs); meeting_sources.csv = board meetings + Title I pages."""
+    rows, mrows = [], []
     for d in districts:
-        if d.get("bids_page"):
-            portal = which(d["bids_page"], PORTALS)
+        base = {"state": d["state"], "leaid": d["leaid"], "district": d["name"]}
+        if d.get("bids_page") and not which(d["bids_page"], PORTALS):   # district websites only, no portals
             rows.append({"active": "yes", "name": f"{d['name']} - Bids", "state": d["state"], "type": "page",
-                         "url": d["bids_page"], "render": "yes" if portal else "no",
-                         "extra": "", "notes": f"auto; leaid {d['leaid']}"})
+                         "url": d["bids_page"], "render": "no", "extra": "", "notes": f"auto; leaid {d['leaid']}"})
         if d.get("board_platform") == "BoardDocs" and d.get("board_url"):
-            rows.append({"active": "yes" if check_bd else "no", "name": f"{d['name']} - Board meetings",
-                         "state": d["state"], "type": "boarddocs", "url": d["board_url"], "render": "no",
-                         "extra": "", "notes": f"auto; leaid {d['leaid']}"})
+            mrows.append({**base, "type": "boarddocs", "url": d["board_url"], "render": "no"})
+        elif d.get("board_url"):
+            mrows.append({**base, "type": "boardpage", "url": d["board_url"],
+                          "render": "yes" if d.get("board_platform") in JS_BOARDS else "no"})
+        elif d.get("board_page"):
+            mrows.append({**base, "type": "boardpage", "url": d["board_page"], "render": "no"})
+        if d.get("funding_page"):
+            mrows.append({**base, "type": "funding", "url": d["funding_page"], "render": "no"})
     with open(ROOT / "sources_auto.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["active", "name", "state", "type", "url", "render", "extra", "notes"])
         w.writeheader()
         w.writerows(rows)
-    log(f"sources_auto.csv: {len(rows)} sources")
+    with open(ROOT / "meeting_sources.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=["state", "leaid", "district", "type", "url", "render"])
+        w.writeheader()
+        w.writerows(mrows)
+    log(f"sources_auto.csv: {len(rows)} bids pages, meeting_sources.csv: {len(mrows)} meeting/plan pages")
 
 
 def main():
@@ -450,7 +485,7 @@ def main():
     for d in districts:
         prev = old.get(d["leaid"], {})
         retry = (TODAY - timedelta(days=RETRY_DAYS)).isoformat()
-        if prev and not redo_all and prev.get("status") != "pending" and (
+        if prev and not redo_all and prev.get("status") != "pending" and "board_page" in prev and (
                 (prev.get("status") == "found" and prev.get("checked", "") >= stale)
                 or prev.get("checked", "") >= retry):
             keep.append({**prev, **{k: d[k] for k in ("name", "students", "county", "city")}})
@@ -459,10 +494,12 @@ def main():
         d["website_source"] = "directory" if d["website"] else ""
         todo.append(d)
 
+    # Priority states first, then the biggest districts first (most students = most opportunity)
+    todo.sort(key=lambda d: (d["state"] not in PRIORITY, -d.get("students", 0)))
     log(f"Checking {len(todo)} districts ({len(keep)} up to date)")
     done = []
     with ThreadPoolExecutor(max_workers=CONFIG.get("parallel_sites", 12)) as pool:
-        futures = [pool.submit(discover_one, d, overrides) for d in todo]
+        futures = [pool.submit(discover_one, {**old.get(d["leaid"], {}), **d}, overrides) for d in todo]
         for i, fut in enumerate(as_completed(futures), 1):
             d = fut.result()
             done.append(d)

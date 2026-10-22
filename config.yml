@@ -4,17 +4,20 @@
 # =========================================================
 
 # Which states to cover. Add more any time, e.g. [FL, CA, TX, GA]
-states: [FL]
+states: [ALL]
+
+# Do these states first (the rest fill in over the next runs)
+priority_states: [FL]
 
 # Max minutes per run spent finding district bids pages (the rest continues next run)
-discover_minutes: 90
+discover_minutes: 75
 
 # Include charter school organizations too? (CA has 1,000+ of them)
 include_charters: false
 
 # Board meeting agendas on BoardDocs (early warning before RFPs).
 # BoardDocs asks bots not to visit (robots.txt). Leave false unless your VP says OK.
-check_boarddocs: false
+check_boarddocs: true
 
 # Shown to website owners in their logs so they know who is visiting.
 contact_email: "msuarez@oneononelearning.com"
@@ -23,7 +26,7 @@ contact_email: "msuarez@oneononelearning.com"
 delay_seconds: 2
 
 # How many websites to check at the same time (different sites only).
-parallel_sites: 12
+parallel_sites: 24
 
 # Respect each website's robots.txt rules (recommended: keep true).
 respect_robots_txt: true
@@ -31,12 +34,26 @@ respect_robots_txt: true
 # How long to keep old items on the dashboard (days since last seen).
 keep_days: 120
 
+# Time limits per daily run (GitHub stops a run after 6 hours)
+rfp_minutes: 45          # checking district bids pages
+meetings_minutes: 180    # reading board meetings, budgets and plans
+
+# Re-check each district's meetings / bids page every N days (spreads the work out)
+meetings_every_days: 3
+rfp_every_days: 3
+
+# On the first look at a district, go back this many days in its meetings
+meetings_lookback_days: 90
+
+# Wait between requests to BoardDocs (seconds). All districts share one BoardDocs server.
+boarddocs_delay_seconds: 1.5
+
 # Max bid documents (PDF/Word) to open per source each run.
 max_docs_per_source: 15
 
 # Read the bot Gmail inbox for portal alerts and Google Alerts emails.
 inbox:
-  enabled: true
+  enabled: false   # portal emails (BidNet, VendorLink...) turned off
   folder: INBOX
   first_run_days: 14   # how far back to look the very first time
 
@@ -302,3 +319,209 @@ negative:
   - disaster recovery
   - environmental remediation
   - mold remediation
+
+# =========================================================
+#  HEADS-UPS (board meetings, budgets, Title I plans)
+# =========================================================
+headsup:
+  max_per_document: 8
+  keep_plain_funding: true    # show Title I / funding mentions even with no service words nearby
+
+  funding:
+    - title i
+    - title 1
+    - title i, part a
+    - title i part a
+    - title ii
+    - title iii
+    - title iv
+    - title iv-a
+    - esser
+    - esser iii
+    - arp esser
+    - 21st century community learning centers
+    - 21st cclc
+    - school improvement funds
+    - school improvement grant
+    - comprehensive support and improvement
+    - targeted support and improvement
+    - csi schools
+    - tsi schools
+    - federal programs
+    - federal funds
+    - grant funds
+    - grant award
+    - supplemental funds
+    - unified school improvement
+    - schoolwide plan
+    - expanded learning opportunities program
+    - elo-p
+    - learning recovery
+    - lrebg
+    - state compensatory education
+    - at-risk funds
+    - new worlds reading
+    - reading achievement initiative
+
+  positions:
+    - interventionist
+    - interventionists
+    - reading interventionist
+    - math interventionist
+    - tutor
+    - tutors
+    - tutor positions
+    - teacher assistant
+    - teacher assistants
+    - teaching assistant
+    - teaching assistants
+    - teacher aide
+    - teacher aides
+    - instructional assistant
+    - instructional assistants
+    - instructional aide
+    - instructional aides
+    - paraprofessional
+    - paraprofessionals
+    - paraeducator
+    - paraeducators
+    - academic coach
+    - reading coach
+    - literacy coach
+    - bilingual aide
+    - esol aide
+    - ell aide
+
+  services:
+    - tutoring
+    - tutoring services
+    - high-dosage tutoring
+    - high dosage tutoring
+    - high-impact tutoring
+    - virtual tutoring
+    - online tutoring
+    - intervention services
+    - academic intervention
+    - reading intervention
+    - math intervention
+    - supplemental instruction
+    - supplemental educational services
+    - academic support services
+    - after school program
+    - after-school program
+    - afterschool program
+    - extended learning
+    - extended day program
+    - summer learning
+    - summer school program
+    - credit recovery
+    - speech therapy services
+    - occupational therapy services
+    - behavior analyst
+    - aba services
+    - contracted services for students
+    - staffing services
+    - staff augmentation
+    - substitute services
+
+  competitors:
+    # Big tutoring companies
+    - varsity tutors
+    - nerdy
+    - fev tutor
+    - fevtutor
+    - paper education
+    - paper.co
+    - tutor.com
+    - air tutors
+    - ignite reading
+    - ignite! reading
+    - saga education
+    - stride tutoring
+    - tutorme
+    - tutor me education
+    - learn to be
+    - step up tutoring
+    - tutored by teachers
+    - littera education
+    - amira learning
+    - brainfuse
+    - catapult learning
+    - elevate k-12
+    - elevate k12
+    - proximity learning
+    - princeton review
+    - kaplan
+    - think together
+    - champions before and after school
+    # Ed staffing companies
+    - kelly education
+    - kelly services
+    - sunbelt staffing
+    - education solutions services
+    - soliant
+    - procare therapy
+    - amergis
+    - maxim healthcare
+    - the stepping stones group
+    - stepping stones group
+    - cross country education
+    - swing education
+    - teachers on call
+    - edustaff
+    - source4teachers
+    # Learning centers
+    - sylvan
+    - sylvan learning
+    - huntington learning
+    - mathnasium
+    - club z
+    - kumon
+
+  # Words that make a heads-up "hot" (emailed the same day)
+  hiring_words:
+    - new position
+    - new positions
+    - create position
+    - create positions
+    - creation of
+    - additional positions
+    - add positions
+    - hire
+    - hiring
+    - recruit
+    - vacancy
+    - vacancies
+    - fte
+    - job description
+    - personnel recommendation
+    - shortage
+  buying_words:
+    - approve
+    - approval
+    - approved
+    - agreement
+    - contract
+    - contracts
+    - renew
+    - renewal
+    - extension
+    - memorandum of understanding
+    - mou
+    - purchase
+    - purchase order
+    - piggyback
+    - rfp
+    - rfq
+    - request for proposal
+    - solicitation
+    - vendor
+    - not to exceed
+
+  # Skip chunks that are about these (common false alarms)
+  ignore:
+    - title ix
+    - title vi
+    - title vii
+    - title 9
+    - bus tutor
