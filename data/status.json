@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:38:22+00:00",
+ "updated": "2026-10-23T11:24:03+00:00",
  "sources": [
   {
    "name": "Fresno Unified - Bids",
@@ -402,6 +402,26 @@
    "message": ""
   },
   {
+   "name": "Auburn Union Elementary School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.auburn.k12.ca.us/Departments/Business-Services/Public-Notices-and-Bids/index.html",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Audubon Borough School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://www.audubonschools.org/departments/business-office",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Aurora East Unit School District 131 - Bids",
    "state": "IL",
    "type": "page",
@@ -472,6 +492,16 @@
    "message": ""
   },
   {
+   "name": "Baker School District 5J - Bids",
+   "state": "OR",
+   "type": "page",
+   "url": "https://bakersd.org/2379_2",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Baldwin County School District - Bids",
    "state": "AL",
    "type": "page",
@@ -512,6 +542,16 @@
    "message": ""
   },
   {
+   "name": "Bamberg County School District - Bids",
+   "state": "SC",
+   "type": "page",
+   "url": "https://www.bambergschools.org/departments/finance/procurement",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Banks County School District - Bids",
    "state": "GA",
    "type": "page",
@@ -547,6 +587,16 @@
    "type": "page",
    "url": "https://www.barnstable.k12.ma.us/departments/bps-business-office",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Barnwell County Consolidated School District - Bids",
+   "state": "SC",
+   "type": "page",
+   "url": "https://www.bcsd.net/discover-bcsd/bids-solicitations",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -642,6 +692,16 @@
    "message": ""
   },
   {
+   "name": "Bellevue Union School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.bellevue.net/bids.aspx",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Bellflower Unified School District - Bids",
    "state": "CA",
    "type": "page",
@@ -712,6 +772,16 @@
    "message": ""
   },
   {
+   "name": "Bering Strait School District - Bids",
+   "state": "AK",
+   "type": "page",
+   "url": "https://www.bssd.org/page/purchasing",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Berkeley County School District - Bids",
    "state": "WV",
    "type": "page",
@@ -747,6 +817,16 @@
    "type": "page",
    "url": "https://www.berryessa.k12.ca.us/Departments/Business-Services/Purchasing/BIDS/index.html",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Berryville Public Schools - Bids",
+   "state": "AR",
+   "type": "page",
+   "url": "https://www.bobcat.k12.ar.us/documents/administration/rfp-proposals/427577",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -852,6 +932,16 @@
    "message": ""
   },
   {
+   "name": "Blue Ridge Unified District - Bids",
+   "state": "AZ",
+   "type": "page",
+   "url": "https://www.brusd.org/departments/purchasing-procurement/purchasing-procurement",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Bolivar R-I School District - Bids",
    "state": "MO",
    "type": "page",
@@ -912,6 +1002,16 @@
    "message": ""
   },
   {
+   "name": "Brandywine Community Schools - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://www.brandywinebobcats.org/documents/bids/rfp/rfp-documents/356150",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Branford School District - Bids",
    "state": "CT",
    "type": "page",
@@ -947,6 +1047,16 @@
    "type": "page",
    "url": "https://www.brentwood.k12.ca.us/page/purchasing/",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Briarcliff Manor Union Free School District - Bids",
+   "state": "NY",
+   "type": "page",
+   "url": "https://www.briarcliffschools.org/departments/business-office",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -1032,6 +1142,16 @@
    "message": ""
   },
   {
+   "name": "Brush School District Re-2J - Bids",
+   "state": "CO",
+   "type": "page",
+   "url": "https://www.brushschools.org/page/rfps-rfqs-and-bids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Buckeye Elementary District - Bids",
    "state": "AZ",
    "type": "page",
@@ -1047,6 +1167,16 @@
    "type": "page",
    "url": "https://www.buckeyeusd.org/district-services/facilities/rfqbiddingnotices",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Buena Regional School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://buenaschools.org/our-district/business-office/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -1069,6 +1199,16 @@
    "checked_at": "2026-10-22T17:38:22+00:00",
    "status": "ok",
    "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Buhl Joint School District 412 - Bids",
+   "state": "ID",
+   "type": "page",
+   "url": "https://www.buhlschools.org/rfp",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 1,
    "message": ""
   },
   {
@@ -1117,6 +1257,16 @@
    "type": "page",
    "url": "https://www.burke.k12.nc.us/departments/finance",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Burrell School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.burrell.k12.pa.us/departments-services/bid-advertisements-and-request-for-proposals-rfp-clone",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -1212,6 +1362,16 @@
    "message": ""
   },
   {
+   "name": "Calipatria Unified School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.calipatria.com/the-city/rfps-rfqs/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Calvert County Public Schools - Bids",
    "state": "MD",
    "type": "page",
@@ -1237,6 +1397,16 @@
    "type": "page",
    "url": "https://www.cambriansd.org/departments/business-services",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Camp Hill School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.camphillsd.k12.pa.us/departments/business-and-finance",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -1272,6 +1442,16 @@
    "message": ""
   },
   {
+   "name": "Cape Elizabeth - Bids",
+   "state": "ME",
+   "type": "page",
+   "url": "https://www.capeelizabeth.gov/business/bids_rfps.php",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Cape Girardeau 63 School District - Bids",
    "state": "MO",
    "type": "page",
@@ -1302,11 +1482,31 @@
    "message": ""
   },
   {
+   "name": "Carlynton School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.carlynton.net/departments/business-office",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Carman-Ainsworth Community School District - Bids",
    "state": "MI",
    "type": "page",
    "url": "https://www.carman.k12.mi.us/departments/business-office/bids-rfp-s",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Carrizo Springs Consolidated Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.cscisd.net/63617_4",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -1452,11 +1652,31 @@
    "message": ""
   },
   {
+   "name": "Central Greene School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.cgsd.org/district/business-office/ms-lisa-hickman",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Central Kitsap School District - Bids",
    "state": "WA",
    "type": "page",
    "url": "https://www.ckschools.org/purchasing-bids",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Central Montcalm Public Schools - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://central-montcalm.org/our-district/rfp-opportunities/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -1802,6 +2022,36 @@
    "message": ""
   },
   {
+   "name": "Clinton Township School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://www.clintontownship.org/337/Transient-Vendor-Rules-and-Application",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Clintondale Community Schools - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://www.clintondaleschools.net/our-district/bidding-procedures",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Closter Borough School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://www.closterschools.org/public-notices",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Clover Park School District - Bids",
    "state": "WA",
    "type": "page",
@@ -1862,11 +2112,31 @@
    "message": ""
   },
   {
+   "name": "Coffeyville Unified School District 445 - Bids",
+   "state": "KS",
+   "type": "page",
+   "url": "https://www.cvilleschools.com/departments/facilities-management/rfp-rfq-projects",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Colchester School District - Bids",
    "state": "CT",
    "type": "page",
    "url": "https://www.colchesterct.org/rfps-request-for-proposals",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Coldspring-Oakhurst Consolidated Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.cocisd.org/departments/business-office/purchasing-procedures-coops/bid-opportunities",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -1912,11 +2182,31 @@
    "message": ""
   },
   {
+   "name": "Columbia School District - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://www.myeagles.org/page/bids-and-proposals/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Columbus City School District - Bids",
    "state": "OH",
    "type": "page",
    "url": "https://www.ccsoh.us/our-district/departments/vendors",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Colusa Unified School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.colusa.k12.ca.us/documents/Departments/Business-Services/2148807922560182168.pptx",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -1947,6 +2237,26 @@
    "type": "page",
    "url": "https://www.compton.k12.ca.us/departments/business-services/purchasing-contracts",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Comstock Public Schools - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://www.comstockps.org/District/rfp",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Conecuh County School District - Bids",
+   "state": "AL",
+   "type": "page",
+   "url": "https://www.conecuh.k12.al.us/bids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -2022,6 +2332,16 @@
    "message": ""
   },
   {
+   "name": "Corunna Public School District - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://www.corunna.k12.mi.us/page/rfp-request",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Covina-Valley Unified School District - Bids",
    "state": "CA",
    "type": "page",
@@ -2042,11 +2362,31 @@
    "message": ""
   },
   {
+   "name": "Coxsackie-Athens Central School District - Bids",
+   "state": "NY",
+   "type": "page",
+   "url": "https://www.cacsd.org/documents/district-office/business-office/open-and-closed-rfps/open-rfps/399705",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Creighton Elementary District - Bids",
    "state": "AZ",
    "type": "page",
    "url": "https://www.creightonschools.org/departments/business-services",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Creston Community School District - Bids",
+   "state": "IA",
+   "type": "page",
+   "url": "https://www.crestonschools.org/37552_2",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -2067,6 +2407,16 @@
    "type": "page",
    "url": "https://www.crosbyisd.org/departments/business-services/purchasing",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Croton-Harmon Union Free School District - Bids",
+   "state": "NY",
+   "type": "page",
+   "url": "https://www.chufsd.org/departments/business-office/bids-rfp",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -2302,6 +2652,16 @@
    "message": ""
   },
   {
+   "name": "Denair Unified School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.denairusd.org/Departments/Facilities-Construction-Maintenance-Operations--Transportation/RFQPRFPRFQ/index.html",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Denton Independent School District - Bids",
    "state": "TX",
    "type": "page",
@@ -2309,6 +2669,16 @@
    "checked_at": "2026-10-22T17:38:22+00:00",
    "status": "ok",
    "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Denver City Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://visitdenver.com/meetings/meeting-services/vendors/vendor-directory/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 1,
    "message": ""
   },
   {
@@ -2342,6 +2712,16 @@
    "message": ""
   },
   {
+   "name": "Diboll Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.dibollisd.com/176259_3",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Dillon School District 4 - Bids",
    "state": "SC",
    "type": "page",
@@ -2367,6 +2747,16 @@
    "type": "page",
    "url": "https://www.dixonusd.org/business-services/",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Dobbs Ferry Union Free School District - Bids",
+   "state": "NY",
+   "type": "page",
+   "url": "https://www.dfsd.org/departments/business-office/bids-and-requests-for-proposals",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -2442,6 +2832,16 @@
    "message": ""
   },
   {
+   "name": "Dunellen Borough School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://www.dunellenschools.org/34183_3",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Duplin County Schools - Bids",
    "state": "NC",
    "type": "page",
@@ -2487,6 +2887,16 @@
    "type": "page",
    "url": "https://www.eanesisd.net/dept/purchasing/bid/past",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "East Allegheny School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.eawildcats.net/departments/business-office/request-for-proposalsbids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -2592,6 +3002,16 @@
    "message": ""
   },
   {
+   "name": "Eaton Community City School District - Bids",
+   "state": "OH",
+   "type": "page",
+   "url": "https://eaton.k12.oh.us/rfp",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Eaton Rapids Public Schools - Bids",
    "state": "MI",
    "type": "page",
@@ -2677,6 +3097,16 @@
    "type": "page",
    "url": "https://www.elbert.k12.ga.us/ecsd-board-of-education/invitation-to-bidrfprfq",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Elementary School District 159 - Bids",
+   "state": "IL",
+   "type": "page",
+   "url": "https://www.dist159.com/apps/pages/index.jsp?uREC_ID=906820&type=d&pREC_ID=1603658",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -2832,6 +3262,16 @@
    "message": ""
   },
   {
+   "name": "Evans County School District - Bids",
+   "state": "GA",
+   "type": "page",
+   "url": "https://www.evans.k12.ga.us/page/bid-solicitations",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Evergreen Elementary School District - Bids",
    "state": "CA",
    "type": "page",
@@ -2887,6 +3327,26 @@
    "type": "page",
    "url": "https://www.fairfax.k12.ca.us/apps/pages/index.jsp?uREC_ID=3736129&type=d&pREC_ID=2433795",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Fairfield Community School District - Bids",
+   "state": "IA",
+   "type": "page",
+   "url": "https://www.fairfieldsfuture.org/page/rfps",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Fairview Borough School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://www.fairviewborough.com/government/documents/public-notices/bid-documents/338-columbus-park-improvements-bid-plans/file",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -2972,6 +3432,16 @@
    "message": ""
   },
   {
+   "name": "Finneytown Local School District - Bids",
+   "state": "OH",
+   "type": "page",
+   "url": "https://finneytown.org/public-bid-notice/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Flagler County School District - Bids",
    "state": "FL",
    "type": "page",
@@ -3052,6 +3522,16 @@
    "message": ""
   },
   {
+   "name": "Fort Sam Houston Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.fshisd.net/business-and-finance-office",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Fort Smith Public Schools - Bids",
    "state": "AR",
    "type": "page",
@@ -3117,6 +3597,26 @@
    "type": "page",
    "url": "https://www.fisd.org/our-district/departments/financial-transparency",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Freeport Area School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.freeport.k12.pa.us/services/business-office-page/business-office-bid-notices-and-rfps",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Fremont Re-2 - Bids",
+   "state": "CO",
+   "type": "page",
+   "url": "https://www.re-2.org/page/request-for-bid",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -3402,6 +3902,16 @@
    "message": ""
   },
   {
+   "name": "Globe Unified District - Bids",
+   "state": "AZ",
+   "type": "page",
+   "url": "https://www.globeschools.org/link-two/vendor-registration",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Goddard Unified School District 265 - Bids",
    "state": "KS",
    "type": "page",
@@ -3442,6 +3952,16 @@
    "message": ""
   },
   {
+   "name": "Granby School District - Bids",
+   "state": "CT",
+   "type": "page",
+   "url": "https://www.granbyschools.org/documents/central-office/business-office/bids-and-rfps/granby-2025-26-ct-fsmc-rfp-contract-template_v2-csde-approved/786834",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Grand Forks Public School District 1 - Bids",
    "state": "ND",
    "type": "page",
@@ -3467,6 +3987,16 @@
    "type": "page",
    "url": "https://www.gpsbulldogs.org/apps/pages/index.jsp?uREC_ID=272453&type=d&pREC_ID=630998",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Grant Community High School District 124 - Bids",
+   "state": "IL",
+   "type": "page",
+   "url": "https://www.gcsd.org/project-bid-notices-ceqa-nepa-rfp-s-rfq-s",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -3532,6 +4062,16 @@
    "message": ""
   },
   {
+   "name": "Green Forest School District - Bids",
+   "state": "AR",
+   "type": "page",
+   "url": "https://www.gf.k12.ar.us/rfp-north-central-buying-group-food",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Greene County School District - Bids",
    "state": "GA",
    "type": "page",
@@ -3559,6 +4099,16 @@
    "checked_at": "2026-10-22T17:38:22+00:00",
    "status": "ok",
    "found": 7,
+   "message": ""
+  },
+  {
+   "name": "Greenwood School District 52 - Bids",
+   "state": "SC",
+   "type": "page",
+   "url": "https://www.greenwood52.org/apps/pages/index.jsp?uREC_ID=2725627&type=d&pREC_ID=2382975",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
    "message": ""
   },
   {
@@ -3652,6 +4202,16 @@
    "message": ""
   },
   {
+   "name": "Hallsville R-Iv School District - Bids",
+   "state": "MO",
+   "type": "page",
+   "url": "https://www.hallsville.org/57109_2",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Hamilton County School District - Bids",
    "state": "FL",
    "type": "page",
@@ -3672,11 +4232,31 @@
    "message": ""
   },
   {
+   "name": "Hamilton-Wenham School District - Bids",
+   "state": "MA",
+   "type": "page",
+   "url": "https://www.hwschools.net/district-departments/business-office/invitation-for-bids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Hampton Township School District - Bids",
    "state": "PA",
    "type": "page",
    "url": "https://www.ht-sd.org/about/administration/administrative-services/invitation-to-bid-consumable-supplies",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Hampton-Dumont Community School District - Bids",
+   "state": "IA",
+   "type": "page",
+   "url": "https://www.hdcsd.org/bids-projects-and-proposals",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -3772,6 +4352,16 @@
    "message": ""
   },
   {
+   "name": "Hartford Union High School District - Bids",
+   "state": "WI",
+   "type": "page",
+   "url": "https://hsdvt.com/doing-business-with-the-hartford",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Haslett Public Schools - Bids",
    "state": "MI",
    "type": "page",
@@ -3862,6 +4452,26 @@
    "message": ""
   },
   {
+   "name": "Healdsburg Unified School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.husd.com/apps/pages/index.jsp?uREC_ID=3782338&type=d&pREC_ID=2448065",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Heber Springs School District - Bids",
+   "state": "AR",
+   "type": "page",
+   "url": "https://www.hssd.k12.ar.us/page/bids/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Helena High School District - Bids",
    "state": "MT",
    "type": "page",
@@ -3912,6 +4522,16 @@
    "message": ""
   },
   {
+   "name": "Hermosa Beach City Elementary School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.hbcsd.org/apps/pages/index.jsp?uREC_ID=4418716&type=d&pREC_ID=2175329",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Hernando County School District - Bids",
    "state": "FL",
    "type": "page",
@@ -3927,6 +4547,16 @@
    "type": "page",
    "url": "https://www.herricks.org/district-administration/business-office/bidsrequests-for-proposals",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Herscher Community Unit School District 2 - Bids",
+   "state": "IL",
+   "type": "page",
+   "url": "https://herscher.net/bid-request/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -3972,6 +4602,26 @@
    "message": ""
   },
   {
+   "name": "Hillsborough City Elementary School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.hcsdk8.org/departments/business-services/current-rfqs",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Hillsdale Community Schools - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://www.hillsdaleschools.org/community/solicitation-of-bids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Hinsdale Township High School District 86 - Bids",
    "state": "IL",
    "type": "page",
@@ -3979,6 +4629,16 @@
    "checked_at": "2026-10-22T17:38:22+00:00",
    "status": "ok",
    "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Hitchcock Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.hitchcockisd.org/departments/finance-department/request-for-proposals",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 3,
    "message": ""
   },
   {
@@ -3992,6 +4652,16 @@
    "message": ""
   },
   {
+   "name": "Holden R-Iii School District - Bids",
+   "state": "MO",
+   "type": "page",
+   "url": "https://www.holdenschools.org/district/bids-rfps",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Honeoye Falls-Lima Central School District - Bids",
    "state": "NY",
    "type": "page",
@@ -3999,6 +4669,26 @@
    "checked_at": "2026-10-22T17:38:22+00:00",
    "status": "ok",
    "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Hononegah Community High School District 207 - Bids",
+   "state": "IL",
+   "type": "page",
+   "url": "https://www.hononegah.org/bid-page",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Hooksett School District - Bids",
+   "state": "NH",
+   "type": "page",
+   "url": "https://www.hooksett.gov/government/rfps_bids.php",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 1,
    "message": ""
   },
   {
@@ -4027,6 +4717,16 @@
    "type": "page",
    "url": "https://www.horrycountyschools.net/departments-services/fiscal-services/procurement",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Houghton-Portage Township Schools - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://hpts.us/district-rfp.php",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -4097,6 +4797,16 @@
    "type": "page",
    "url": "https://www.hbuhsd.edu/apps/pages/index.jsp?uREC_ID=305862&type=d",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Huntington Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.huntingtonisd.com/district/staff_resources/purchasing",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -4252,6 +4962,16 @@
    "message": ""
   },
   {
+   "name": "Johnsburg Community Unit School District 12 - Bids",
+   "state": "IL",
+   "type": "page",
+   "url": "https://www.johnsburg.org/business/bids.php",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Jones County School District - Bids",
    "state": "MS",
    "type": "page",
@@ -4302,6 +5022,16 @@
    "message": ""
   },
   {
+   "name": "Keeneyville School District 20 - Bids",
+   "state": "IL",
+   "type": "page",
+   "url": "https://www.esd20.org/district/business-and-finance/rfps-bids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Keller Independent School District - Bids",
    "state": "TX",
    "type": "page",
@@ -4339,6 +5069,16 @@
    "checked_at": "2026-10-22T17:38:22+00:00",
    "status": "ok",
    "found": 1,
+   "message": ""
+  },
+  {
+   "name": "Kent County Public Schools - Bids",
+   "state": "MD",
+   "type": "page",
+   "url": "https://www.kent.k12.md.us/Bids.aspx",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
    "message": ""
   },
   {
@@ -4417,6 +5157,16 @@
    "type": "page",
    "url": "https://www.kirkwoodschools.org/community-alumni/rfprfq",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Knoxville Community School District - Bids",
+   "state": "IA",
+   "type": "page",
+   "url": "https://www.visitknoxville.com/meetings/request-info/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -4532,6 +5282,16 @@
    "message": ""
   },
   {
+   "name": "Labette County Unified School District 506 - Bids",
+   "state": "KS",
+   "type": "page",
+   "url": "https://www.usd506.org/district-54/district-bids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Lacey Township School District - Bids",
    "state": "NJ",
    "type": "page",
@@ -4567,6 +5327,16 @@
    "type": "page",
    "url": "https://www.lafsd.org/apps/pages/index.jsp?uREC_ID=3800244&type=d&pREC_ID=2655251",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Lagrange School District 105 - Bids",
+   "state": "IL",
+   "type": "page",
+   "url": "https://www.d105.net/93762_3",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -4712,6 +5482,16 @@
    "message": ""
   },
   {
+   "name": "Lanier County School District - Bids",
+   "state": "GA",
+   "type": "page",
+   "url": "https://www.lanier.k12.ga.us/rfpbids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Lansing Public School District - Bids",
    "state": "MI",
    "type": "page",
@@ -4737,6 +5517,16 @@
    "type": "page",
    "url": "https://www.laramie1.org/purchasing-department",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Las Lomitas Elementary School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.llesd.org/Departments/Finance--Business-Services/FoodChild-Nutrition-Services/History-of-Meal-Program--Vendor-Selection/index.html",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5072,6 +5862,16 @@
    "message": ""
   },
   {
+   "name": "Los Nietos Elementary School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.losnietos.k12.ca.us/apps/pages/index.jsp?uREC_ID=4465411&type=d",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Lovington Public Schools - Bids",
    "state": "NM",
    "type": "page",
@@ -5089,6 +5889,16 @@
    "checked_at": "2026-10-22T17:38:22+00:00",
    "status": "ok",
    "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Lower Township School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://lowertwpschools.com/publicnotices",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 2,
    "message": ""
   },
   {
@@ -5202,6 +6012,16 @@
    "message": ""
   },
   {
+   "name": "Manasquan Borough School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://www.manasquanschools.org/departments/facilities/esipesco-rfp",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Manhattan-Ogden Unified School District 383 - Bids",
    "state": "KS",
    "type": "page",
@@ -5277,6 +6097,26 @@
    "type": "page",
    "url": "https://www.mapleton.us/about-us/financial-transparency/purchasing",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Maplewood-Richmond Heights School District - Bids",
+   "state": "MO",
+   "type": "page",
+   "url": "https://www.mrhschools.net/departmentstest/business/rfps",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Maquoketa Community School District - Bids",
+   "state": "IA",
+   "type": "page",
+   "url": "https://www.maquoketaschools.org/page/rfp-and-rfq-opportunities/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5532,6 +6372,16 @@
    "message": ""
   },
   {
+   "name": "Mifflinburg Area School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.mifflinburg.org/departments/business-office/bid-notices",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Milan Area Schools - Bids",
    "state": "MI",
    "type": "page",
@@ -5547,6 +6397,16 @@
    "type": "page",
    "url": "https://www.millbraeschooldistrict.org/departments/business-services/fiscal/purchasing",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Millbury School District - Bids",
+   "state": "MA",
+   "type": "page",
+   "url": "https://www.millburyschools.org/94366_3",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5652,11 +6512,31 @@
    "message": ""
   },
   {
+   "name": "Mokena School District 159 - Bids",
+   "state": "IL",
+   "type": "page",
+   "url": "https://www.mokena.org/pview.aspx?id=20897&catid=0",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Moline-Coal Valley School District 40 - Bids",
    "state": "IL",
    "type": "page",
    "url": "https://www.molineschools.org/our-district/departments/business-office/bidsrfps",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Monadnock Regional School District - Bids",
+   "state": "NH",
+   "type": "page",
+   "url": "https://www.mrsd.org/sau-93/information-technology-services/software-purchasing-procedure",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5762,6 +6642,16 @@
    "message": ""
   },
   {
+   "name": "Moraga Elementary School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.moraga.k12.ca.us/__catapult_pages/77d1be6b-3577-4d72-9369-06bd609fa6a6/About.html",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Moreno Valley Unified School District - Bids",
    "state": "CA",
    "type": "page",
@@ -5842,6 +6732,26 @@
    "message": ""
   },
   {
+   "name": "Muleshoe Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.muleshoeisd.net/documents/district-information/misd-rfq/239170",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Muroc Joint Unified School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.muroc.k12.ca.us/board-of-trustees/board-policies/business-and-non-instructional-operations/bids/bids1",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Murrieta Valley Unified School District - Bids",
    "state": "CA",
    "type": "page",
@@ -5887,6 +6797,16 @@
    "type": "page",
    "url": "https://muskegonpublicschools.org/about-us/departments/finance/",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "N.I.C.E. Community Schools - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://nice.k12.mi.us/request-for-proposals-bids/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5972,6 +6892,16 @@
    "message": ""
   },
   {
+   "name": "New Haven Community Schools - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://www.newhaven.misd.net/documents/departments/business/siefert-rfp-bids/844058",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "New Kensington-Arnold School District - Bids",
    "state": "PA",
    "type": "page",
@@ -6039,6 +6969,16 @@
    "checked_at": "2026-10-22T17:38:22+00:00",
    "status": "ok",
    "found": 1,
+   "message": ""
+  },
+  {
+   "name": "Newton County School District - Bids",
+   "state": "MS",
+   "type": "page",
+   "url": "https://www.newton.k12.ms.us/69780_2",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
    "message": ""
   },
   {
@@ -6172,11 +7112,31 @@
    "message": ""
   },
   {
+   "name": "North Knox School Corporation - Bids",
+   "state": "IN",
+   "type": "page",
+   "url": "https://www.nkcschools.org/district/dept/purchasing/current-bids-proposals-rfps",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "North Lawrence Community Schools - Bids",
    "state": "IN",
    "type": "page",
    "url": "https://www.northlawrencecommunityschools.org/public-notice/current-public-notices-copy",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "North Marion School District 15 - Bids",
+   "state": "OR",
+   "type": "page",
+   "url": "https://www.nmarion.k12.or.us/250/Request-For-Proposals-RFP",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6252,6 +7212,16 @@
    "message": ""
   },
   {
+   "name": "Northeastern Clinton Central School District - Bids",
+   "state": "NY",
+   "type": "page",
+   "url": "https://www.nccscougar.org/52919_2",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Northern Tioga School District - Bids",
    "state": "PA",
    "type": "page",
@@ -6277,6 +7247,16 @@
    "type": "page",
    "url": "https://northfieldschools.org/2026/05/notice-of-request-for-bids-northfield-high-school-2/",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Northridge Local School District - Bids",
+   "state": "OH",
+   "type": "page",
+   "url": "https://www.northridge.k12.oh.us/rfq-for-professional-design-service",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6422,6 +7402,16 @@
    "message": ""
   },
   {
+   "name": "Ogdensburg City School District - Bids",
+   "state": "NY",
+   "type": "page",
+   "url": "https://www.ogdensburgny.gov/bids.aspx",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Oklahoma City Public Schools - Bids",
    "state": "OK",
    "type": "page",
@@ -6489,6 +7479,16 @@
    "checked_at": "2026-10-22T17:38:22+00:00",
    "status": "ok",
    "found": 1,
+   "message": ""
+  },
+  {
+   "name": "Orangefield Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.orangefieldisd.net/documents/oisd-departments/business-and-human-resource/rfp%2Frfq/17024043",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
    "message": ""
   },
   {
@@ -6602,11 +7602,31 @@
    "message": ""
   },
   {
+   "name": "Pacific Grove Unified School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.pgusd.org/Parents--Community/Facilities/BID-OPPORTUNITIES/index.html",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Page County Public Schools - Bids",
    "state": "VA",
    "type": "page",
    "url": "https://www.pageud.org/departments/business-office",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Palacios Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://resources.finalsite.net/images/v1789155450/palaciosisdorg/k6c1zkdad0pzwmojrhhf/PalaciosISDVendorPacket26-27pdf1.pdf",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6629,6 +7649,16 @@
    "checked_at": "2026-10-22T17:38:22+00:00",
    "status": "ok",
    "found": 1,
+   "message": ""
+  },
+  {
+   "name": "Palmyra R-I School District - Bids",
+   "state": "MO",
+   "type": "page",
+   "url": "https://www.palmyraschools.com/public-notices-information",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
    "message": ""
   },
   {
@@ -6742,6 +7772,16 @@
    "message": ""
   },
   {
+   "name": "Pascack Valley Regional School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "http://www.pascack.org/district/legal-public-notices/legal-public-notices-archive",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Pasco County School District - Bids",
    "state": "FL",
    "type": "page",
@@ -6812,6 +7852,16 @@
    "message": ""
   },
   {
+   "name": "Paulsboro Borough School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://paulsboroschools.org/business-office/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 1,
+   "message": ""
+  },
+  {
    "name": "Pearl River County School District - Bids",
    "state": "MS",
    "type": "page",
@@ -6827,6 +7877,16 @@
    "type": "page",
    "url": "https://www.pearlandisd.org/news/isd-news-details/~board/pearland-isd-news/post/bid-opportunities-10-2026",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Pelham School District - Bids",
+   "state": "NH",
+   "type": "page",
+   "url": "https://www.pelhamsd.org/VendorInformation.aspx",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6887,6 +7947,16 @@
    "type": "page",
    "url": "https://www.pennridge.org/departments/business-services/current-bidrfp-information-clone",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Penns Valley Area School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://pennsvalley.org/bids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6992,6 +8062,16 @@
    "message": ""
   },
   {
+   "name": "Pittsgrove Township School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://www.pittsgrovetownship.com/general-info/motorist-solicitation/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Placentia-Yorba Linda Unified School District - Bids",
    "state": "CA",
    "type": "page",
@@ -7017,6 +8097,26 @@
    "type": "page",
    "url": "https://www.plainfieldschools.org/cms/One.aspx?portalId=283129&pageId=83566687",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Platteville School District - Bids",
+   "state": "WI",
+   "type": "page",
+   "url": "https://www.platteville.org/sites/default/files/fileattachments/community_development/page/59534/old_fire_station_rfp.pdf",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Pleasant Ridge Union Elementary School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.prsd.us/apps/pages/index.jsp?uREC_ID=4461490&type=d&pREC_ID=2729549",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -7067,6 +8167,16 @@
    "type": "page",
    "url": "https://www.pmsd.org/departments/business-office/procurement",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Pojoaque Valley Public Schools - Bids",
+   "state": "NM",
+   "type": "page",
+   "url": "https://www.pvs.k12.nm.us/page/business-office",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -7202,6 +8312,16 @@
    "message": ""
   },
   {
+   "name": "Progreso Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.progresoedu.net/business-office",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Providence School District - Bids",
    "state": "RI",
    "type": "page",
@@ -7232,6 +8352,16 @@
    "message": ""
   },
   {
+   "name": "Pulaski County School District - Bids",
+   "state": "GA",
+   "type": "page",
+   "url": "https://www.pulaskicountyschools.org/apps/pages/index.jsp?uREC_ID=3817780&type=d&pREC_ID=2469882",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Punxsutawney Area School District - Bids",
    "state": "PA",
    "type": "page",
@@ -7247,6 +8377,16 @@
    "type": "page",
    "url": "https://www.putnamschools.org/page/posted-rfps",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Putnam Valley Central School District - Bids",
+   "state": "NY",
+   "type": "page",
+   "url": "https://pvcsd.org/index.php/district/district-info/bids-rfp/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -7349,6 +8489,16 @@
    "checked_at": "2026-10-22T17:38:22+00:00",
    "status": "ok",
    "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Red Bluff Joint Union High School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.rbhsd.org/About-Us/RFP/index.html",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 1,
    "message": ""
   },
   {
@@ -7492,6 +8642,16 @@
    "message": ""
   },
   {
+   "name": "Richmond County Public Schools - Bids",
+   "state": "VA",
+   "type": "page",
+   "url": "https://www.richmond-county.k12.va.us/departments/budget-and-finance",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Richmond County School District - Bids",
    "state": "GA",
    "type": "page",
@@ -7542,6 +8702,16 @@
    "message": ""
   },
   {
+   "name": "Robla Elementary School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.robla.k12.ca.us/apps/pages/index.jsp?uREC_ID=569003&type=d&pREC_ID=1381215",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Robstown Independent School District - Bids",
    "state": "TX",
    "type": "page",
@@ -7577,6 +8747,16 @@
    "type": "page",
    "url": "http://www.rockawaytownship.org/bids.aspx",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Rockton School District 140 - Bids",
+   "state": "IL",
+   "type": "page",
+   "url": "https://www.rockton140.org/site/Rfp.html",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -7622,6 +8802,16 @@
    "message": ""
   },
   {
+   "name": "Roseland School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.roselandsd.org/departments/business-services",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Rosemead Elementary School District - Bids",
    "state": "CA",
    "type": "page",
@@ -7647,6 +8837,16 @@
    "type": "page",
    "url": "https://www.rlas-116.org/departments/business-office/bids-rfps/prior-bid-documents-rfp",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Round Valley Unified District - Bids",
+   "state": "AZ",
+   "type": "page",
+   "url": "https://www.roundvalleyschools.org/departments/business-services",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -7692,6 +8892,26 @@
    "message": ""
   },
   {
+   "name": "Royal School District - Bids",
+   "state": "WA",
+   "type": "page",
+   "url": "https://www.royalsd.org/rfp",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Ruidoso Municipal Schools - Bids",
+   "state": "NM",
+   "type": "page",
+   "url": "https://www.ruidososchools.org/apps/pages/index.jsp?uREC_ID=4472544&type=d&pREC_ID=2749583",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 8,
+   "message": ""
+  },
+  {
    "name": "Rutherford Borough School District - Bids",
    "state": "NJ",
    "type": "page",
@@ -7727,6 +8947,16 @@
    "type": "page",
    "url": "https://www.spsd.net/o/sps/page/spsd-rfp",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Salida School District R-32 - Bids",
+   "state": "CO",
+   "type": "page",
+   "url": "https://www.salidaschools.com/page/procurement/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -7787,6 +9017,16 @@
    "type": "page",
    "url": "https://www.sbcisd.net/departments/purchasing/purchasing",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "San Diego Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.sdisd.us/documents/departments/financial-&amp;-support-services/request-for-proposals/rfp-collins-parr-elementary-site-drainage-improvements,-window-replacements,-and-roof-repairs/814009",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -7962,11 +9202,41 @@
    "message": ""
   },
   {
+   "name": "Saratoga Union Elementary School District - Bids",
+   "state": "CA",
+   "type": "page",
+   "url": "https://www.saratogausd.org/departments/business-services/bids-and-request-for-proposals-rfp-and-qualifications-rfq",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Satsuma City School District - Bids",
+   "state": "AL",
+   "type": "page",
+   "url": "https://www.satsumaschools.com/departments/business-and-finance/itb",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Sault Ste. Marie Area Schools - Bids",
    "state": "MI",
    "type": "page",
    "url": "https://www.saultschools.org/departments/business-services",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Saydel Community School District - Bids",
+   "state": "IA",
+   "type": "page",
+   "url": "https://www.saydel.k12.ia.us/page/business-services",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -7997,6 +9267,16 @@
    "type": "page",
    "url": "https://www.scarsdaleschools.org/135263_2",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Schley County School District - Bids",
+   "state": "GA",
+   "type": "page",
+   "url": "https://www.schleyk12.org/o/schley-county-schools/browse/39071",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8037,6 +9317,16 @@
    "type": "page",
    "url": "https://www.sedalia.com/bids-rfps/",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Seneca Falls Central School District - Bids",
+   "state": "NY",
+   "type": "page",
+   "url": "https://www.senecafallscsd.org/district/district-business-office",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8122,6 +9412,16 @@
    "message": ""
   },
   {
+   "name": "Shelby Eastern Schools - Bids",
+   "state": "IN",
+   "type": "page",
+   "url": "https://www.shelbyeastern.org/page/public-info-rfps",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Sheldon Independent School District - Bids",
    "state": "TX",
    "type": "page",
@@ -8137,6 +9437,16 @@
    "type": "page",
    "url": "https://www.shelleyschools.org/rfps",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Shepherd Public School District - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://www.shepherdschools.net/page/request-for-proposal-rfp",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8202,6 +9512,16 @@
    "message": ""
   },
   {
+   "name": "Skokie School District 68 - Bids",
+   "state": "IL",
+   "type": "page",
+   "url": "https://www.skokie.org/FormCenter/Applications-5/Application-for-Religious-Solicitation-61",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Snoqualmie Valley School District - Bids",
    "state": "WA",
    "type": "page",
@@ -8262,6 +9582,26 @@
    "message": ""
   },
   {
+   "name": "South Allegheny School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.southallegheny.org/apps/pages/index.jsp?uREC_ID=4415139&type=d",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "South Amboy City School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://www.sapublicschools.com/departments/business-office/rfp-bids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "South Brunswick Township School District - Bids",
    "state": "NJ",
    "type": "page",
@@ -8302,6 +9642,16 @@
    "message": ""
   },
   {
+   "name": "South Lake Schools - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://www.solake.org/apps/pages/index.jsp?uREC_ID=769441&type=d&pREC_ID=1171319",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "South Lyon Community Schools - Bids",
    "state": "MI",
    "type": "page",
@@ -8322,6 +9672,26 @@
    "message": ""
   },
   {
+   "name": "South Park School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.sparksd.org/departments/business/bids-rfps",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "South Pike School District - Bids",
+   "state": "MS",
+   "type": "page",
+   "url": "https://www.southpike.org/apps/pages/index.jsp?uREC_ID=1763449&type=d&pREC_ID=2674859",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "South Portland - Bids",
    "state": "ME",
    "type": "page",
@@ -8337,6 +9707,16 @@
    "type": "page",
    "url": "https://www.ssfusd.org/departments/business-services/facilities-department/business-with-ssfusd/bids-and-rfps/rfps-rfqs-rfos-rfis",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "South Whidbey School District - Bids",
+   "state": "WA",
+   "type": "page",
+   "url": "https://www.sw.wednet.edu/our-district/district-office/business-services/purchasing-and-bid-documents",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8392,11 +9772,31 @@
    "message": ""
   },
   {
+   "name": "Southmoreland School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.southmoreland.net/departments/business-office/request-for-proposals-rfps",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Southwest Independent School District - Bids",
    "state": "TX",
    "type": "page",
    "url": "https://www.southwestschools.org/departments/treasurer/bidding/",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Southwick-Tolland-Granville Regional School District - Bids",
+   "state": "MA",
+   "type": "page",
+   "url": "https://www.stgrsd.org/cms/One.aspx?portalId=914292&pageId=110224998",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8562,6 +9962,16 @@
    "message": ""
   },
   {
+   "name": "St. Marys Area School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.smasd.org/apps/pages/index.jsp?uREC_ID=2809447&type=d&pREC_ID=2314184",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "St. Marys County Public Schools - Bids",
    "state": "MD",
    "type": "page",
@@ -8622,6 +10032,26 @@
    "message": ""
   },
   {
+   "name": "Steelton-Highspire School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.shsd.k12.pa.us/district0/businessfinancials/request-for-proposalsrfp",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Steger School District 194 - Bids",
+   "state": "IL",
+   "type": "page",
+   "url": "https://www.sd194.org/erate",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Stephens County School District - Bids",
    "state": "GA",
    "type": "page",
@@ -8637,6 +10067,26 @@
    "type": "page",
    "url": "https://www.stoneschools.org/about/bids-and-rfps",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Stonington School District - Bids",
+   "state": "CT",
+   "type": "page",
+   "url": "https://www.stoningtonschools.org/bids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Strafford R-Vi School District - Bids",
+   "state": "MO",
+   "type": "page",
+   "url": "https://www.straffordschools.net/quick-links/public-information-notices",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8712,6 +10162,16 @@
    "message": ""
   },
   {
+   "name": "Sweeny Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.sweenyisd.org/departments/business-office/vendors",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Sweet Home Central School District - Bids",
    "state": "NY",
    "type": "page",
@@ -8767,6 +10227,16 @@
    "type": "page",
    "url": "https://www.taosschools.org/page/rfps",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Tarkington Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.tarkingtonisd.net/departments/business-office",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -9032,6 +10502,16 @@
    "message": ""
   },
   {
+   "name": "Towanda Area School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.tsd.k12.pa.us/142488_3",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Tracy Unified School District - Bids",
    "state": "CA",
    "type": "page",
@@ -9102,6 +10582,16 @@
    "message": ""
   },
   {
+   "name": "Trumann Schools - Bids",
+   "state": "AR",
+   "type": "page",
+   "url": "https://www.trumannwildcat.com/vendors-bids-rfps",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Tuloso-Midway Independent School District - Bids",
    "state": "TX",
    "type": "page",
@@ -9117,6 +10607,16 @@
    "type": "page",
    "url": "https://www.tulsaschools.org/about/teams/finance/purchasing",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Tunica County School District - Bids",
+   "state": "MS",
+   "type": "page",
+   "url": "https://www.tunicak12.org/quick-links/tcsd-rfps",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -9222,6 +10722,16 @@
    "message": ""
   },
   {
+   "name": "Upper Adams School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.upperadams.org/departments/business-finance-office/rfp-listings",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Upper Arlington City School District - Bids",
    "state": "OH",
    "type": "page",
@@ -9252,6 +10762,16 @@
    "message": ""
   },
   {
+   "name": "Upper Township School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://uppertownship.com/departments/purchasing/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Vallivue School District 139 - Bids",
    "state": "ID",
    "type": "page",
@@ -9277,6 +10797,16 @@
    "type": "page",
    "url": "https://www.vdps.net/page/district-bids-and-rfps",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Vashon Island School District - Bids",
+   "state": "WA",
+   "type": "page",
+   "url": "https://www.vashonsd.org/district-office",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -9352,6 +10882,16 @@
    "message": ""
   },
   {
+   "name": "Wall Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.wallpublicschools.org/departments/business-office",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Wallingford-Swarthmore School District - Bids",
    "state": "PA",
    "type": "page",
@@ -9402,6 +10942,16 @@
    "message": ""
   },
   {
+   "name": "Warren Hills Regional School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://www.whrsd.org/central_administration/district_departments/business_services/business_services_-_bids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Warren Woods Public Schools - Bids",
    "state": "MI",
    "type": "page",
@@ -9417,6 +10967,26 @@
    "type": "page",
    "url": "https://washington.org/meetings/service-request-rfp",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Watchung Hills Regional School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://www.watchungschools.com/district/district-news/news-detail/~board/district/post/request-for-proposal-rfp-26-01-architectural-services-1784833115107",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Waterloo Central School District - Bids",
+   "state": "NY",
+   "type": "page",
+   "url": "https://www.waterloocsd.org/new-page",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -9552,6 +11122,16 @@
    "message": ""
   },
   {
+   "name": "Western Line School District - Bids",
+   "state": "MS",
+   "type": "page",
+   "url": "https://www.westernline.org/16th-bids-rfps",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Westerville City School District - Bids",
    "state": "OH",
    "type": "page",
@@ -9602,6 +11182,26 @@
    "message": ""
   },
   {
+   "name": "Westwood Heights Schools - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://www.hamadyhawks.net/departments/central_office/request_for_bids",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Westwood Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.westwoodisd.net/departments/business-finance",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Weymouth School District - Bids",
    "state": "MA",
    "type": "page",
@@ -9637,6 +11237,36 @@
    "type": "page",
    "url": "https://www.wcsga.net/departments/operations-1/procurement",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Wilcox County School District - Bids",
+   "state": "AL",
+   "type": "page",
+   "url": "https://www.wilcox.k12.al.us/documents/bids/open-bids/rfqs/open-child-nutrition-bids/rfqs/144474",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Wilcox County School District - Bids",
+   "state": "GA",
+   "type": "page",
+   "url": "https://www.wilcox.k12.ga.us/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Wilkes County School District - Bids",
+   "state": "GA",
+   "type": "page",
+   "url": "https://www.wilkes.k12.ga.us/page/invitation-to-bid",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -9712,6 +11342,16 @@
    "message": ""
   },
   {
+   "name": "Winnsboro Independent School District - Bids",
+   "state": "TX",
+   "type": "page",
+   "url": "https://www.winnsboroisd.org/page/wisd-cafeteria-rfp-ifb-information/",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Winslow Township School District - Bids",
    "state": "NJ",
    "type": "page",
@@ -9752,6 +11392,16 @@
    "message": ""
   },
   {
+   "name": "Wyomissing Area School District - Bids",
+   "state": "PA",
+   "type": "page",
+   "url": "https://www.wyoarea.org/request-for-proposals-rfp",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Wythe County Public Schools - Bids",
    "state": "VA",
    "type": "page",
@@ -9767,6 +11417,26 @@
    "type": "page",
    "url": "https://www.ysd7.org/about/finances/purchasing",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Yale Public Schools - Bids",
+   "state": "MI",
+   "type": "page",
+   "url": "https://www.ypsd.us/district/rfp",
+   "checked_at": "2026-10-23T11:24:03+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Yarmouth - Bids",
+   "state": "ME",
+   "type": "page",
+   "url": "https://www.yarmouthschools.org/page/bids-rfps-and-surplus-property",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -9827,6 +11497,16 @@
    "type": "page",
    "url": "https://www.yumaschools.org/o/ysd/page/rfpprocurement",
    "checked_at": "2026-10-22T17:38:22+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Zillah School District - Bids",
+   "state": "WA",
+   "type": "page",
+   "url": "https://www.zillahschools.org/apps/pages/index.jsp?uREC_ID=1819854&type=d&pREC_ID=2158978",
+   "checked_at": "2026-10-23T11:24:03+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
