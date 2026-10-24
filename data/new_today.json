@@ -1,91 +1,12 @@
 {
- "updated": "2026-10-23T11:24:03+00:00",
+ "updated": "2026-10-24T10:51:36+00:00",
  "items": [
   {
-   "id": "9c0fd04f58ae85f6",
-   "title": "RFP Requests For Proposals Requests For Proposals Request for Proposals (RFP)Inclusive Instructional Practices, Co-Teaching Implementation Support, Professional",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/0e83b732-b1b9-4555-a3a9-d83851941093/RBJUHSD%20Coteaching%20Rfp%20Three%20Year%20Plan.pdf",
-   "source": "Red Bluff Joint Union High School District - Bids",
-   "state": "CA",
-   "type": "Open RFP",
-   "score": 15,
-   "services": [
-    "Special Ed & Therapy",
-    "Paras & Staffing"
-   ],
-   "keywords": [
-    "paraprofessional",
-    "students with disabilities",
-    "mtss"
-   ],
-   "snippet": "...and modification systems; \u2022 High school scheduling considerations; \u2022 Effective paraprofessional utilization; \u2022 MTSS alignment; \u2022 Special education and 504 compliance considerations. Professional development shall include: \u2022 In-person train...",
-   "due_date": "2029-06-30",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "b7bca9bf00e984a0",
-   "title": "24-15 EMS Education Services November 21, 2024 : December 04, 2024 1:00 PM",
-   "url": "https://www.hooksett.gov/bid_detail_T2_R57.php",
-   "source": "Hooksett School District - Bids",
-   "state": "NH",
-   "type": "Open RFP",
-   "score": 5,
-   "services": [
-    "General Education Services"
-   ],
-   "keywords": [
-    "education services"
-   ],
-   "snippet": "24-15 EMS Education Services November 21, 2024 : December 04, 2024 1:00 PM 24-15 EMS Education Services November 21, 2024 : December 04, 2024 1:00 PM...",
-   "due_date": "2024-12-31",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "28052a54d5f276bc",
-   "title": "Sub Staffing RFP",
-   "url": "https://drive.google.com/file/d/19VXt9mXXKCoj869kbrKxkcnWZLTxavnO/view?usp=sharing",
-   "source": "Paulsboro Borough School District - Bids",
-   "state": "NJ",
-   "type": "Open RFP",
-   "score": 8,
-   "services": [
-    "Paras & Staffing"
-   ],
-   "keywords": [
-    "staffing"
-   ],
-   "snippet": "Sub Staffing RFP Sub Staffing RFP...",
-   "due_date": null,
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "743762f1b0e748c7",
-   "title": "FY27 RFP \u266f2 Occupational Therapy Services DUE MARCH 12, 2026",
-   "url": "https://4.files.edl.io/dba3/06/24/26/023847-e7dd0507-489a-49ea-aaa7-84a228ee576f.pdf",
-   "source": "Ruidoso Municipal Schools - Bids",
-   "state": "NM",
-   "type": "Open RFP",
-   "score": 8,
-   "services": [
-    "Special Ed & Therapy"
-   ],
-   "keywords": [
-    "occupational therapy"
-   ],
-   "snippet": "FY27 RFP \u266f2 Occupational Therapy Services DUE MARCH 12, 2026 FY27 RFP \u266f2 Occupational Therapy Services DUE MARCH 12, 2026...",
-   "due_date": "2026-03-12",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "e70ef37f254ffc23",
-   "title": "FY27 RFP \u266f3 Physical Therapy Services DUE MARCH 12, 2026",
-   "url": "https://4.files.edl.io/7dd8/06/24/26/023848-ab9106fd-0eb0-489c-ba97-61a1b0cc878a.pdf",
-   "source": "Ruidoso Municipal Schools - Bids",
-   "state": "NM",
+   "id": "d5db84c60de61641",
+   "title": "RFP Physical Therapy Services 2025-26",
+   "url": "https://4.files.edl.io/cd75/02/01/26/051518-c14c7c11-773b-462c-944a-88a103647238.pdf",
+   "source": "Tuckahoe Union Free School District - Bids",
+   "state": "NY",
    "type": "Open RFP",
    "score": 8,
    "services": [
@@ -94,208 +15,29 @@
    "keywords": [
     "physical therapy"
    ],
-   "snippet": "FY27 RFP \u266f3 Physical Therapy Services DUE MARCH 12, 2026 FY27 RFP \u266f3 Physical Therapy Services DUE MARCH 12, 2026...",
-   "due_date": "2026-03-12",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
+   "snippet": "RFP Physical Therapy Services 2025-26 RFP Physical Therapy Services 2025-26 Your browser is set to download PDFs instead of displaying them. This PDF could not be loaded. If you are on a school network, ask your network administrator to all...",
+   "due_date": "2025-12-31",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
   },
   {
-   "id": "8741f00dd5db430d",
-   "title": "FY27 RFP \u266f5 School Psychologist Services DUE MARCH 12, 2026",
-   "url": "https://4.files.edl.io/cf6f/06/24/26/023847-cac1cec5-8a2a-47df-92c3-4dd4accad712.pdf",
-   "source": "Ruidoso Municipal Schools - Bids",
-   "state": "NM",
-   "type": "Open RFP",
-   "score": 8,
-   "services": [
-    "Special Ed & Therapy"
-   ],
-   "keywords": [
-    "school psychologist"
-   ],
-   "snippet": "FY27 RFP \u266f5 School Psychologist Services DUE MARCH 12, 2026 FY27 RFP \u266f5 School Psychologist Services DUE MARCH 12, 2026...",
-   "due_date": "2026-03-12",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "2e01db26fbe09710",
-   "title": "FY27 RFP \u266f6 Speech-Language Pathologist Services DUE MARCH 12, 2026",
-   "url": "https://4.files.edl.io/bf5b/06/24/26/023848-4b641b4d-1a38-4ed6-b81d-6171b6cab081.pdf",
-   "source": "Ruidoso Municipal Schools - Bids",
-   "state": "NM",
-   "type": "Open RFP",
-   "score": 8,
-   "services": [
-    "Special Ed & Therapy"
-   ],
-   "keywords": [
-    "speech-language pathologist"
-   ],
-   "snippet": "FY27 RFP \u266f6 Speech-Language Pathologist Services DUE MARCH 12, 2026 FY27 RFP \u266f6 Speech-Language Pathologist Services DUE MARCH 12, 2026...",
-   "due_date": "2026-03-12",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "371271876cbf3859",
-   "title": "FY26 RFP \u266f1 Occupational Therapy Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025",
-   "url": "https://4.files.edl.io/4e1a/06/24/26/024511-0d7b152f-435a-4afe-b3a4-c2b9586d179e.pdf",
-   "source": "Ruidoso Municipal Schools - Bids",
-   "state": "NM",
-   "type": "Open RFP",
-   "score": 8,
-   "services": [
-    "Special Ed & Therapy"
-   ],
-   "keywords": [
-    "occupational therapy"
-   ],
-   "snippet": "FY26 RFP \u266f1 Occupational Therapy Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025 FY26 RFP \u266f1 Occupational Therapy Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025...",
-   "due_date": "2025-03-27",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "d0841850c06070fa",
-   "title": "FY26 RFP \u266f2 Physical Therapy Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025",
-   "url": "https://4.files.edl.io/7fe2/06/24/26/024511-2ba36467-ffcb-409b-897b-8624e7081e75.pdf",
-   "source": "Ruidoso Municipal Schools - Bids",
-   "state": "NM",
-   "type": "Open RFP",
-   "score": 8,
-   "services": [
-    "Special Ed & Therapy"
-   ],
-   "keywords": [
-    "physical therapy"
-   ],
-   "snippet": "FY26 RFP \u266f2 Physical Therapy Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025 FY26 RFP \u266f2 Physical Therapy Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025...",
-   "due_date": "2025-03-27",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "2406ed0883aa9ff1",
-   "title": "FY26 RFP \u266f4 School Psychologist Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025",
-   "url": "https://4.files.edl.io/e21c/06/24/26/024511-363f8e4d-e3a3-4497-a22c-ef09aa6e9e64.pdf",
-   "source": "Ruidoso Municipal Schools - Bids",
-   "state": "NM",
-   "type": "Open RFP",
-   "score": 8,
-   "services": [
-    "Special Ed & Therapy"
-   ],
-   "keywords": [
-    "school psychologist"
-   ],
-   "snippet": "FY26 RFP \u266f4 School Psychologist Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025 FY26 RFP \u266f4 School Psychologist Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025...",
-   "due_date": "2025-03-27",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "27e9f33c4b0718c2",
-   "title": "FY26 RFP \u266f5 Speech-Language Pathologist Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025",
-   "url": "https://4.files.edl.io/0787/06/24/26/024511-77b18200-db75-4a84-9f51-71e58315a0a6.pdf",
-   "source": "Ruidoso Municipal Schools - Bids",
-   "state": "NM",
-   "type": "Open RFP",
-   "score": 8,
-   "services": [
-    "Special Ed & Therapy"
-   ],
-   "keywords": [
-    "speech-language pathologist"
-   ],
-   "snippet": "FY26 RFP \u266f5 Speech-Language Pathologist Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025 FY26 RFP \u266f5 Speech-Language Pathologist Services (Publication Date: 3/6/2025) DUE MARCH 27, 2025...",
-   "due_date": "2025-03-27",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "6c632343871622cf",
-   "title": "High Impact Virtual Tutoring Services",
-   "url": "https://lowertwpschools.com/uploads/17827375146-29-26-pn.pdf",
-   "source": "Lower Township School District - Bids",
-   "state": "NJ",
-   "type": "Open RFP",
-   "score": 18,
-   "services": [
-    "Tutoring",
-    "Paras & Staffing"
-   ],
-   "keywords": [
-    "staffing",
-    "tutoring",
-    "virtual tutoring"
-   ],
-   "snippet": "...g Competitive Contracting instead of competitive bidding for the management and staffing of virtual tutoring services. Therefore, this is NOT a bid, but is a RFP. As such the District will award the contract to the Proposer whose proposal i...",
-   "due_date": "2026-07-14",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "008c11c267ab8d16",
-   "title": "NOTICE OF SOLICITATION REQUEST FOR PROFESSIONAL SERVICES AND EXTRAORDINARY UNSPECIFIED SERVICES (EUS)",
-   "url": "https://lowertwpschools.com/announcements/professionalservicesapril26.pdf",
-   "source": "Lower Township School District - Bids",
-   "state": "NJ",
-   "type": "Open RFP",
-   "score": 28,
-   "services": [
-    "Special Ed & Therapy",
-    "General Education Services"
-   ],
-   "keywords": [
-    "bcba",
-    "education services",
-    "nursing services",
-    "student services",
-    "students with disabilities"
-   ],
-   "snippet": "NOTICE OF SOLICITATION REQUEST FOR PROFESSIONAL SERVICES AND EXTRAORDINARY UNSPECIFIED SERVICES (EUS) NOTICE OF SOLICITATION REQUEST FOR PROFESSIONAL SERVICES AND EXTRAORDINARY UNSPECIFIED SERVICES (EUS) - April 2nd 2026 NOTICE OF SOLICITAT",
-   "due_date": "2027-06-30",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "dc3d8a8b7f84f430",
-   "title": "Addendum 1 - Pupil Transportation RFP",
-   "url": "https://www.buhlschools.org/_files/ugd/5c299f_2584f5750c35447e9d93f6e6874f7bda.pdf",
-   "source": "Buhl Joint School District 412 - Bids",
-   "state": "ID",
-   "type": "Open RFP",
-   "score": 8,
-   "services": [
-    "Paras & Staffing"
-   ],
-   "keywords": [
-    "staffing"
-   ],
-   "snippet": "...d. Regarding Page 13, item 8. Please ask contractors to state their recommended staffing plan and relative staffing plan should other districts nearby decide to contract, too. Additional item for contractors: state their recommended staffin...",
-   "due_date": "2023-12-31",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
-   "id": "65a4da3fef129983",
-   "title": "Your browser is not supported for this experience. We recommend using Chrome, Firefox, Edge, or Safari. Skip navigation Skip to main content No matter what you'",
-   "url": "https://visitdenver.com/meetings/meeting-services/vendors/vendor-directory/",
-   "source": "Denver City Independent School District - Bids",
-   "state": "TX",
+   "id": "2a017aa2bcf15747",
+   "title": "Bid25-8 Substitute Staffing Services.pdf",
+   "url": "https://www.marengo.k12.al.us/fs/resource-manager/view/33953b99-7244-469d-9a8c-608dddd515f4",
+   "source": "Marengo County School District - Bids",
+   "state": "AL",
    "type": "Open RFP",
    "score": 5,
    "services": [
     "Paras & Staffing"
    ],
    "keywords": [
-    "staffing"
+    "staffing services"
    ],
-   "snippet": "...o and video services, rental services, transportation, catering, entertainment, staffing and many other conference services! Dining Directory Denver's creative, young chefs are cooking up feasts that can rival offerings in any city. Use our...",
+   "snippet": "Bid25-8 Substitute Staffing Services.pdf Bid25-8 Substitute Staffing Services.pdf...",
    "due_date": null,
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
   }
  ]
 }
