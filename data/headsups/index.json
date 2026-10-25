@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-24T10:53:45+00:00",
+ "updated": "2026-10-25T11:16:53+00:00",
  "states": {
   "AK": {
    "count": 17,
    "hot": 0
   },
   "AL": {
-   "count": 263,
+   "count": 264,
    "hot": 0
   },
   "AR": {
-   "count": 19,
+   "count": 20,
    "hot": 1
   },
   "AZ": {
@@ -54,11 +54,11 @@
    "hot": 1
   },
   "IN": {
-   "count": 82,
+   "count": 83,
    "hot": 1
   },
   "KS": {
-   "count": 50,
+   "count": 52,
    "hot": 0
   },
   "KY": {
@@ -66,7 +66,7 @@
    "hot": 0
   },
   "LA": {
-   "count": 81,
+   "count": 83,
    "hot": 0
   },
   "MA": {
@@ -82,11 +82,11 @@
    "hot": 0
   },
   "MI": {
-   "count": 281,
+   "count": 282,
    "hot": 4
   },
   "MN": {
-   "count": 111,
+   "count": 120,
    "hot": 0
   },
   "MO": {
@@ -94,11 +94,11 @@
    "hot": 0
   },
   "MS": {
-   "count": 132,
+   "count": 134,
    "hot": 0
   },
   "MT": {
-   "count": 1,
+   "count": 2,
    "hot": 0
   },
   "NC": {
@@ -130,23 +130,23 @@
    "hot": 0
   },
   "NY": {
-   "count": 125,
+   "count": 126,
    "hot": 0
   },
   "OH": {
-   "count": 197,
+   "count": 201,
    "hot": 1
   },
   "OK": {
-   "count": 37,
+   "count": 45,
    "hot": 0
   },
   "OR": {
-   "count": 74,
-   "hot": 1
+   "count": 76,
+   "hot": 2
   },
   "PA": {
-   "count": 714,
+   "count": 733,
    "hot": 0
   },
   "RI": {
@@ -166,7 +166,7 @@
    "hot": 0
   },
   "TX": {
-   "count": 393,
+   "count": 402,
    "hot": 0
   },
   "UT": {
@@ -174,7 +174,7 @@
    "hot": 1
   },
   "VA": {
-   "count": 56,
+   "count": 63,
    "hot": 0
   },
   "VT": {
@@ -182,11 +182,11 @@
    "hot": 0
   },
   "WA": {
-   "count": 133,
+   "count": 142,
    "hot": 0
   },
   "WI": {
-   "count": 35,
+   "count": 36,
    "hot": 0
   },
   "WV": {
@@ -198,12 +198,12 @@
    "hot": 0
   }
  },
- "sources": 5767,
- "checked_ever": 5741,
+ "sources": 5922,
+ "checked_ever": 5922,
  "run": {
-  "problem": 237,
-  "ok": 366,
-  "skipped": 45
+  "ok": 3404,
+  "problem": 803,
+  "skipped": 28
  },
- "new": 255
+ "new": 80
 }
