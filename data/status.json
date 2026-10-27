@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:29:14+00:00",
+ "updated": "2026-10-27T11:56:54+00:00",
  "sources": [
   {
    "name": "Boyertown Area School District - Bids",
@@ -76,7 +76,7 @@
    "state": "NJ",
    "type": "page",
    "url": "https://www.abseconschools.org/cms/One.aspx?portalId=336735&pageId=387580",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -86,7 +86,7 @@
    "state": "CA",
    "type": "page",
    "url": "https://www.aadusd.k12.ca.us/district-info/rfp-request-for-proposals",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -236,7 +236,7 @@
    "state": "SC",
    "type": "page",
    "url": "https://www.allendalenj.gov/news/bids/",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -256,7 +256,7 @@
    "state": "TX",
    "type": "page",
    "url": "https://www.alvordschools.org/22883_4",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -306,7 +306,7 @@
    "state": "TX",
    "type": "page",
    "url": "https://www.ascisd.net/apps/pages/index.jsp?uREC_ID=344210&type=d&pREC_ID=751448",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -456,7 +456,7 @@
    "state": "OK",
    "type": "page",
    "url": "https://www.atoka.org/page/energy-efficiency-rfp/",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -526,7 +526,7 @@
    "state": "NY",
    "type": "page",
    "url": "https://www.avon.org/bids",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -756,7 +756,7 @@
    "state": "NY",
    "type": "page",
    "url": "https://www.brcsd.org/49780_2",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -806,7 +806,7 @@
    "state": "OH",
    "type": "page",
    "url": "https://www.bellairek12.org/district/school_board/r_f_p_information",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -1052,11 +1052,21 @@
    "message": ""
   },
   {
+   "name": "Blooming Prairie Public School District - Bids",
+   "state": "MN",
+   "type": "page",
+   "url": "https://bloomingprairiemn.gov/index.asp?SEC=4D03D8BD-11C1-4D98-94E8-DC30010FDAD5",
+   "checked_at": "2026-10-27T11:56:54+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Blue Ridge School District - Bids",
    "state": "PA",
    "type": "page",
    "url": "https://www.brsd.org/district-news-post-details/~board/blue-ridge-school-district-news/post/equipment-list-for-sealed-bid",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -1226,7 +1236,7 @@
    "state": "MI",
    "type": "page",
    "url": "https://www.bronsonschools.org/page/rfp/",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -1656,7 +1666,7 @@
    "state": "MI",
    "type": "page",
    "url": "https://www.casscityschools.org/our-district/rfps/",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -2026,7 +2036,7 @@
    "state": "AL",
    "type": "page",
    "url": "https://irp.cdn-website.com/c80a38b3/files/uploaded/2026+HVAC+Bid+26-008.pdf",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -2406,7 +2416,7 @@
    "state": "TX",
    "type": "page",
    "url": "https://www.comfort.txed.net/33311_3",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -2536,7 +2546,7 @@
    "state": "WA",
    "type": "page",
    "url": "https://www.coupeville.k12.wa.us/departments/maintenance/coupeville-school-district-maintenance-rfp",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -2876,7 +2886,7 @@
    "state": "AK",
    "type": "page",
    "url": "https://www.dgsd.us/apps/pages/index.jsp?uREC_ID=4404952&type=d&pREC_ID=2649546",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -3056,7 +3066,7 @@
    "state": "NH",
    "type": "page",
    "url": "https://www.sau70.org/departments/current-bids",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -3206,7 +3216,7 @@
    "state": "NY",
    "type": "page",
    "url": "https://www.erschools.org/business-office",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -3296,7 +3306,7 @@
    "state": "NJ",
    "type": "page",
    "url": "https://www.edgewater.org/applications-rfp/",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -3576,7 +3586,7 @@
    "state": "OH",
    "type": "page",
    "url": "https://www.flsd.org/public-notices",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -3616,7 +3626,7 @@
    "state": "PA",
    "type": "page",
    "url": "https://www.fairfieldpaschools.org/bids-proposals",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -3836,7 +3846,7 @@
    "state": "PA",
    "type": "page",
    "url": "https://www.fortcherry.org/RequestforProposalsBids.aspx",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -4116,7 +4126,7 @@
    "state": "KS",
    "type": "page",
    "url": "https://www.usd365.org/78751_1",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -4316,7 +4326,7 @@
    "state": "NY",
    "type": "page",
    "url": "https://www.mwcsd.org/schools/middlesex-valley-elementary/bid-for-universal-pre-kindergarten-upk-partner",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -4546,7 +4556,7 @@
    "state": "NJ",
    "type": "page",
    "url": "https://www.haledon.org/apps/pages/index.jsp?uREC_ID=307317&type=d&pREC_ID=2668563",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -4596,7 +4606,7 @@
    "state": "KS",
    "type": "page",
    "url": "https://www.usd440.com/page/invitation-for-bids",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -4736,7 +4746,7 @@
    "state": "OR",
    "type": "page",
    "url": "https://www.craneedu.org/home/contracts-rfps-bids-etc",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -4976,7 +4986,7 @@
    "state": "KS",
    "type": "page",
    "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1343/Hesston_Usd_460/0a41b4ba-c810-4904-817d-81441d9d2350/Hesston-Middle-School-Restoration-RFP-9.15.2026-%281%29.pdf?disposition=inline",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5096,7 +5106,7 @@
    "state": "MI",
    "type": "page",
    "url": "https://www.homerschools.net/district1/request-for-proposals",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5156,7 +5166,7 @@
    "state": "CA",
    "type": "page",
    "url": "https://www.hopesdk6.org/rfp-rfq-information",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5416,7 +5426,7 @@
    "state": "MS",
    "type": "page",
    "url": "https://www.jcpsd.net/rfp",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5426,7 +5436,7 @@
    "state": "KS",
    "type": "page",
    "url": "https://www.usd340.org/page/procurement-rfp",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5456,7 +5466,7 @@
    "state": "GA",
    "type": "page",
    "url": "https://www.johnson.k12.ga.us/about-us/rfpbid-requests",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5487,6 +5497,16 @@
    "type": "page",
    "url": "https://www.joshuaisd.org/departments/finance/purchasing",
    "checked_at": "2026-10-25T11:08:51+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Kalispell Elementary School District - Bids",
+   "state": "MT",
+   "type": "page",
+   "url": "https://www.kalispell.com/Bids.aspx",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5796,7 +5816,7 @@
    "state": "TX",
    "type": "page",
    "url": "https://www.lacklandisd.net/purchasing-cooperatives",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5836,7 +5856,7 @@
    "state": "IL",
    "type": "page",
    "url": "https://www.district106.net/modules.php?name=district_finances&file=bids",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -5946,7 +5966,7 @@
    "state": "PA",
    "type": "page",
    "url": "https://www.lakeview.k12.pa.us/departments/business-office",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6236,7 +6256,7 @@
    "state": "TX",
    "type": "page",
    "url": "https://www.lexingtonisd.net/apps/pages/index.jsp?uREC_ID=368561&type=d&pREC_ID=2206686",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6503,20 +6523,20 @@
   },
   {
    "name": "Macon County School District - Bids",
-   "state": "TN",
+   "state": "GA",
    "type": "page",
-   "url": "https://www.maconk12.org/files/user/217/file/P_Card.pdf",
-   "checked_at": "2026-10-25T11:08:51+00:00",
+   "url": "https://www.macon.k12.ga.us/documents/rfp,-budget,-and-audits/-request-for-proposals-(rfps)/486653",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
   },
   {
    "name": "Macon County School District - Bids",
-   "state": "GA",
+   "state": "TN",
    "type": "page",
-   "url": "https://www.macon.k12.ga.us/documents/rfp,-budget,-and-audits/-request-for-proposals-(rfps)/486653",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "url": "https://www.maconk12.org/files/user/217/file/P_Card.pdf",
+   "checked_at": "2026-10-25T11:08:51+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6546,7 +6566,7 @@
    "state": "MI",
    "type": "page",
    "url": "https://www.madisondistrict.org/departments/business--finance/",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6556,7 +6576,7 @@
    "state": "OH",
    "type": "page",
    "url": "https://www.mplsd.org/Maintenance.aspx",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6706,7 +6726,7 @@
    "state": "AL",
    "type": "page",
    "url": "https://www.marengo.k12.al.us/department/business-and-finance/invitation-to-bid",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 1,
    "message": ""
@@ -6776,7 +6796,7 @@
    "state": "NH",
    "type": "page",
    "url": "https://www.mascenic.org/documents/departments-/finance-and-operation/open-bids/rfps/rfps/405427",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6836,7 +6856,7 @@
    "state": "AR",
    "type": "page",
    "url": "https://www.mcgeheeschools.org/district/open-bid-request",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -6876,7 +6896,7 @@
    "state": "CA",
    "type": "page",
    "url": "https://www.mcswain.k12.ca.us/apps/pages/index.jsp?uREC_ID=1062826&type=d&pREC_ID=1357852",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -7336,7 +7356,7 @@
    "state": "CA",
    "type": "page",
    "url": "https://www.mlusd.net/documents/departments/facilities---bond---m%26o/rfq-%2F-rfp-%2F-bids/20808180",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8006,7 +8026,7 @@
    "state": "IL",
    "type": "page",
    "url": "https://www.ogsd.net/departments/informationeducation-technology-department/technology-bid-opportunities",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8136,7 +8156,7 @@
    "state": "MA",
    "type": "page",
    "url": "https://www.oldrochester.org/departments/business-finance",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8337,6 +8357,16 @@
    "type": "page",
    "url": "https://www.pageud.org/departments/business-office",
    "checked_at": "2026-10-25T11:08:51+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Painesville City Local School District - Bids",
+   "state": "OH",
+   "type": "page",
+   "url": "https://www.painesville.com/bids",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8586,7 +8616,7 @@
    "state": "NY",
    "type": "page",
    "url": "https://www.pawlingschools.org/business-services",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8596,7 +8626,7 @@
    "state": "IA",
    "type": "page",
    "url": "https://www.pcmschools.org/apps/pages/index.jsp?uREC_ID=2374446&type=d&pREC_ID=2561662",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8736,7 +8766,7 @@
    "state": "TX",
    "type": "page",
    "url": "https://www.pewittcisd.net/publiclistings",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -8866,7 +8896,7 @@
    "state": "CA",
    "type": "page",
    "url": "https://www.planada.org/apps/pages/index.jsp?uREC_ID=574502&type=d&pREC_ID=1820523",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -9256,7 +9286,7 @@
    "state": "NM",
    "type": "page",
    "url": "https://www.ratonschools.com/rfp.html",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -9266,7 +9296,7 @@
    "state": "MI",
    "type": "page",
    "url": "https://www.ravennaschools.org/ourdistrict/rps-bid-opportunities/",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -9746,7 +9776,7 @@
    "state": "TX",
    "type": "page",
    "url": "https://www.sscisd.net/purchasing",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -9786,7 +9816,7 @@
    "state": "AR",
    "type": "page",
    "url": "https://salemschools.net/district/e-rate-rfp",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -9976,7 +10006,7 @@
    "state": "MI",
    "type": "page",
    "url": "https://www.sandusky.k12.mi.us/apps/pages/index.jsp?uREC_ID=855164&type=d&pREC_ID=2713416",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -10016,7 +10046,7 @@
    "state": "TX",
    "type": "page",
    "url": "https://www.sgisd.net/apps/pages/index.jsp?uREC_ID=3047671&type=d&pREC_ID=2348328",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -10046,7 +10076,7 @@
    "state": "TX",
    "type": "page",
    "url": "https://www.srtx.org/departments/business-office/bids",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -10056,7 +10086,7 @@
    "state": "CA",
    "type": "page",
    "url": "http://www.syvuhsd.org/apps/pages/bids/",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -10526,7 +10556,7 @@
    "state": "NJ",
    "type": "page",
    "url": "https://www.shrsd.org/rfp",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -10626,7 +10656,7 @@
    "state": "PA",
    "type": "page",
    "url": "https://www.swasd.org/business-office",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -11006,7 +11036,7 @@
    "state": "NY",
    "type": "page",
    "url": "https://www.swcsd.org/apps/pages/index.jsp?uREC_ID=4382796&type=d&pREC_ID=2589380",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -11136,7 +11166,7 @@
    "state": "TX",
    "type": "page",
    "url": "https://www.taftisd.net/page/bid-proposalsrfqsrfps",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -11526,7 +11556,7 @@
    "state": "NY",
    "type": "page",
    "url": "https://www.tuckahoeschools.org/apps/pages/index.jsp?uREC_ID=4460496&type=d&pREC_ID=2726536",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 1,
    "message": ""
@@ -11577,6 +11607,16 @@
    "type": "page",
    "url": "https://www.turlock.k12.ca.us/departments/business-services/online-bidding-for-warehouse-supplies",
    "checked_at": "2026-10-25T11:08:51+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Tuscaloosa City School District - Bids",
+   "state": "AL",
+   "type": "page",
+   "url": "https://www.tuscaloosa.com/bids/closed",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -11716,7 +11756,7 @@
    "state": "CA",
    "type": "page",
    "url": "https://www.vallelindo.k12.ca.us/apps/pages/index.jsp?uREC_ID=1192622&type=d&pREC_ID=1698118",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -11756,7 +11796,7 @@
    "state": "TX",
    "type": "page",
    "url": "https://www.vvisd.org/public-notices",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -11776,7 +11816,7 @@
    "state": "MI",
    "type": "page",
    "url": "https://www.vassar.k12.mi.us/page/rfp-open-bids",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -11892,6 +11932,16 @@
    "message": ""
   },
   {
+   "name": "Wanaque Borough School District - Bids",
+   "state": "NJ",
+   "type": "page",
+   "url": "https://wanaquenj.gov/index.asp?SEC=949BC044-32A6-46D0-BB9E-CB77F15E6B73&Type=B_BASIC",
+   "checked_at": "2026-10-27T11:56:54+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
    "name": "Wapato School District - Bids",
    "state": "WA",
    "type": "page",
@@ -11936,7 +11986,7 @@
    "state": "OR",
    "type": "page",
    "url": "https://www.warrentonschools.com/apps/pages/index.jsp?uREC_ID=1461859&type=d&pREC_ID=1662150",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -12276,7 +12326,7 @@
    "state": "GA",
    "type": "page",
    "url": "https://www.wilkinson.k12.ga.us/documents/request-for-proposals-(rfps)/774067",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -12326,7 +12376,7 @@
    "state": "NY",
    "type": "page",
    "url": "https://www.wcschools.com/departments/finance/bidrfp-information",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -12406,7 +12456,7 @@
    "state": "IL",
    "type": "page",
    "url": "https://www.worthschools.org/business-services",
-   "checked_at": "2026-10-24T10:51:36+00:00",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
@@ -12527,6 +12577,16 @@
    "type": "page",
    "url": "https://www.yumaschools.org/o/ysd/page/rfpprocurement",
    "checked_at": "2026-10-25T11:08:51+00:00",
+   "status": "ok",
+   "found": 0,
+   "message": ""
+  },
+  {
+   "name": "Zanesville City School District - Bids",
+   "state": "OH",
+   "type": "page",
+   "url": "https://www.zanesville.k12.oh.us/board/bid-notices-rfps-rfqs",
+   "checked_at": "2026-10-27T11:56:54+00:00",
    "status": "ok",
    "found": 0,
    "message": ""
