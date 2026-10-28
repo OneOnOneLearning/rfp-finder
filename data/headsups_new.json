@@ -1,37 +1,145 @@
 {
- "updated": "2026-10-27T11:59:04+00:00",
+ "updated": "2026-10-28T12:50:37+00:00",
  "items": [
   {
-   "id": "125443715611fd89",
-   "district": "Vestaburg Community Schools",
-   "state": "MI",
-   "leaid": "2634920",
-   "source": "Board meeting",
-   "meeting": "Strategic Plan Document",
-   "date": "2026-10-27",
-   "url": "https://vestaburgcs-cdn.fxbrt.com/downloads/board-of-education/dip.pdf",
+   "id": "f7c48bc440ca0648",
+   "district": "Valdez City School District",
+   "state": "AK",
+   "leaid": "0200780",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.valdezcityschools.org/departments/federal-programs",
    "categories": [
     "New positions",
     "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
     "paraprofessional",
+    "federal programs",
     "title i"
    ],
-   "snippet": "Interventions will include extended year in addition to strategies provided within the normal school day. Title I certified and paraprofessional staff will work with classroom teachers and studetns to meet the needs of all of the students. Category:...",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "Frontline system End-of-year verification \ud83e\uddd1\u200d\ud83c\udfeb Paraprofessional Development 18 hours initial training (exceeds 6-hour state requirement) Ongoing annual documentation in Frontline Central Access to ASSEC & in-person professional learning \ud83d\udd04 RTI Framework Developed district RTI system Monthly collaborative meetings Weekly...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
-   "id": "f30f6f3316b126f7",
-   "district": "Vestaburg Community Schools",
-   "state": "MI",
-   "leaid": "2634920",
-   "source": "Board meeting",
-   "meeting": "Strategic Plan Document",
-   "date": "2026-10-27",
-   "url": "https://vestaburgcs-cdn.fxbrt.com/downloads/board-of-education/dip.pdf",
+   "id": "1853725a00b21a30",
+   "district": "Valdez City School District",
+   "state": "AK",
+   "leaid": "0200780",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.valdezcityschools.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "Federal Programs - Valdez City Schools Skip To Main Content Federal Programs Valdez City Schools Federal Programs' goal is to provide supplemental support to eligible students in the district to raise academic achievement. The Federal Programs Department oversees the federal grants that fall under the Elementary and Se...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "62ce4e11827be145",
+   "district": "Valdez City School District",
+   "state": "AK",
+   "leaid": "0200780",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.valdezcityschools.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs",
+    "grant funds",
+    "title 1",
+    "title i",
+    "title i, part a",
+    "title ii",
+    "title iii",
+    "title iv"
+   ],
+   "snippet": "Valdez City Schools uses ESSA funding as a supplemental resource to help students reach academic success through a variety of supports. The Federal Programs office works closely with district administrators, educators, parents, and other stakeholders to plan and implement high-quality programs that will benefit the stu...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "eec832ea0090ac81",
+   "district": "Valdez City School District",
+   "state": "AK",
+   "leaid": "0200780",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.valdezcityschools.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Better Learning Materials : We\u2019re investing in new books, resources, and tools for our Title I Reading Classroom so students have everything they need to succeed. Help for Homeless Students :...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "13243fb28ea53dfd",
+   "district": "Valdez City School District",
+   "state": "AK",
+   "leaid": "0200780",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.valdezcityschools.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "We\u2019ll have door prizes at our Family Literacy Night to make it even more exciting for families to join us! Title I-C Funding Allocations Migrant Student Recruiter: We will employ a dedicated recruiter to identify and enroll eligible migratory students, ensuring they receive the support and services they need to succeed...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "23b1254e2baeb2c4",
+   "district": "Valdez City School District",
+   "state": "AK",
+   "leaid": "0200780",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.valdezcityschools.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Student Activity Fees: To promote engagement and inclusion, Title I-C funds will cover activity fees for migratory students, allowing them to participate fully in extracurricular and enrichment programs. School Supplies:...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "6b1111e679412932",
+   "district": "Valdez City School District",
+   "state": "AK",
+   "leaid": "0200780",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.valdezcityschools.org/departments/federal-programs",
    "categories": [
     "Funding"
    ],
@@ -39,19 +147,385 @@
    "terms": [
     "title ii"
    ],
-   "snippet": "...ibl e Grammar instruction will be implemented into the MAISA Writing Units Schools:\ufffdAll Schools Direct Instruction Tier 1 Implement 08/24/2015 06/05/2017 $5000 Title II Part A all Goal 2: All students at Vestaburg Community Schools will become proficient readers....",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "To enhance literacy and academic achievement, funds will be allocated for books and reading materials tailored to the needs of migratory students. Title II-A Funding Allocations Teacher Reimbursement for College Coursework: Title II-A funds will be used to reimburse teachers for college coursework they complete in thei...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
-   "id": "8151265a506ccc3f",
-   "district": "Vestaburg Community Schools",
-   "state": "MI",
-   "leaid": "2634920",
+   "id": "71c0e8d584c99fdb",
+   "district": "Valdez City School District",
+   "state": "AK",
+   "leaid": "0200780",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.valdezcityschools.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title iv-a"
+   ],
+   "snippet": "We believe that when teachers grow, students thrive! Title IV-A Funding Allocations Universal Preschool Program: Open to all eligible preschool-age children Focus on early literacy, numeracy, and social-emotional growth Qualified and caring teachers Safe, nurturing learning environment Click here to provide feedback Ry...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "d8f88b5bf283c3ec",
+   "district": "Southwest Region School District",
+   "state": "AK",
+   "leaid": "0200710",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.swrsd.org/page/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "Federal Programs | Southwest Region School District Skip to content...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "4f82303207df9da0",
+   "district": "Thomasville City School District",
+   "state": "AL",
+   "leaid": "0103300",
    "source": "Board meeting",
-   "meeting": "Strategic Plan Document",
+   "meeting": "Click here to view the current Council agenda.",
+   "date": "2026-10-28",
+   "url": "https://thomasville.org/uploads/files/c4/3a/c43a79b31d12e6e4184833f21a6b48d3.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant award"
+   ],
+   "snippet": "C. Resolution to accept a FY2026 Community Development Block Grant award and authorize the Mayor or Mayor Pro Tem to sign all necessary and related documents. (Project Manager, Eve Geyer) *APPROVED AS PRESENTED...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "f7c28d3e49acfd2a",
+   "district": "Warren County School District",
+   "state": "GA",
+   "leaid": "1305460",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.warren.k12.ga.us/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "Warren County School System - Federal Programs Search this site Embedded Files Skip to main content Skip to navigation Federal Programs Warren County School System benefits from many of the educational programs funded through the federal government. This funding allows WCSS to offer additional training, instruction, te...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "ad82684a9b31aa63",
+   "district": "Warren County School District",
+   "state": "GA",
+   "leaid": "1305460",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.warren.k12.ga.us/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...ows WCSS to offer additional training, instruction, technology, and other critical services which are not provided for through state and local education funds. Title I Funds are used to supplement schools / system budgets. Title I funds are not used to supplant (take the place of) local, state, or other federal funding...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "4c7306a18ce7455f",
+   "district": "Warren County School District",
+   "state": "GA",
+   "leaid": "1305460",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.warren.k12.ga.us/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i, part a",
+    "title ii",
+    "title iii",
+    "title iv"
+   ],
+   "snippet": "For more information about these programs, please click on the links below. Title I, Part A: Improving the Academic Achievement for the Disadvantaged Title I, Part A: Family - School Partnership Title II, Part A: Supporting Effective Instruction Title III, Part A: Language Instruction for English Learners and Immigrant...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "ce3951e719652c68",
+   "district": "Warren County School District",
+   "state": "GA",
+   "leaid": "1305460",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.warren.k12.ga.us/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "The following persons have been designated to handle inquiries regarding the non-discrimination policies: Shauna Andrews (andrews@warren.k12.ga.us) - Title I, II, IV, V, IX Allison Davis (adavis@warren.k12.ga.us) - Special Education & 504 Services Warren County Schools 115 Gibson Hwy, Warrenton, GA 30828 706 \u2013 465 \u2013 33...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "0ecafdbe0df9cb8b",
+   "district": "Randolph County School District",
+   "state": "GA",
+   "leaid": "1304350",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.sowegak12.org/federalprograms",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "Federal Programs Skip to main content Login Federal Programs Randolph County Schools Donna Drakeford, Ed. D....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "18fd03336edcdaaa",
+   "district": "Randolph County School District",
+   "state": "GA",
+   "leaid": "1304350",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.sowegak12.org/federalprograms",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal funds",
+    "federal programs"
+   ],
+   "snippet": "...na.drakeford@sowegak12.org shayla.gilbert@sowegak12.org 229-732-3610 229-732-2269 Randolph County School District uses procedures and guidelines when accepting federal funds under The Elementary and Secondary Education Act of 1965, as amended by the Every Student Succeeds Act (ESSA) of 2015. The Every Student Succeeds...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "51cf482831fb6e0b",
+   "district": "Randolph County School District",
+   "state": "GA",
+   "leaid": "1304350",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.sowegak12.org/federalprograms",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "...Secondary Education Act of 1965 (ESEA) as the nation\u2019s national education law and longstanding commitment to equal opportunity for all students. The purpose of Federal Programs is to provide equitable distribution of services under ESSA. Randolph County School District follows federal guidance that is outlined in Eleme...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "dfb693e099493b37",
+   "district": "Randolph County School District",
+   "state": "GA",
+   "leaid": "1304350",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.sowegak12.org/federalprograms",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs",
+    "title 1",
+    "title i"
+   ],
+   "snippet": "...Documents Randolph Clay High School FY26 Title 1 Documents Complaint Procedures Education for Homeless Children & Youth Fraud, Waste, and Abuse Title I & Other Federal Programs...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "7e2ab2829edaea77",
+   "district": "Sesser-Valier Community Unit School District 196",
+   "state": "IL",
+   "leaid": "1735940",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.sesser.org/facade-improvement-grant-program/",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant funds"
+   ],
+   "snippet": "...program the City hopes to make a positive statement about the business climate to the community, visitors, as well as existing and potential business tenants. Grant funds are made available through the TIF fund which is administered by the City. Goal of the Program The goal of the program is to preserve historic facad...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "9cda1e0f07a0e8b2",
+   "district": "Sesser-Valier Community Unit School District 196",
+   "state": "IL",
+   "leaid": "1735940",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.sesser.org/facade-improvement-grant-program/",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant award"
+   ],
+   "snippet": "(Example: If grant award is $2,500 then applicant would also have to spend at least $2,500 for a total project cost of $5,000) Grant monies will be distributed after a project is complete and the following documentation has been submitted: Photos showing completed work....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "19175a6a72a51fb1",
+   "district": "Sesser-Valier Community Unit School District 196",
+   "state": "IL",
+   "leaid": "1735940",
+   "source": "Budget / plan",
+   "meeting": "Click HERE to Download the Application",
+   "date": "2026-10-28",
+   "url": "http://www.sesser.org/wp-content/uploads/2016/06/Sesser-Fa%C3%A7ade-Improvement-Grant-Program-Application.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant funds"
+   ],
+   "snippet": "...program the City hopes to make a positive statement about the business climate to the community, visitors, as well as existing and potential business tenants. Grant funds are made available through the TIF fund which is administered by the City. Goal of the Program The goal of the program is to preserve historic facad...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "08acf683f9ffacbd",
+   "district": "Sesser-Valier Community Unit School District 196",
+   "state": "IL",
+   "leaid": "1735940",
+   "source": "Budget / plan",
+   "meeting": "Click HERE to Download the Application",
+   "date": "2026-10-28",
+   "url": "http://www.sesser.org/wp-content/uploads/2016/06/Sesser-Fa%C3%A7ade-Improvement-Grant-Program-Application.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant award"
+   ],
+   "snippet": "(Example: If grant award is $2,500 then applicant would also have to spend at least $2,500 for a total project cost of $5,000) Grant monies will be distributed after a project is complete and the following documentation has been submitted: a.) Photos showing completed work....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "fc2330e8711342bb",
+   "district": "Murphysboro Community Unit School District 186",
+   "state": "IL",
+   "leaid": "1727610",
+   "source": "Board meeting",
+   "meeting": "Download",
+   "date": "2026-10-28",
+   "url": "https://murphysboro.com/wp-content/uploads/2023/02/Council_Minutes_-_2011-01.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal funds"
+   ],
+   "snippet": "...egarding the request for assistance with funding for the wastewater treatment plant. Since earmarks have been eliminated in appropriations bills he stated that federal funds may be available through the US Department of Agriculture Rural Development. He would encourage us to apply to USDA and to the State of Illinois a...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "0f50113e35b865ee",
+   "district": "Crown Point Community School Corporation",
+   "state": "IN",
+   "leaid": "1802490",
+   "source": "Board meeting",
+   "meeting": "Board Meeting Recap - October 2026",
    "date": "2026-10-27",
-   "url": "https://vestaburgcs-cdn.fxbrt.com/downloads/board-of-education/dip.pdf",
+   "url": "https://www.cps.k12.in.us/about/district-news/details/~board/cpcsc-news/post/board-meeting-recap-october-2026-1793119972036",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant funds"
+   ],
+   "snippet": "The grant works in two steps. This planning grant funds research, evidence-based strategies, and stakeholder planning. The district will then write a competitive grant proposal due in March 2027, with potential funding to be determined later....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "3a38acb479ff4a46",
+   "district": "Douglass Public Schools Unified School District 396",
+   "state": "KS",
+   "leaid": "2005610",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.usd396.net/esser",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "esser"
+   ],
+   "snippet": "Douglass Unified School District - ESSER Skip to main content ESSER...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "ca01e96f0024bd5a",
+   "district": "Twin Valley Unified School District 240",
+   "state": "KS",
+   "leaid": "2003960",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.usd240.org/page/title-1",
    "categories": [
     "Funding"
    ],
@@ -59,202 +533,99 @@
    "terms": [
     "title 1"
    ],
-   "snippet": "2 Implement 08/04/2014 06/05/2017 $0 General Fund all Activity - Title 1 Teachers Activity Type Tier Phase Begin Date End Date Resource Assigned Source Of Funding Staff Responsibl e Title 1 teachers will work with students on a variety of interventions. MobyMax, REWARDS, LLI, Phonics for Reading, 6 minute solution, Lex...",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "Title 1 - Targeted Assistance | Twin Valley USD 240 Skip to content...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
-   "id": "60302f0686ba7e1f",
-   "district": "Vestaburg Community Schools",
-   "state": "MI",
-   "leaid": "2634920",
-   "source": "Board meeting",
-   "meeting": "Strategic Plan Document",
-   "date": "2026-10-27",
-   "url": "https://vestaburgcs-cdn.fxbrt.com/downloads/board-of-education/dip.pdf",
+   "id": "81b2aabf33d387e5",
+   "district": "Caverna Independent School District",
+   "state": "KY",
+   "leaid": "2101110",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.caverna.kyschools.us/page/federal-programs",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "title 1",
-    "title i part a"
+    "federal programs"
    ],
-   "snippet": "School Academic Support Program Tier 2 Monitor 08/04/2014 06/30/2017 $150000 Title I Part A Title 1 Activity - Title...",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "Federal Programs | Caverna Independent School District Skip to content...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
-   "id": "6a8c84228dec9be2",
-   "district": "Vestaburg Community Schools",
+   "id": "5d2529b70573a666",
+   "district": "Ishpeming Public School District",
    "state": "MI",
-   "leaid": "2634920",
-   "source": "Board meeting",
-   "meeting": "Strategic Plan Document",
-   "date": "2026-10-27",
-   "url": "https://vestaburgcs-cdn.fxbrt.com/downloads/board-of-education/dip.pdf",
+   "leaid": "2619530",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.ishpemingschools.org/schools/birchview_elementary/title_i",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "title 1"
+    "title i"
    ],
-   "snippet": "1 Activity - Title 1 Parapros Activity Type Tier Phase Begin Date End Date Resource Assigned Source Of Funding Staff Responsibl e Title 1 parapros will work with identified students on a specific intervention. Schools:\ufffdVestaburg Community Elem....",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "Title I - Ishpeming Public Schools...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
-   "id": "67f85273761f07cd",
-   "district": "Vestaburg Community Schools",
+   "id": "c8a3fafb9f565195",
+   "district": "Breckenridge Community Schools",
    "state": "MI",
-   "leaid": "2634920",
-   "source": "Board meeting",
-   "meeting": "Strategic Plan Document",
-   "date": "2026-10-27",
-   "url": "https://vestaburgcs-cdn.fxbrt.com/downloads/board-of-education/dip.pdf",
+   "leaid": "2606630",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.breckhuskies.org/page/title-i-services",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "title 1",
-    "title i part a"
+    "title i"
    ],
-   "snippet": "School Academic Support Program Tier 2 Monitor 09/01/2014 06/30/2017 $50000 Title I Part A Title 1 parapros Activity - LLI Activity Type Tier Phase Begin Date End Date Resource Assigned Source Of Funding Staff Responsibl e LLI program will be implemented K-4 Schools:\ufffdVestaburg Community Elem. School Academic Support Pr...",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "Title I Services | Breckenridge Community Schools Skip to content...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
-   "id": "f2d9bac6aa872cb6",
-   "district": "Vestaburg Community Schools",
+   "id": "6f9ac2a7fe64eb6c",
+   "district": "Ubly Community Schools",
    "state": "MI",
-   "leaid": "2634920",
+   "leaid": "2634380",
    "source": "Board meeting",
-   "meeting": "Strategic Plan Document",
-   "date": "2026-10-27",
-   "url": "https://vestaburgcs-cdn.fxbrt.com/downloads/board-of-education/dip.pdf",
+   "meeting": "September 14, 2026 - Regular Meetings",
+   "date": "2026-09-14",
+   "url": "https://ublyschools-cdn.fxbrt.com/downloads/district_files/minutes_september_14__2026_regular_meeting.pdf",
    "categories": [
-    "Funding"
+    "New positions"
    ],
-   "hot": false,
+   "hot": true,
    "terms": [
-    "title 1"
+    "paraprofessional"
    ],
-   "snippet": "School Academic Support Program Tier 2 Monitor 08/04/2014 06/30/2017 $0 General Fund Title 1 teachers Activity - Summer LLI program Activity Type Tier Phase Begin Date End Date Resource Assigned Source Of Funding Staff Responsibl e LLI students will attend monthly LLI sessions over the summer. This will reduce the summ...",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "Motion carried on a 4-0 vote. A motion was made by Jake Maurer and was seconded by Joe Stacer to approve the New Hire \u2013 Sarah Warchuck as Elementary Paraprofessional. Motion carried on a 4-0 vote....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
-   "id": "d5966d976b54f0ab",
-   "district": "Vestaburg Community Schools",
+   "id": "68e11bfd7f5c3905",
+   "district": "Ubly Community Schools",
    "state": "MI",
-   "leaid": "2634920",
+   "leaid": "2634380",
    "source": "Board meeting",
-   "meeting": "Strategic Plan Document",
-   "date": "2026-10-27",
-   "url": "https://vestaburgcs-cdn.fxbrt.com/downloads/board-of-education/dip.pdf",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title 1",
-    "title i part a"
-   ],
-   "snippet": "School Academic Support Program Tier 2 Monitor 06/01/2015 08/28/2017 $2000 Title I Part A Title 1 teacher Strategy 4: Professional Development - nn Category:...",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "id": "eddbdb17e2424b00",
-   "district": "Chadron Public Schools",
-   "state": "NE",
-   "leaid": "3104980",
-   "source": "Board meeting",
-   "meeting": "View Agenda",
-   "date": "2026-10-27",
-   "url": "https://docs.google.com/document/d/e/2PACX-1vQd4iqxeDuuJlFuYWYCBpF7QPWGQt5JMz4ZT-JKcsF9uw7j_xdf-6CZE-ywV1WOMWEPTlFrrr6npCm6/pub",
-   "categories": [
-    "Services"
-   ],
-   "hot": false,
-   "terms": [
-    "credit recovery"
-   ],
-   "snippet": "...ayden Landreth for all of their work installing new phone lines as well as preparing updates for a new district website. We had 11credits successfully complete credit recovery by students during summer school. We\u2019re excited to welcome our newest staff members:...",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "id": "b8abffe75002d668",
-   "district": "Chadron Public Schools",
-   "state": "NE",
-   "leaid": "3104980",
-   "source": "Board meeting",
-   "meeting": "View Agenda",
-   "date": "2026-10-27",
-   "url": "https://docs.google.com/document/d/e/2PACX-1vQd4iqxeDuuJlFuYWYCBpF7QPWGQt5JMz4ZT-JKcsF9uw7j_xdf-6CZE-ywV1WOMWEPTlFrrr6npCm6/pub",
-   "categories": [
-    "Services"
-   ],
-   "hot": false,
-   "terms": [
-    "after school program"
-   ],
-   "snippet": "...dron Community Hospital, Panel on Mental Health State Conference, Legislative and Legislative Committee, Aware, PPHD meetings iv. Teaching, Learning, & Serving After School Program, Professional Development Schedule, b. College & Career Ready & Civic i....",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "id": "fd8ccb9d5c548f23",
-   "district": "Chadron Public Schools",
-   "state": "NE",
-   "leaid": "3104980",
-   "source": "Board meeting",
-   "meeting": "View Agenda",
-   "date": "2026-10-27",
-   "url": "https://docs.google.com/document/d/e/2PACX-1vQd4iqxeDuuJlFuYWYCBpF7QPWGQt5JMz4ZT-JKcsF9uw7j_xdf-6CZE-ywV1WOMWEPTlFrrr6npCm6/pub",
-   "categories": [
-    "Services"
-   ],
-   "hot": false,
-   "terms": [
-    "after school program"
-   ],
-   "snippet": "v. Utilizing perceptual data Educlimber, Acadience, After School Program, SIP Surveys d. Educator Effectiveness i....",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "id": "d96b7395fe2f0068",
-   "district": "Chadron Public Schools",
-   "state": "NE",
-   "leaid": "3104980",
-   "source": "Board meeting",
-   "meeting": "View Agenda",
-   "date": "2026-10-27",
-   "url": "https://docs.google.com/document/d/e/2PACX-1vQd4iqxeDuuJlFuYWYCBpF7QPWGQt5JMz4ZT-JKcsF9uw7j_xdf-6CZE-ywV1WOMWEPTlFrrr6npCm6/pub",
-   "categories": [
-    "Services"
-   ],
-   "hot": false,
-   "terms": [
-    "after-school program"
-   ],
-   "snippet": "Educational Opportunities & Access i. Before or after-school opportunities Monitor 21st Century grant that subsidizes the after-school program, Title VI Indian Education Parent Meeting ii. Supplementing in-person classroom instruction with digital learning opportunities....",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "id": "55114b639fbeb8d5",
-   "district": "Chadron Public Schools",
-   "state": "NE",
-   "leaid": "3104980",
-   "source": "Board meeting",
-   "meeting": "View Agenda",
-   "date": "2026-10-27",
-   "url": "https://docs.google.com/document/d/e/2PACX-1vQd4iqxeDuuJlFuYWYCBpF7QPWGQt5JMz4ZT-JKcsF9uw7j_xdf-6CZE-ywV1WOMWEPTlFrrr6npCm6/pub",
+   "meeting": "September 14, 2026 - Regular Meetings",
+   "date": "2026-09-14",
+   "url": "https://ublyschools-cdn.fxbrt.com/downloads/district_files/minutes_september_14__2026_regular_meeting.pdf",
    "categories": [
     "New positions"
    ],
@@ -262,19 +633,780 @@
    "terms": [
     "paraprofessional"
    ],
-   "snippet": "We\u2019re excited to welcome our newest staff members: Misun American Horse (paraprofessional), Brad Bounous (Social Studies), Rayne Jespersen (Ag), Lindsey Nordby (Vocal Music), Kellie Smith (paraprofessional), Uly Pedrosa (paraprofessional), and Bridget Vaith (FCS). Thank you to Rick Barry for his efforts to transition t...",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "Motion carried on a 4-0 vote. A motion was made by Angie Hughes and was seconded by Jake Maurer to approve the 2026-2027 Paraprofessional Contracts as presented. Motion carried on a 4-0 vote....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
-   "id": "a6ae79cc664c7680",
-   "district": "Chadron Public Schools",
-   "state": "NE",
-   "leaid": "3104980",
+   "id": "6733157e34a34acc",
+   "district": "Ubly Community Schools",
+   "state": "MI",
+   "leaid": "2634380",
    "source": "Board meeting",
-   "meeting": "View Agenda",
-   "date": "2026-10-27",
-   "url": "https://docs.google.com/document/d/e/2PACX-1vQd4iqxeDuuJlFuYWYCBpF7QPWGQt5JMz4ZT-JKcsF9uw7j_xdf-6CZE-ywV1WOMWEPTlFrrr6npCm6/pub",
+   "meeting": "August 10, 2026 - Regular Meeting",
+   "date": "2026-08-10",
+   "url": "https://ublyschools-cdn.fxbrt.com/downloads/boe_minutes/minutes_august_10__2026_regular_meeting.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": true,
+   "terms": [
+    "teaching assistant"
+   ],
+   "snippet": "Motion carried on a 7-0 vote. A motion was made by Joe Stacer and was seconded by Brad Hagen to accept the New Hire \u2013 Faith Jett as Preschool Teaching Assistant. Motion carried on a 7-0 vote....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "5db5d501e429c474",
+   "district": "Ubly Community Schools",
+   "state": "MI",
+   "leaid": "2634380",
+   "source": "Board meeting",
+   "meeting": "August 10, 2026 - Regular Meeting",
+   "date": "2026-08-10",
+   "url": "https://ublyschools-cdn.fxbrt.com/downloads/boe_minutes/minutes_august_10__2026_regular_meeting.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": true,
+   "terms": [
+    "teaching assistant"
+   ],
+   "snippet": "Motion carried on a 7-0 vote. A motion was made by Joe Stacer and was seconded by Tammy Peruski to accept the New Hire \u2013 Aubrey Zeran as Preschool Teaching Assistant. Motion carried on a 7-0 vote....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "8866c67d48c5c6a3",
+   "district": "Ubly Community Schools",
+   "state": "MI",
+   "leaid": "2634380",
+   "source": "Board meeting",
+   "meeting": "August 10, 2026 - Regular Meeting",
+   "date": "2026-08-10",
+   "url": "https://ublyschools-cdn.fxbrt.com/downloads/boe_minutes/minutes_august_10__2026_regular_meeting.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": true,
+   "terms": [
+    "teaching assistant"
+   ],
+   "snippet": "Motion carried on a 7-0 vote. A motion was made by Joe Stacer and was seconded by Angie Hughes to accept the New Hire \u2013 Emma Perez \u2013 Preschool Teaching Assistant. Motion carried on a 7-0 vote....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "13f62601be34eb47",
+   "district": "Ubly Community Schools",
+   "state": "MI",
+   "leaid": "2634380",
+   "source": "Board meeting",
+   "meeting": "August 10, 2026 - Regular Meeting",
+   "date": "2026-08-10",
+   "url": "https://ublyschools-cdn.fxbrt.com/downloads/boe_minutes/minutes_august_10__2026_regular_meeting.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "teaching assistant"
+   ],
+   "snippet": "Motion carried on a 7-0 vote. A motion was made by Angie Hughes and was seconded by Joe Stacer to accept the resignation of Ellie Peruski as Preschool Teaching Assistant with regret. Motion carried on a 7-0 vote....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "fd61fb434bf2f5ab",
+   "district": "Ubly Community Schools",
+   "state": "MI",
+   "leaid": "2634380",
+   "source": "Board meeting",
+   "meeting": "August 10, 2026 - Regular Meeting",
+   "date": "2026-08-10",
+   "url": "https://ublyschools-cdn.fxbrt.com/downloads/boe_minutes/minutes_august_10__2026_regular_meeting.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "Motion carried on a 7-0 vote. A motion was made by Joe Stacer and was seconded by Brad Hagen to accept the resignation of Jullia Pawlosky as Paraprofessional with regret. Motion carried on a 7-0 vote....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "467f27a1b13016db",
+   "district": "Boone Central Schools",
+   "state": "NE",
+   "leaid": "3102820",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.boonecentral.org/our-district/esser-plans",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "esser",
+    "esser iii"
+   ],
+   "snippet": "ESSER Plans - Boone Central Schools Skip To Main Content ESSER Plans Safe Return Plan ESSER III Use of Funds...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "37369ab4ae7cb651",
+   "district": "Dennis Township School District",
+   "state": "NJ",
+   "leaid": "3403840",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.dtschools.org/apps/pages/index.jsp?uREC_ID=460352&type=d&pREC_ID=2202298",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Title I Information \u2013 Resources \u2013 Dennis Township School District Title I Information Title I Right to Know Title I Parent Compact District Title I Primary Parent Compact (Spanish) Title I - Parent Compact Primary School Title I - Parent Compact Primary School (Spanish) Title I - Parent Compact Elementary/Middle School...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "d02ca49771990073",
+   "district": "Union Beach Borough School District",
+   "state": "NJ",
+   "leaid": "3416350",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.unionbeachschools.org/apps/pages/index.jsp?uREC_ID=1585822&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1",
+    "title i"
+   ],
+   "snippet": "1 Program Title 1 Program Welcome to the Title I website. Here you will be able to locate information on the programs that will be offered at Memorial School....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "1b4aff9d49ce710c",
+   "district": "Union Beach Borough School District",
+   "state": "NJ",
+   "leaid": "3416350",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.unionbeachschools.org/apps/pages/index.jsp?uREC_ID=1585822&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...us with any questions. Rosemarie Stegner- room 48 [email protected] Shannon Smith- room 50 [email protected] Marybeth Manno- room 48 [email protected] What is Title I? Title I is a federally funded program intended to support all students in meeting the State Standards. The goal is to help students succeed academicall...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "05998d074adeb4e6",
+   "district": "Union Beach Borough School District",
+   "state": "NJ",
+   "leaid": "3416350",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.unionbeachschools.org/apps/pages/index.jsp?uREC_ID=1585822&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Schools qualify for funds based on economic needs. The District's Title I schools serve all identified students throughout the school day using a Response to Intervention(RTI) model and they are provided support services in addition to their regular reading blocks of instruction. These services can include individual o...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "f672b892156e72c3",
+   "district": "Union Beach Borough School District",
+   "state": "NJ",
+   "leaid": "3416350",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.unionbeachschools.org/apps/pages/index.jsp?uREC_ID=1585822&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i",
+    "title i, part a"
+   ],
+   "snippet": "Students are identified for instructional support based on academic needs. Title I Programs Help Students, Teachers, and Parents Students perform better in school Increase student connectedness and self-esteem Teachers understand the needs of students and parents Parents better understand their children and become more...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "e48dd567c33f1af0",
+   "district": "Union Beach Borough School District",
+   "state": "NJ",
+   "leaid": "3416350",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.unionbeachschools.org/apps/pages/index.jsp?uREC_ID=1585822&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1"
+   ],
+   "snippet": "...review this information, and it must be provided to you in a reasonable amount of time. IMPORTANT REMINDERS Letters went out to those students who qualify for Title 1 (Basic Skills ) services in a small group pull-out program. Language Arts- Grades 1-3 (pull-out) your child will be pulled out of class during science,...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "b8881feac6c370cf",
+   "district": "Union Beach Borough School District",
+   "state": "NJ",
+   "leaid": "3416350",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.unionbeachschools.org/apps/pages/index.jsp?uREC_ID=1585822&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1",
+    "title i"
+   ],
+   "snippet": "...Play Kids Games ABCya Games Sheppard Software Game Aquarium PBS Kids Games UB Reading BSI and RTI Model (1) BSIP - basic skills Grade Level Expectations Chart Title 1 policies parent-checklist Union Beach 2024 - 2025 PD Plan Basic Skills_Title 1 Parent Presentation 2025-2026 Title I Annual Parent Meeting letter Title...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "6cb8233452d337cf",
+   "district": "North Warren Regional School District",
+   "state": "NJ",
+   "leaid": "3409550",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.northwarren.org/title-i-services",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "North Warren Regional School District - Title I Services Skip to main content Title I Services...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "eb65e7e44a76011b",
+   "district": "Great Meadows Regional School District",
+   "state": "NJ",
+   "leaid": "3400008",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.gmrsd.org/departments/what-is-title-i",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "reading intervention"
+   ],
+   "snippet": "...ecifically, in reading, both schools utilize the Wit & Wisdom ELA curriculum, Fundations and Heggerty for Phonics, and Bridges for math. Both schools also have Reading Intervention Programs that support struggling readers in and out of the classroom....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "2ffb135483f23bc1",
+   "district": "Great Meadows Regional School District",
+   "state": "NJ",
+   "leaid": "3400008",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.gmrsd.org/departments/what-is-title-i",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal funds",
+    "title i"
+   ],
+   "snippet": "...academic need, not economic status, determines which students received extra service. Title I funds are intended to supplement (add to), not replace, state and federal funds. Under new flexibility guidelines for Title I grants, the way Title I funds are used within schools as changed. In the past, Title I services were...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "754e75fab7c99f09",
+   "district": "Great Meadows Regional School District",
+   "state": "NJ",
+   "leaid": "3400008",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.gmrsd.org/departments/what-is-title-i",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "This often resulted in parallel and separate services for groups of students, and was not the most efficient way to add to the educational experience. Title I programs are now allowed, and encouraged, to collaborate with each school as a whole to fill gaps and introduce innnovations in instruction. What does this mean...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "f2d5f30967f534d3",
+   "district": "Great Meadows Regional School District",
+   "state": "NJ",
+   "leaid": "3400008",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.gmrsd.org/departments/what-is-title-i",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "What does this mean to you and your child? Because we can now combine some Title I funds with other funding sources to enhance the education of all students, the role of Title I in your school may not be as visible to you (and your child) as they have been in the past. This is a good thing!...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "2f0dd3a1bab860d1",
+   "district": "Great Meadows Regional School District",
+   "state": "NJ",
+   "leaid": "3400008",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.gmrsd.org/departments/what-is-title-i",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "The new guidelines enable us to work together toward this goal. Title I is different from Special Education programs. Title I does not address student needs based on disability of special needs, but rather on the basis of student performance, achievement, and progress. For more information on Title I in Massachusetts:...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "7bb0ab6d0a6ef9d1",
+   "district": "South Seneca Central School District",
+   "state": "NY",
+   "leaid": "3622140",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://SOUTHSENECA.ORG/title-i-information",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "South Seneca Central School District - Title I Information Skip to main content Title I Information...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "310e0366565456d9",
+   "district": "West Clermont Local School District",
+   "state": "OH",
+   "leaid": "3904635",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.westcler.org/title-i-information",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "West Clermont School District - Title I Information Skip to main content Title I Information...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "00148d50a5a7f792",
+   "district": "Antwerp Local School District",
+   "state": "OH",
+   "leaid": "3904899",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.antwerpschools.org/TitleI.aspx",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Title I...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "87b8372dc8419a3c",
+   "district": "Kalida Local School District",
+   "state": "OH",
+   "leaid": "3904934",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.kalidaschools.org/local-use-of-esser-funds",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "esser"
+   ],
+   "snippet": "Kalida Local Schools - Local Use of ESSER Funds Skip to main content Local Use of ESSER Funds...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "da624994396bd939",
+   "district": "Leechburg Area School District",
+   "state": "PA",
+   "leaid": "4213470",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.leechburg.k12.pa.us/apps/pages/index.jsp?uREC_ID=2879861&type=d&pREC_ID=2331915",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "arp esser",
+    "esser"
+   ],
+   "snippet": "...ANS \u2013 ARP/ESSER PLANS \u2013 Leechburg Area School District ARP/ESSER PLANS \u00bb ARP/ESSER PLANS ARP/ESSER PLANS LASD Elem and Sec School Emergency Relief Fund II LASD ARP ESSER Learning Loss Set Aside LASD ARP ESSER Summer School Set Aside LASD Elem and Sec School Emergency Relief Fund LASD ARP-ESSER Grant...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "afcff55bcb73c61e",
+   "district": "Sullivan County School District",
+   "state": "PA",
+   "leaid": "4222920",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.sulcosd.k12.pa.us/page/title-i",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Title I | Sullivan County School District Skip to content...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "e4ed27f05e9592dc",
+   "district": "Farrell Area School District",
+   "state": "PA",
+   "leaid": "4209690",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.farrellareaschools.com/FederalPrograms.aspx",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "Federal Programs...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "00eb6565af4604df",
+   "district": "Ferndale Area School District",
+   "state": "PA",
+   "leaid": "4209750",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.fasdk12.org/district/federal-and-state-programs",
+   "categories": [
+    "Services",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "tutoring",
+    "title i"
+   ],
+   "snippet": "...nefits of the building instructional and Title I support staff. Title I funds may also be used for core area instructional supplies, to support an after-school tutoring program, parental involvement/community support services, and mandated nonpublic services. Currently Title IIA, also known as Improving Teacher Quality...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "140f8cf7cbcc404a",
+   "district": "Ferndale Area School District",
+   "state": "PA",
+   "leaid": "4209750",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.fasdk12.org/district/federal-and-state-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i",
+    "title ii",
+    "title iv"
+   ],
+   "snippet": "Federal and State Programs - Ferndale Area School District Skip To Main Content Federal and State Programs Federal Title I, Title II and Title IV The Ferndale Area School District participates in several state and federally funded grant programs to enhance our educational programs. Consistent with most other school ent...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "f032df8ed46f3843",
+   "district": "Ferndale Area School District",
+   "state": "PA",
+   "leaid": "4209750",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.fasdk12.org/district/federal-and-state-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant funds"
+   ],
+   "snippet": "...entities in Pennsylvania, federal monies generally represent the smallest portion of revenue for the Ferndale Area School District. In order to be eligible for grant funds, the district must complete the various applications each year and adhere to numerous mandates imposed with the grants. Historically, the amount of...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "053943a7eb42af3e",
+   "district": "Ferndale Area School District",
+   "state": "PA",
+   "leaid": "4209750",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.fasdk12.org/district/federal-and-state-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title iv"
+   ],
+   "snippet": "The 2026-2027 projected grant amount is $40,269. Title IV, also known as the Student Support and Academic Enrichment, is being used to provide class size reduction staff. The 2026-2027 projected grant amount is $31,185....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "2474580ec3901d03",
+   "district": "Ferndale Area School District",
+   "state": "PA",
+   "leaid": "4209750",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.fasdk12.org/district/federal-and-state-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant award"
+   ],
+   "snippet": "...Learn Block Grant appropriation for Ferndale Area School District is currently awaiting release from the Pennsylvania Department of Education, the anticipated grant award is $158,485. Allocations for school districts and charter schools are distributed using the formula enacted in the Pennsylvania Fiscal Code....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "2a7a3471803cd7a8",
+   "district": "Ferndale Area School District",
+   "state": "PA",
+   "leaid": "4209750",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.fasdk12.org/district/federal-and-state-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1",
+    "title i"
+   ],
+   "snippet": "Federal and State Programs Coordinator (814) 535-1507 Resources Parent Right to Know Letter Title 1 Family Packet 2026-2027 (PDF) Title I Resource Center Order Form (PDF) Parent and Family Engagement Plan (PDF) Equity Plan 2026-2027 (PDF) Schoolwide Program Plan 2026-2027 (PDF) Targeted Assistance vs Schoolwide Program...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "00ffe18b1d190a21",
+   "district": "Pickett County School District",
+   "state": "TN",
+   "leaid": "4703420",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.pickettk12.net/255369_3",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "PICKETT COUNTY SCHOOLS - Federal Programs Skip to main content Federal Programs...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "82aef80a74ea415a",
+   "district": "Bradford Special School District",
+   "state": "TN",
+   "leaid": "4701390",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.bradfordspecial.com/91637_1",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "Bradford Special School District - Federal Programs Skip to main content Federal Programs...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "911efe6b81232f41",
+   "district": "Rogersville City Schools",
+   "state": "TN",
+   "leaid": "4703660",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.rcschool.net/departments/special-edfederal-programs",
+   "categories": [
+    "Services",
+    "New positions",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "reading intervention",
+    "paraprofessionals",
+    "teacher assistants",
+    "federal programs",
+    "title i"
+   ],
+   "snippet": "...City Schools' instructional programs call Karen Davis-Beggs at 423-272-7651. How Title I Supplements LCS Instructional Programs Instructional Programs - Spire Reading Intervention Systems, Reading Plus, and IXL Math. Personnel including additional Teachers and Paraprofessionals \u2013 Teacher Assistants Professional Develo...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "a83b5f218b74d40e",
+   "district": "Rogersville City Schools",
+   "state": "TN",
+   "leaid": "4703660",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.rcschool.net/departments/special-edfederal-programs",
+   "categories": [
+    "New positions",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "teacher assistants",
+    "title i"
+   ],
+   "snippet": "...st to display. As school-wide Title I schools, Rogersville City School System receives additional federal funding to supplement our instructional programs. Our Teacher Assistants, working under the direction of classroom teachers, are valuable resources in our focus on reading and mathematics instruction. Parent involv...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "b2bf9f7b027d3818",
+   "district": "Rogersville City Schools",
+   "state": "TN",
+   "leaid": "4703660",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.rcschool.net/departments/special-edfederal-programs",
+   "categories": [
+    "New positions",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessionals",
+    "federal programs"
+   ],
+   "snippet": "...ers through instruction by a certified ELL teacher that is fluent in the four domains of the English language (reading, writing, speaking, and listening) , and paraprofessionals. For more information regarding services to our English Language Learners (ELL) please visit the Federal Programs staff page or contact each s...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "ca98bb4a5a39286f",
+   "district": "Rogersville City Schools",
+   "state": "TN",
+   "leaid": "4703660",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.rcschool.net/departments/special-edfederal-programs",
    "categories": [
     "New positions"
    ],
@@ -282,43 +1414,179 @@
    "terms": [
     "paraprofessionals"
    ],
-   "snippet": "...Chaona Radtke who supported our summer enrichment program. To the ESU and District staff members who have provided tremendous support and trainings for staff, paraprofessionals, and substitute teachers. To Mrs....",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "If you believe that you may be living in homeless circumstances, you should contact Karen Davis-Beggs, at 272-7651. Paraprofessionals Requirements All RCS paraprofessionals who work directly with students meet specific guidelines set forth under ESSA. Each assistant must pass a content specific exam in reading, writing...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
-   "id": "9e49c6a8502ee5a4",
-   "district": "Zanesville City School District",
-   "state": "OH",
-   "leaid": "3904517",
+   "id": "b6779fdd44ad7dcc",
+   "district": "Rogersville City Schools",
+   "state": "TN",
+   "leaid": "4703660",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-10-27",
-   "url": "https://www.zanesville.k12.oh.us/our-district/programs-services/federal-programs",
+   "date": "2026-10-28",
+   "url": "https://www.rcschool.net/departments/special-edfederal-programs",
    "categories": [
-    "Services",
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "credit recovery",
-    "title ii",
-    "title iv",
-    "title iv-a"
+    "federal programs"
    ],
-   "snippet": "...low-achieving students and students from low-income families. This grant's four focus areas of advanced coursework, career pathways, personalized learning, and credit recovery and academic acceleration services provide a unique opportunity for districts and community schools to create and expand programming that aligns...",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "Federal Programs - Rogersville City Schools Federal Programs Welcome to the Federal Programs site for Rogersville City Schools. Please feel free to view our pages and the information within....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
-   "id": "4c2e632df585a025",
-   "district": "Zanesville City School District",
-   "state": "OH",
-   "leaid": "3904517",
+   "id": "286913ce7dbf025b",
+   "district": "Rogersville City Schools",
+   "state": "TN",
+   "leaid": "4703660",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-10-27",
-   "url": "https://www.zanesville.k12.oh.us/our-district/programs-services/federal-programs",
+   "date": "2026-10-28",
+   "url": "https://www.rcschool.net/departments/special-edfederal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "Please feel free to view our pages and the information within. If you have questions regarding Federal Programs for Rogersville City Schools, please contact Dr. Karen Davis-Beggs at (423) 272-7651 No post to display....",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "7f3cd5797f6bdae6",
+   "district": "Rogersville City Schools",
+   "state": "TN",
+   "leaid": "4703660",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.rcschool.net/departments/special-edfederal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "1. Karen Davis-Beggs Director of Federal Programs 116 Broadway Rogersville, TN 37857 Telephone: 423-272-7651 Email:...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "8fef6669b9e6af9e",
+   "district": "Rogersville City Schools",
+   "state": "TN",
+   "leaid": "4703660",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.rcschool.net/departments/special-edfederal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...Involvement RCS values contributions that parents make to the overall educational program. The opportunity for parental involvement is particularly critical in Title I schools where parents are requested to assist with the planning of the overall program and are invited to learn about programs at annual Title I meeting...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "cf50ca0dd2bd36a6",
+   "district": "Tom Bean Independent School District",
+   "state": "TX",
+   "leaid": "4842930",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.tbisd.org/esser-iii-information",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "esser iii"
+   ],
+   "snippet": "Tom Bean Independent School District - ESSER III Information Skip to main content ESSER III Information...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "133a8deea758418d",
+   "district": "Linden-Kildare Consolidated Independent School District",
+   "state": "TX",
+   "leaid": "4827540",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.lkcisd.net/54906_2",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "esser iii"
+   ],
+   "snippet": "Linden Kildare CISD - ESSER III Grant Information Skip to main content District Schools Schools Linden Elementary Mae Luster Stephens Junior High Linden Kildare High School ESSER III Grant Information...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "c9e77a4917df08fa",
+   "district": "Johnson Creek School District",
+   "state": "WI",
+   "leaid": "5507170",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.jcschools.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "Federal Programs - Johnson City Schools Skip To Main Content Federal Programs Dr. Renee Wood , Supervisor of Elementary Schools and Federal Programs Aimee Umbarger , Administrative Assistant Phone: (423) 434-5220 Fax:...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "397265075610b190",
+   "district": "Johnson Creek School District",
+   "state": "WI",
+   "leaid": "5507170",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.jcschools.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "...ious criteria or through competitive grants, which means that the district as applied to receive a part of these funds. Below is a list of Johnson City Schools federal programs. Every Student Succeeds Act The Every Student Succeeds Act (ESSA) was signed by President Obama on December 10, 2015, and represents good news...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "88c03bd56da10a0e",
+   "district": "Johnson Creek School District",
+   "state": "WI",
+   "leaid": "5507170",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-28",
+   "url": "https://www.jcschools.org/departments/federal-programs",
    "categories": [
     "Funding"
    ],
@@ -326,32 +1594,36 @@
    "terms": [
     "federal programs",
     "title i",
-    "title i, part a"
+    "title ii",
+    "title iii"
    ],
-   "snippet": "Federal Programs - Zanesville City School District Skip To Main Content Federal Programs Federal Programs / Resources Title I, Part A - Improving Basic Programs The purpose of Title I is to provide all children \u201csignificant opportunity to receive a fair, equitable, and high-quality education, and to close educational a...",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "...uilds on key areas of progress in recent years, made possible by the efforts of educators, communities, parents, and students across the country. Title Schools Federal Programs administers and supports programs that improve the academic achievement of disadvantaged students (Title I); prepare, train, and recruit high-q...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   },
   {
-   "id": "fc5b7c65bc1859ad",
-   "district": "Zanesville City School District",
-   "state": "OH",
-   "leaid": "3904517",
+   "id": "9e34a8047cecb898",
+   "district": "Johnson Creek School District",
+   "state": "WI",
+   "leaid": "5507170",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-10-27",
-   "url": "https://www.zanesville.k12.oh.us/our-district/programs-services/federal-programs",
+   "date": "2026-10-28",
+   "url": "https://www.jcschools.org/departments/federal-programs",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
+    "21st century community learning centers",
+    "esser",
     "federal programs",
-    "title i"
+    "title i",
+    "title iii"
    ],
-   "snippet": "Our school district liaison is Mr. Mark Stallard, Director of Title I & Federal Programs | K-6 Elementary Curriculum Coordinator . He may be reached at 740-588-5539....",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
+   "snippet": "...Title IX Homeless Education Program JCS Board Policy on Homeless Students McKinney-Vento Dispute Resolution Process Foster Care Training Other Federal Programs 21st Century Community Learning Centers Carl Perkins / Career and Technical Education Early Childhood Programs Family Resource Center ESSER (One-time federal fu...",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
   }
  ]
 }
