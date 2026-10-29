@@ -914,6 +914,7 @@ CA,0615690,Grant Elementary School District,boardpage,https://simbli.eboardsolut
 CA,0615690,Grant Elementary School District,funding,https://www.grantschoolcougars.com/,no
 CA,0607470,Cardiff Elementary School District,boardpage,https://simbli.eboardsolutions.com/index.aspx?s=36030570,yes
 CA,0621150,Laton Joint Unified School District,boardpage,https://www.latonunified.org/board-of-education-1,no
+CA,0600159,Scott Valley Unified School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030845,yes
 CO,0804800,Jefferson County School District R-1,boardpage,https://www.jeffcopublicschools.org/about/board-of-education,no
 CO,0804800,Jefferson County School District R-1,funding,https://www.jeffcopublicschools.org/services/family-community-partnerships/federal-programs,no
 CO,0803450,Douglas County School District Re-1,boardpage,https://www.dcsdk12.org/about/board-of-education,no
@@ -2177,6 +2178,7 @@ LA,2200039,Zachary Community School District,funding,https://zacharyschools.org/
 LA,2200990,Lincoln Parish School District,boardpage,https://www.lincolnparish.gov/meetings,no
 LA,2200810,Jefferson Davis Parish School District,boarddocs,https://www.boarddocs.com/mi/jsd/Board.nsf,no
 LA,2200060,Allen Parish School District,boardpage,https://www.apsb.us/school-board,no
+LA,2201230,Plaquemines Parish School District,boardpage,https://www.plaqueminesparish.gov/AgendaCenter,no
 LA,2200660,Franklin Parish School District,boardpage,https://www.fpsb.us/SchoolBoardMeetingMinutes.aspx,no
 LA,2200660,Franklin Parish School District,funding,https://www.fpsb.us/FederalPrograms.aspx,no
 LA,2200780,Jackson Parish School District,boardpage,https://www.jacksonsd.org/board-of-education/boe-home,no
@@ -3997,10 +3999,10 @@ NY,3619830,Moriah Central School District,funding,https://moriahk12.org/grants/,
 NY,3631290,Whitehall Central School District,boardpage,https://www.whitehallschools.org/apps/pages/index.jsp?uREC_ID=1563627&type=d&pREC_ID=1695558,no
 NY,3618540,Marion Central School District,boardpage,https://www.marionschools.net/school_board,no
 NY,3618540,Marion Central School District,funding,https://www.marionschools.net/departments/grants_federal_programs,no
-NY,3622140,South Seneca Central School District,boardpage,https://SOUTHSENECA.ORG/board-of-education,no
-NY,3622140,South Seneca Central School District,funding,https://SOUTHSENECA.ORG/title-i-information,no
 NY,3611070,Fillmore Central School District,boardpage,https://www.fillmorecentral.org/page/board-of-education-information,no
 NY,3611070,Fillmore Central School District,funding,https://www.fillmorecentral.org/page/essers-use-of-funds,no
+NY,3622140,South Seneca Central School District,boardpage,https://SOUTHSENECA.ORG/board-of-education,no
+NY,3622140,South Seneca Central School District,funding,https://SOUTHSENECA.ORG/title-i-information,no
 NY,3629910,Warrensburg Central School District,boarddocs,https://go.boarddocs.com/ny/warrensburg/Board.nsf/Public,no
 NY,3619260,Middleburgh Central School District,boarddocs,https://www.boarddocs.com/ny/middleburghcsd/Board.nsf/vpublic?open,no
 NY,3609360,Duanesburg Central School District,boarddocs,https://go.boarddocs.com/ny/duanesburg/Board.nsf/Public,no
@@ -4151,6 +4153,8 @@ OH,3904517,Zanesville City School District,funding,https://www.zanesville.k12.oh
 OH,3904615,Talawanda City School District,boarddocs,http://www.boarddocs.com/oh/tsdoh/Board.nsf/Public,no
 OH,3910030,Celina City School District,boarddocs,https://go.boarddocs.com/oh/celi/Board.nsf/Public?open&id=policies,no
 OH,3905005,Revere Local School District,boardpage,https://www.revereschools.org/administration/board-of-education,no
+OH,3904495,Vandalia-Butler City School District,boarddocs,https://go.boarddocs.com/oh/vbcsd/Board.nsf/Public,no
+OH,3904495,Vandalia-Butler City School District,funding,https://www.vbcsd.com/departments/curriculum/federal-programs,no
 OH,3904448,New Philadelphia City School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36032187,yes
 OH,3904448,New Philadelphia City School District,funding,https://www.npschools.org/departments/title-i,no
 OH,3904614,Ross Local School District,boarddocs,https://go.boarddocs.com/oh/rosslsd/Board.nsf/Public,no
@@ -5808,8 +5812,8 @@ TX,4839780,Seymour Independent School District,funding,https://www.seymourschool
 TX,4832910,Normangee Independent School District,boardpage,https://www.normangeeisd.org/283228_2,no
 TX,4812870,Carlisle Independent School District,boardpage,https://www.carlisleschools.org/school_board,no
 TX,4812870,Carlisle Independent School District,funding,https://www.carlisleschools.org/our_district/Business_Office/ARP_ESSER,no
-TX,4842630,Thorndale Independent School District,boardpage,https://www.thorndale.txed.net/180763_2,no
 TX,4823460,Honey Grove Independent School District,boardpage,https://honeygroveisd.net/324667_2,no
+TX,4842630,Thorndale Independent School District,boardpage,https://www.thorndale.txed.net/180763_2,no
 TX,4819110,Farwell Independent School District,boardpage,https://www.farwellschools.org/page/dis.agendas_minutes,no
 TX,4819110,Farwell Independent School District,funding,https://www.farwellschools.org/upload/page/0018/docs/Title%201/Title%20I%20Statement.pdf,no
 TX,4831950,Mumford Independent School District,boardpage,https://www.mumford.k12.tx.us/page19.html,no
