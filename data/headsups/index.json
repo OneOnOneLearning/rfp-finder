@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-29T12:55:40+00:00",
+ "updated": "2026-10-30T12:46:04+00:00",
  "states": {
   "AK": {
    "count": 28,
    "hot": 0
   },
   "AL": {
-   "count": 265,
+   "count": 266,
    "hot": 0
   },
   "AR": {
@@ -18,7 +18,7 @@
    "hot": 2
   },
   "CA": {
-   "count": 498,
+   "count": 499,
    "hot": 1
   },
   "CO": {
@@ -34,7 +34,7 @@
    "hot": 0
   },
   "FL": {
-   "count": 25,
+   "count": 26,
    "hot": 0
   },
   "GA": {
@@ -50,7 +50,7 @@
    "hot": 2
   },
   "IL": {
-   "count": 111,
+   "count": 113,
    "hot": 1
   },
   "IN": {
@@ -82,8 +82,8 @@
    "hot": 0
   },
   "MI": {
-   "count": 303,
-   "hot": 9
+   "count": 311,
+   "hot": 10
   },
   "MN": {
    "count": 120,
@@ -118,7 +118,7 @@
    "hot": 0
   },
   "NJ": {
-   "count": 152,
+   "count": 155,
    "hot": 3
   },
   "NM": {
@@ -134,7 +134,7 @@
    "hot": 0
   },
   "OH": {
-   "count": 214,
+   "count": 215,
    "hot": 1
   },
   "OK": {
@@ -142,11 +142,11 @@
    "hot": 0
   },
   "OR": {
-   "count": 86,
-   "hot": 3
+   "count": 88,
+   "hot": 4
   },
   "PA": {
-   "count": 752,
+   "count": 762,
    "hot": 0
   },
   "RI": {
@@ -174,7 +174,7 @@
    "hot": 1
   },
   "VA": {
-   "count": 63,
+   "count": 64,
    "hot": 0
   },
   "VT": {
@@ -198,12 +198,12 @@
    "hot": 0
   }
  },
- "sources": 6321,
- "checked_ever": 6321,
+ "sources": 6342,
+ "checked_ever": 6342,
  "run": {
-  "problem": 322,
-  "ok": 871,
-  "skipped": 47
+  "problem": 243,
+  "ok": 429,
+  "skipped": 74
  },
- "new": 11
+ "new": 30
 }

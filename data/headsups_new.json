@@ -1,137 +1,75 @@
 {
- "updated": "2026-10-29T12:55:40+00:00",
+ "updated": "2026-10-30T12:46:04+00:00",
  "items": [
   {
-   "id": "c8dfd5df00ef6cc9",
-   "district": "Fountain Hills Unified District",
-   "state": "AZ",
-   "leaid": "0403040",
-   "source": "Board meeting",
-   "meeting": "Board Packet",
-   "date": "2026-10-29",
-   "url": "https://www.fhschools.org/_files/ugd/f3cb3b_db0234eb3c4e4f49b4cbed9f7485d115.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": true,
-   "terms": [
-    "paraprofessional"
-   ],
-   "snippet": "Staffing Recently Filled: \u25cf SPED \u25cf Academic Academy Paraprofessional Open Positions: \u25cf SPED Paraprofessional Barrie Pinto SPED filled with previous contract employee. New position to support online students that have IND Study courses....",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
-  },
-  {
-   "id": "191b98c6e01ea567",
-   "district": "Fountain Hills Unified District",
-   "state": "AZ",
-   "leaid": "0403040",
-   "source": "Board meeting",
-   "meeting": "Board Packet",
-   "date": "2026-10-29",
-   "url": "https://www.fhschools.org/_files/ugd/f3cb3b_db0234eb3c4e4f49b4cbed9f7485d115.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "math interventionist"
-   ],
-   "snippet": "BACKGROUND NAME ASSIGNMENT EFFECTIVE New Employment: Amanda Lyons Native Am Specialist HS 8.24.2026 Avoline Kardell Math Interventionist 9.08.2026 Rehires: Transfers/Pay Changes:...",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
-  },
-  {
-   "id": "f9fd06d63f5e3ca4",
-   "district": "Fountain Hills Unified District",
-   "state": "AZ",
-   "leaid": "0403040",
-   "source": "Board meeting",
-   "meeting": "Board Packet",
-   "date": "2026-10-29",
-   "url": "https://www.fhschools.org/_files/ugd/f3cb3b_db0234eb3c4e4f49b4cbed9f7485d115.pdf",
+   "id": "5e80cdc8652a7e1f",
+   "district": "Jackson County School District",
+   "state": "AL",
+   "leaid": "0101830",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-30",
+   "url": "https://www.jacksonk12.org/312774_2",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "title i",
-    "title ii",
-    "title iv-a"
+    "federal programs"
    ],
-   "snippet": "...rough August 31, 2026 Funding 001 MAINTENANCE AND OPERATION $ 567,642.30 010 P ROPOSITION 301 $ 53,892.40 020 INSTRUCTION IMPROVEMENT FUND (IIF) $22,454.04 101 TITLE I-A BASIC $6,484.85 141 TITLE II-A $1,077.60 167 ESEA TITLE IV-A $544.55 211 TITLE VI $458.84 221 IDEA-PART B BASIC $17,785.61 261 CTE FEDERAL PERKINS GRA...",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
+   "snippet": "Jackson County School District - Federal Programs Skip to main content Federal Programs...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
   },
   {
-   "id": "e4ac63f5e53d8c14",
-   "district": "Pacific Grove Unified School District",
+   "id": "9c7fffc0f175cd72",
+   "district": "Mountain Empire Unified School District",
    "state": "CA",
-   "leaid": "0629370",
-   "source": "Board meeting",
-   "meeting": "Agendas 2016-17",
-   "date": "2026-10-29",
-   "url": "https://www.pgusd.org/Our-District/Leadership/Historical-Board-Meetings/Agendas-2016-17/index.html",
+   "leaid": "0626100",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-30",
+   "url": "https://www.meusd.org/documents/Finance/Esser III/2021_ESSER_III_Expenditure_Plan_Mountain_Empire_Unified_School_District_20220411.pdf",
    "categories": [
-    "Services"
-   ],
-   "hot": true,
-   "terms": [
-    "speech therapy services"
-   ],
-   "snippet": "...on Open Session Agenda Packet Notes 6/29/17 DO 6:00PM 7:00PM Agenda Packet 6/08/17 DO 6:00PM 7:00PM Agenda Packet Revised Certificated Assignment Order Walk-On Speech Therapy Services 2017-2018 LCAP Presentation PGUSD Math Update Presentation BreakerBots Shaping the Next Generation Presentation Portable Solutions Prese...",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
-  },
-  {
-   "id": "09ac5d6d2ff7ad1b",
-   "district": "Closter Borough School District",
-   "state": "NJ",
-   "leaid": "3403390",
-   "source": "Board meeting",
-   "meeting": "October 29, 2026 \u2013 Agenda",
-   "date": "2026-10-29",
-   "url": "https://ecs-cluster-bucket-wsos-prod-c3.s3.us-west-2.amazonaws.com/uploads/sites/23/October-29-2026-Agenda.pdf",
-   "categories": [
-    "New positions"
+    "Funding"
    ],
    "hot": false,
    "terms": [
-    "paraprofessional"
+    "esser"
    ],
-   "snippet": "B. APPROVAL - Appointment of Aysenur Un as Paraprofessional for the 2026-2027 School Year Motion to approve the appointment of Aysenur Un as a paraprofessional for the 2026-2027 school year, 5.75 hours per day, at a salary of $22.09 per hour, with a start date pending a criminal history background check. 10/29/26 Pg....",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
+   "snippet": "...:Description rdf:about=\"\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <dc:format>application/pdf</dc:format> <dc:title> <rdf:Alt> <rdf:li xml:lang=\"x-default\">ESSER 3 Expenditure Plan Template and Instructions - Federal Stimulus Funding (CA Dept of Education)</rdf:li> </rdf:Alt> </dc:title> <dc:creator> <rdf:Seq> <rdf...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
   },
   {
-   "id": "0f7166e96e469cbd",
-   "district": "Closter Borough School District",
-   "state": "NJ",
-   "leaid": "3403390",
-   "source": "Board meeting",
-   "meeting": "October 29, 2026 \u2013 Agenda",
-   "date": "2026-10-29",
-   "url": "https://ecs-cluster-bucket-wsos-prod-c3.s3.us-west-2.amazonaws.com/uploads/sites/23/October-29-2026-Agenda.pdf",
+   "id": "ee9d3a8c408c8707",
+   "district": "Holmes County School District",
+   "state": "FL",
+   "leaid": "1200900",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-30",
+   "url": "https://www.hdsb.org/federal-programs-food-service",
    "categories": [
-    "New positions"
+    "Funding"
    ],
    "hot": false,
    "terms": [
-    "paraprofessionals"
+    "federal programs"
    ],
-   "snippet": "K. APPROVAL - Substitute Teachers/Paraprofessionals/Custodians Motion to approve the following substitute teachers/paraprofessionals/custodians for the 2026-2027 school Year: Name Certification Leora Audi Substitute Teacher Certification Chloe Bedoya Substitute Teacher Certification Sonjela Cami Substitute Teacher Cert...",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
+   "snippet": "Federal Programs/Food Service | Holmes District School Board Facebook Icon Google Plus Icon Instagram Icon LinkedIn Icon Twitter Icon YouTube Icon Vimeo Icon Clients Icon Email icon Map Icon Print Icon Quote Icon icon_share Carousel Arrow - Left Carousel Arrow - Right Federal Programs/Food Service...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
   },
   {
-   "id": "8e15944d5bce7922",
-   "district": "Closter Borough School District",
-   "state": "NJ",
-   "leaid": "3403390",
-   "source": "Board meeting",
-   "meeting": "October 29, 2026 \u2013 Agenda",
-   "date": "2026-10-29",
-   "url": "https://ecs-cluster-bucket-wsos-prod-c3.s3.us-west-2.amazonaws.com/uploads/sites/23/October-29-2026-Agenda.pdf",
+   "id": "bedc18fa99415729",
+   "district": "Community High School District 94",
+   "state": "IL",
+   "leaid": "1740440",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-30",
+   "url": "https://www.communityschools.org/news/wfae-90-7-cms-prepares-to-launch-community-schools-next-year-heres-what-one-looks-like/",
    "categories": [
     "Funding"
    ],
@@ -139,19 +77,522 @@
    "terms": [
     "title i"
    ],
-   "snippet": "G. APPROVAL - Allocation of Title I Funds for Ellen Monaghan\u2019s Salary Motion to approve, upon the recommendation of the Superintendent, the payment of a portion of the salary for Ellen Monaghan, BSI Teacher at Tenakill Middle School, from Title I funds as follows: 20-231-100-100-060-00-0 $ 24,136.00 (20.00%) Title I 11...",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
+   "snippet": "...like\u201d Read the full story from WFAE 90.7 here . \u201cFelecia Chambers is the community school coordinator at Mount Gilead Elementary School in Montgomery County, a Title I school about 50 miles east of Charlotte. She walked through the school\u2019s resource center, in a large room just beside the main entrance....",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
   },
   {
-   "id": "b0b339b246b9a485",
-   "district": "Vandalia-Butler City School District",
-   "state": "OH",
-   "leaid": "3904495",
+   "id": "2bd9964dfde4acc7",
+   "district": "Community Consolidated School District 59",
+   "state": "IL",
+   "leaid": "1713770",
+   "source": "Board meeting",
+   "meeting": "Continue Reading Siga Leyendo",
+   "date": "2026-09-09",
+   "url": "https://www.ccsd59.org/news/board-update-9-9-2026",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...fully using its LIFT (Leadership, Innovation, Future Ready, Teamwork) model. 135 new interactive touchscreen boards (Newline) arrived for classrooms, funded by Title I federal grants. Community News:...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "a5da9bed53246adc",
+   "district": "Adrian City School District",
+   "state": "MI",
+   "leaid": "2601950",
+   "source": "Board meeting",
+   "meeting": "October 26, 2026 Agenda",
+   "date": "2026-10-26",
+   "url": "https://www.adrianmaples.org/October_26,_2026_agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "Communications a. Resignation of Diana Cromwell, Paraprofessional b. Resignation of Sarah Hall, Paraprofessional c. Resignation of Brandy Felver, Teacher d....",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "02a099720109631b",
+   "district": "Adrian City School District",
+   "state": "MI",
+   "leaid": "2601950",
+   "source": "Board meeting",
+   "meeting": "October 26, 2026 Agenda",
+   "date": "2026-10-26",
+   "url": "https://www.adrianmaples.org/October_26,_2026_agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "New Hires: Emily Perez, Paraprofessional, Gian Nespoli, Paraprofessional 2....",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "92ac261a075fe50e",
+   "district": "Adrian City School District",
+   "state": "MI",
+   "leaid": "2601950",
+   "source": "Board meeting",
+   "meeting": "October 26, 2026 Board Packet",
+   "date": "2026-10-26",
+   "url": "https://www.adrianmaples.org/October_26,_2026.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": true,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "Nikki Cuthbert PURPOSE: To recomm end hiring a special education paraprofessional for Prairie Elementary. EXPLANATION:...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "e6b2c7fee9c0e738",
+   "district": "Adrian City School District",
+   "state": "MI",
+   "leaid": "2601950",
+   "source": "Board meeting",
+   "meeting": "October 26, 2026 Board Packet",
+   "date": "2026-10-26",
+   "url": "https://www.adrianmaples.org/October_26,_2026.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "Communications a. Resignation of Diana Cromwell, Paraprofessional b. Resignation of Sarah Hall, Paraprofessional c. Resignation of Brandy Felver, Teacher d....",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "7ba7051496aca2df",
+   "district": "Adrian City School District",
+   "state": "MI",
+   "leaid": "2601950",
+   "source": "Board meeting",
+   "meeting": "October 26, 2026 Board Packet",
+   "date": "2026-10-26",
+   "url": "https://www.adrianmaples.org/October_26,_2026.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "New Hires: Emily Perez, Paraprofessional 2....",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "e5b9aa3b28877b49",
+   "district": "Adrian City School District",
+   "state": "MI",
+   "leaid": "2601950",
+   "source": "Board meeting",
+   "meeting": "October 26, 2026 Board Packet",
+   "date": "2026-10-26",
+   "url": "https://www.adrianmaples.org/October_26,_2026.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "EXPLANATION: Abby Spangler and her interview team recommend Emily Perez as a paraprofessional for Prairie Elementary. Emily has seven (7) years of customer service experience....",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "937e657dfa26c478",
+   "district": "Adrian City School District",
+   "state": "MI",
+   "leaid": "2601950",
+   "source": "Board meeting",
+   "meeting": "October 26, 2026 Board Packet",
+   "date": "2026-10-26",
+   "url": "https://www.adrianmaples.org/October_26,_2026.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "RECOMMENDATION: The HR Director recommends Emily Perez to be hired as a paraprofessional at Prairie Elementary, effective for the 2026-2027 school year. EXECUTIVE SUMMARY DATE:...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "a597807cb0e87cd2",
+   "district": "Vestaburg Community Schools",
+   "state": "MI",
+   "leaid": "2634920",
+   "source": "Board meeting",
+   "meeting": "VEA Contract 2024 - 2027",
+   "date": "2026-10-30",
+   "url": "https://vestaburgcs-cdn.fxbrt.com/downloads/board-of-education/veacontract2024-2027.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessionals"
+   ],
+   "snippet": "I. The Board will continue to provide assistance to teachers in the form of paraprofessionals provided funds are available and staffing is appropriate. J....",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "d19e18b872aa3087",
+   "district": "Roselle Borough School District",
+   "state": "NJ",
+   "leaid": "3414280",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-10-29",
-   "url": "https://www.vbcsd.com/departments/curriculum/federal-programs",
+   "date": "2026-10-30",
+   "url": "https://www.roselleschools.org/title1/",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "tutoring"
+   ],
+   "snippet": "...ell Programs Grace Wilday Junior High School Push-In/Pull-Out Support in LAL & Math Classes After the Bell Programs Abraham Clark High School General Education Tutoring Advanced Placement (AP Classes) Tutoring...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "03802a66a7f5e1c9",
+   "district": "Roselle Borough School District",
+   "state": "NJ",
+   "leaid": "3414280",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-30",
+   "url": "https://www.roselleschools.org/title1/",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal funds",
+    "title i"
+   ],
+   "snippet": "...quality education. Title I funds are earmarked for academically at-risk students to assist them in achieving the state\u2019s academic standards. In accepting these federal funds, the Roselle School District agrees to comply with all state and federal requirements related to the development, implementation, and evaluation o...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "e76afa7e23b45bf5",
+   "district": "Roselle Borough School District",
+   "state": "NJ",
+   "leaid": "3414280",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-30",
+   "url": "https://www.roselleschools.org/title1/",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "The Schoolwide designation means that all of the students at those schools are eligible for Title I services if needed. In addition, Title I Offers various summer programs for students in grades K-12. William Jones Supervisor of ESSA/Title I [email protected] 908-298-2067 Letter to the Parents: Parent Letter in English...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "a91ca83ebedd234d",
+   "district": "Troy City School District",
+   "state": "OH",
+   "leaid": "3904492",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-30",
+   "url": "https://www.troy.k12.oh.us/tcs-american-rescue-plan-and-local",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "esser"
+   ],
+   "snippet": "Troy City Schools - TCS American Rescue Plan and Local Use of Funds; ESSER Application Information Skip to main content TCS American Rescue Plan and Local Use of Funds; ESSER Application Information...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "18eb19042e4434a2",
+   "district": "Sisters School District 6",
+   "state": "OR",
+   "leaid": "4111490",
+   "source": "Board meeting",
+   "meeting": "the policies page",
+   "date": "2026-10-30",
+   "url": "https://district.ssd6.org/school-board/policies/",
+   "categories": [
+    "Services",
+    "Funding"
+   ],
+   "hot": true,
+   "terms": [
+    "tutoring services",
+    "title i"
+   ],
+   "snippet": "...wnload IGBBD - Parent Notification and Participation 1 file(s) 27.67 KB Download IGBC - Title I - Parental Involvement 1 file(s) 32.79 KB Download IGBGA - Home Tutoring Services 1 file(s) 29.13 KB Download IGBHA - Alternative Education Programs 1 file(s)...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "839b4811fe87e8e6",
+   "district": "Sisters School District 6",
+   "state": "OR",
+   "leaid": "4111490",
+   "source": "Board meeting",
+   "meeting": "the policies page",
+   "date": "2026-10-30",
+   "url": "https://district.ssd6.org/school-board/policies/",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal funds"
+   ],
+   "snippet": "27.50 KB Download DD - Funding Proposals and Applications 1 file(s) 31.13 KB Download DE-DEB-DEC - Revenues from State and Federal Funds 1 file(s) 28.06 KB Download DFA - Investment of Funds 1 file(s)...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "f527f086a26a485e",
+   "district": "Shenango Area School District",
+   "state": "PA",
+   "leaid": "4221510",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-30",
+   "url": "https://www.shenangoschools.org/schools/elementary-school/title-i-program/",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Title I Program - Shenango Area School District Skip to content Title I Program Click the links below for documents about Shenango Elementary School\u2019s Title I program. SASD Policy 918 2024-25 Equity Plan Parent Right To Know Parent and Family Engagement Parent School Compact Scroll to Top...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "5c4977313799544c",
+   "district": "Shenango Area School District",
+   "state": "PA",
+   "leaid": "4221510",
+   "source": "Budget / plan",
+   "meeting": "2024-25 Equity Plan",
+   "date": "2025-06-20",
+   "url": "https://www.shenangoschools.org/wp-content/uploads/2025/06/2024-25-Equity-Plan-.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "\u25cf The district offers tuition reimbursement to pay for educational pursuits within the field of education. \u25cf The district attempts to increase teacher and paraprofessional recruitment efforts by posting vacancies to our websites, social media networks and local newspapers to make more people aware of job openings. \u25cf Ap...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "512e8016ef1e21b7",
+   "district": "Shenango Area School District",
+   "state": "PA",
+   "leaid": "4221510",
+   "source": "Budget / plan",
+   "meeting": "Parent and Family Engagement",
+   "date": "2025-06-02",
+   "url": "https://www.shenangoschools.org/wp-content/uploads/2025/06/TitleIParentandFamilyEngagementPolicy6-2-25.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "724-658-7871 Reviewed: June 2, 2025 Title I Parent and Family Engagement Policy Shenango Elementary School has developed a written school level parent and family engagement policy with input from Title I parents. The school involves parents annually in the joint development and agreement of the policy....",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "d31c32d607144338",
+   "district": "Shenango Area School District",
+   "state": "PA",
+   "leaid": "4221510",
+   "source": "Budget / plan",
+   "meeting": "Parent and Family Engagement",
+   "date": "2025-06-02",
+   "url": "https://www.shenangoschools.org/wp-content/uploads/2025/06/TitleIParentandFamilyEngagementPolicy6-2-25.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...personnel, parents, family members, and the local community. Shenango Elementary School personnel, parents and family members of students participating in the Title I program work jointly in the writing and refining of the Shenango Elementary School, School Level - Parent and Family Engagement Policy. Involvement of P...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "e2cfd10d9e7b191f",
+   "district": "Shenango Area School District",
+   "state": "PA",
+   "leaid": "4221510",
+   "source": "Budget / plan",
+   "meeting": "Parent and Family Engagement",
+   "date": "2025-06-02",
+   "url": "https://www.shenangoschools.org/wp-content/uploads/2025/06/TitleIParentandFamilyEngagementPolicy6-2-25.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "a. Title I information is provided during our first annual meeting of the school year. \u25cf The school offers a flexible number of meetings, such as meetings in the morning or evening, and may provide, with Title I funds, transportation, child care, or home visits, as such services relate to parent involvement. a....",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "de6adecd73f27968",
+   "district": "Shenango Area School District",
+   "state": "PA",
+   "leaid": "4221510",
+   "source": "Budget / plan",
+   "meeting": "Parent and Family Engagement",
+   "date": "2025-06-02",
+   "url": "https://www.shenangoschools.org/wp-content/uploads/2025/06/TitleIParentandFamilyEngagementPolicy6-2-25.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...ranslation services if needed. \u25cf The school involves parents in an organized, ongoing, and timely way, in the planning, review, and improvement of the school\u2019s Title I program, including the planning, review, and improvement of the school parent and family engagement policy and the joint development of the schoolwide p...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "8a371e0da9598818",
+   "district": "Shenango Area School District",
+   "state": "PA",
+   "leaid": "4221510",
+   "source": "Budget / plan",
+   "meeting": "Parent and Family Engagement",
+   "date": "2025-06-02",
+   "url": "https://www.shenangoschools.org/wp-content/uploads/2025/06/TitleIParentandFamilyEngagementPolicy6-2-25.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...udents to acquire the skill and the knowledge needed to be productive citizens able to meet the changing demands of the global community. \u25cf The school provides Title I parents: a....",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "fdc21b34e10244b7",
+   "district": "Shenango Area School District",
+   "state": "PA",
+   "leaid": "4221510",
+   "source": "Budget / plan",
+   "meeting": "Parent and Family Engagement",
+   "date": "2025-06-02",
+   "url": "https://www.shenangoschools.org/wp-content/uploads/2025/06/TitleIParentandFamilyEngagementPolicy6-2-25.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "a. timely information about the Title I program \u25a0 Through teacher-parent conferences, annual meetings, family game nights, Parent Square and District newsletters b. A description and explanation of the curriculum in use at the school, the forms of academic assessments used to measure student progress, and the achieveme...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "0995853f9dcfa45d",
+   "district": "Shenango Area School District",
+   "state": "PA",
+   "leaid": "4221510",
+   "source": "Budget / plan",
+   "meeting": "Parent and Family Engagement",
+   "date": "2025-06-02",
+   "url": "https://www.shenangoschools.org/wp-content/uploads/2025/06/TitleIParentandFamilyEngagementPolicy6-2-25.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...ool provides parents with assistance in understanding such topics as the challenging State academic standards, State and local assessments, the requirements of Title I and how to monitor a child\u2019s progress and work with teachers to improve the achievement of their children. The mission of the Shenango Area School Distr...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "3abb05d35b4a97d6",
+   "district": "Shenango Area School District",
+   "state": "PA",
+   "leaid": "4221510",
+   "source": "Budget / plan",
+   "meeting": "Parent and Family Engagement",
+   "date": "2025-06-02",
+   "url": "https://www.shenangoschools.org/wp-content/uploads/2025/06/TitleIParentandFamilyEngagementPolicy6-2-25.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...rents and is sent in a format and, to the extent practicable, in a language the parents can understand. \u25a0 School information, including communication about the Title I program, will be distributed in all major languages spoken by the families of students at the school. k....",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
+  },
+  {
+   "id": "e744ad248e34e892",
+   "district": "Henrico County Public Schools",
+   "state": "VA",
+   "leaid": "5101890",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-10-30",
+   "url": "https://www.henricoschools.us/federal-programs-and-foundational-l",
    "categories": [
     "Funding"
    ],
@@ -159,72 +600,9 @@
    "terms": [
     "federal programs"
    ],
-   "snippet": "Federal Programs - Vandalia-Butler City Schools Skip To Main Content Federal Programs The Curriculum and Instruction Department is responsible for managing state, federal, and private grants for programs that help our students more effectively achieve academic success. This includes both academic and support services p...",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
-  },
-  {
-   "id": "139b20e869612afc",
-   "district": "Vandalia-Butler City School District",
-   "state": "OH",
-   "leaid": "3904495",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-29",
-   "url": "https://www.vbcsd.com/departments/curriculum/federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "Grant-funded training is also planned and implemented by our department. Our Federal Programs objective is to provide resources to ensure high-quality teacher preparation and training, along with high-quality student performance standards that meet or exceed federal and state regulations. By providing focused attention...",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
-  },
-  {
-   "id": "70b0afc38018247c",
-   "district": "Vandalia-Butler City School District",
-   "state": "OH",
-   "leaid": "3904495",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-29",
-   "url": "https://www.vbcsd.com/departments/curriculum/federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "...as of need, students are given an opportunity to obtain a high-quality education, and reach proficiency on federal and state standards and assessments. State & Federal Programs The Curriculum and Instruction Department is responsible for the programmatic planning, implementation and compliance monitoring of many of the...",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
-  },
-  {
-   "id": "9897e44b09e8b567",
-   "district": "Vandalia-Butler City School District",
-   "state": "OH",
-   "leaid": "3904495",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-29",
-   "url": "https://www.vbcsd.com/departments/curriculum/federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i",
-    "title ii",
-    "title iii",
-    "title iv-a"
-   ],
-   "snippet": "...provides technical assistance to school personnel and central office staff in the acquisition of funds, program planning, implementation and documentation for: Title I - Improving Basic Programs) Title II-A - Supporting Effective Instruction) Title III - Language Instruction for English Learners Title IV-A - Student Su...",
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
+   "snippet": "Henrico County Public Schools - Federal Programs and Foundational Learning Skip to main content...",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30"
   }
  ]
 }

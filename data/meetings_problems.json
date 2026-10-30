@@ -1,842 +1,352 @@
 [
  {
-  "district": "Vandalia-Butler City School District",
+  "district": "Holmes County School District",
+  "state": "FL",
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/fl/hdsb/Board.nsf/",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/fl/hdsb/Board.nsf/Public"
+ },
+ {
+  "district": "Homewood School District 153",
+  "state": "IL",
+  "type": "funding",
+  "url": "https://www.hsd153.org/apps/events/2026/11/11/48188751/?REC_ID=48188751&id=0",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://www.hsd153.org/apps/events/2026/11/11/48188751/?REC_ID=48188751&id=0"
+ },
+ {
+  "district": "Kokomo-Center Township Consolidated School Corporation",
+  "state": "IN",
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/in/kokomo/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/in/kokomo/Board.nsf/Public"
+ },
+ {
+  "district": "Elmira City School District",
+  "state": "NY",
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/ny/elmira/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/elmira/Board.nsf/Public"
+ },
+ {
+  "district": "Ashland City School District",
   "state": "OH",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/vbcsd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/vbcsd/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/oh/ashcoh/Board.nsf/goto?open&id=DRFSU4744996",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/ashcoh/Board.nsf/Public"
  },
  {
-  "district": "Globe Unified District",
+  "district": "West Jefferson Hills School District",
+  "state": "PA",
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/pa/wjhsd/Board.nsf/goto?open&id=C8WK6Z506319",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/wjhsd/Board.nsf/Public"
+ },
+ {
+  "district": "Shenango Area School District",
+  "state": "PA",
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/pa/shen/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/shen/Board.nsf/Public"
+ },
+ {
+  "district": "Canton Area School District",
+  "state": "PA",
+  "type": "boarddocs",
+  "url": "http://go.boarddocs.com/pa/cant/Board.nsf/goto?open&id=9YQW2B834AF8",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/cant/Board.nsf/Public"
+ },
+ {
+  "district": "Culpeper County Public Schools",
+  "state": "VA",
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/vsba/culp/Board.nsf/goto?open&id=ARTP6D6306ED",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/vsba/culp/Board.nsf/Public"
+ },
+ {
+  "district": "Delta/Greely School District",
+  "state": "AK",
+  "type": "boarddocs",
+  "url": "https://www.boarddocs.com/ak/dgsd/Board.nsf",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ak/dgsd/Board.nsf/Public"
+ },
+ {
+  "district": "Toltec Elementary District",
   "state": "AZ",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/az/globe/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/az/globe/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/az/toltecsd/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/az/toltecsd/Board.nsf/Public"
  },
  {
-  "district": "Morenci Unified District",
-  "state": "AZ",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/az/morenci/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/az/morenci/Board.nsf/Public"
- },
- {
-  "district": "Yosemite Unified School District",
-  "state": "CA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ca/yosemiteusd/Board.nsf/Private",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ca/yosemiteusd/Board.nsf/Public"
- },
- {
-  "district": "Fremont Re-2",
+  "district": "Estes Park School District R-3",
   "state": "CO",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/co/fremontre2/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/co/fremontre2/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/co/estesschools/Board.nsf/Public?open&id=policies",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/co/estesschools/Board.nsf/Public"
  },
  {
-  "district": "East Hampton School District",
-  "state": "CT",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/ehufsd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/ehufsd/Board.nsf/Public"
- },
- {
-  "district": "Washington Community School District",
+  "district": "Rock Valley Community School District",
   "state": "IA",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/in/washington/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/in/washington/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/ny/rockville/Board.nsf/vpublic?open",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/rockville/Board.nsf/Public"
  },
  {
-  "district": "Washington Community High School District 308",
+  "district": "Oak Grove School District 68",
   "state": "IL",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/in/washington/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/in/washington/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/ca/ogsd/Board.nsf/vpublic?open",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ca/ogsd/Board.nsf/Public"
  },
  {
-  "district": "Clarksville Community School Corporation",
+  "district": "Rossville Consolidated School District",
   "state": "IN",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/in/ccsc/Board.nsf/goto?open&id=BXDLDA55F654",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/in/ccsc/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/in/rossville/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/in/rossville/Board.nsf/Public"
  },
  {
-  "district": "Speedway School Town",
-  "state": "IN",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/in/speedway/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/in/speedway/Board.nsf/Public"
- },
- {
-  "district": "Brown County County School Corporation",
-  "state": "IN",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/in/brco/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/in/brco/Board.nsf/Public"
- },
- {
-  "district": "Lewis Cass Schools",
-  "state": "IN",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/in/lewcas/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/in/lewcas/Board.nsf/Public"
- },
- {
-  "district": "Union-North United School Corporation",
-  "state": "IN",
-  "type": "boarddocs",
-  "url": "https://www.boarddocs.com/in/unusc/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/in/unusc/Board.nsf/Public"
- },
- {
-  "district": "Whitko Community School Corporation",
-  "state": "IN",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/in/whitkocs/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/in/whitkocs/Board.nsf/Public"
- },
- {
-  "district": "Fort Leavenworth Unified School District 207",
+  "district": "Halstead Unified School District 440",
   "state": "KS",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ks/usd207/Board.nsf/goto?open&id=8X2M44590175",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ks/usd207/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/ks/usd440/Board.nsf",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ks/usd440/Board.nsf/Public"
  },
  {
-  "district": "Eudora Unified School District 491",
-  "state": "KS",
+  "district": "Elk Lake School District",
+  "state": "PA",
   "type": "boarddocs",
-  "url": "http://www.boarddocs.com/ks/usd491/Board.nsf/goto?open&id=8EESVX733455",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ks/usd491/Board.nsf/Public"
+  "url": "https://www.google.com/url?q=https%3A%2F%2Fgo.boarddocs.com%2Fpa%2Felklake%2FBoard.nsf%2Fgoto%3Fopen%26id%3DC3ZM4T57B944&sa=D&sntz=1&usg=AOvVaw3OyRAIkBYOmIeODAup9K1V",
+  "message": "ValueError: not a BoardDocs link"
  },
  {
-  "district": "Wellsville Unified School District 289",
-  "state": "KS",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/wellsville/Board.nsf/vpublic?open",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/wellsville/Board.nsf/Public"
- },
- {
-  "district": "Amherst-Pelham School District",
+  "district": "Berlin-Boylston School District",
   "state": "MA",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ma/arps/Board.nsf/goto?open&id=C6HPPY64AE87",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ma/arps/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/pa/brlb/Board.nsf/goto?open&id=D64HNZ496289",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/brlb/Board.nsf/Public"
  },
  {
-  "district": "Berkshire Hills School District",
-  "state": "MA",
-  "type": "boarddocs",
-  "url": "https://www.boarddocs.com/oh/berklsd/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/berklsd/Board.nsf/Public"
- },
- {
-  "district": "Kent County Public Schools",
-  "state": "MD",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/mabe/kcps/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mabe/kcps/Board.nsf/Public"
- },
- {
-  "district": "Oakridge Public Schools",
+  "district": "Bangor Public Schools",
   "state": "MI",
   "type": "boarddocs",
-  "url": "https://www.boarddocs.com/mi/oakr/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mi/oakr/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/mi/bps/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mi/bps/Board.nsf/Public"
  },
  {
-  "district": "Alma Public Schools",
+  "district": "North Muskegon Public Schools",
   "state": "MI",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/mi/alma/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mi/alma/Board.nsf/Public"
+  "url": "http://go.boarddocs.com/mi/nmus/Board.nsf/goto?open&id=BBC5RT6E4974",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mi/nmus/Board.nsf/Public"
  },
  {
-  "district": "Central Montcalm Public Schools",
-  "state": "MI",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/mi/cmps/Board.nsf/goto?open&id=DGNNXL6156DA",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mi/cmps/Board.nsf/Public"
- },
- {
-  "district": "Calumet Public Schools",
-  "state": "MI",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/mi/clksd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mi/clksd/Board.nsf/Public"
- },
- {
-  "district": "Napoleon Community Schools",
-  "state": "MI",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/mi/napol/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mi/napol/Board.nsf/Public"
- },
- {
-  "district": "Memphis Community Schools",
-  "state": "MI",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/mi/mem/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mi/mem/Board.nsf/Public"
- },
- {
-  "district": "Whittemore-Prescott Area Schools",
-  "state": "MI",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/mi/wpas/Board.nsf/goto?open&id=C5JRT75DE77E",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mi/wpas/Board.nsf/Public"
- },
- {
-  "district": "Marcellus Community Schools",
-  "state": "MI",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/marcellus/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/marcellus/Board.nsf/Public"
- },
- {
-  "district": "Winona Area Public School District",
-  "state": "MN",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/mn/winona/Board.nsf/public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mn/winona/Board.nsf/Public"
- },
- {
-  "district": "Lake Park Audubon School District",
-  "state": "MN",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/mn/lpaisd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mn/lpaisd/Board.nsf/Public"
- },
- {
-  "district": "Bayless School District",
-  "state": "MO",
-  "type": "boarddocs",
-  "url": "https://www.boarddocs.com/mo/bayless/Board.nsf/Private?open&login",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mo/bayless/Board.nsf/Public"
- },
- {
-  "district": "Winona-Montgomery County Consolidated School District",
-  "state": "MS",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/mn/winona/Board.nsf/public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mn/winona/Board.nsf/Public"
- },
- {
-  "district": "Monadnock Regional School District",
-  "state": "NH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/nh/mrsd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/nh/mrsd/Board.nsf/Public"
- },
- {
-  "district": "Franklin Township School District",
+  "district": "Haledon Borough School District",
   "state": "NJ",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/nj/tfps/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/nj/tfps/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/nj/haledon/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/nj/haledon/Board.nsf/Public"
  },
  {
-  "district": "Paulsboro Borough School District",
+  "district": "South Hunterdon Regional School District",
   "state": "NJ",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/nj/paulsboro/Board.nsf/vpublic?open",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/nj/paulsboro/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/nj/shrsd/Board.nsf/vpublic?open",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/nj/shrsd/Board.nsf/Public"
  },
  {
-  "district": "Mainland Regional School District",
-  "state": "NJ",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/nj/mainland/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/nj/mainland/Board.nsf/Public"
- },
- {
-  "district": "Chesterfield Township School District",
-  "state": "NJ",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/sc/chesterfield/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/sc/chesterfield/Board.nsf/Public"
- },
- {
-  "district": "Palmyra-Macedon Central School District",
+  "district": "Taconic Hills Central School District",
   "state": "NY",
   "type": "boarddocs",
-  "url": "https://www.boarddocs.com/ny/pmcsd/Board.nsf",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/pmcsd/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/ny/taconichills/Board.nsf/",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/taconichills/Board.nsf/Public"
  },
  {
-  "district": "Irvington Union Free School District",
+  "district": "Stillwater Central School District",
   "state": "NY",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/iufsd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/iufsd/Board.nsf/Public"
+  "url": "https://www.boarddocs.com/ny/stillwater/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/stillwater/Board.nsf/Public"
  },
  {
-  "district": "Westhill Central School District",
+  "district": "Silver Creek Central School District",
   "state": "NY",
   "type": "boarddocs",
-  "url": "http://go.boarddocs.com/ny/wcsny/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/wcsny/Board.nsf/Public"
+  "url": "https://www.boarddocs.com/ny/sccsd/Board.nsf",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/sccsd/Board.nsf/Public"
  },
  {
-  "district": "Broadalbin-Perth Central School District",
+  "district": "Wilson Central School District",
   "state": "NY",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/bpcsd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/bpcsd/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/tn/wcschools/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/tn/wcschools/Board.nsf/Public"
  },
  {
-  "district": "Phoenix Central School District",
+  "district": "Holley Central School District",
   "state": "NY",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/phoenixcsd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/phoenixcsd/Board.nsf/Public"
+  "url": "https://www.boarddocs.com/ny/holleycsd/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/holleycsd/Board.nsf/Public"
  },
  {
-  "district": "Hastings-On-Hudson Union Free School District",
+  "district": "Pine Plains Central School District",
   "state": "NY",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/hhufsd/Board.nsf/files/CWVQ8V67FAA7/$file/2023%20HOH%20UFSD%20PPT.pdf",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/hhufsd/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/ny/ppcsd/Board.nsf/vpublic?open",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/ppcsd/Board.nsf/Public"
  },
  {
-  "district": "Red Hook Central School District",
+  "district": "Northern Adirondack Central School District",
   "state": "NY",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/redhook/Board.nsf/goto?open&id=D83SHR72CE1C",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/redhook/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/ny/nacs1/Board.nsf/",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/nacs1/Board.nsf/Public"
  },
  {
-  "district": "Spackenkill Union Free School District",
+  "district": "Schoharie Central School District",
   "state": "NY",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/sufsd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/sufsd/Board.nsf/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/ny/schoharie/Board.nsf/vpublic?open",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/schoharie/Board.nsf/Public"
  },
  {
-  "district": "Putnam Valley Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://www.boarddocs.com/ny/pvcsd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/pvcsd/Board.nsf/Public"
+  "district": "Lagrange Highlands School District 106",
+  "state": "IL",
+  "type": "boardpage",
+  "url": "https://www.district106.net/cdn-cgi/l/email-protection",
+  "message": "HTTPError: 404 Client Error: Not Found for url: https://www.district106.net/cdn-cgi/l/email-protection"
  },
  {
-  "district": "Croton-Harmon Union Free School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/chufsd/Board.nsf/public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/chufsd/Board.nsf/Public"
- },
- {
-  "district": "Waterloo Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/waterloocsd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/waterloocsd/Board.nsf/Public"
- },
- {
-  "district": "Whitney Point Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/whitney/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/whitney/Board.nsf/Public"
- },
- {
-  "district": "Marcellus Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/marcellus/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/marcellus/Board.nsf/Public"
- },
- {
-  "district": "Schuylerville Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "http://www.boarddocs.com/ny/schu/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/schu/Board.nsf/Public"
- },
- {
-  "district": "Mechanicville City School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/mechanicville/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/mechanicville/Board.nsf/Public"
- },
- {
-  "district": "Briarcliff Manor Union Free School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://www.boarddocs.com/ny/bmufsd/Board.nsf",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/bmufsd/Board.nsf/Public"
- },
- {
-  "district": "Fonda-Fultonville Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/ffcsd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/ffcsd/Board.nsf/Public"
- },
- {
-  "district": "Sherburne-Earlville Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/secsd/Board.nsf/",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/secsd/Board.nsf/Public"
- },
- {
-  "district": "Voorheesville Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "http://www.boarddocs.com/ny/voorheesville/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/voorheesville/Board.nsf/Public"
- },
- {
-  "district": "Royalton-Hartland Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/royhart/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/royhart/Board.nsf/Public"
- },
- {
-  "district": "Wellsville Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/wellsville/Board.nsf/vpublic?open",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/wellsville/Board.nsf/Public"
- },
- {
-  "district": "North Rose-Wolcott Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/northrwcs/Board.nsf",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/northrwcs/Board.nsf/Public"
- },
- {
-  "district": "Berne-Knox-Westerlo Central School District",
-  "state": "NY",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/bkwcsd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/bkwcsd/Board.nsf/Public"
- },
- {
-  "district": "Athens City School District",
+  "district": "Swanton Local School District",
   "state": "OH",
   "type": "boarddocs",
-  "url": "https://www.boarddocs.com/oh/athcty/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/athcty/Board.nsf/Public"
+  "url": "http://go.boarddocs.com/oh/swanton/Board.nsf/public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/swanton/Board.nsf/Public"
  },
  {
-  "district": "Perkins Local School District",
+  "district": "Kirtland Local School District",
   "state": "OH",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/perkins/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/perkins/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/oh/kirt/Board.nsf/goto?open&id=DFAL2Y545F4B",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/kirt/Board.nsf/Public"
  },
  {
-  "district": "Firelands Local School District",
+  "district": "Madison-Plains Local School District",
   "state": "OH",
   "type": "boarddocs",
-  "url": "http://go.boarddocs.com/oh/fls/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/fls/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/oh/mplsd/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/mplsd/Board.nsf/Public"
  },
  {
-  "district": "Otsego Local School District",
+  "district": "Ottawa Hills Local School District",
   "state": "OH",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/olsd/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/olsd/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/oh/ohschools/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/ohschools/Board.nsf/Public"
  },
  {
-  "district": "Benjamin Logan Local School District",
+  "district": "Cardington-Lincoln Local School District",
   "state": "OH",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/benj/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/benj/Board.nsf/Public"
+  "url": "https://go.boarddocs.com/oh/cardingl/Board.nsf/Public?open&id=policies",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/cardingl/Board.nsf/Public"
  },
  {
-  "district": "Beachwood City School District",
+  "district": "Marion Local School District",
   "state": "OH",
   "type": "boarddocs",
-  "url": "https://www.boarddocs.com/oh/bcsoh/Board.nsf/Private?open&login",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/bcsoh/Board.nsf/Public"
+  "url": "https://www.boarddocs.com/oh/marl/Board.nsf",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/marl/Board.nsf/Public"
  },
  {
-  "district": "Lakeview Local School District",
+  "district": "Grand Valley Local School District",
   "state": "OH",
   "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/lvlsd/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/lvlsd/Board.nsf/Public"
+  "url": "http://go.boarddocs.com/oh/grav/Board.nsf/goto?open&id=C2YS5F6AC7E4",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/grav/Board.nsf/Public"
  },
  {
-  "district": "Northridge Local School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/nridge/Board.nsf/vpublic?open",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/nridge/Board.nsf/Public"
- },
- {
-  "district": "Fairview Park City School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/fpcsoh/board.nsf/public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/fpcsoh/Board.nsf/Public"
- },
- {
-  "district": "Keystone Local School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/keystone/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/keystone/Board.nsf/Public"
- },
- {
-  "district": "East Cleveland City School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/cleveland/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/cleveland/Board.nsf/Public"
- },
- {
-  "district": "Berkshire Local School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://www.boarddocs.com/oh/berklsd/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/berklsd/Board.nsf/Public"
- },
- {
-  "district": "Crestwood Local School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/cwlsdoh/Board.nsf/goto?open&id=AW6JW94C4C9F",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/cwlsdoh/Board.nsf/Public"
- },
- {
-  "district": "Wickliffe City School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/wick/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/wick/Board.nsf/Public"
- },
- {
-  "district": "Greeneview Local School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/grnvw/Board.nsf/vpublic?open",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/grnvw/Board.nsf/Public"
- },
- {
-  "district": "Sandy Valley Local School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/sandyoh/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/sandyoh/Board.nsf/Public"
- },
- {
-  "district": "Northridge Local School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/nrls/Board.nsf/Private?open&login",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/nrls/Board.nsf/Public"
- },
- {
-  "district": "Covington Exempted Village School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/covev/Board.nsf/Public?open",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/covev/Board.nsf/Public"
- },
- {
-  "district": "Wellsville Local School District",
-  "state": "OH",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/ny/wellsville/Board.nsf/vpublic?open",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/wellsville/Board.nsf/Public"
- },
- {
-  "district": "Perkins-Tryon Public Schools",
-  "state": "OK",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/oh/perkins/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/perkins/Board.nsf/Public"
- },
- {
-  "district": "Mount Pleasant Area School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/mopl/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/mopl/Board.nsf/Public"
- },
- {
-  "district": "Sharon City School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "http://go.boarddocs.com/pa/sharon/Board.nsf/goto?open&id=BWHPFJ646899",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/sharon/Board.nsf/Public"
- },
- {
-  "district": "Southmoreland School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/smrl/board.nsf/goto?open&id=bh8rgl6bf8cb",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/smrl/Board.nsf/Public"
- },
- {
-  "district": "Quaker Valley School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/qvsd/Board.nsf/vpublic?open",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/qvsd/Board.nsf/Public"
- },
- {
-  "district": "South Park School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/spar/Board.nsf/goto?open&id=9WT49A0A71F0",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/spar/Board.nsf/Public"
- },
- {
-  "district": "Mifflinburg Area School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://www.boarddocs.com/pa/mfbg/Board.nsf/",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/mfbg/Board.nsf/Public"
- },
- {
-  "district": "Mount Carmel Area School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "http://www.boarddocs.com/pa/mcar/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/mcar/Board.nsf/Public"
- },
- {
-  "district": "Westmont Hilltop School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/whil/Board.nsf/vpublic?open",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/whil/Board.nsf/Public"
- },
- {
-  "district": "Blairsville-Saltsburg School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/bssd/Board.nsf",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/bssd/Board.nsf/Public"
- },
- {
-  "district": "Charleroi School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/charleroisd/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/charleroisd/Board.nsf/Public"
- },
- {
-  "district": "South Allegheny School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/sall/Board.nsf/goto?open&id=ABMSVU6CCBD8",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/sall/Board.nsf/Public"
- },
- {
-  "district": "Steelton-Highspire School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/stlh/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/stlh/Board.nsf/Public"
- },
- {
-  "district": "Kutztown Area School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/kutz/Board.nsf/goto?open&id=BHLH9447579D",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/kutz/Board.nsf/Public"
- },
- {
-  "district": "New Brighton Area School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "http://www.boarddocs.com/pa/newb/Board.nsf/Public?open&id=policies",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/newb/Board.nsf/Public"
- },
- {
-  "district": "New Hope-Solebury School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/newh/Board.nsf/goto?open&id=BDQKXL540497",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/newh/Board.nsf/Public"
- },
- {
-  "district": "Wattsburg Area School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/watt/Board.nsf/vpublic?open",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/watt/Board.nsf/Public"
- },
- {
-  "district": "Columbia Borough School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "http://go.boarddocs.com/pa/colu/Board.nsf/goto?open&id=BRJN7Q5E6A3A",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/colu/Board.nsf/Public"
- },
- {
-  "district": "Bristol Borough School District",
-  "state": "PA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/pa/bris/Board.nsf/Public?open&id=searchmeetings",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/bris/Board.nsf/Public"
- },
- {
-  "district": "Winona Independent School District",
-  "state": "TX",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/mn/winona/Board.nsf/public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/mn/winona/Board.nsf/Public"
- },
- {
-  "district": "Westmoreland County Public Schools",
-  "state": "VA",
-  "type": "boarddocs",
-  "url": "https://www.boarddocs.com/vsba/wmlcps/Board.nsf",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/vsba/wmlcps/Board.nsf/Public"
- },
- {
-  "district": "Nelson County Public Schools",
-  "state": "VA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/va/nelson/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/va/nelson/Board.nsf/Public"
- },
- {
-  "district": "Northampton County Public Schools",
-  "state": "VA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/vsba/nhcps/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/vsba/nhcps/Board.nsf/Public"
- },
- {
-  "district": "Richmond County Public Schools",
-  "state": "VA",
-  "type": "boarddocs",
-  "url": "https://www.boarddocs.com/vsba/rcps/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/vsba/rcps/Board.nsf/Public"
- },
- {
-  "district": "Northumberland County Public Schools",
-  "state": "VA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/va/nucps/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/va/nucps/Board.nsf/Public"
- },
- {
-  "district": "Essex County Public Schools",
-  "state": "VA",
-  "type": "boarddocs",
-  "url": "https://www.boarddocs.com/vsba/essex/Board.nsf",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/vsba/essex/Board.nsf/Public"
- },
- {
-  "district": "Meridian School District",
-  "state": "WA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/wa/msdwa/Board.nsf/Public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/wa/msdwa/Board.nsf/Public"
- },
- {
-  "district": "Colville School District",
-  "state": "WA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/wa/colsd/Board.nsf/public",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/wa/colsd/Board.nsf/Public"
- },
- {
-  "district": "Vashon Island School District",
-  "state": "WA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/wa/visd/Board.nsf/vpublic?open",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/wa/visd/Board.nsf/Public"
- },
- {
-  "district": "Harrison Township School District",
+  "district": "Absecon City School District",
   "state": "NJ",
   "type": "boardpage",
-  "url": "https://harrisontownship.org/board-of-trustees/",
-  "message": "HTTPError: 500 Server Error: Internal Server Error for url: https://harrisontownship.org/board-of-trustees/"
+  "url": "https://www.abseconschools.org/district/board_of_education",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://www.abseconschools.org/district/board_of_education"
  },
  {
-  "district": "South Whidbey School District",
-  "state": "WA",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/wa/swsd/Board.nsf/goto?open&id=B2R48A7CC7BB",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/wa/swsd/Board.nsf/Public"
- },
- {
-  "district": "Kewaskum School District",
-  "state": "WI",
-  "type": "boarddocs",
-  "url": "https://go.boarddocs.com/wi/sdkew/Board.nsf/",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/wi/sdkew/Board.nsf/Public"
- },
- {
-  "district": "Fallsburg Central School District",
-  "state": "NY",
-  "type": "boardpage",
-  "url": "https://www.fallsburgcsd.net/board-docs",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/ny/fcsd/Board.nsf/Public"
- },
- {
-  "district": "Champion Local School District",
+  "district": "Triad Local School District",
   "state": "OH",
-  "type": "boardpage",
-  "url": "https://www.championlocal.org/board_of_education",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://www.championlocal.org/board_of_education"
+  "type": "boarddocs",
+  "url": "https://www.boarddocs.com/oh/tria/Board.nsf/Public?open&id=policies",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/oh/tria/Board.nsf/Public"
  },
  {
-  "district": "Susquenita School District",
+  "district": "Upper Dauphin Area School District",
   "state": "PA",
-  "type": "boardpage",
-  "url": "https://www.susq.k12.pa.us/school_board",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://www.susq.k12.pa.us/school_board"
+  "type": "boarddocs",
+  "url": "http://go.boarddocs.com/pa/udasd/Board.nsf/goto?open&id=BX3MH557A77D",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/udasd/Board.nsf/Public"
  },
  {
-  "district": "Pen Argyl Area School District",
+  "district": "Southern Huntingdon County School District",
   "state": "PA",
-  "type": "boardpage",
-  "url": "https://www.penargylschooldistrict.org/school_board",
-  "message": "HTTPError: 403 Client Error: Forbidden for url: https://www.penargylschooldistrict.org/school_board"
+  "type": "boarddocs",
+  "url": "http://www.boarddocs.com/pa/shun/Board.nsf/",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/shun/Board.nsf/Public"
  },
  {
-  "district": "Mount Union Area School District",
+  "district": "Burgettstown Area School District",
   "state": "PA",
-  "type": "boardpage",
-  "url": "https://www.muasd.org/2026/08/24/september-board-meetings/",
-  "message": "HTTPError: 404 Client Error: Not Found for url: https://www.muasd.org/2026/08/24/september-board-meetings/"
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/pa/burg/board.nsf/public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/burg/Board.nsf/Public"
  },
  {
-  "district": "Orange Grove Independent School District",
+  "district": "Dell Rapids School District 49-3",
+  "state": "SD",
+  "type": "boardpage",
+  "url": "https://dellrapidschamber.com/board-meeting-agendas-minutes/",
+  "message": "SSLError: HTTPSConnectionPool(host='dellrapidschamber.com', port=443): Max retries exceeded with url: /board-meeting-agendas-minutes/ (Caused by SSLError(SSLErr"
+ },
+ {
+  "district": "Williams Valley School District",
+  "state": "PA",
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/pa/wval/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/wval/Board.nsf/Public"
+ },
+ {
+  "district": "Carmichaels Area School District",
+  "state": "PA",
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/pa/carm/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/carm/Board.nsf/Public"
+ },
+ {
+  "district": "Anderson-Shiro Consolidated Independent School District",
   "state": "TX",
   "type": "boardpage",
-  "url": "https://www.ogisd.net/apps/pages/index.jsp?uREC_ID=3534110&type=d",
-  "message": "HTTPError: 404 Client Error: Not Found for url: https://www.ogisd.net/apps/pages/index.jsp?uREC_ID=3534110&type=d"
+  "url": "https://www.ascisd.net/apps/events/2026/11/9/35235303/?REC_ID=35235303&id=0&d=2026-11-9",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://www.ascisd.net/apps/events/2026/11/9/35235303/?REC_ID=35235303&id=0&d=2026-11-9"
  },
  {
-  "district": "Progreso Independent School District",
-  "state": "TX",
-  "type": "boardpage",
-  "url": "https://www.progresoedu.net/school-board",
-  "message": "SSLError: HTTPSConnectionPool(host='www.progresoedu.net', port=443): Max retries exceeded with url: /school-board (Caused by SSLError(SSLEOFError(8, '[SSL: UNEX"
+  "district": "Brockway Area School District",
+  "state": "PA",
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/pa/broc/Board.nsf/goto?open&id=CV7QAZ683B15",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/broc/Board.nsf/Public"
  },
  {
-  "district": "Kingdom East Unified Union School District",
-  "state": "VT",
-  "type": "boardpage",
-  "url": "https://www.kingdomeast.org/school-board",
-  "message": "SSLError: HTTPSConnectionPool(host='www.kingdomeast.org', port=443): Max retries exceeded with url: /school-board (Caused by SSLError(SSLEOFError(8, '[SSL: UNEX"
+  "district": "Berlin Brothersvalley School District",
+  "state": "PA",
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/pa/brlb/Board.nsf/goto?open&id=D64HNZ496289",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/pa/brlb/Board.nsf/Public"
  },
  {
-  "district": "Northeastern Clinton Central School District",
-  "state": "NY",
-  "type": "boardpage",
-  "url": "https://www.nccscougar.org/15970_1",
-  "message": "ReadTimeout: HTTPSConnectionPool(host='www.nccscougar.org', port=443): Read timed out. (read timeout=40)"
+  "district": "White Salmon Valley School District",
+  "state": "WA",
+  "type": "boarddocs",
+  "url": "https://go.boarddocs.com/wa/wsvsd/Board.nsf/Public",
+  "message": "HTTPError: 403 Client Error: Forbidden for url: https://go.boarddocs.com/wa/wsvsd/Board.nsf/Public"
  }
 ]
