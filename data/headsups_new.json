@@ -1,774 +1,221 @@
 {
- "updated": "2026-10-31T12:22:56+00:00",
+ "updated": "2026-11-01T13:13:04+00:00",
  "items": [
   {
-   "id": "7c057e35e201d694",
-   "district": "Altar Valley Elementary District",
+   "id": "f06865b5ef5b4b5a",
+   "district": "Fountain Hills Unified District",
    "state": "AZ",
-   "leaid": "0404770",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.altarvalleyschools.org/federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "Federal Programs | Altar Valley School District Federal Programs We invite you to learn more about the programs offered at Altar Valley Elementary School District. Please check out the information below at your convenience....",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "46a157be49999d74",
-   "district": "Summit School District Re-1",
-   "state": "CO",
-   "leaid": "0806810",
+   "leaid": "0403040",
    "source": "Board meeting",
-   "meeting": "Summit Board Policies",
-   "date": "2026-10-31",
-   "url": "https://summitschools.org/summitwp/wp-content/uploads/2026/10/Summit-Board-Policies.pdf",
-   "categories": [
-    "Services"
-   ],
-   "hot": true,
-   "terms": [
-    "tutoring"
-   ],
-   "snippet": "June 2024, October 2026 Amended: October, 2026 408.03 Tutoring Faculty members shall not render paid tutorial services for students enrolled in classes of the Summit Schools during contract hours unless such program has been approved by the Head of Schools/Principal. No one, professional staff members or members of the...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "0f48de30210c9f72",
-   "district": "East Lyme School District",
-   "state": "CT",
-   "leaid": "0901320",
-   "source": "Board meeting",
-   "meeting": "Finance Agenda",
-   "date": "2026-10-20",
-   "url": "https://www.elsd.org/wp-content/uploads/2026/10/Finance-Committee-Agenda-10202026.pdf",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "1. Procurement-Federal Programs 2....",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "4caf16c4619b39c3",
-   "district": "Ascension Parish School District",
-   "state": "LA",
-   "leaid": "2200090",
-   "source": "Board meeting",
-   "meeting": "Ascension Public Schools Announces Support Personnel of the Year",
-   "date": "2026-10-31",
-   "url": "https://www.ascensionschools.org/about/news/~board/homepage-news/post/ascension-public-schools-announces-support-personnel-of-the-year",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "...h Donaldsonville Primary Duplessis Primary Dutchtown High Dutchtown Middle Dutchtown Primary Early Childhood Early College Option East Ascension High Emergency Federal Programs G.W. Carver Primary Galvez Middle Galvez Primary Gonzales Middle Gonzales Primary Graduation Groundbreaking Jobs Lake Middle Lake Primary Lakes...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "a4db6f6152c04524",
-   "district": "Coloma Community Schools",
-   "state": "MI",
-   "leaid": "2610380",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.ccs.coloma.org/departments/curriculum-state-federal-programs/home",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "comprehensive support and improvement",
-    "targeted support and improvement"
-   ],
-   "snippet": "Performance is measured on 0-100 index scales Reports schools identified under three federally required categories for further support: Comprehensive Support and Improvement, Targeted Support and Improvement, and Additional Targeted Support Educator Qualification Data Identifies the number and percentage of inexperienc...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "47ec2b011d42597e",
-   "district": "Coloma Community Schools",
-   "state": "MI",
-   "leaid": "2610380",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.ccs.coloma.org/departments/curriculum-state-federal-programs/home",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "targeted support and improvement"
-   ],
-   "snippet": "...school year, schools were identified based on previous years\u2019 performance using definitions and labels as required in the Every Student Succeeds Act (ESSA). A Targeted Support and Improvement (TSI) school is one that had at least one underperforming student subgroup in 2022-23. An Additional Targeted Support (ATS) sch...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "d26351ce10f2bcc3",
-   "district": "Coloma Community Schools",
-   "state": "MI",
-   "leaid": "2610380",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.ccs.coloma.org/departments/curriculum-state-federal-programs/home",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "comprehensive support and improvement"
-   ],
-   "snippet": "...tional Targeted Support (ATS) school is one that had a student subgroup performing at the same level as the lowest 5% of all schools in the state in 2021-22. A Comprehensive Support and Improvement (CSI) school is one whose performance was in the lowest 5% of all schools in the state or had a graduation rate at or belo...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "abeda248dd2d0c65",
-   "district": "St. Paul Public School District",
-   "state": "MN",
-   "leaid": "2733840",
-   "source": "Board meeting",
-   "meeting": "Learn more about Public Comment.",
-   "date": "2026-10-31",
-   "url": "https://www.spps.org/about/board-of-education/public-comment",
+   "meeting": "Minutes",
+   "date": "2026-11-01",
+   "url": "https://www.fhschools.org/_files/ugd/f3cb3b_9a27617c2703402f9daef98d77c16395.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "teaching assistants"
+    "math interventionist"
    ],
-   "snippet": "Adams Spanish Immersion 1/21/2020 Joshua Loahr Professional Development for teaching assistants 1/21/2020 Russell Packard Staff retention and wages 1/21/2020 Wendy Miller Support of SPFE bargaining proposals 1/21/2020 Yasmin Muridi 1/21/2020 Laure O'Keeffe Not able to speak due to time 1/21/2020 Joanne Hodgeman Not abl...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "snippet": "She shared that she met with Mr. Hartmann in regards to the math interventionist that will be starting in the district and made a plan to work with that person. She is working on content for social media to get out information on our schools and district, which is a board goal, so that it is pushed out in feeds, and no...",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   },
   {
-   "id": "bf660f01ddc8c606",
-   "district": "West Jasper School District",
-   "state": "MS",
-   "leaid": "2804590",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.westjasper.org/federal-programs-2",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "West Jasper School District - Federal Programs Skip to main content...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "ca1c089f9ac44747",
-   "district": "Richton School District",
-   "state": "MS",
-   "leaid": "2803870",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.richtonschools.com/district-info/federal-programs/",
-   "categories": [
-    "Services",
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "tutoring",
-    "title i"
-   ],
-   "snippet": "...ate the need for interventions either because of low performance or at-risk behaviors, any student is eligible for Title I services. Your child may qualify for tutoring, before or after school programs, technology support, a classroom with fewer children or summer school. In addition, when Title I schools receive addit...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "ffdb5473d76be554",
-   "district": "Richton School District",
-   "state": "MS",
-   "leaid": "2803870",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.richtonschools.com/district-info/federal-programs/",
-   "categories": [
-    "New positions",
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "teaching assistants",
-    "title i"
-   ],
-   "snippet": "...ed to high poverty schools, as determined by the number of students who qualify for free or reduced lunch. The funds can be used to hire additional teachers or teaching assistants, to provide computers or software, to fund before, after and summer school programs, and to purchase additional materials or equipment. HOW...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "85466aeeb10c9981",
-   "district": "Richton School District",
-   "state": "MS",
-   "leaid": "2803870",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.richtonschools.com/district-info/federal-programs/",
+   "id": "8e9ad9e553401030",
+   "district": "Fountain Hills Unified District",
+   "state": "AZ",
+   "leaid": "0403040",
+   "source": "Board meeting",
+   "meeting": "Minutes",
+   "date": "2026-11-01",
+   "url": "https://www.fhschools.org/_files/ugd/f3cb3b_9a27617c2703402f9daef98d77c16395.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "paraprofessional"
+    "math interventionist"
    ],
-   "snippet": "...er holds, including graduate certificates and additional degrees, and major(s) or area(s) of concentration. You may also ask if your child receives help from a paraprofessional. If your child receives this assistance, we can provide you with information about the paraprofessional\u2019s qualifications. Our staff is committe...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "snippet": "Personnel Action Report o Mrs. Murray asked if the math Interventionist is both middle school and elementary school. Ms....",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   },
   {
-   "id": "7c5f6bbfcad7be8f",
-   "district": "Richton School District",
-   "state": "MS",
-   "leaid": "2803870",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.richtonschools.com/district-info/federal-programs/",
+   "id": "42c925dad1c3066e",
+   "district": "Fountain Hills Unified District",
+   "state": "AZ",
+   "leaid": "0403040",
+   "source": "Board meeting",
+   "meeting": "Board Packet",
+   "date": "2026-11-01",
+   "url": "https://www.fhschools.org/_files/ugd/f3cb3b_83c4128dd1d54296967509bc8dd1e496.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "paraprofessional",
-    "paraprofessionals"
+    "math interventionist"
    ],
-   "snippet": "...lop the academic knowledge and critical thinking he/she needs to succeed in school and beyond. The commitment includes making sure that all of our teachers and paraprofessionals are highly skilled. If you have any questions about your child\u2019s assignment to a teacher or paraprofessional, please contact the office of you...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "snippet": "She shared that she met with Mr. Hartmann in regards to the math interventionist that will be starting in the district and made a plan to work FHUSD Governing Board Meeting 6 September 16, 2026 with that person....",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   },
   {
-   "id": "972cc1f42121f0d2",
-   "district": "Richton School District",
-   "state": "MS",
-   "leaid": "2803870",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.richtonschools.com/district-info/federal-programs/",
+   "id": "004e35894e845296",
+   "district": "Fountain Hills Unified District",
+   "state": "AZ",
+   "leaid": "0403040",
+   "source": "Board meeting",
+   "meeting": "Board Packet",
+   "date": "2026-11-01",
+   "url": "https://www.fhschools.org/_files/ugd/f3cb3b_83c4128dd1d54296967509bc8dd1e496.pdf",
    "categories": [
-    "Funding"
+    "New positions"
    ],
    "hot": false,
    "terms": [
-    "federal programs"
+    "math interventionist"
    ],
-   "snippet": "Federal Programs \u2013 RichtonSchools.com \u2193 Home \u2192 District \u2192 Federal Programs Richton School District Point of Contact: Mrs....",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "snippet": "Personnel Action Report o Mrs. Murray asked if the math Interventionist is both middle school and elementary school. Ms....",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   },
   {
-   "id": "4245202483cc6971",
-   "district": "Richton School District",
-   "state": "MS",
-   "leaid": "2803870",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.richtonschools.com/district-info/federal-programs/",
+   "id": "7102ad56b41066d9",
+   "district": "Fountain Hills Unified District",
+   "state": "AZ",
+   "leaid": "0403040",
+   "source": "Board meeting",
+   "meeting": "Board Packet",
+   "date": "2026-11-01",
+   "url": "https://www.fhschools.org/_files/ugd/f3cb3b_83c4128dd1d54296967509bc8dd1e496.pdf",
    "categories": [
-    "Funding"
+    "New positions"
    ],
    "hot": false,
    "terms": [
-    "federal programs"
+    "math interventionist"
    ],
-   "snippet": "Mrs. Chelsea Blackledge, cblackledge@richton.k12.ms.us 601-788-5908 Parental and Community Involvement Public Comments Requested for Federal Programs: The Richton School District invites parents and the community an opportunity to provide input in the development of federal funding for all title programs....",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "snippet": "Resignations: Avoline Kardell Math Interventionist 9.8.2026 FMLA/LOA: Supplemental Assignments/Stipends:...",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   },
   {
-   "id": "578f4e807bfdd6d4",
-   "district": "Richton School District",
-   "state": "MS",
-   "leaid": "2803870",
+   "id": "d862b42beddeaf8f",
+   "district": "Glascock County School District",
+   "state": "GA",
+   "leaid": "1302370",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.richtonschools.com/district-info/federal-programs/",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "...e@richton.k12.ms.us. ________________________________________________________________________________________________________________ WHAT DOES IT MEAN TO BE A TITLE I SCHOOL? WHAT IS A TITLE I SCHOOL? Title I is a federal education program that supports low income students throughout the nation. Funds are distributed...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "2cfbc61f5f0d38b1",
-   "district": "Richton School District",
-   "state": "MS",
-   "leaid": "2803870",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.richtonschools.com/district-info/federal-programs/",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "HOW DOES THIS BENEFIT MY CHILD? All children in Title I schools benefit from the additional teachers and assistants. Because there are more adults to help children, all children receive more individualized and small group instruction....",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "77f8380f58392ea8",
-   "district": "Warrensville Heights City School District",
-   "state": "OH",
-   "leaid": "3904500",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.warrensville.k12.oh.us/page/accountability-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "Accountability & Federal Programs | Warrensville Heights City School District Skip to content Accountability & Federal Programs Accountability & Federal Programs The Accountability/Federal Programs Department manages three major areas in the district: Statewide Assessment WHCSD complies with all state-mandated testing...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "6fb9b2095abf858b",
-   "district": "Warrensville Heights City School District",
-   "state": "OH",
-   "leaid": "3904500",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.warrensville.k12.oh.us/page/accountability-federal-programs",
+   "date": "2026-11-01",
+   "url": "https://www.glascock.k12.ga.us/departments/federal-programs",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
     "federal programs",
-    "title i",
-    "title ii",
-    "title iv-a"
+    "title i, part a",
+    "title ii"
    ],
-   "snippet": "Visit our Academics page or school pages for more information. Federal Programs The district receives consolidated funding (Title I-A, Title I Non-Competitive Supplemental School Improvement, Title II-A, Title IV-A, IDEA-B Special Education, IDEA Early Childhood Special Education and Expanding Opportunities for Each Ch...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "snippet": "Federal Programs - Glascock County Consolidated School Skip To Main Content Federal Programs Currently, GCCS receives funding from Title I, Part A; Title II, Part A; and IDEA programs....",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   },
   {
-   "id": "c68db8b50ecb5bb5",
-   "district": "Warrensville Heights City School District",
-   "state": "OH",
-   "leaid": "3904500",
+   "id": "61efdf5dbae04381",
+   "district": "Glascock County School District",
+   "state": "GA",
+   "leaid": "1302370",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.warrensville.k12.oh.us/page/accountability-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "Find archived presentations below: Title I Parent Information Meeting Spring Session (SY2024) Parental Involvement Family School Partnerships Survey WHCSD-2025-26-Family-School-Partnerships-Survey-Report Parent Surveys can be found on our documents page. Pleases fill out the survey and turn it into your scholar's schoo...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "7cba44671fa7ae52",
-   "district": "Warrensville Heights City School District",
-   "state": "OH",
-   "leaid": "3904500",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.warrensville.k12.oh.us/page/accountability-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "Pleases fill out the survey and turn it into your scholar's school. Accountability/ Federal Programs Documents Parents and families have the opportunity to provide the District with feedback on our communications, academics, and resources in this yearly survey. The window opens in Fall....",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "8b61175ef5078dcc",
-   "district": "Warrensville Heights City School District",
-   "state": "OH",
-   "leaid": "3904500",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.warrensville.k12.oh.us/page/accountability-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "...-Engagement-Survey-Inforgraphic.pd The Ohio SSO Income Form is optional. SSO Form (optional) Foster Care Liaisons Arniece Basit , Coordinator of Accountability/Federal Programs 216.230.2881 Email Arniece Basit Constance Rudolph , Ed. S....",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "08b0a1b462ed4422",
-   "district": "Warrensville Heights City School District",
-   "state": "OH",
-   "leaid": "3904500",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.warrensville.k12.oh.us/page/accountability-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "S. , Director of Pupil Services 216.364.1031 E-mail Constance Rudolph Meet The Team Arniece Basit Coordinator of Accountability/Federal Programs 216.230.2881 Email Arniece Basit Diana Allen Secretary 216.230.2880 E-mail Diana Allen Sherry Farmer Parental Involvement Specialist Secondary (Grades 6-8 & 9-12) E-mail Sherr...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "ca910cf0e9265335",
-   "district": "Wolf Creek Local School District",
-   "state": "OH",
-   "leaid": "3905051",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.wolfcreek.k12.oh.us/page/title-i-services",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "TITLE I SERVICES | Wolf Creek Local School District Skip to content...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "b616e687165ea4b3",
-   "district": "Barnesville Exempted Village School District",
-   "state": "OH",
-   "leaid": "3904520",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.barnesville.k12.oh.us/335967_2",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title 1"
-   ],
-   "snippet": "Barnesville Exempted Village School District - Title 1 Skip to main content Title 1...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "3d3f27f947c066ce",
-   "district": "Vermilion Local School District",
-   "state": "OH",
-   "leaid": "3904682",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.vermilionschools.org/departments/curriculum/title-i-resources",
-   "categories": [
-    "Services",
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "academic intervention",
-    "title 1"
-   ],
-   "snippet": "Students showing the greatest educational need are prioritized to receive services first. For more information concerning the district\u2019s student assessment and academic intervention policy please click the link below. Vermilion Schools Student Assessment and Academic Intervention Board Policy What is a Parental Engagem...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "d93556ba98027de4",
-   "district": "Vermilion Local School District",
-   "state": "OH",
-   "leaid": "3904682",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.vermilionschools.org/departments/curriculum/title-i-resources",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title 1",
-    "title i"
-   ],
-   "snippet": "Title I Resources - Vermilion Local Schools Skip To Main Content Title I Resources What is Title 1? Title 1 is the largest federally funded program for public schools. It is part of Every Student Succeeds Act but originated in 1965 by Lyndon...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "96ebe9aa0b844c0d",
-   "district": "Vermilion Local School District",
-   "state": "OH",
-   "leaid": "3904682",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.vermilionschools.org/departments/curriculum/title-i-resources",
+   "date": "2026-11-01",
+   "url": "https://www.glascock.k12.ga.us/departments/federal-programs",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
     "federal funds",
-    "title 1"
+    "federal programs"
    ],
-   "snippet": "...the national level. Title 1 funding provides educational funds to schools that demonstrate a high percentage of students from low-income families. The Title 1 federal funds enable schools to provide additional educational services to help students who are struggling academically. Funds are intended to supplement gener...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "snippet": "and IDEA programs. Federal funds are used to supplement, not supplant, state and local instructional funds. April Clark Federal Programs Director aclark@glascock.k12.ga.us Office: (706) 598-2291 ext....",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   },
   {
-   "id": "7188568584098b70",
-   "district": "Vermilion Local School District",
-   "state": "OH",
-   "leaid": "3904682",
+   "id": "e192c2b8fa63d05a",
+   "district": "Glascock County School District",
+   "state": "GA",
+   "leaid": "1302370",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.vermilionschools.org/departments/curriculum/title-i-resources",
+   "date": "2026-11-01",
+   "url": "https://www.glascock.k12.ga.us/departments/federal-programs",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "title 1",
-    "title i"
+    "esser",
+    "title i",
+    "title i, part a",
+    "title ii"
    ],
-   "snippet": "...ough either targeted assistance programs or school-wide programs where 40% or more of the students are from families with low-income. Title I Tri-fold Brochure Title 1 Annual Parent Meeting Presentation What is School-Wide Title...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "snippet": "...ion Special Education Elementary School Improvement Plan Middle/High School Improvement Plan Comprehensive LEA Improvement Plan Parent & Family Engagement Plan ESSER Use of Funds FY27 Title I Annual Meeting presentation September 14, 2026 School Report Cards Glascock County Glascock County Middle/High School Glascock C...",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   },
   {
-   "id": "ca96197f9419f082",
-   "district": "Vermilion Local School District",
-   "state": "OH",
-   "leaid": "3904682",
+   "id": "14e9c21c9ed3440a",
+   "district": "Ellicottville Central School District",
+   "state": "NY",
+   "leaid": "3610530",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.vermilionschools.org/departments/curriculum/title-i-resources",
+   "date": "2026-11-01",
+   "url": "https://www.ellicottvillecentral.com/our-district/grant-information",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "title 1"
-   ],
-   "snippet": "1 Annual Parent Meeting Presentation What is School-Wide Title 1 Vermilion Elementary School and Sailorway Middle School receive Title funds for school-wide Title 1 programs. As school-wide programs the district may use Title 1 funds to improve student achievement throughout the entire school regardless of a student/fa...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "2ba45ca1962e3749",
-   "district": "Vermilion Local School District",
-   "state": "OH",
-   "leaid": "3904682",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.vermilionschools.org/departments/curriculum/title-i-resources",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title 1",
-    "title i"
-   ],
-   "snippet": "...link below. Title I Parents Right to Know Board Policy Title I Parents Right to Know Information Sheet Title I Parents Right To Know Request Form Who Receives Title 1 Services All students can succeed with the right type of research-based intervention and additional instruction....",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "6ee9903d5dbc3b43",
-   "district": "Vermilion Local School District",
-   "state": "OH",
-   "leaid": "3904682",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.vermilionschools.org/departments/curriculum/title-i-resources",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title 1"
-   ],
-   "snippet": "1. Schools receiving Title 1 funds must implement programs and activities to promote parent involvement in academic learning. These programs or activities should increase parents\u2019 knowledge and skills to help support their child\u2019s learning and help parents understand the importance of their involvement in their child\u2019s...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "4cacedf1da3e9445",
-   "district": "Vermilion Local School District",
-   "state": "OH",
-   "leaid": "3904682",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.vermilionschools.org/departments/curriculum/title-i-resources",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title 1",
-    "title i"
-   ],
-   "snippet": "...PARENT AND FAMILY MEMBER PARTICIPATION IN TITLE I PROGRAMS VES School Parent and Family Engagement Plan SMS School Parent and Family Engagement Plan What is a Title 1 Compact The Title 1 compact is an agreement made between the parent, school, and student. It details the goals and responsibilities for each group and i...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "3abdef7158df2a18",
-   "district": "Allegheny-Clarion Valley School District",
-   "state": "PA",
-   "leaid": "4202310",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.acvsd.org/district/federal-programs",
-   "categories": [
-    "Services",
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "after-school program",
     "esser"
    ],
-   "snippet": "...report ARP/ESSER Set Asides (American Rescue Plan - Elementary and Secondary Schools Emergency Relief Fund) After School Set Aside Purpose: Funds to support an after-school program Allocation: $17,548 How A-C Valley is utilizing the funds:...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "snippet": "Grant Information - Ellicottville Central School District Skip To Main Content Grant Information UpdatedSingedFS-10FinalARPESSER5880210220.pdf FS10BUDGETARP-ESSER.xls ARP-ESSERBudgetNarrativeforEllicottvilleCentralSchool.pdf ARPAmend1.pdf FS-10AmendmentARP2.xls...",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   },
   {
-   "id": "76a010b154765335",
-   "district": "Allegheny-Clarion Valley School District",
-   "state": "PA",
-   "leaid": "4202310",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.acvsd.org/district/federal-programs",
+   "id": "3af3bdd1f283b29c",
+   "district": "Finneytown Local School District",
+   "state": "OH",
+   "leaid": "3904733",
+   "source": "Board meeting",
+   "meeting": "Regular Meeting April 15th",
+   "date": "2026-11-01",
+   "url": "https://finneytown.org/wp-content/uploads/2024/04/Agenda240415a.pdf",
    "categories": [
-    "Services"
+    "Funding"
    ],
    "hot": false,
    "terms": [
-    "after-school program",
-    "summer school program"
+    "title i"
    ],
-   "snippet": "$17,548 How A-C Valley is utilizing the funds: We are currently running an after-school program based on assessment data Project report Summer School Set Aside Purpose: Funds to support a summer school program Allocation: $17,548 How A-C Valley is utilizing the funds:...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "snippet": "...s are to be made and during said fiscal year, as follows, viz: TOTAL SPECIAL REVENUE FUNDS 451 OneNet Connectivity 395 516 Special Education, Part B 20,909 572 Title I 21,538 587 PreSchool Handicap -88 590 Supporting Effective Instruction 1,237 Total Special Revenue Funds 43,991 GRAND TOTAL ALL FUNDS 43,991 Finneytown...",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   },
   {
-   "id": "cb7b885bb09cdcf5",
-   "district": "Allegheny-Clarion Valley School District",
-   "state": "PA",
-   "leaid": "4202310",
+   "id": "47f55191d5975e90",
+   "district": "Stratford Independent School District",
+   "state": "TX",
+   "leaid": "4841670",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.acvsd.org/district/federal-programs",
-   "categories": [
-    "Services"
-   ],
-   "hot": false,
-   "terms": [
-    "summer school program"
-   ],
-   "snippet": "$17,548 How A-C Valley is utilizing the funds: We are currently planning a summer school program based on assessment data for the summer of 2021 Project report Learning Loss Set Aside Purpose: Funds to address the learning loss during the pandemic to be used in the following increments:...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "0fc2a8a444012079",
-   "district": "Allegheny-Clarion Valley School District",
-   "state": "PA",
-   "leaid": "4202310",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.acvsd.org/district/federal-programs",
-   "categories": [
-    "Services"
-   ],
-   "hot": false,
-   "terms": [
-    "tutoring"
-   ],
-   "snippet": "...onal development training costs, reading remediation materials, remediation materials, a data warehouse, and support for the Americorps volunteers to help with tutoring Project report...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "0eaf0ed4cc7b3670",
-   "district": "Allegheny-Clarion Valley School District",
-   "state": "PA",
-   "leaid": "4202310",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.acvsd.org/district/federal-programs",
+   "date": "2026-11-01",
+   "url": "https://www.stratfordisd.net/federal-programs",
    "categories": [
     "Funding"
    ],
@@ -776,254 +223,9 @@
    "terms": [
     "federal programs"
    ],
-   "snippet": "Federal Programs - Allegheny-Clarion Valley School District Skip To Main Content Federal Programs Federal Programs for 2026-2027 Coordinator: Kristin Thurber Email:...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "f59281ddd57d777c",
-   "district": "Allegheny-Clarion Valley School District",
-   "state": "PA",
-   "leaid": "4202310",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.acvsd.org/district/federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "Cortney Chalmers Email: cortney.chalmers@acvsd.org Title I Grant information and allocation Purpose: Supplement to improve educational opportunities for low-income and educationally deprived children to help them meet the state content and standards in ELA and math Allocation:...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "55c7c855028f692d",
-   "district": "Allegheny-Clarion Valley School District",
-   "state": "PA",
-   "leaid": "4202310",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.acvsd.org/district/federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "supplemental funds",
-    "title i",
-    "title ii"
-   ],
-   "snippet": "...I Parent and Family Engagement Policy K-6 Schoolwide Title I Program Handbook 2023-2024 Complaint Procedures Title II Grant information and allocation Purpose: Supplemental funds to improve the skills of teachers and the quality of instruction in core academic subjects 22-23 Allocation: $21,227.00 How A-C Valley is uti...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "656abcfbb35c645b",
-   "district": "Allegheny-Clarion Valley School District",
-   "state": "PA",
-   "leaid": "4202310",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.acvsd.org/district/federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "supplemental funds",
-    "title i",
-    "title ii",
-    "title iv"
-   ],
-   "snippet": "...27.00 How A-C Valley is utilizing the funds: We are using our Title II funds to support our Title I program. Title IV Grant information and allocation Purpose: Supplemental funds to help provide students with a well-rounded education, improve school conditions, and improve the use of technology 22-23 Allocation: $15,35...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "1d9b272e3c0d8be7",
-   "district": "Allegheny-Clarion Valley School District",
-   "state": "PA",
-   "leaid": "4202310",
-   "source": "Board meeting",
-   "meeting": "Board meeting",
-   "date": "2026-10-31",
-   "url": "https://resources.finalsite.net/images/v1790097393/acvsdorg/dbkkws7iuvqret7eanrg/SEPTEMBER26VOTINGMEETINGHIGHLIGHTS.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessional"
-   ],
-   "snippet": "...g to the substitute list for the 2026-2027 school year: Lori Cooper \u2013 Cafeteria Alicia Beedle \u2013 Secretarial Brooke Hartzell \u2013 Nurse Rochella Herold \u2013 Cafeteria/Paraprofessional Amy Stowe - Secretarial Approved the following as volunteers on the second grade field trip: - Melinda Heeter - Erica Jack - Malinda Smith - Al...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "2b328037ddb32156",
-   "district": "Allegheny-Clarion Valley School District",
-   "state": "PA",
-   "leaid": "4202310",
-   "source": "Board meeting",
-   "meeting": "Board meeting",
-   "date": "2026-10-31",
-   "url": "https://resources.finalsite.net/images/v1790097393/acvsdorg/dbkkws7iuvqret7eanrg/SEPTEMBER26VOTINGMEETINGHIGHLIGHTS.pdf",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "Approved the MOU between the District and Melisa Morrison. Approved the 2026-2027 School wide Title I Handbook as attached. Approved the Elementary School Wide Title I Plan for 2026-2027 school year. Enrollment Numbers for Face-to-Face Student Enrollment....",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "ad86e74029839129",
-   "district": "Harper Independent School District",
-   "state": "TX",
-   "leaid": "4822590",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-10-31",
-   "url": "https://www.harperisd.net/36164_3",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "esser iii"
-   ],
-   "snippet": "Harper Independent School District - ESSER III Skip to main content District Schools Schools HARPER HIGH SCHOOL HARPER MIDDLE SCHOOL HARPER ELEM SCHOOL ESSER III...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "a0ac32cfec4cc2bf",
-   "district": "New Braunfels Independent School District",
-   "state": "TX",
-   "leaid": "4832370",
-   "source": "Board meeting",
-   "meeting": "Board of Trustees Recognition Guidelines",
-   "date": "2026-10-31",
-   "url": "https://nbisd.org/wp-content/uploads/2025/12/Recognition-Guidelines-2024.pdf",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i, part a"
-   ],
-   "snippet": "...ses will be honored at a Board of Trustees meeting if they attain the following level(s) or higher: \u25cf TEA A or B Rated Campus \u25cf TEA State Distinguished School (Title I, Part A) \u25cf The National Center for Educational Achievement (NCEA) Higher Performing School in Texas Campus principals or district administrators may sub...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "37e30f6427983fa5",
-   "district": "Manor Independent School District",
-   "state": "TX",
-   "leaid": "4828890",
-   "source": "Board meeting",
-   "meeting": "Read More about Board Briefs: February, 18, 2025",
-   "date": "2026-10-31",
-   "url": "https://www.manorisd.net/post-details/~board/board-briefs/post/board-briefs-february-18-2025",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "comprehensive support and improvement"
-   ],
-   "snippet": "Targeted Improvement Plan (TIP) for Decker Elementary School - Dr. Matthew Bentz For the 2023-2024 school year, Decker Elementary received a rating of \u201cComprehensive Support and Improvement\u201d through the Federal \u201cEvery Student Succeeds Act\u201d (ESSA). Texas Administrative Code 97.1061 requires the development of a Targeted...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "87abe1bf69a0363b",
-   "district": "Provo School District",
-   "state": "UT",
-   "leaid": "4900810",
-   "source": "Board meeting",
-   "meeting": "Board meeting",
-   "date": "2026-10-27",
-   "url": "https://provo.edu/october-27-2026-board-summary/",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessional"
-   ],
-   "snippet": "...grams across three elementary sites rather than one , with approximately three specialized classrooms at each site. Staff said the proposal would not eliminate paraprofessional or program supports. The district believes regionalizing the programs could:...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "e518fec4f89c72f3",
-   "district": "Provo School District",
-   "state": "UT",
-   "leaid": "4900810",
-   "source": "Board meeting",
-   "meeting": "Board meeting",
-   "date": "2026-10-27",
-   "url": "https://provo.edu/october-27-2026-board-summary/",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessionals"
-   ],
-   "snippet": "...oms together. Staff said the regional model would still include several special education teachers at each site, along with existing mild/moderate teachers and paraprofessionals. Staff said transition planning would include training, communication, parent involvement and opportunities for schools and families to become...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "c38d3cee682d7950",
-   "district": "Provo School District",
-   "state": "UT",
-   "leaid": "4900810",
-   "source": "Board meeting",
-   "meeting": "Board meeting",
-   "date": "2026-10-27",
-   "url": "https://provo.edu/october-27-2026-board-summary/",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "comprehensive support and improvement"
-   ],
-   "snippet": "Comparable percentages at other elementary schools are generally much lower. Provo Peaks has also entered Comprehensive Support and Improvement (CSI) status based on outcomes for students with disabilities. Staff said the concentration of specialized programs places additional demands on administrators, school psycholo...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "id": "fb8b12954753aa8e",
-   "district": "Provo School District",
-   "state": "UT",
-   "leaid": "4900810",
-   "source": "Board meeting",
-   "meeting": "Board meeting",
-   "date": "2026-10-27",
-   "url": "https://provo.edu/october-27-2026-board-summary/",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "...tional writing, and fifth-grade vocabulary instruction using Science of Reading strategies. The presentation emphasized the work of educators and students at a Title I school serving a highly mobile and multilingual population. During public comment , a representative of the Timpanogos Elementary PTA thanked the Board...",
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "snippet": "Stratford ISD - Federal Programs Skip to main content...",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
   }
  ]
 }

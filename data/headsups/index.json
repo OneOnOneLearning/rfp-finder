@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:22:56+00:00",
+ "updated": "2026-11-01T13:13:04+00:00",
  "states": {
   "AK": {
    "count": 28,
@@ -14,7 +14,7 @@
    "hot": 1
   },
   "AZ": {
-   "count": 48,
+   "count": 53,
    "hot": 2
   },
   "CA": {
@@ -38,7 +38,7 @@
    "hot": 0
   },
   "GA": {
-   "count": 232,
+   "count": 235,
    "hot": 0
   },
   "IA": {
@@ -130,11 +130,11 @@
    "hot": 0
   },
   "NY": {
-   "count": 127,
+   "count": 128,
    "hot": 0
   },
   "OH": {
-   "count": 231,
+   "count": 232,
    "hot": 1
   },
   "OK": {
@@ -166,7 +166,7 @@
    "hot": 0
   },
   "TX": {
-   "count": 412,
+   "count": 413,
    "hot": 0
   },
   "UT": {
@@ -198,12 +198,12 @@
    "hot": 0
   }
  },
- "sources": 6398,
- "checked_ever": 6398,
+ "sources": 6429,
+ "checked_ever": 6429,
  "run": {
-  "ok": 3582,
-  "problem": 847,
-  "skipped": 55
+  "problem": 303,
+  "ok": 892,
+  "skipped": 69
  },
- "new": 50
+ "new": 11
 }
