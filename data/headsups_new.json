@@ -1,15 +1,55 @@
 {
- "updated": "2026-11-02T14:52:22+00:00",
+ "updated": "2026-11-03T14:14:01+00:00",
  "items": [
   {
-   "id": "0dc416edbb4d6b7f",
-   "district": "Wendell School District 232",
-   "state": "ID",
-   "leaid": "1603360",
+   "id": "c3b6c2c2c829bc74",
+   "district": "North Chicago School District 187",
+   "state": "IL",
+   "leaid": "1700110",
    "source": "Board meeting",
-   "meeting": "228 Board Member Conflict of Interest.pdf",
+   "meeting": "Agenda",
    "date": "2026-11-02",
-   "url": "https://content.myconnectsuite.com/api/documents/04e4183e16ae43ecb2f33154dd0b2dfb.pdf",
+   "url": "https://www.northchicago.org/COUNCIL AGENDA Nov 2 UNLINKED.pdf?t=202611021510150",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant award"
+   ],
+   "snippet": "...f Minutes for Regular Council Meeting, October 19, 2026 6-2 Approval of Standing Committee Meeting Minutes, October 19, 2026 6-3 Approval of a $1,000 Community Grant Award Applied for by the Non-Profit Synergized Communities Thrive, Inc. 6-4 Approval of Joint Funding Agreement with the Illinois Department of Transporta...",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "id": "39d89a04e7267746",
+   "district": "North Chicago School District 187",
+   "state": "IL",
+   "leaid": "1700110",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-11-02",
+   "url": "https://www.northchicago.org/COMMITTEE AGENDA Nov 2 UNLINKED.pdf?t=202611021511460",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant award"
+   ],
+   "snippet": "1. Discussion of a $950 Community Grant Award Applied for By J&J Quality Walk 2....",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "id": "ddeb223c81aba6bc",
+   "district": "Ascension Parish School District",
+   "state": "LA",
+   "leaid": "2200090",
+   "source": "Board meeting",
+   "meeting": "Ascension Public Schools Announces 2026-27 Students of the Year",
+   "date": "2026-11-03",
+   "url": "https://www.ascensionschools.org/about/news/~board/homepage-news/post/ascension-public-schools-announces-2026-27-students-of-the-year",
    "categories": [
     "Funding"
    ],
@@ -17,49 +57,193 @@
    "terms": [
     "federal programs"
    ],
-   "snippet": "...rd shall follow the provisions set forth in Policy 850 and the District\u2019s Policies and Procedures Manual for the Administration of Federal Education Programs (\u201cFederal Programs Manual\u201d). VIOLATIONS A board member who violates any of the conflict of interest policies set forth herein may be guilty of a civil offense as...",
-   "first_seen": "2026-11-02",
-   "last_seen": "2026-11-02"
+   "snippet": "...h Donaldsonville Primary Duplessis Primary Dutchtown High Dutchtown Middle Dutchtown Primary Early Childhood Early College Option East Ascension High Emergency Federal Programs G.W. Carver Primary Galvez Middle Galvez Primary Gonzales Middle Gonzales Primary Graduation Groundbreaking Jobs Lake Middle Lake Primary Lakes...",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
   },
   {
-   "id": "bdcdf3bad2ab7f37",
-   "district": "Cass City Public Schools",
-   "state": "MI",
-   "leaid": "2608400",
-   "source": "Board meeting",
-   "meeting": "October 2025",
-   "date": "2026-11-02",
-   "url": "https://casscity4-cdn.fxbrt.com/downloads/board_of_education/minutesregularoct2025.pdf",
-   "categories": [
-    "Services"
-   ],
-   "hot": false,
-   "terms": [
-    "tutoring"
-   ],
-   "snippet": "...nt over the MStep/SAT scores from the beginning of the school year to present and a 3 and 5-year comparison. Sheila Robinson presented data from Brain Friendly tutoring at the elementary. (Copies are in the secretary\u2019s book) Reminder of the upcoming Superintendent Evaluation dates:...",
-   "first_seen": "2026-11-02",
-   "last_seen": "2026-11-02"
-  },
-  {
-   "id": "5ab30122f99f41fb",
-   "district": "Cass City Public Schools",
-   "state": "MI",
-   "leaid": "2608400",
-   "source": "Board meeting",
-   "meeting": "October 2025",
-   "date": "2026-11-02",
-   "url": "https://casscity4-cdn.fxbrt.com/downloads/board_of_education/minutesregularoct2025.pdf",
+   "id": "b096d4637e3b4cb1",
+   "district": "South Range Local School District",
+   "state": "OH",
+   "leaid": "3904836",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-03",
+   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "literacy coach"
+    "paraprofessionals"
    ],
-   "snippet": "H.S. Assistant Principal Jones, Elementary Principal Fernald, CFO Pearce and Literacy Coach Robinson. The Pledge of Allegiance was led by President Lasceski....",
-   "first_seen": "2026-11-02",
-   "last_seen": "2026-11-02"
+   "snippet": "whether the teacher holds any advanced degrees and, if so, the subject of the degrees. Whether any teachers\u2019 aides or similar paraprofessionals provide services to your child and, if they do, their qualifications. If you would like to receive any of this information, please call the Superintendent\u2019s Office at (330) 549...",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "id": "9292c52eb61e5148",
+   "district": "South Range Local School District",
+   "state": "OH",
+   "leaid": "3904836",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-03",
+   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs",
+    "title 1",
+    "title i"
+   ],
+   "snippet": "Grants and Federal Programs - South Range Local School District Skip To Main Content Grants & Federal Programs 2025-2028 One Plan_SRLSD Title 1 Services and Resources Our Title I Handbook is to provide you a better understanding of the Title I Targeted Assist program her at South Range Local Schools. The term \" targete...",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "id": "901413d08c681c43",
+   "district": "South Range Local School District",
+   "state": "OH",
+   "leaid": "3904836",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-03",
+   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "and implement strategies to increase parental involvement. Targeted Assistance through Title I services are offered from fifth through eighth grade to support English/Language Arts and Mathematics. The district will host a Title...",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "id": "ecaa46aed96e375d",
+   "district": "South Range Local School District",
+   "state": "OH",
+   "leaid": "3904836",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-03",
+   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1"
+   ],
+   "snippet": "The district will host a Title 1 Literacy Night for those who are identified and participating in Title 1 services. Throughout the school year we also hold two conference nights to allow our staff and parents to work together ensuring students needs are met....",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "id": "cd6cff66cbeb85d6",
+   "district": "South Range Local School District",
+   "state": "OH",
+   "leaid": "3904836",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-03",
+   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1",
+    "title i"
+   ],
+   "snippet": "...g students needs are met. We encourage parents who have concerns to reach out to the building administration or Grants Coordinator, Steve Matos, to discuss our Title 1 services. Handbook Title I Survey All students who are identified as a student with academic needs that qualify them for Title 1 services will be expect...",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "id": "13fdc6aff6d8edd4",
+   "district": "South Range Local School District",
+   "state": "OH",
+   "leaid": "3904836",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-03",
+   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal funds",
+    "title 1"
+   ],
+   "snippet": "...ains how parents and teachers will work together to make sure all students reach grade-level standards. The compact outlines the services and program funded by Federal funds through Title 1, Par A of the Elementary and Secondary Act (ESEA). Within the compact it is outlines how the parents, staff, and students are resp...",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "id": "f8d28e84aeab92d4",
+   "district": "South Range Local School District",
+   "state": "OH",
+   "leaid": "3904836",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-03",
+   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...us to give you this information in a timely manner, if you ask for it. Download the Bylaws & Policies in South Range Local School District to learn more about Title I funds The Rights Of Homeless Parents And Their Children Your child has the right to go to school, no matter where you live or how long you have lived th...",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "id": "c6cf6a85ea60bb61",
+   "district": "South Range Local School District",
+   "state": "OH",
+   "leaid": "3904836",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-03",
+   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...eptable Use Form. Parent Involvement Policy Each year the Grants Coordinator and/or Director of Special Education shall work with parents of children served in Title I and IDEA Programs in order to jointly develop and agree upon a proposed written parent involvement policy to establish expectations for the involvement...",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "id": "17fc51076b281d34",
+   "district": "Pennridge School District",
+   "state": "PA",
+   "leaid": "4218750",
+   "source": "Board meeting",
+   "meeting": "2026 March- School Board Monthly Update",
+   "date": "2026-11-03",
+   "url": "https://app.smore.com/n/gv5f7",
+   "categories": [
+    "Services"
+   ],
+   "hot": true,
+   "terms": [
+    "behavior analyst"
+   ],
+   "snippet": "...dar zoom_out_map Show in original size Approved new job descriptions: Certified School Social Worker School Psychologist Occupational Therapist Board Certified Behavior Analyst (BCBA) (Highlighted \u2013 student support focus) Approved 2026\u20132027 employee benefit premiums Calendar Pennridge Calendars - Pennridge School Distr...",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
   }
  ]
 }

@@ -1,4 +1,47 @@
 {
- "updated": "2026-11-02T14:50:06+00:00",
- "items": []
+ "updated": "2026-11-03T14:07:50+00:00",
+ "items": [
+  {
+   "id": "30da8ed5b6fb25a1",
+   "title": "Bids, RFPs & Contracts North Shore School District 112 posts current bid opportunities, requests for proposals and other procurement information below. There ar",
+   "url": "https://www.finalsite.com/districts",
+   "source": "North Shore School District 112 - Bids",
+   "state": "IL",
+   "type": "Open RFP",
+   "score": 5,
+   "services": [
+    "Paras & Staffing"
+   ],
+   "keywords": [
+    "personnel services"
+   ],
+   "snippet": "...w. Contracts Over $25,000 Collective bargaining agreements are available on the Personnel Services page . Powered by Finalsite...",
+   "due_date": null,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
+  {
+   "id": "42de570924f7c9cf",
+   "title": "Science Instructional Materials (RFI 27-006-093)",
+   "url": "https://resources.finalsite.net/images/v1793647301/fcboeorg/zv9sgpiqm7toy3qsfcz1/RFIDocument27-006-093.pdf",
+   "source": "Fayette County School District - Bids",
+   "state": "GA",
+   "type": "Open RFP",
+   "score": 18,
+   "services": [
+    "Tutoring",
+    "Special Ed & Therapy",
+    "Teachers & PD"
+   ],
+   "keywords": [
+    "professional learning services",
+    "students with disabilities",
+    "supplemental instruction"
+   ],
+   "snippet": "Science Instructional Materials (RFI 27-006-093) Science Instructional Materials (RFI 27-006-093) Science Instructional Materials Adoption Request for Information No. 27-006-093 Georgia Procurement Registry Event No. PE-65615-NONST-2027-000",
+   "due_date": "2026-12-07",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  }
+ ]
 }

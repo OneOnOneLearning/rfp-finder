@@ -416,6 +416,7 @@ CA,0608610,Chula Vista Elementary School District,funding,https://www.cvesd.org/
 CA,0602820,Antelope Valley Union Joint High School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030692,yes
 CA,0640150,Tustin Unified School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36030472,yes
 CA,0640150,Tustin Unified School District,funding,https://www.tustin.k12.ca.us/departments/educational-services/categorical-programs,no
+CA,0639420,Torrance Unified School District,boarddocs,http://www.boarddocs.com/ca/tusd/Board.nsf/Public,no
 CA,0631320,Pomona Unified School District,boardpage,https://proudtobe.pusd.org/apps/pages/PUSDLive,no
 CA,0611820,East Side Union High School District,boarddocs,http://go.boarddocs.com/ca/esuhsd/Board.nsf/goto?open&id=B749JX234A71,no
 CA,0629550,Palm Springs Unified School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030355,yes
@@ -1454,10 +1455,10 @@ IA,1914160,Hinton Community School District,boardpage,https://www.hintonschools.
 IA,1914160,Hinton Community School District,funding,https://www.hintonschools.org/federalprograms,no
 IA,1927600,Sumner-Fredericksburg Community School District,boardpage,https://www.sumnerschools.org/school-board,no
 IA,1904650,Bellevue Community School District,boarddocs,https://go.boarddocs.com/oh/bellevue/Board.nsf/Public,no
-IA,1931290,West Sioux Community School District,boarddocs,https://www.boarddocs.com/ny/wscs/Board.nsf/Public,no
-IA,1931290,West Sioux Community School District,funding,https://www.wscschools.org/directory/federal-title-grants,no
 IA,1918330,Manson Northwest Webster Community School District,boardpage,https://www.manson.org/page/school-board,no
 IA,1923160,Pleasantville Community School District,boarddocs,https://go.boarddocs.com/ny/pvufsd/Board.nsf/Public,no
+IA,1931290,West Sioux Community School District,boarddocs,https://www.boarddocs.com/ny/wscs/Board.nsf/Public,no
+IA,1931290,West Sioux Community School District,funding,https://www.wscschools.org/directory/federal-title-grants,no
 IA,1921660,Ogden Community School District,boardpage,https://www.ogdenschools.org/district/school_board/,no
 IA,1923190,Pocahontas Area Community School District,boardpage,https://www.pacsd.org/page/school-board,no
 IA,1917460,Logan-Magnolia Community School District,boardpage,https://www.loganschools.org/board-of-education,no
@@ -2065,7 +2066,7 @@ KS,2005280,Morris County Unified School District 417,funding,https://www.morriss
 KS,2010230,Osage City Unified School District 420,boardpage,https://www.osageschools.org/page/board-of-education-home-page,no
 KS,2010230,Osage City Unified School District 420,funding,https://www.osageschools.org/page/federal-programs,no
 KS,2011130,Riverton Unified School District 404,boardpage,https://www.rivertonschools.org/apps/pages/index.jsp?uREC_ID=4464173&type=d&pREC_ID=2735915,no
-KS,2011130,Riverton Unified School District 404,funding,https://www.rivertonschools.org/apps/events/2026/10/28/42488592/?REC_ID=42488592&id=1&d=2026-10-28,no
+KS,2011130,Riverton Unified School District 404,funding,https://www.rivertonschools.org/apps/events/2026/11/4/42488592/?REC_ID=42488592&id=1&d=2026-11-4,no
 KS,2010020,Norton Community Schools Unified School District 211,boardpage,https://www.nortonschools.org/BoardofEducation.aspx,no
 KS,2011700,Silver Lake Unified School District 372,boardpage,https://www.silverlakeschools.org/page/board-of-education,no
 KS,2000351,Riverside Unified School District 114,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=100110&ptid=o21emCJslsh7Qzt3mG5tCIsjg==,yes
@@ -2728,9 +2729,9 @@ MI,2636120,White Pigeon Community Schools,boardpage,https://www.wpcschools.org/b
 MI,2604020,Bark River-Harris School District,boardpage,https://www.brhschools.org/district/school_board,no
 MI,2604020,Bark River-Harris School District,funding,https://www.brhschools.org/for_parents___students/elementary_school/school_improvement,no
 MI,2622470,Manistique Area Schools,boardpage,https://manistiqueschools.org/board-of-education,no
-MI,2601920,Addison Community Schools,boardpage,https://www.addisonschools.org/board-of-ed/,no
 MI,2607040,Brown City Community School District,boardpage,https://www.browncityschools.org/board-of-education,no
 MI,2607040,Brown City Community School District,funding,https://www.browncityschools.org/title-1,no
+MI,2601920,Addison Community Schools,boardpage,https://www.addisonschools.org/board-of-ed/,no
 MI,2622860,Marlette Community Schools,boardpage,https://www.marletteschools.org/page/board-of-education,no
 MI,2629400,Reading Community Schools,boardpage,https://www.readingrangers.org/about-us/board-of-education/,no
 MI,2636390,Whittemore-Prescott Area Schools,boarddocs,https://go.boarddocs.com/mi/wpas/Board.nsf/goto?open&id=C5JRT75DE77E,no
@@ -3248,7 +3249,6 @@ NC,3700090,Alexander County Schools,funding,https://www.alexander.k12.nc.us/depa
 NC,3701080,Currituck County Schools,boardpage,https://www.currituck.k12.nc.us/board-of-education,no
 NC,3702760,Macon County Schools,boardpage,https://eboard.eboardsolutions.com/Index.aspx?S=2113,yes
 NC,3702760,Macon County Schools,funding,https://www.maconk12.org/District/Department/5-Federal-Programs,no
-NC,3700270,Asheville City Schools,funding,https://www.asheville.com/news/2026/10/buncombe-approves-grant-agreement-for-black-mountain-swannanoa-health-facility/,no
 NC,3702190,Hickory City Schools,boardpage,https://www.hickoryschools.net/about/board-of-education,no
 NC,3702340,Jackson County Schools,boardpage,https://www.jacksonsd.org/board-of-education/boe-home,no
 NC,3702340,Jackson County Schools,funding,https://www.jacksonsd.org/about-our-district/jackson-education-foundation/what-we-sponsor-grant-and-program-information,no
@@ -4374,6 +4374,8 @@ OH,3905013,Champion Local School District,funding,https://www.championlocal.org/
 OH,3904995,Tuslaw Local School District,boardpage,https://www.tuslawschools.org/392664_2,no
 OH,3904995,Tuslaw Local School District,funding,https://www.tuslawschools.org/422817_2,no
 OH,3904842,Pleasant Local School District,boardpage,https://www.pleasantlocalschools.org/SchoolBoard.aspx,no
+OH,3904836,South Range Local School District,boardpage,https://www.southrange.k12.oh.us/board-of-education,no
+OH,3904836,South Range Local School District,funding,https://www.southrange.k12.oh.us/departments/grants-and-federal-programs,no
 OH,3904413,Huron City School District,boardpage,https://www.huronschools.org/board-of-education,no
 OH,3904688,Liberty Union-Thurston Local School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=108&Sch=108,yes
 OH,3904688,Liberty Union-Thurston Local School District,funding,https://www.lps53.org/academics/special-programs/federal-programs,no
@@ -4438,13 +4440,13 @@ OH,3904951,Paint Valley Local School District,boardpage,https://www.paintvalleyl
 OH,3904951,Paint Valley Local School District,funding,https://www.paintvalleylocalschools.org/schools/elementary-school/title-i,no
 OH,3904832,Jackson-Milton Local School District,boardpage,https://www.jacksonsd.org/board-of-education/boe-home,no
 OH,3904832,Jackson-Milton Local School District,funding,https://www.jacksonsd.org/about-our-district/jackson-education-foundation/what-we-sponsor-grant-and-program-information,no
-OH,3904471,St. Bernard-Elmwood Place City School District,boardpage,https://www.sbepschools.org/school-board,no
-OH,3904533,Covington Exempted Village School District,boarddocs,https://go.boarddocs.com/oh/covev/Board.nsf/Public?open,no
 OH,3904582,Hillsdale Local School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36032071,yes
 OH,3904582,Hillsdale Local School District,funding,https://www.hillsdale.k12.oh.us/departments/academic-services/title-one/title-i-parent-engagement-policy,no
+OH,3904471,St. Bernard-Elmwood Place City School District,boardpage,https://www.sbepschools.org/school-board,no
+OH,3904533,Covington Exempted Village School District,boarddocs,https://go.boarddocs.com/oh/covev/Board.nsf/Public?open,no
 OH,3904604,Fayetteville-Perry Local School District,boardpage,https://www.fpls.us/page/board-of-education,no
 OH,3904604,Fayetteville-Perry Local School District,funding,https://www.fpls.us/page/title-i-reading,no
-OH,3904523,Bridgeport Exempted Village School District,boardpage,https://www.bridgeportschools.net/protected/EventView.aspx?id=8IB02IU0B,no
+OH,3904523,Bridgeport Exempted Village School District,boardpage,https://www.bridgeportschools.net/protected/EventView.aspx?id=8IB00UUPI,no
 OH,3904978,Fort Loramie Local School District,boardpage,https://broward.granicus.com/ViewPublisher.php?view_id=19,yes
 OH,3904761,Bright Local School District,boardpage,https://www.blsd.us/BoardofEducation.aspx,no
 OH,3904851,Eastern Local School District,boardpage,https://www.easternlocal.com/page/board-of-education,no
@@ -5143,10 +5145,10 @@ PA,4206060,Clarion Area School District,boarddocs,https://www.google.com/url?q=h
 PA,4213290,Homer-Center School District,boardpage,https://www.homercenter.org/apps/pages/index.jsp?uREC_ID=1248567&type=d&pREC_ID=1474323,no
 PA,4213290,Homer-Center School District,funding,https://www.homercenter.org/apps/pages/index.jsp?uREC_ID=1106888&type=d&pREC_ID=2343731,no
 PA,4211190,Greenwood School District,boardpage,https://www.greenwoodsd.org/o/gsd/page/school-board,no
-PA,4220460,Rochester Area School District,boardpage,https://www.rasd.org/administration/school-board,no
-PA,4220460,Rochester Area School District,funding,https://www.rasd.org/our-district/elementary/title-1,no
 PA,4226040,Western Beaver County School District,boardpage,https://www.westernbeaver.org/page/school-board,no
 PA,4226040,Western Beaver County School District,funding,https://www.westernbeaver.org/page/districts-arp-esser-funds,no
+PA,4220460,Rochester Area School District,boardpage,https://www.rasd.org/administration/school-board,no
+PA,4220460,Rochester Area School District,funding,https://www.rasd.org/our-district/elementary/title-1,no
 PA,4203420,Berlin Brothersvalley School District,boarddocs,https://go.boarddocs.com/pa/brlb/Board.nsf/goto?open&id=D64HNZ496289,no
 PA,4203420,Berlin Brothersvalley School District,funding,https://ourschools.bbsd.com/support-services/title-i-reading-intervention,no
 PA,4206430,Conemaugh Valley School District,boardpage,https://www.cvk12.org/apps/pages/index.jsp?uREC_ID=4455147&type=d,no
@@ -5873,6 +5875,7 @@ TX,4835760,Premont Independent School District,funding,https://www.premontisd.ne
 TX,4832430,New Deal Independent School District,boardpage,https://www.ndisd.net/apps/pages/index.jsp?uREC_ID=1649833&type=d&pREC_ID=1769517,no
 TX,4832430,New Deal Independent School District,funding,https://www.ndisd.net/apps/pages/index.jsp?uREC_ID=1842937&type=d&pREC_ID=2237661,no
 TX,4837900,Rosebud-Lott Independent School District,boardpage,https://www.rlisd.org/page/board-of-education,no
+TX,4835490,Post Independent School District,boardpage,https://www.postindependent.com/news/garfield-re-2-school-board-hears-financial-report-amid-state-budget-concerns/,no
 TX,4816290,Danbury Independent School District,boardpage,https://www.danburyisd.org/apps/pages/index.jsp?uREC_ID=1587314&type=d,no
 TX,4816290,Danbury Independent School District,funding,https://www.danburyisd.org/apps/pages/index.jsp?uREC_ID=2177606&type=d,no
 TX,4819820,Freer Independent School District,boardpage,https://www.freerisd.org/boardoftrustees,no
@@ -6245,7 +6248,7 @@ WA,5302970,Freeman School District,funding,https://www.freemansd.org/district-de
 WA,5302910,Finley School District,boardpage,https://www.finleysd.org/district/school_board,no
 WA,5302910,Finley School District,funding,https://www.finleysd.org/departments-programs/title,no
 WA,5306240,Onalaska School District,boarddocs,https://go.boarddocs.com/wi/ona/Board.nsf/goto?open&id=DSHG5A421177,no
-WA,5300720,Bridgeport School District,boardpage,https://www.bridgeportschools.net/protected/EventView.aspx?id=8IB02G02Y,no
+WA,5300720,Bridgeport School District,boardpage,https://www.bridgeportschools.net/protected/EventView.aspx?id=8IB00UUPI,no
 WA,5303130,Grand Coulee Dam School District,boardpage,https://www.gcdsd.org/administration/school-board,no
 WA,5303130,Grand Coulee Dam School District,funding,https://www.gcdsd.org/special-programs/title-i,no
 WA,5306750,Pioneer School District,boardpage,https://www.pioneerschools.org/page/boe-overview,no
