@@ -1,55 +1,369 @@
 {
- "updated": "2026-11-03T14:14:01+00:00",
+ "updated": "2026-11-04T01:57:11+00:00",
  "items": [
   {
-   "id": "c3b6c2c2c829bc74",
-   "district": "North Chicago School District 187",
-   "state": "IL",
-   "leaid": "1700110",
-   "source": "Board meeting",
-   "meeting": "Agenda",
-   "date": "2026-11-02",
-   "url": "https://www.northchicago.org/COUNCIL AGENDA Nov 2 UNLINKED.pdf?t=202611021510150",
+   "id": "83dceb91402d7cb8",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-04",
+   "url": "https://chatom.k12.ca.us/esser-iii/",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "grant award"
+    "esser iii"
    ],
-   "snippet": "...f Minutes for Regular Council Meeting, October 19, 2026 6-2 Approval of Standing Committee Meeting Minutes, October 19, 2026 6-3 Approval of a $1,000 Community Grant Award Applied for by the Non-Profit Synergized Communities Thrive, Inc. 6-4 Approval of Joint Funding Agreement with the Illinois Department of Transporta...",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
+   "snippet": "ESSER III \u2013 Chatom Union School District Expenditure Plans ESSER III Expenditure Plan...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
   },
   {
-   "id": "39d89a04e7267746",
-   "district": "North Chicago School District 187",
-   "state": "IL",
-   "leaid": "1700110",
+   "id": "a51d1cbd028d6a6b",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
+   "source": "Budget / plan",
+   "meeting": "ESSER III Expenditure Plan",
+   "date": "2026-11-04",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
+   "categories": [
+    "Services",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "extended learning",
+    "esser"
+   ],
+   "snippet": "...nts including students with disabilities and English learners Provide interventions for students to close learning gaps caused by the COVID-19 pandemic Provide extended learning opportunities after school, Saturday school, summer school, and after-school childcare Provide standard aligned curriculum and supplemental ma...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "758a752ceb884130",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
+   "source": "Budget / plan",
+   "meeting": "ESSER III Expenditure Plan",
+   "date": "2026-11-04",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
+   "categories": [
+    "Services",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "extended learning",
+    "esser"
+   ],
+   "snippet": "...ncluding embedded intervention, after- school intervention, Foundations, I-Ready and diagnostic to.2ls to identify il}!ervei:1tion !!_eec:I\ufffd. ___ ----\ufffd Provide extended learning opportunities including Saturday $0 - ELOP ! sc\ufffdool, summer school, anc:I atter:schooJ programs_ A description of the how the LEA will use any...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "41a0c85d3c1a36bf",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
+   "source": "Budget / plan",
+   "meeting": "ESSER III Expenditure Plan",
+   "date": "2026-11-04",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
+   "categories": [
+    "Services",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "extended learning",
+    "esser"
+   ],
+   "snippet": "__ _ __ SARC- Annual and Williams Report- Quarterly Annually August and February August and May Page 7 of 16 Action Title(s) Intervention & Extended Learning Mental Health How Progress will be Monitored Report Cards, SBAC and Exiting of Program Referrals by parents, staff and students Parent/ Family Engagement Parent S...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "714684d5326e692d",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
+   "source": "Budget / plan",
+   "meeting": "ESSER III Expenditure Plan",
+   "date": "2026-11-04",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
+   "categories": [
+    "Services",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "summer learning",
+    "esser"
+   ],
+   "snippet": "...nment for expenditures related to addressing the academic impact of lost instructional time through the implementation of evidence-based interventions, such as summer learning or summer enrichment, extended day, comprehensive afterschool programs, or extended school year programs. o For purposes of this requirement, \"e...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "aa179ab655de53d7",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
+   "source": "Budget / plan",
+   "meeting": "ESSER III Expenditure Plan",
+   "date": "2026-11-04",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
+   "categories": [
+    "Services",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "summer learning",
+    "esser"
+   ],
+   "snippet": "...services and supports, including through the implementation of evidence-based full-service community schools; o Planning and implementing activities related to summer learning and supplemental after school programs, including providing classroom instruction or online learning during the summer months and addressing the...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "0d3ac411f062da11",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
+   "source": "Budget / plan",
+   "meeting": "ESSER III Expenditure Plan",
+   "date": "2026-11-04",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
+   "categories": [
+    "Services",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "summer learning",
+    "esser"
+   ],
+   "snippet": "...hool District Page 13 of 16 o Strategies to address the academic impact of lost instructional time through implementation of evidence-based interventions (e.g. summer learning or summer enrichment, extended day, comprehensive afterschool programs, or extended school year programs); o Any other strategies or activities...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "9a8174a28fb36280",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
+   "source": "Budget / plan",
+   "meeting": "ESSER III Expenditure Plan",
+   "date": "2026-11-04",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
+   "categories": [
+    "Services",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "summer learning",
+    "esser"
+   ],
+   "snippet": "...l implement using ESSER Ill funds to address the academic impact of lost instructional time through the implementation of evidence-based interventions, such as summer learning or summer enrichment, extended day, comprehensive afterschool programs, or extended school year programs. \u2022 Specify the amount of ESSER Ill fund...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "fbd0e10aaf462038",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
+   "source": "Budget / plan",
+   "meeting": "ESSER III Expenditure Plan",
+   "date": "2026-11-04",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "extended learning"
+   ],
+   "snippet": "2 Action 3 Extended Learning Use of Any Remaining Funds Maintain access to technology and internet through one-to- 1 $207,222 one de_yjces, \ufffdot spots, al}d II suppo_rt_for.staf[and_students Implement a variety of intervention and support systems to $35,000 accelerate learning. Including embedded intervention, after- sc...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "41d1aa0e9b882d22",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
    "source": "Board meeting",
-   "meeting": "Agenda",
-   "date": "2026-11-02",
-   "url": "https://www.northchicago.org/COMMITTEE AGENDA Nov 2 UNLINKED.pdf?t=202611021511460",
+   "meeting": "October 13, 2026 Board Agenda",
+   "date": "2026-10-13",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2026/10/10-13-26-Board-Agenda.docx.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraeducator"
+   ],
+   "snippet": "2.1.2 Yard/Cafeteria Supervisor 1 hour 2.1.3 Bilingual Paraeducator 3.25 hours 2.2 Public Employees Discipline/Dismissal/Release/ Non-re-election/Leaves of Absence/Resignation/Retirements And Resolution Regarding Reduction or Discontinuance of Source (Gov....",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "f70798bb7e0d8a71",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
+   "source": "Board meeting",
+   "meeting": "October 13, 2026 Board Agenda",
+   "date": "2026-10-13",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2026/10/10-13-26-Board-Agenda.docx.pdf",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "grant award"
+    "learning recovery"
    ],
-   "snippet": "1. Discussion of a $950 Community Grant Award Applied for By J&J Quality Walk 2....",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
+   "snippet": "ACTION 7.1 Learning Recovery Emergency Block Grant Update and Consideration of Approval for Remaining Funds 7.2 Consider Approval of Board Resolution #10-13-26-01 to Approve the Amended Joint Powers Agreement (JPA) of Central Region School Insurance Group (CRSIG)...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
   },
   {
-   "id": "ddeb223c81aba6bc",
-   "district": "Ascension Parish School District",
-   "state": "LA",
-   "leaid": "2200090",
+   "id": "982b0be859e51931",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
    "source": "Board meeting",
-   "meeting": "Ascension Public Schools Announces 2026-27 Students of the Year",
-   "date": "2026-11-03",
-   "url": "https://www.ascensionschools.org/about/news/~board/homepage-news/post/ascension-public-schools-announces-2026-27-students-of-the-year",
+   "meeting": "September 8, 2026 Board Agenda",
+   "date": "2026-09-08",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2026/09/09-08-26-Board-Agenda.docx.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": true,
+   "terms": [
+    "paraeducator"
+   ],
+   "snippet": "2.1.1 Yard/Cafeteria Supervisor 1 hour 2.1.2 Bilingual Paraeducator 3.25 hours 2.1.3 Request Authority for the Superintendent to Hire Vacant Classified Staff Members that are Time Sensitive Under the Direction of the Board President or Board Representative...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "714e13647965260b",
+   "district": "Chatom Union Elementary School District",
+   "state": "CA",
+   "leaid": "0608250",
+   "source": "Board meeting",
+   "meeting": "August 11, 2026 Board Minutes",
+   "date": "2026-08-11",
+   "url": "https://chatom.k12.ca.us/wp-content/uploads/2026/09/08-11-26-Board-MINUTES-.docx.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraeducator"
+   ],
+   "snippet": "...the opportunities they will provide for students to collaborate and work on projects. She concluded by sharing that April Mailloux would be starting as the Art Paraeducator on Wednesdays at Mountain View. Chatom State Preschool Director, Sandra Nunes, shared that there were currently 21 students enrolled in the morning...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "a3cfccaaccc58723",
+   "district": "Woodbury Central Community School District",
+   "state": "IA",
+   "leaid": "1931950",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-04",
+   "url": "https://www.woodbury-central.k12.ia.us/our_school/school_board/e_s_s_e_r_funding",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "esser"
+   ],
+   "snippet": "ESSER Funding - Woodbury Central Community School District...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "b1660a1514eb743b",
+   "district": "Mesick Consolidated Schools",
+   "state": "MI",
+   "leaid": "2623670",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-04",
+   "url": "https://www.mesick.org/page/title-12",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1"
+   ],
+   "snippet": "Title 1 | Mesick Consolidated Schools Skip to content...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "8e25c588400f3552",
+   "district": "Finneytown Local School District",
+   "state": "OH",
+   "leaid": "3904733",
+   "source": "Board meeting",
+   "meeting": "Special Meeting May 6th",
+   "date": "2026-11-04",
+   "url": "https://finneytown.org/wp-content/uploads/2024/05/Agenda-240506SpecMtg.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "esser"
+   ],
+   "snippet": "12. RESOLUTION AUTHORIZING THE PAYMENT OF STIPENDS FROM ESSER FUNDS It is recommended that the Board approve the following resolution: WHEREAS, in the course of negotiations, ESSER Stipends were negotiated between the Finneytown Local School District Board of Education (Board) and its Finneytown Education Association (...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "1f8a47a3a520c53a",
+   "district": "Union School District",
+   "state": "PA",
+   "leaid": "4224120",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-04",
+   "url": "http://www.unionsd.net/programs/title-1.html",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1"
+   ],
+   "snippet": "Union School District - Title 1 2020-2021 Introduction On December 10, 2015 a new Federal education law was signed by the President. This law, the Every Student Succeeds Act (ESSA), requires schools that receive federal Title IA funding adopt written procedures for resolving complaints filed....",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "e376f0e192fada4e",
+   "district": "Union School District",
+   "state": "PA",
+   "leaid": "4224120",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-04",
+   "url": "http://www.unionsd.net/programs/title-1.html",
    "categories": [
     "Funding"
    ],
@@ -57,193 +371,89 @@
    "terms": [
     "federal programs"
    ],
-   "snippet": "...h Donaldsonville Primary Duplessis Primary Dutchtown High Dutchtown Middle Dutchtown Primary Early Childhood Early College Option East Ascension High Emergency Federal Programs G.W. Carver Primary Galvez Middle Galvez Primary Gonzales Middle Gonzales Primary Graduation Groundbreaking Jobs Lake Middle Lake Primary Lakes...",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
+   "snippet": "You need JavaScript enabled to view it. 814-473-6311 x0 2) Notice to School \u2013 The Federal Programs Director will notify the school Superintendent and Building Principal that a complaint has been received. A copy of the complaint will be given to the Superintendent and Building Principal with directions given for the Pr...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
   },
   {
-   "id": "b096d4637e3b4cb1",
-   "district": "South Range Local School District",
-   "state": "OH",
-   "leaid": "3904836",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-03",
-   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessionals"
-   ],
-   "snippet": "whether the teacher holds any advanced degrees and, if so, the subject of the degrees. Whether any teachers\u2019 aides or similar paraprofessionals provide services to your child and, if they do, their qualifications. If you would like to receive any of this information, please call the Superintendent\u2019s Office at (330) 549...",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "id": "9292c52eb61e5148",
-   "district": "South Range Local School District",
-   "state": "OH",
-   "leaid": "3904836",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-03",
-   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs",
-    "title 1",
-    "title i"
-   ],
-   "snippet": "Grants and Federal Programs - South Range Local School District Skip To Main Content Grants & Federal Programs 2025-2028 One Plan_SRLSD Title 1 Services and Resources Our Title I Handbook is to provide you a better understanding of the Title I Targeted Assist program her at South Range Local Schools. The term \" targete...",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "id": "901413d08c681c43",
-   "district": "South Range Local School District",
-   "state": "OH",
-   "leaid": "3904836",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-03",
-   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "and implement strategies to increase parental involvement. Targeted Assistance through Title I services are offered from fifth through eighth grade to support English/Language Arts and Mathematics. The district will host a Title...",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "id": "ecaa46aed96e375d",
-   "district": "South Range Local School District",
-   "state": "OH",
-   "leaid": "3904836",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-03",
-   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title 1"
-   ],
-   "snippet": "The district will host a Title 1 Literacy Night for those who are identified and participating in Title 1 services. Throughout the school year we also hold two conference nights to allow our staff and parents to work together ensuring students needs are met....",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "id": "cd6cff66cbeb85d6",
-   "district": "South Range Local School District",
-   "state": "OH",
-   "leaid": "3904836",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-03",
-   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title 1",
-    "title i"
-   ],
-   "snippet": "...g students needs are met. We encourage parents who have concerns to reach out to the building administration or Grants Coordinator, Steve Matos, to discuss our Title 1 services. Handbook Title I Survey All students who are identified as a student with academic needs that qualify them for Title 1 services will be expect...",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "id": "13fdc6aff6d8edd4",
-   "district": "South Range Local School District",
-   "state": "OH",
-   "leaid": "3904836",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-03",
-   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal funds",
-    "title 1"
-   ],
-   "snippet": "...ains how parents and teachers will work together to make sure all students reach grade-level standards. The compact outlines the services and program funded by Federal funds through Title 1, Par A of the Elementary and Secondary Act (ESEA). Within the compact it is outlines how the parents, staff, and students are resp...",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "id": "f8d28e84aeab92d4",
-   "district": "South Range Local School District",
-   "state": "OH",
-   "leaid": "3904836",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-03",
-   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "...us to give you this information in a timely manner, if you ask for it. Download the Bylaws & Policies in South Range Local School District to learn more about Title I funds The Rights Of Homeless Parents And Their Children Your child has the right to go to school, no matter where you live or how long you have lived th...",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "id": "c6cf6a85ea60bb61",
-   "district": "South Range Local School District",
-   "state": "OH",
-   "leaid": "3904836",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-03",
-   "url": "https://www.southrange.k12.oh.us/departments/grants-and-federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "...eptable Use Form. Parent Involvement Policy Each year the Grants Coordinator and/or Director of Special Education shall work with parents of children served in Title I and IDEA Programs in order to jointly develop and agree upon a proposed written parent involvement policy to establish expectations for the involvement...",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
-  },
-  {
-   "id": "17fc51076b281d34",
-   "district": "Pennridge School District",
+   "id": "2b81a5fc0bc84f39",
+   "district": "Union School District",
    "state": "PA",
-   "leaid": "4218750",
-   "source": "Board meeting",
-   "meeting": "2026 March- School Board Monthly Update",
-   "date": "2026-11-03",
-   "url": "https://app.smore.com/n/gv5f7",
+   "leaid": "4224120",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-04",
+   "url": "http://www.unionsd.net/programs/title-1.html",
    "categories": [
-    "Services"
+    "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "behavior analyst"
+    "federal programs"
    ],
-   "snippet": "...dar zoom_out_map Show in original size Approved new job descriptions: Certified School Social Worker School Psychologist Occupational Therapist Board Certified Behavior Analyst (BCBA) (Highlighted \u2013 student support focus) Approved 2026\u20132027 employee benefit premiums Calendar Pennridge Calendars - Pennridge School Distr...",
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
+   "snippet": "...iving the Principal\u2019s response, the Central Office, along with the Superintendent, will determine whether further investigation is necessary. If necessary, the Federal Programs Director and the Superintendent may do an onsite investigation at the school. 4) Opportunity to Present Evidence \u2013 The Federal Programs Directo...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "c0083d4dbd8a5a46",
+   "district": "Union School District",
+   "state": "PA",
+   "leaid": "4224120",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-04",
+   "url": "http://www.unionsd.net/programs/title-1.html",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "The recommended resolution will become effective upon issuance of the report. 6) Follow up \u2013 The Federal Programs Director and the Superintendent will ensure that the resolution of the complaint is implemented. 7) Time Limit \u2013 The period between the Federal Programs Director receiving the complaint and resolution of th...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "2e88f928e7de4dc0",
+   "district": "Union School District",
+   "state": "PA",
+   "leaid": "4224120",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-04",
+   "url": "http://www.unionsd.net/programs/title-1.html",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "Ms. Susan McCrone, Chief Division of Federal Programs Pennsylvania Department of Education 333 Market Street, 7th Floor Harrisburg, PA 17126\u20100333 Attachments: File File size Last modified Title Complaint From for Schools and Non-Public Schools.pdf 159 kB 10-13-2020 13:35 Please feel free to make copies of the form atta...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "9614de6036b86045",
+   "district": "Santa Maria Independent School District",
+   "state": "TX",
+   "leaid": "4839330",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-04",
+   "url": "https://www.smisd.net/community/esser-iii-information",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "esser iii"
+   ],
+   "snippet": "ESSER III Information - Santa Maria Independent School District Skip To Main Content ESSER III Information...",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
   }
  ]
 }
