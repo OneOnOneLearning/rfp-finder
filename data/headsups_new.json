@@ -1,229 +1,57 @@
 {
- "updated": "2026-11-04T01:57:11+00:00",
+ "updated": "2026-11-05T14:34:48+00:00",
  "items": [
   {
-   "id": "83dceb91402d7cb8",
-   "district": "Chatom Union Elementary School District",
-   "state": "CA",
-   "leaid": "0608250",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-04",
-   "url": "https://chatom.k12.ca.us/esser-iii/",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "esser iii"
-   ],
-   "snippet": "ESSER III \u2013 Chatom Union School District Expenditure Plans ESSER III Expenditure Plan...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "a51d1cbd028d6a6b",
-   "district": "Chatom Union Elementary School District",
-   "state": "CA",
-   "leaid": "0608250",
-   "source": "Budget / plan",
-   "meeting": "ESSER III Expenditure Plan",
-   "date": "2026-11-04",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
-   "categories": [
-    "Services",
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "extended learning",
-    "esser"
-   ],
-   "snippet": "...nts including students with disabilities and English learners Provide interventions for students to close learning gaps caused by the COVID-19 pandemic Provide extended learning opportunities after school, Saturday school, summer school, and after-school childcare Provide standard aligned curriculum and supplemental ma...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "758a752ceb884130",
-   "district": "Chatom Union Elementary School District",
-   "state": "CA",
-   "leaid": "0608250",
-   "source": "Budget / plan",
-   "meeting": "ESSER III Expenditure Plan",
-   "date": "2026-11-04",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
-   "categories": [
-    "Services",
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "extended learning",
-    "esser"
-   ],
-   "snippet": "...ncluding embedded intervention, after- school intervention, Foundations, I-Ready and diagnostic to.2ls to identify il}!ervei:1tion !!_eec:I\ufffd. ___ ----\ufffd Provide extended learning opportunities including Saturday $0 - ELOP ! sc\ufffdool, summer school, anc:I atter:schooJ programs_ A description of the how the LEA will use any...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "41a0c85d3c1a36bf",
-   "district": "Chatom Union Elementary School District",
-   "state": "CA",
-   "leaid": "0608250",
-   "source": "Budget / plan",
-   "meeting": "ESSER III Expenditure Plan",
-   "date": "2026-11-04",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
-   "categories": [
-    "Services",
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "extended learning",
-    "esser"
-   ],
-   "snippet": "__ _ __ SARC- Annual and Williams Report- Quarterly Annually August and February August and May Page 7 of 16 Action Title(s) Intervention & Extended Learning Mental Health How Progress will be Monitored Report Cards, SBAC and Exiting of Program Referrals by parents, staff and students Parent/ Family Engagement Parent S...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "714684d5326e692d",
-   "district": "Chatom Union Elementary School District",
-   "state": "CA",
-   "leaid": "0608250",
-   "source": "Budget / plan",
-   "meeting": "ESSER III Expenditure Plan",
-   "date": "2026-11-04",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
-   "categories": [
-    "Services",
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "summer learning",
-    "esser"
-   ],
-   "snippet": "...nment for expenditures related to addressing the academic impact of lost instructional time through the implementation of evidence-based interventions, such as summer learning or summer enrichment, extended day, comprehensive afterschool programs, or extended school year programs. o For purposes of this requirement, \"e...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "aa179ab655de53d7",
-   "district": "Chatom Union Elementary School District",
-   "state": "CA",
-   "leaid": "0608250",
-   "source": "Budget / plan",
-   "meeting": "ESSER III Expenditure Plan",
-   "date": "2026-11-04",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
-   "categories": [
-    "Services",
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "summer learning",
-    "esser"
-   ],
-   "snippet": "...services and supports, including through the implementation of evidence-based full-service community schools; o Planning and implementing activities related to summer learning and supplemental after school programs, including providing classroom instruction or online learning during the summer months and addressing the...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "0d3ac411f062da11",
-   "district": "Chatom Union Elementary School District",
-   "state": "CA",
-   "leaid": "0608250",
-   "source": "Budget / plan",
-   "meeting": "ESSER III Expenditure Plan",
-   "date": "2026-11-04",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
-   "categories": [
-    "Services",
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "summer learning",
-    "esser"
-   ],
-   "snippet": "...hool District Page 13 of 16 o Strategies to address the academic impact of lost instructional time through implementation of evidence-based interventions (e.g. summer learning or summer enrichment, extended day, comprehensive afterschool programs, or extended school year programs); o Any other strategies or activities...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "9a8174a28fb36280",
-   "district": "Chatom Union Elementary School District",
-   "state": "CA",
-   "leaid": "0608250",
-   "source": "Budget / plan",
-   "meeting": "ESSER III Expenditure Plan",
-   "date": "2026-11-04",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
-   "categories": [
-    "Services",
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "summer learning",
-    "esser"
-   ],
-   "snippet": "...l implement using ESSER Ill funds to address the academic impact of lost instructional time through the implementation of evidence-based interventions, such as summer learning or summer enrichment, extended day, comprehensive afterschool programs, or extended school year programs. \u2022 Specify the amount of ESSER Ill fund...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "fbd0e10aaf462038",
-   "district": "Chatom Union Elementary School District",
-   "state": "CA",
-   "leaid": "0608250",
-   "source": "Budget / plan",
-   "meeting": "ESSER III Expenditure Plan",
-   "date": "2026-11-04",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2024/07/ESSER-III-Expenditure-Plan-1.pdf",
+   "id": "d4f90990684aa032",
+   "district": "Nemo Vista School District",
+   "state": "AR",
+   "leaid": "0510410",
+   "source": "Board meeting",
+   "meeting": "October 2025 (Regular)",
+   "date": "2026-11-05",
+   "url": "https://socs.nemo.k12.ar.us/vimages/shared/vnews/stories/4e4ac65017f51/October%202025%20reg%20bd%20meeting.doc.pdf",
    "categories": [
     "Services"
    ],
-   "hot": false,
+   "hot": true,
    "terms": [
-    "extended learning"
+    "tutoring"
    ],
-   "snippet": "2 Action 3 Extended Learning Use of Any Remaining Funds Maintain access to technology and internet through one-to- 1 $207,222 one de_yjces, \ufffdot spots, al}d II suppo_rt_for.staf[and_students Implement a variety of intervention and support systems to $35,000 accelerate learning. Including embedded intervention, after- sc...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "snippet": "F. Tutoring Purchased Service Agreement. G....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
   },
   {
-   "id": "41d1aa0e9b882d22",
-   "district": "Chatom Union Elementary School District",
+   "id": "cb98746fc568764d",
+   "district": "Los Molinos Unified School District",
    "state": "CA",
-   "leaid": "0608250",
-   "source": "Board meeting",
-   "meeting": "October 13, 2026 Board Agenda",
-   "date": "2026-10-13",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2026/10/10-13-26-Board-Agenda.docx.pdf",
+   "leaid": "0622860",
+   "source": "Budget / plan",
+   "meeting": "LREB Grant",
+   "date": "2026-11-05",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/1811bcdc-3ee1-4a81-a59e-107b62ebc4c6.pdf",
    "categories": [
-    "New positions"
+    "Services",
+    "Funding"
    ],
    "hot": false,
    "terms": [
-    "paraeducator"
+    "tutoring",
+    "learning recovery"
    ],
-   "snippet": "2.1.2 Yard/Cafeteria Supervisor 1 hour 2.1.3 Bilingual Paraeducator 3.25 hours 2.2 Public Employees Discipline/Dismissal/Release/ Non-re-election/Leaves of Absence/Resignation/Retirements And Resolution Regarding Reduction or Discontinuance of Source (Gov....",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "snippet": "$0 $0 $0 (B) Accelerating progress to close learning gaps through the implementation, expansion, or enhancement of learning supports, such as: \u2022 Tutoring or other one-on-one or small group learning supports provided by certificated or classified staff. \u2022 Learning recovery programs and materials designed to accelerate p...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
   },
   {
-   "id": "f70798bb7e0d8a71",
-   "district": "Chatom Union Elementary School District",
+   "id": "fcfe2b78b8c04727",
+   "district": "Los Molinos Unified School District",
    "state": "CA",
-   "leaid": "0608250",
-   "source": "Board meeting",
-   "meeting": "October 13, 2026 Board Agenda",
-   "date": "2026-10-13",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2026/10/10-13-26-Board-Agenda.docx.pdf",
+   "leaid": "0622860",
+   "source": "Budget / plan",
+   "meeting": "LREB Grant",
+   "date": "2026-11-05",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/1811bcdc-3ee1-4a81-a59e-107b62ebc4c6.pdf",
    "categories": [
     "Funding"
    ],
@@ -231,99 +59,782 @@
    "terms": [
     "learning recovery"
    ],
-   "snippet": "ACTION 7.1 Learning Recovery Emergency Block Grant Update and Consideration of Approval for Remaining Funds 7.2 Consider Approval of Board Resolution #10-13-26-01 to Approve the Amended Joint Powers Agreement (JPA) of Central Region School Insurance Group (CRSIG)...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "snippet": "Learning Recovery Emergency Block Grant Status: Submitted LEA:...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
   },
   {
-   "id": "982b0be859e51931",
-   "district": "Chatom Union Elementary School District",
+   "id": "6d3e4865503e5e38",
+   "district": "Los Molinos Unified School District",
    "state": "CA",
-   "leaid": "0608250",
+   "leaid": "0622860",
+   "source": "Budget / plan",
+   "meeting": "LREB Grant",
+   "date": "2026-11-05",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/1811bcdc-3ee1-4a81-a59e-107b62ebc4c6.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "lrebg"
+   ],
+   "snippet": "...for pupils, such as diagnostic, progress monitoring, and benchmark assessments of pupil learning. $0 $116,252 $116,252 Total Budget Amount $0 $234,203 $234,203 LREBG Allocation FY 2022\u201323 Expenditures FY 2023\u201324 Expenditures Total Combined Expenditures Cash Balance $797,900 $0 $234,203 $234,203 $563,697 File created on...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "2160e779110fb939",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Budget / plan",
+   "meeting": "Educator Effectiveness Block Grant",
+   "date": "2026-11-05",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/8e2aa2d9-ed6e-4c34-b61b-79f30cd5bfe3/Educator-Effectiveness-BUSD.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessionals"
+   ],
+   "snippet": "...fiscal years 2021\u201322, 2022\u201323, 2023\u201324, 2024\u201325, and 2025\u201326. LEAs may use these allocated funds to provide professional learning for teachers, administrators, paraprofessionals who work with students, and classified staff that interact with students in order to promote educator equity, quality, and effectiveness. The...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "31f46cf411975494",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Budget / plan",
+   "meeting": "Educator Effectiveness Block Grant",
+   "date": "2026-11-05",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/8e2aa2d9-ed6e-4c34-b61b-79f30cd5bfe3/Educator-Effectiveness-BUSD.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessionals"
+   ],
+   "snippet": "...ture Plan The following table provides the LEA\u2019s expenditure plan for how it will use EEBG funds to provide professional learning for teachers, administrators, paraprofessionals who work with students, and classified staff that interact with students in order to promote educator equity, quality, and effectiveness. The...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "dbf553a4a4c24b92",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Budget / plan",
+   "meeting": "Educator Effectiveness Block Grant",
+   "date": "2026-11-05",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/8e2aa2d9-ed6e-4c34-b61b-79f30cd5bfe3/Educator-Effectiveness-BUSD.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessionals"
+   ],
+   "snippet": "The description can be brief and/or in list form. Include the group that will receive the professional learning (teachers, administrators, paraprofessionals who work with students and classified staff that interact with students). Educator Effectiveness Block Grant 2021 for Mark West Union School District Page 6 of 6 \u25cf...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "2db497ced4e549fe",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Budget / plan",
+   "meeting": "Educator Effectiveness Block Grant",
+   "date": "2026-11-05",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/8e2aa2d9-ed6e-4c34-b61b-79f30cd5bfe3/Educator-Effectiveness-BUSD.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessionals"
+   ],
+   "snippet": "...and adopt a plan delineating the expenditure of funds apportioned pursuant to this section, including the professional development of teachers, administrators, paraprofessionals, and classified staff. The plan shall be presented in a public meeting of the governing board of the school district, county board of educatio...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "90c5d77dc11642d7",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Budget / plan",
+   "meeting": "Educator Effectiveness Block Grant",
+   "date": "2026-11-05",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/8e2aa2d9-ed6e-4c34-b61b-79f30cd5bfe3/Educator-Effectiveness-BUSD.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "...er 30, 2026, report detailed expenditure information to CDE, including, but not limited to, specific purchases made and the number of teachers, administrators, paraprofessional educators, or classified staff that received professional development. The CDE shall determine the format for this report....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "5f79921d5d55dfd6",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Budget / plan",
+   "meeting": "Educator Effectiveness Block Grant",
+   "date": "2026-11-05",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/8e2aa2d9-ed6e-4c34-b61b-79f30cd5bfe3/Educator-Effectiveness-BUSD.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant funds"
+   ],
+   "snippet": "Professional Development will also focus $85,000. $161,303.00 Total Educator Effectiveness Block Grant funds awarded to the LEA Educator Effectiveness Block Grant 2021 for Mark West Union School District Page 2 of 6 Allowable Use of Funds Planned Use of Funds (Actions) Planned Expenditures around social-emotional learn...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "9adc9d766e88af84",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Budget / plan",
+   "meeting": "Educator Effectiveness Block Grant",
+   "date": "2026-11-05",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/8e2aa2d9-ed6e-4c34-b61b-79f30cd5bfe3/Educator-Effectiveness-BUSD.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant funds"
+   ],
+   "snippet": "Instructions to complete the template: Total Educator Effectiveness Block Grant funds awarded to the LEA Provide the total amount of Educator Effectiveness Block Grant funds the LEA is awarded. Allowable Use of Funds Table The table is in three parts, Allowable Use of Funds, Planned Use of Funds (Actions), and Planned...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "c54a9df8e697c4e7",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
    "source": "Board meeting",
-   "meeting": "September 8, 2026 Board Agenda",
-   "date": "2026-09-08",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2026/09/09-08-26-Board-Agenda.docx.pdf",
+   "meeting": "Agenda",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/fbc9c692-00ce-4a18-a0da-c5b903a08915/October%2014%202026%20%20Agenda.pdf",
    "categories": [
     "New positions"
    ],
    "hot": true,
    "terms": [
-    "paraeducator"
+    "instructional aide"
    ],
-   "snippet": "2.1.1 Yard/Cafeteria Supervisor 1 hour 2.1.2 Bilingual Paraeducator 3.25 hours 2.1.3 Request Authority for the Superintendent to Hire Vacant Classified Staff Members that are Time Sensitive Under the Direction of the Board President or Board Representative...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "snippet": "B. Approve an additional .09375 FTE to the current RCA Instructional Aide position to make it 5.25 HR effective upon hire...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
   },
   {
-   "id": "714e13647965260b",
-   "district": "Chatom Union Elementary School District",
+   "id": "3e8742d2f2cded82",
+   "district": "Biggs Unified School District",
    "state": "CA",
-   "leaid": "0608250",
+   "leaid": "0605040",
    "source": "Board meeting",
-   "meeting": "August 11, 2026 Board Minutes",
-   "date": "2026-08-11",
-   "url": "https://chatom.k12.ca.us/wp-content/uploads/2026/09/08-11-26-Board-MINUTES-.docx.pdf",
+   "meeting": "Agenda",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/fbc9c692-00ce-4a18-a0da-c5b903a08915/October%2014%202026%20%20Agenda.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "paraeducator"
+    "instructional aide"
    ],
-   "snippet": "...the opportunities they will provide for students to collaborate and work on projects. She concluded by sharing that April Mailloux would be starting as the Art Paraeducator on Wednesdays at Mountain View. Chatom State Preschool Director, Sandra Nunes, shared that there were currently 21 students enrolled in the morning...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "snippet": "Approve an additional 6 HR SDC Instructional Aide position at BES B....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
   },
   {
-   "id": "a3cfccaaccc58723",
-   "district": "Woodbury Central Community School District",
-   "state": "IA",
-   "leaid": "1931950",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-04",
-   "url": "https://www.woodbury-central.k12.ia.us/our_school/school_board/e_s_s_e_r_funding",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "esser"
-   ],
-   "snippet": "ESSER Funding - Woodbury Central Community School District...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "b1660a1514eb743b",
-   "district": "Mesick Consolidated Schools",
-   "state": "MI",
-   "leaid": "2623670",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-04",
-   "url": "https://www.mesick.org/page/title-12",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title 1"
-   ],
-   "snippet": "Title 1 | Mesick Consolidated Schools Skip to content...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "8e25c588400f3552",
-   "district": "Finneytown Local School District",
-   "state": "OH",
-   "leaid": "3904733",
+   "id": "d119d0bd6714a723",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
    "source": "Board meeting",
-   "meeting": "Special Meeting May 6th",
-   "date": "2026-11-04",
-   "url": "https://finneytown.org/wp-content/uploads/2024/05/Agenda-240506SpecMtg.pdf",
+   "meeting": "Agenda",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/fbc9c692-00ce-4a18-a0da-c5b903a08915/October%2014%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Accept resignation of RCA 4.5 HR Instructional Aide, Jennifer Hamill, effective September 30, 2026 B....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "cdd7d2b01bae183b",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/fbc9c692-00ce-4a18-a0da-c5b903a08915/October%2014%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "E. Approve Kadie Williams as a Substitute Classified Instructional Aide F....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "fc06362a25fdbd66",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/fbc9c692-00ce-4a18-a0da-c5b903a08915/October%2014%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "F. Approve Martin Glasenapp as a Gate Worker and a Substitute Classified Instructional Aide G....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "5a6c30ce00bd188a",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/fbc9c692-00ce-4a18-a0da-c5b903a08915/October%2014%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "H. Approve Lilianna Chavez for the Long Term SDC Instructional Aide Substitute position I....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "fb3a0281438ae3d4",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/fbc9c692-00ce-4a18-a0da-c5b903a08915/October%2014%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "I. Approve Amberlee Gruber as a Substitute Classified Instructional Aide 16....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "9627bfa75796c82b",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "10/14/2026 Packet",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/000e966c-4fa6-4169-bdbf-c2d07ad5734d/October%2014%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": true,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "B. Approve an additional .09375 FTE to the current RCA Instructional Aide position to make it 5.25 HR effective upon hire Pg...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "c83636b9c93ff68f",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "10/14/2026 Packet",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/000e966c-4fa6-4169-bdbf-c2d07ad5734d/October%2014%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Approve an additional 6 HR SDC Instructional Aide position at BES B....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "440852830e5683a5",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "10/14/2026 Packet",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/000e966c-4fa6-4169-bdbf-c2d07ad5734d/October%2014%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Accept resignation of RCA 4.5 HR Instructional Aide, Jennifer Hamill, effective September 30, 2026 B....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "21d32375804ebdbf",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "10/14/2026 Packet",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/000e966c-4fa6-4169-bdbf-c2d07ad5734d/October%2014%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "E. Approve Kadie Williams as a Substitute Classified Instructional Aide F....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "9c6b4ebb2c52a6c8",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "10/14/2026 Packet",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/000e966c-4fa6-4169-bdbf-c2d07ad5734d/October%2014%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "F. Approve Martin Glasenapp as a Gate Worker and a Substitute Classified Instructional Aide G....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "ab27806652eb5151",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "10/14/2026 Packet",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/000e966c-4fa6-4169-bdbf-c2d07ad5734d/October%2014%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "H. Approve Lilianna Chavez for the Long Term SDC Instructional Aide Substitute position I....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "cfee1b9cdfc6f298",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "10/14/2026 Packet",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/000e966c-4fa6-4169-bdbf-c2d07ad5734d/October%2014%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "I. Approve Amberlee Gruber as a Substitute Classified Instructional Aide 16....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "d098f557bf8f76ad",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "10/14/2026 Packet",
+   "date": "2026-10-14",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/000e966c-4fa6-4169-bdbf-c2d07ad5734d/October%2014%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "A. Approve Unpaid Leave of Absence for Instructional Aide, Lauryn Hoogeveen, beginning August 10, 2026 with a scheduled return date of September 21, 2026 B....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "09218ec9d7d5fa09",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-09-09",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/702c1f8c-109c-4ce9-ba7c-9accab703cff/Sept%209%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "A. Approve Unpaid Leave of Absence for Instructional Aide, Lauryn Hoogeveen, beginning August 10, 2026 with a scheduled return date of September 21, 2026 B....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "a24231db049f9a4d",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-09-09",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/702c1f8c-109c-4ce9-ba7c-9accab703cff/Sept%209%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "B. Approve Alexis Bagnani as a Classified Substitute Instructional Aide C....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "816a03b364ff935a",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-09-09",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/702c1f8c-109c-4ce9-ba7c-9accab703cff/Sept%209%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Approve Avery Chavez as a Special Circumstances 1 on 1 Instructional Aide at BES N....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "827c50d072a2874d",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "09/09/2026 Packet",
+   "date": "2026-09-09",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/e6c354fb-2042-4f68-8c2e-0a6cab7ba85f/Sept%209%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "A. Approve Unpaid Leave of Absence for Instructional Aide, Lauryn Hoogeveen, beginning August 10, 2026 with a scheduled return date of September 21, 2026 B....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "d4d663bc25ebf432",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "09/09/2026 Packet",
+   "date": "2026-09-09",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/e6c354fb-2042-4f68-8c2e-0a6cab7ba85f/Sept%209%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "B. Approve Alexis Bagnani as a Classified Substitute Instructional Aide C....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "9940abae379cd455",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "09/09/2026 Packet",
+   "date": "2026-09-09",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/e6c354fb-2042-4f68-8c2e-0a6cab7ba85f/Sept%209%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Approve Avery Chavez as a Special Circumstances 1 on 1 Instructional Aide at BES Pg 277-279 N....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "337bdd55e0b04335",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "08/12/2026 Packet",
+   "date": "2026-08-12",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/a7c3766b-f50b-412b-945e-eeed48d2758f/August%2012%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": true,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Approve hiring Jennifer Hamill as a 4.5 HR Instructional Aide at RCA effective August 4, 2026 C....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "851984f77a57cb0c",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "08/12/2026 Packet",
+   "date": "2026-08-12",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/a7c3766b-f50b-412b-945e-eeed48d2758f/August%2012%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "grant funds",
+    "learning recovery"
+   ],
+   "snippet": "W. Approve quote from Paradigm for Math curriculum pilot using Learning Recovery Block Grant Funds X....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "71821abf5ff95124",
+   "district": "Iowa Valley Community School District",
+   "state": "IA",
+   "leaid": "1914850",
+   "source": "Board meeting",
+   "meeting": "SERIES 100: School District",
+   "date": "2026-11-05",
+   "url": "https://www.ivcsd.org/District_Information/School Board/100 Board Policy Series.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "...ing: o state indicators and other locally determined indicators, o locally established student learning goals, o specific data collection required by state and federal programs; \uf0b7\uf020Provisions for collecting and analyzing assessment data on the following:...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "e489d97ad66b68a2",
+   "district": "Shoshone Joint School District 312",
+   "state": "ID",
+   "leaid": "1602940",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-05",
+   "url": "https://shoshonesd.org/federal-programs/",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "Federal Programs \u2013 Shoshone School District Skip to content...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "ed9c41004380a392",
+   "district": "Cass City Public Schools",
+   "state": "MI",
+   "leaid": "2608400",
+   "source": "Board meeting",
+   "meeting": "September 2026",
+   "date": "2026-11-05",
+   "url": "https://casscity4-cdn.fxbrt.com/downloads/board_of_education/minutesregularsept2026.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": true,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "MOTION CARRIED. A motion was made by Janie Meeker, supported by George Batty to hire Kali Friday as a Paraprofessional at the Elementary building. All Ayes....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "4462dfc8c3cd33a4",
+   "district": "Hollandale School District",
+   "state": "MS",
+   "leaid": "2801890",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-05",
+   "url": "https://www.hollandalesd.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "Federal Programs Skip To Main Content Federal Programs Overview The federal government provides financial assistance to local school districts to provide for different initiatives within the district. Below is an explanation of these title programs and the initiatives they are designed to support....",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "3b0d7dfacbe72c14",
+   "district": "Hollandale School District",
+   "state": "MS",
+   "leaid": "2801890",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-05",
+   "url": "https://www.hollandalesd.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Title I This program provides financial assistance through State educational agencies (SEAs) to local educational agencies (LEAs) and public schools with high numbers or percentages of poor children to help ensure that all children meet challenging State academic content and student academic achievement standards. LEAs...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "f44eaaf9c52d2851",
+   "district": "Hollandale School District",
+   "state": "MS",
+   "leaid": "2801890",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-05",
+   "url": "https://www.hollandalesd.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i",
+    "title i, part a",
+    "title ii"
+   ],
+   "snippet": "Title I, Part A funds generally offer the following initiatives and programs. Smaller classes or special instructional spaces Additional teachers and aides Opportunities for professional development for school staff extra time for teaching Title I students the skills they need a variety of supplementary teaching method...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "c74a067ac14141a9",
+   "district": "Hollandale School District",
+   "state": "MS",
+   "leaid": "2801890",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-05",
+   "url": "https://www.hollandalesd.org/departments/federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title iv"
+   ],
+   "snippet": "...ies or instructional materials used as part of professional development activities Carry out teacher advancement initiatives that promotes professional growth. Title IV This program is used to support districts in providing a well-rounded and safe education for students. Title IV, Part A funds generally offer the follo...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "f58e9cacfcaa0fcf",
+   "district": "Three Forks Elementary School District",
+   "state": "MT",
+   "leaid": "3026160",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-05",
+   "url": "https://www.tfschools.com/page/three-forks-esser-3-plan",
    "categories": [
     "Funding"
    ],
@@ -331,129 +842,111 @@
    "terms": [
     "esser"
    ],
-   "snippet": "12. RESOLUTION AUTHORIZING THE PAYMENT OF STIPENDS FROM ESSER FUNDS It is recommended that the Board approve the following resolution: WHEREAS, in the course of negotiations, ESSER Stipends were negotiated between the Finneytown Local School District Board of Education (Board) and its Finneytown Education Association (...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "snippet": "Three Forks ESSER 3 Plan | Three Forks School District Skip to content...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
   },
   {
-   "id": "1f8a47a3a520c53a",
-   "district": "Union School District",
+   "id": "e28b9e04ce49bf1c",
+   "district": "Rockaway Borough School District",
+   "state": "NJ",
+   "leaid": "3414100",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-05",
+   "url": "https://www.rockboro.org/departments/title-1",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1",
+    "title i"
+   ],
+   "snippet": "1 Skip To Main Content ESEA- Title 1 ESEA- (Title 1) Title I- Parent Information Letter Title I- Parent Right to Know Letter Title I/W.I.N.- Parent Meeting W.I.N. Prresentation...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "2b51ad37a42d4f20",
+   "district": "Cornell School District",
    "state": "PA",
-   "leaid": "4224120",
+   "leaid": "4206810",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-11-04",
-   "url": "http://www.unionsd.net/programs/title-1.html",
+   "date": "2026-11-05",
+   "url": "https://www.cornellsd.org/apps/pages/index.jsp?uREC_ID=444984&type=d",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "title 1"
+    "title i"
    ],
-   "snippet": "Union School District - Title 1 2020-2021 Introduction On December 10, 2015 a new Federal education law was signed by the President. This law, the Every Student Succeeds Act (ESSA), requires schools that receive federal Title IA funding adopt written procedures for resolving complaints filed....",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "snippet": "Title I \u2013 Title I \u2013 Cornell School District Title I \u00bb Title I Title I Title I is a 100% Federally funded supplemental education program that provides financial assistance to local educational agencies to improve educational opportunities for educationally deprived children. Title I programs are designed to help childre...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
   },
   {
-   "id": "e376f0e192fada4e",
-   "district": "Union School District",
+   "id": "efb6800737ed37a9",
+   "district": "Millville Area School District",
    "state": "PA",
-   "leaid": "4224120",
+   "leaid": "4215450",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-11-04",
-   "url": "http://www.unionsd.net/programs/title-1.html",
+   "date": "2026-11-05",
+   "url": "https://www.millsd.us/district-info/arpesser",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "federal programs"
+    "esser"
    ],
-   "snippet": "You need JavaScript enabled to view it. 814-473-6311 x0 2) Notice to School \u2013 The Federal Programs Director will notify the school Superintendent and Building Principal that a complaint has been received. A copy of the complaint will be given to the Superintendent and Building Principal with directions given for the Pr...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "snippet": "Health & Safety / ESSER - Millville Area School District Skip To Main Content Health & Safety / ESSER Based on updated guidance from the CDC, the Millville Area School Board of Education approved the updated Health and Safety Plan for Millville Area School District on Monday, March 25, 2024. MASD Health & Safety Plan...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
   },
   {
-   "id": "2b81a5fc0bc84f39",
-   "district": "Union School District",
+   "id": "568d477027660c3f",
+   "district": "Millville Area School District",
    "state": "PA",
-   "leaid": "4224120",
+   "leaid": "4215450",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-11-04",
-   "url": "http://www.unionsd.net/programs/title-1.html",
+   "date": "2026-11-05",
+   "url": "https://www.millsd.us/district-info/arpesser",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "federal programs"
+    "arp esser",
+    "esser"
    ],
-   "snippet": "...iving the Principal\u2019s response, the Central Office, along with the Superintendent, will determine whether further investigation is necessary. If necessary, the Federal Programs Director and the Superintendent may do an onsite investigation at the school. 4) Opportunity to Present Evidence \u2013 The Federal Programs Directo...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "snippet": "MASD Health & Safety Plan 3.25.24 ARP ESSER Stakeholder Engagement Meeting February 24, 2022 ARP ESSER After School Set Aside August 10, 2022 ARP ESSER Learning Loss Set Aside ARP ESSER Summer Set Aside August 10, 2022 Elementary And Secondary School Emergency Relief Fund II (ESSER FUND)...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
   },
   {
-   "id": "c0083d4dbd8a5a46",
-   "district": "Union School District",
+   "id": "6dc45934db3c4bb1",
+   "district": "Millville Area School District",
    "state": "PA",
-   "leaid": "4224120",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-04",
-   "url": "http://www.unionsd.net/programs/title-1.html",
+   "leaid": "4215450",
+   "source": "Board meeting",
+   "meeting": "Read More about Employment Opportunities at MASD 11/2/26",
+   "date": "2026-11-02",
+   "url": "https://www.millsd.us/programsresources/default-board-post-page-2/~board/district-news/post/employment-opportunities-at-masd-92526-1793646941940",
    "categories": [
-    "Funding"
+    "New positions"
    ],
    "hot": false,
    "terms": [
-    "federal programs"
+    "paraprofessional"
    ],
-   "snippet": "The recommended resolution will become effective upon issuance of the report. 6) Follow up \u2013 The Federal Programs Director and the Superintendent will ensure that the resolution of the complaint is implemented. 7) Time Limit \u2013 The period between the Federal Programs Director receiving the complaint and resolution of th...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "2e88f928e7de4dc0",
-   "district": "Union School District",
-   "state": "PA",
-   "leaid": "4224120",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-04",
-   "url": "http://www.unionsd.net/programs/title-1.html",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "Ms. Susan McCrone, Chief Division of Federal Programs Pennsylvania Department of Education 333 Market Street, 7th Floor Harrisburg, PA 17126\u20100333 Attachments: File File size Last modified Title Complaint From for Schools and Non-Public Schools.pdf 159 kB 10-13-2020 13:35 Please feel free to make copies of the form atta...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
-  },
-  {
-   "id": "9614de6036b86045",
-   "district": "Santa Maria Independent School District",
-   "state": "TX",
-   "leaid": "4839330",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-04",
-   "url": "https://www.smisd.net/community/esser-iii-information",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "esser iii"
-   ],
-   "snippet": "ESSER III Information - Santa Maria Independent School District Skip To Main Content ESSER III Information...",
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "snippet": "...he following positions: Anticipated Health Room Assistant / LPN Anticipated High School Head Cook Cafeteria Staff Physics/Engineering Teacher Teacher / Nurse / Paraprofessional / Cafeteria Substitutes MASD Employment Please submit letter of interest, resume, appropriate application, three references (professional staff...",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
   }
  ]
 }
