@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:34:48+00:00",
+ "updated": "2026-11-06T14:24:02+00:00",
  "states": {
   "AK": {
    "count": 28,
@@ -134,7 +134,7 @@
    "hot": 0
   },
   "OH": {
-   "count": 241,
+   "count": 256,
    "hot": 1
   },
   "OK": {
@@ -166,7 +166,7 @@
    "hot": 0
   },
   "TX": {
-   "count": 414,
+   "count": 415,
    "hot": 0
   },
   "UT": {
@@ -198,12 +198,12 @@
    "hot": 0
   }
  },
- "sources": 6533,
- "checked_ever": 6533,
+ "sources": 6540,
+ "checked_ever": 6540,
  "run": {
-  "ok": 472,
-  "problem": 247,
-  "skipped": 102
+  "ok": 3633,
+  "problem": 848,
+  "skipped": 94
  },
- "new": 47
+ "new": 16
 }

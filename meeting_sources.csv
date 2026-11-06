@@ -3721,9 +3721,9 @@ NJ,3410770,Morris Plains Borough School District,funding,https://www.morrisschoo
 NJ,3401170,Barrington Borough School District,boardpage,https://www.barringtonschools.org/browse/62037,no
 NJ,3412090,Ocean Township School District,boarddocs,https://go.boarddocs.com/nj/tosd/Board.nsf/Public,no
 NJ,3412090,Ocean Township School District,funding,https://www.oceanschools.org/parent-resources/essatitle-i-information-for-parents,no
+NJ,3402790,Carlstadt Borough School District,boarddocs,https://go.boarddocs.com/nj/carlstadt/Board.nsf/Public,no
 NJ,3414100,Rockaway Borough School District,boardpage,https://www.rockboro.org/board-of-education,no
 NJ,3414100,Rockaway Borough School District,funding,https://www.rockboro.org/departments/title-1,no
-NJ,3402790,Carlstadt Borough School District,boarddocs,https://go.boarddocs.com/nj/carlstadt/Board.nsf/Public,no
 NM,3501080,Gadsden Independent Schools,boardpage,https://www.gisd.k12.nm.us/28763_1,no
 NM,3501110,Gallup-Mckinley County Schools,boardpage,https://www.gmcs.org/page/board-of-education,no
 NM,3501260,Hobbs Municipal Schools,boardpage,https://www.hobbsschools.net/o/hms/page/board-of-education,no
@@ -4119,10 +4119,10 @@ NY,3619830,Moriah Central School District,funding,https://moriahk12.org/grants/,
 NY,3631290,Whitehall Central School District,boardpage,https://www.whitehallschools.org/apps/pages/index.jsp?uREC_ID=1563627&type=d&pREC_ID=1695558,no
 NY,3618540,Marion Central School District,boardpage,https://www.marionschools.net/school_board,no
 NY,3618540,Marion Central School District,funding,https://www.marionschools.net/departments/grants_federal_programs,no
-NY,3622140,South Seneca Central School District,boardpage,https://SOUTHSENECA.ORG/board-of-education,no
-NY,3622140,South Seneca Central School District,funding,https://SOUTHSENECA.ORG/title-i-information,no
 NY,3611070,Fillmore Central School District,boardpage,https://www.fillmorecentral.org/page/board-of-education-information,no
 NY,3611070,Fillmore Central School District,funding,https://www.fillmorecentral.org/page/essers-use-of-funds,no
+NY,3622140,South Seneca Central School District,boardpage,https://SOUTHSENECA.ORG/board-of-education,no
+NY,3622140,South Seneca Central School District,funding,https://SOUTHSENECA.ORG/title-i-information,no
 NY,3629910,Warrensburg Central School District,boarddocs,https://go.boarddocs.com/ny/warrensburg/Board.nsf/Public,no
 NY,3619260,Middleburgh Central School District,boarddocs,https://www.boarddocs.com/ny/middleburghcsd/Board.nsf/vpublic?open,no
 NY,3609360,Duanesburg Central School District,boarddocs,https://go.boarddocs.com/ny/duanesburg/Board.nsf/Public,no
@@ -4172,6 +4172,7 @@ OH,3904371,Canton City School District,boardpage,https://www.ccsdistrict.org/453
 OH,3904371,Canton City School District,funding,https://www.ccsdistrict.org/45626_2,no
 OH,3904418,Kettering City School District,boardpage,https://www.ketteringschools.org/district-office/board-of-education,no
 OH,3904487,Sylvania City School District,boarddocs,https://go.boarddocs.com/oh/sylvania/Board.nsf/Public,no
+OH,3904700,Reynoldsburg City School District,boarddocs,https://go.boarddocs.com/oh/reyn/Board.nsf/Public,no
 OH,3904549,Mentor Exempted Village School District,boardpage,https://www.mentorschools.net/apps/pages/index.jsp?uREC_ID=1575351&type=d&pREC_ID=1703594,no
 OH,3904510,Willoughby-Eastlake City School District,boarddocs,https://go.boarddocs.com/oh/wecs/Board.nsf/Public,no
 OH,3904510,Willoughby-Eastlake City School District,funding,https://www.weschools.org/departments/teaching-learning-and-innovation/title-i-program,no
@@ -4357,6 +4358,8 @@ OH,3904359,Bellevue City School District,boarddocs,https://go.boarddocs.com/oh/b
 OH,3904500,Warrensville Heights City School District,boarddocs,https://go.boarddocs.com/oh/whcs/Board.nsf/goto?open&id=CWGQLK66F011,no
 OH,3904500,Warrensville Heights City School District,funding,https://www.warrensville.k12.oh.us/page/accountability-federal-programs,no
 OH,3904428,Madeira City School District,boardpage,https://www.madeira.org/about-madeira/board-of-trustees,no
+OH,3904834,Poland Local School District,boarddocs,http://go.boarddocs.com/oh/poland/Board.nsf/goto?open&id=BZTMJN59CEAC,no
+OH,3904834,Poland Local School District,funding,https://www.polandbulldogs.com/departments/curriculum/title-i,no
 OH,3905006,Springfield Local School District,boardpage,https://www.springfieldschools.com/board-of-education,no
 OH,3905006,Springfield Local School District,funding,https://www.springfieldschools.com/administration/curriculum-instruction-assessment/parent-communication/title-i-programs,no
 OH,3904443,Napoleon Area City School District,boardpage,https://www.napoleonareaschools.org/board-of-education,no
@@ -4383,6 +4386,7 @@ OH,3904587,Jefferson Area Local School District,boardpage,https://www.jalsd.org/
 OH,3904587,Jefferson Area Local School District,funding,https://www.jalsd.org/schoolimprovement,no
 OH,3904807,Benjamin Logan Local School District,boarddocs,https://go.boarddocs.com/oh/benj/Board.nsf/Public,no
 OH,3904799,Lakewood Local School District,boardpage,https://www.lakewoodlocal.k12.oh.us/district/school-board,no
+OH,3904560,Rossford Exempted Village School District,boardpage,https://www.rossfordschools.org/protected/EventView.aspx?id=9G3UI3AB0Y,no
 OH,3904798,Johnstown-Monroe Local School District,boarddocs,https://go.boarddocs.com/ny/johnstown/Board.nsf/,no
 OH,3904377,Claymont City School District,boardpage,https://www.claymontschools.org/protected/EventView.aspx?id=8AB3YIIAB,no
 OH,3904599,St. Clairsville-Richland City School District,boardpage,https://www.stcschools.com/page/school-board,no
@@ -4472,6 +4476,8 @@ OH,3904758,Liberty Center Local School District,boardpage,https://simbli.eboards
 OH,3904758,Liberty Center Local School District,funding,https://www.lps53.org/academics/special-programs/federal-programs,no
 OH,3904879,Cardington-Lincoln Local School District,boarddocs,https://go.boarddocs.com/oh/cardingl/Board.nsf/Public?open&id=policies,no
 OH,3904857,Parkway Local School District,boardpage,https://www.parkwayschools.org/administration/parkway_board_of_education,no
+OH,3904921,Rootstown Local School District,boarddocs,https://go.boarddocs.com/oh/root/Board.nsf/Public,no
+OH,3904921,Rootstown Local School District,funding,https://www.roversk12.org/curriculum/title-i-programs/,no
 OH,3904537,Georgetown Exempted Village School District,boardpage,https://www.gtown.k12.oh.us/page/board-of-education,no
 OH,3904537,Georgetown Exempted Village School District,funding,https://www.gtown.k12.oh.us/page/title-i,no
 OH,3904814,Columbia Local School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=36031697,yes
@@ -5985,8 +5991,8 @@ TX,4839780,Seymour Independent School District,funding,https://www.seymourschool
 TX,4832910,Normangee Independent School District,boardpage,https://www.normangeeisd.org/283228_2,no
 TX,4812870,Carlisle Independent School District,boardpage,https://www.carlisleschools.org/school_board,no
 TX,4812870,Carlisle Independent School District,funding,https://www.carlisleschools.org/our_district/Business_Office/ARP_ESSER,no
-TX,4842630,Thorndale Independent School District,boardpage,https://www.thorndale.txed.net/180763_2,no
 TX,4823460,Honey Grove Independent School District,boardpage,https://honeygroveisd.net/324667_2,no
+TX,4842630,Thorndale Independent School District,boardpage,https://www.thorndale.txed.net/180763_2,no
 TX,4819110,Farwell Independent School District,boardpage,https://www.farwellschools.org/page/dis.agendas_minutes,no
 TX,4819110,Farwell Independent School District,funding,https://www.farwellschools.org/upload/page/0018/docs/Title%201/Title%20I%20Statement.pdf,no
 TX,4831950,Mumford Independent School District,boardpage,https://www.mumford.k12.tx.us/page19.html,no
@@ -6474,6 +6480,7 @@ WI,5506870,Iowa-Grant School District,funding,https://www.igs.k12.wi.us/,no
 WI,5516740,Williams Bay School District,boardpage,https://www.williamsbayschools.org/board-of-education,no
 WI,5514190,Spencer School District,funding,https://www.spencerschools.org/o/scsd/page/school-improvement-overview,no
 WI,5507170,Johnson Creek School District,funding,https://www.jcschools.org/departments/federal-programs,no
+WI,5500630,Augusta School District,boardpage,https://www.augustachronicle.com/story/news/politics/elections/2026/11/06/same-candidates-two-elections-on-richmond-county-georgia-board-of-education-runoff-ballot/92628522007/,no
 WI,5500210,Alma Center School District,boarddocs,https://go.boarddocs.com/mi/alma/Board.nsf/Public,no
 WI,5512690,Reedsville School District,boardpage,https://reedsvillewi.gov/agendas-minutes,no
 WI,5510770,Norwalk-Ontario-Wilton School District,boardpage,https://www.norwalkschools.org/district/school-board/,no
