@@ -60,7 +60,7 @@ AL,0101170,Decatur City School District,boardpage,https://www.dcs.edu/browse/202
 AL,0101170,Decatur City School District,funding,https://www.dcs.edu/page/federal-programs,no
 AL,0101140,Dekalb County School District,boardpage,https://www.dekalbschools.net/boardagendas,no
 AL,0101140,Dekalb County School District,funding,https://www.dekalbschools.net/federalprograms,no
-AL,0101380,Etowah County School District,boardpage,https://www.ecboe.org/en-US,no
+AL,0101380,Etowah County School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36031381,yes
 AL,0101230,Dothan City School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=2058,yes
 AL,0101230,Dothan City School District,funding,https://www.dothan.k12.al.us/departments/federal-programs,no
 AL,0102010,Lauderdale County School District,boardpage,https://simbli.eboardsolutions.com/AboutUs/AboutUs.aspx?S=2017&TID=1,yes
@@ -101,6 +101,7 @@ AL,0101050,Dale County School District,funding,https://www.dalecountyboe.org/fed
 AL,0100330,Bessemer City School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=2125,yes
 AL,0100330,Bessemer City School District,funding,https://www.bessk12.org/departments/federal-programs,no
 AL,0100360,Bibb County School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=36030873,yes
+AL,0100360,Bibb County School District,funding,https://www.bibbed.org/federal,no
 AL,0102400,Monroe County School District,boarddocs,https://go.boarddocs.com/wi/monr/Board.nsf/Public,no
 AL,0100510,Butler County School District,boardpage,https://www.butlerco.k12.al.us/our-district/board-of-education,no
 AL,0100030,Alexander City City School District,funding,https://www.alexcityschools.net/teaching-learning/federal-programs,no
@@ -194,6 +195,7 @@ AR,0507890,Hot Springs School District,boardpage,https://hssd.diligent.community
 AR,0508670,Lakeside School District,boardpage,https://www.lakesidesd.com/89333_2,no
 AR,0500026,Pine Bluff School District,boardpage,https://www.pinebluffschools.org/page/pbsd-school-board,no
 AR,0500044,Magnolia School District,boardpage,https://www.magnoliaschools.net/o/msd/page/board-of-education,no
+AR,0514430,Wynne Public Schools,funding,https://www.wynneschools.org/page/federal-programs,no
 AR,0507840,Hope School District,boardpage,https://www.hpsdistrict.org/page/board-of-education2,no
 AR,0506060,Camden Fairview School District,boardpage,https://cfsd.k12.ar.us/school-board,no
 AR,0506270,Forrest City School District,boardpage,https://www.mustang.grsc.k12.ar.us/board-of-education,no
@@ -374,7 +376,7 @@ CA,0633840,Sacramento City Unified School District,boardpage,https://simbli.eboa
 CA,0633840,Sacramento City Unified School District,funding,https://www.scusd.edu/explore/programs-services/community-schools/grant-applications-and-legislation,no
 CA,0614880,Garden Grove Unified School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36031832&ptid=amIgTZiB9plushNjl6WXhfiOQ==,yes
 CA,0634620,San Juan Unified School District,boardpage,https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030833&revid=c16gRQf5xPXEIH1aKyzi1A==&PG=6&st=professional%20standards&mt=Exact,yes
-CA,0684500,Irvine Unified School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36030267&MID=90957,yes
+CA,0684500,Irvine Unified School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36030267&MID=89721,yes
 CA,0638640,Sweetwater Union High School District,boardpage,https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030221&revid=PDHCW7WEYCf1D7Z74OhCEQ==&ptid=amIgTZiB9plushNjl6WXhfiOQ==&secid=9slshUHzTHxaaYMVf6zKpJz3Q==&PG=6&IRP=0,yes
 CA,0631530,Poway Unified School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36030791&MID=50393,yes
 CA,0628050,Oakland Unified School District,boarddocs,https://go.boarddocs.com/ca/ousd/Board.nsf/Public,no
@@ -501,9 +503,10 @@ CA,0608370,Chico Unified School District,funding,https://www.chicousd.org/Progra
 CA,0623160,Lynwood Unified School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030526,yes
 CA,0623160,Lynwood Unified School District,funding,https://www.mylusd.org/departments/educational-services/elementary-secondary-school-relief-fund-esser,no
 CA,0633750,Rowland Unified School District,boardpage,https://simbli.eboardsolutions.com/csba/rowlandusd,yes
+CA,0604290,Beaumont Unified School District,boardpage,https://www.beaumontusd.us/apps/events/2026/11/17/39542368/?REC_ID=39542368&id=0,no
 CA,0604290,Beaumont Unified School District,funding,https://www.beaumontusd.us/apps/news/article/2136469?categoryId=8968,no
 CA,0630210,Perris Union High School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=36030631,yes
-CA,0630210,Perris Union High School District,funding,https://www.perrisesd.org/page/curriculum-staff-development-categorical-programs,no
+CA,0630210,Perris Union High School District,funding,https://www.perrisesd.org/o/pesd/page/title-i-intervention,no
 CA,0614730,Fullerton Elementary School District,boarddocs,https://go.boarddocs.com/ca/fullertonsd/Board.nsf/Public,no
 CA,0633600,Roseville City Elementary School District,boardpage,https://simbli.eboardsolutions.com/policy/policylisting.aspx?s=36031056,yes
 CA,0633600,Roseville City Elementary School District,funding,https://www.rjuhsd.us/departments/education-services/plans-policies/csi-plan,no
@@ -518,7 +521,7 @@ CA,0630600,Pittsburg Unified School District,boarddocs,https://go.boarddocs.com/
 CA,0633630,Roseville Joint Union High School District,boardpage,https://simbli.eboardsolutions.com/policy/policylisting.aspx?s=36031056,yes
 CA,0633630,Roseville Joint Union High School District,funding,https://www.rjuhsd.us/departments/education-services/plans-policies/csi-plan,no
 CA,0629700,Palos Verdes Peninsula Unified School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36030360,yes
-CA,0615180,Gilroy Unified School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36030249&MID=75609,yes
+CA,0615180,Gilroy Unified School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36030249&MID=75610,yes
 CA,0629610,Palo Alto Unified School District,boarddocs,https://go.boarddocs.com/ca/pausd/Board.nsf/Public?open&id=policies,no
 CA,0629610,Palo Alto Unified School District,funding,https://www.pausd.org/about-us/funding/esser,no
 CA,0603690,Baldwin Park Unified School District,boardpage,https://www.bpusd.net/apps/pages/index.jsp?uREC_ID=822613&type=d&pREC_ID=1205101,no
@@ -631,7 +634,7 @@ CA,0630990,Pleasant Valley Elementary School District,boardpage,https://simbli.e
 CA,0630990,Pleasant Valley Elementary School District,funding,https://www.pleasantvalleysd.org/departments/educational-services/state-and-federal-programs,no
 CA,0617340,Hollister School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36030263,yes
 CA,0630180,Perris Elementary School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=36030631,yes
-CA,0630180,Perris Elementary School District,funding,https://www.perrisesd.org/page/curriculum-staff-development-categorical-programs,no
+CA,0630180,Perris Elementary School District,funding,https://www.perrisesd.org/o/pesd/page/title-i-intervention,no
 CA,0616470,Hanford Elementary School District,boardpage,https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030779&revid=isVEM7QPQzXL3lF1sRd8QA==&ptid=amIgTZiB9plushNjl6WXhfiOQ==&secid=amIgTZiB9plushNjl6WXhfiOQ==&PG=6&IRP=0&isPndg=false,yes
 CA,0616470,Hanford Elementary School District,funding,https://www.hanfordesd.org/departments/categorical-programs,no
 CA,0602160,Alta Loma Elementary School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=36030679,yes
@@ -668,7 +671,7 @@ CA,0621210,Lawndale Elementary School District,funding,https://www.lawndalesd.ne
 CA,0633390,Romoland Elementary School District,boardpage,https://simbli.eboardsolutions.com/index.aspx?s=36030407,yes
 CA,0618210,Imperial Unified School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36030264&MID=81071,yes
 CA,0620790,Lakeside Union Elementary School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030717,yes
-CA,0626280,Mountain View Whisman Elementary School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031895&MID=75168,yes
+CA,0626280,Mountain View Whisman Elementary School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031895&MID=75615,yes
 CA,0609120,Coalinga-Huron Unified School District,boardpage,https://agendaonline.net/public/coalinga-huron,no
 CA,0627590,North Monterey County Unified School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=36030348,yes
 CA,0627590,North Monterey County Unified School District,funding,https://www.nmcusd.org/about-us12/lcap/elo-grant-plan,no
@@ -712,6 +715,7 @@ CA,0612810,Enterprise Elementary School District,boardpage,https://www.eesd.net/
 CA,0612810,Enterprise Elementary School District,funding,https://www.eesd.net/notices-information/parent-involvement-and-education,no
 CA,0600052,Eureka City Unified School District,boardpage,https://eureka.novusagenda.com/agendapublic/meetingsgeneral.aspx,no
 CA,0600052,Eureka City Unified School District,funding,https://www.eurekacityschools.org/business/2002-bond-measure/quick-facts-about-eureka-school-improvements-bonds,no
+CA,0634140,San Benito High School District,boardpage,https://sanbenito.com/schmidt-leads-monaco-in-san-benito-county-board-of-education-race/,no
 CA,0632310,Rescue Union Elementary School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030370/,yes
 CA,0632310,Rescue Union Elementary School District,funding,https://www.rescueusd.org/About-RUSD/ELO-Grant/index.html,no
 CA,0612210,El Segundo Unified School District,boarddocs,https://go.boarddocs.com/ca/esusd/Board.nsf,no
@@ -736,14 +740,14 @@ CA,0641880,Weaver Union Elementary School District,boardpage,https://www.weaveru
 CA,0611910,Eastside Union Elementary School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030646,yes
 CA,0632640,Rincon Valley Union Elementary School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36030379,yes
 CA,0632640,Rincon Valley Union Elementary School District,funding,https://www.rvusd.org/esser-iii-plan,no
-CA,0637890,Standard Elementary School District,boardpage,https://www.standard.net/news/local/2026/oct/29/zach-thomas-focuses-on-community-engagement-communication-in-ogden-school-board-district-6-race/,no
+CA,0637890,Standard Elementary School District,funding,https://www.standard.net/news/local/2026/nov/04/democrats-woolstenhulme-james-choberka-lesser-graves-leading-utah-house-races/,no
 CA,0611520,Duarte Unified School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36030764,yes
 CA,0626220,Mountain View Elementary School District,boardpage,https://www.mtnview.k12.ca.us/apps/pages/index.jsp?uREC_ID=3769738&type=d&pREC_ID=2443581,no
 CA,0614700,Fruitvale Elementary School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36031121,yes
 CA,0611280,Dixon Unified School District,boardpage,http://dixon-ca.granicus.com/ViewPublisher.php?view_id=3,yes
 CA,0600061,Riverbank Unified School District,boardpage,https://assistive.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36030404,yes
-CA,0603270,Arvin Union School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030807,yes
 CA,0604110,Bassett Unified School District,boardpage,https://Simbli.eboardsolutions.com/csba/bassettusd,yes
+CA,0603270,Arvin Union School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030807,yes
 CA,0607140,Cambrian Elementary School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36031579,yes
 CA,0607140,Cambrian Elementary School District,funding,https://www.cambriansd.org/departments/educational-services/learning-recovery-emergency-block-grant,no
 CA,0629640,Palo Verde Unified School District,boardpage,https://simbli.eboardsolutions.com/index.aspx?S=36030358,yes
@@ -762,7 +766,7 @@ CA,0632270,Reef-Sunset Unified School District,boardpage,https://simbli.eboardso
 CA,0613290,Fairfax Elementary School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36030657,yes
 CA,0612840,Escalon Unified School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36030821,yes
 CA,0601423,Exeter Unified School District,funding,https://www.exetersd.org/title-i,no
-CA,0621450,Richland Union School District,boardpage,https://www.richlandsd.com/apps/events/2026/11/2/36063887/?REC_ID=36063887&id=0,no
+CA,0621450,Richland Union School District,boardpage,https://www.richlandsd.com/apps/events/2026/12/1/36063889/?REC_ID=36063889&id=0,no
 CA,0621450,Richland Union School District,funding,http://www.richlandsd.com/apps/pages/index.jsp?uREC_ID=1476596&type=d,no
 CA,0614250,Fowler Unified School District,boardpage,https://simbli.eboardsolutions.com/index.aspx?S=36030962,yes
 CA,0600068,Golden Valley Unified School District,boardpage,https://www.gvusd.org/agendas-and-minutes,no
@@ -773,7 +777,7 @@ CA,0628860,Orinda Union Elementary School District,boardpage,https://simbli.eboa
 CA,0622170,Livingston Union School District,boardpage,https://www.livingstonusd.org/apps/pages/index.jsp?uREC_ID=343358&type=d&pREC_ID=1392620,no
 CA,0622170,Livingston Union School District,funding,https://www.livingstonusd.org/apps/pages/index.jsp?uREC_ID=435329&type=d&pREC_ID=945873,no
 CA,0601428,Wiseburn Unified School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030921,yes
-CA,0620370,Laguna Beach Unified School District,boarddocs,http://go.boarddocs.com/ca/laguna/Board.nsf/goto?open&id=BLPP4V60332E,no
+CA,0620370,Laguna Beach Unified School District,boarddocs,https://go.boarddocs.com/ca/laguna/Board.nsf/Public,no
 CA,0620370,Laguna Beach Unified School District,funding,https://www.lbusd.org/departments/business/learning-recovery-emergency-block-grant,no
 CA,0600035,Farmersville Unified School District,boardpage,https://simbli.eboardsolutions.com/index.aspx?S=36030217,yes
 CA,0600039,Delhi Unified School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030616,yes
@@ -1051,7 +1055,6 @@ CT,0902280,Madison School District,boardpage,https://www.madisonschools.net/dist
 CT,0904860,Waterford School District,boarddocs,https://www.boarddocs.com/ct/waterford/Board.nsf/vpublic?open,no
 CT,0900060,Ansonia School District,boardpage,https://www.ansonia.org/board-of-education,no
 CT,0900840,Colchester School District,boardpage,https://www.colchesterct.org/board-of-education-office,no
-CT,0905010,Weston School District,boardpage,https://www.westonschools.org/school-committee/meetings-events/,no
 CT,0903520,Regional School District 10,boardpage,https://www.region10ct.org/board-of-education/members,no
 CT,0903990,Seymour School District,boardpage,https://www.seymourschools.org/board-of-education,no
 CT,0903990,Seymour School District,funding,https://www.seymourschools.org/district-departments/superintendent/school-improvement-plans,no
@@ -1105,7 +1108,6 @@ DE,1000170,Cape Henlopen School District,funding,https://www.capehenlopenschools
 DE,1001080,Milford School District,boardpage,https://www.milfordschooldistrict.org/our-district/leadership-and-governance/board-of-education,no
 DE,1001080,Milford School District,funding,https://www.milfordschooldistrict.org/our-district/departments/finance/grants,no
 DE,1000790,Lake Forest School District,boardpage,https://www.lakeforestschools.org/d671/board-of-education,no
-DE,1000790,Lake Forest School District,funding,https://www.lakeforestschools.org/,no
 FL,1200390,Dade County School District,boarddocs,https://go.boarddocs.com/fl/sbmd/Board.nsf/Public,no
 FL,1200180,Broward County School District,boardpage,https://www.browardschools.com/directory/school-board-leadership-staff-directory,no
 FL,1200870,Hillsborough County School District,boardpage,https://www.hillsboroughschools.org/page/school-board,no
@@ -1231,7 +1233,7 @@ GA,1300630,Bulloch County School District,boardpage,https://simbli.eboardsolutio
 GA,1300630,Bulloch County School District,funding,https://www.bulloch.k12.ga.us/learning-services/federal-programs,no
 GA,1300930,Catoosa County School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=4030&ptid=amIgTZiB9plushNjl6WXhfiOQ==,yes
 GA,1300930,Catoosa County School District,funding,https://www.catoosa.k12.ga.us/school-improvement-and-profession-2,no
-GA,1300570,Bryan County School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=4018,yes
+GA,1300570,Bryan County School District,boardpage,https://www.bryan.k12.ga.us/page/boe,no
 GA,1300780,Camden County School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=4025,yes
 GA,1300780,Camden County School District,funding,https://www.camden.k12.ga.us/page/federal-programs-strategic-initiatives-partnerships,no
 GA,1302190,Floyd County School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=4068,yes
@@ -1266,12 +1268,12 @@ GA,1305550,Wayne County School District,boardpage,https://simbli.eboardsolutions
 GA,1305550,Wayne County School District,funding,https://www.wayne.k12.ga.us/page/title-i,no
 GA,1303480,Madison County School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=4109,yes
 GA,1303480,Madison County School District,funding,https://www.madison.k12.ga.us/page/federal-programs,no
-GA,1303720,Monroe County School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=4117,yes
+GA,1303720,Monroe County School District,boardpage,https://www.monroe.k12.ga.us/page/board-of-education,no
 GA,1303360,Long County School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=4105,yes
 GA,1303360,Long County School District,funding,https://www.longcountyps.com/page/federal-programs,no
 GA,1303030,Jefferson City School District,boardpage,https://simbli.eboardsolutions.com/index.aspx?S=4094,yes
 GA,1303030,Jefferson City School District,funding,https://www.jeffcityschools.org/about-us/accreditation-2/school-improvement-documents,no
-GA,1304110,Pickens County School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=4128,yes
+GA,1304110,Pickens County School District,boardpage,https://www.pickens.k12.ga.us/o/pcs/page/board-of-education,no
 GA,1302340,Gilmer County School District,boardpage,https://www.gilmerschools.com/board-of-education,no
 GA,1302340,Gilmer County School District,funding,https://www.gilmerschools.com/federal-programs,no
 GA,1302040,Emanuel County School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=4064,yes
@@ -1607,7 +1609,6 @@ IL,1705790,Belvidere Consolidated Unit School District 100,boardpage,https://www
 IL,1705790,Belvidere Consolidated Unit School District 100,funding,https://www.district100.com/community/grant,no
 IL,1726400,Moline-Coal Valley School District 40,boardpage,https://www.molineschools.org/our-district/board-of-education,no
 IL,1711350,Crystal Lake Community Consolidated School District 47,boardpage,https://www.d47.org/board-of-education,no
-IL,1711350,Crystal Lake Community Consolidated School District 47,funding,https://www.d47.org/families/calendar/calendar-events/~occur-id/16592144_2026-11-06T00:00:00Z_2026-11-06T01:00:00Z,no
 IL,1743960,Yorkville Community Unit School District 115,boardpage,https://y115.diligent.community/Portal/,yes
 IL,1743960,Yorkville Community Unit School District 115,funding,https://www.y115.org/about-y115/title-1-funding-every-student-succeeds-act,no
 IL,1720610,Joliet Township High School District 204,boardpage,https://www.jths.org/board-of-education/appearance-before-the-board,no
@@ -1621,6 +1622,7 @@ IL,1734990,Round Lake Community Unit School District 116,boardpage,https://www.r
 IL,1718240,Harlem Unit School District 122,boardpage,https://www.harlem122.org/district/school-board,no
 IL,1743330,Woodstock Community Unit School District 200,boardpage,https://www.woodstockschools.org/school-board,no
 IL,1743330,Woodstock Community Unit School District 200,funding,https://www.woodstockschools.org/departments/grants,no
+IL,1717280,Granite City Community Unit School District 9,boardpage,https://www.graniteschools.org/blog/2026/11/06/board-meeting-agenda-november-10-2026/,no
 IL,1703600,Alton Community Unit School District 11,boardpage,https://www.altonschools.org/board-of-education,no
 IL,1703600,Alton Community Unit School District 11,funding,https://www.altonschools.org/title-1-schools,no
 IL,1713770,Community Consolidated School District 59,boardpage,https://www.ccsd59.org/board-of-education/,no
@@ -1715,7 +1717,6 @@ IL,1733420,Rich Township High School District 227,boardpage,https://www.richardt
 IL,1721870,Lake Villa Community Consolidated School District 41,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36032174,yes
 IL,1725020,Matteson Elementary School District 162,boardpage,https://www.sd162.org/22079_1,no
 IL,1724780,Marquardt School District 15,boardpage,https://d15.diligent.community/Portal/,yes
-IL,1724780,Marquardt School District 15,funding,https://www.d15.us/,no
 IL,1715420,Flossmoor School District 161,boarddocs,http://www.boarddocs.com/il/sd161/Board.nsf,no
 IL,1706120,Bethalto Consolidated Unit School District 8,boardpage,https://bethalto.com/agendas-and-minutes/,no
 IL,1706000,Berkeley School District 87,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36030527,yes
@@ -1908,7 +1909,7 @@ IN,1802800,Duneland School Corporation,boarddocs,https://go.boarddocs.com/in/dun
 IN,1802800,Duneland School Corporation,funding,https://www.duneland.k12.in.us/strategic-plan/district-and-school-improvement-plan,no
 IN,1810080,Seymour Community Schools,boardpage,https://www.scsc.k12.in.us/school-board,no
 IN,1810080,Seymour Community Schools,funding,https://www.scsc.k12.in.us/services/fed-programs,no
-IN,1805370,Kokomo-Center Township Consolidated School Corporation,boarddocs,https://go.boarddocs.com/in/kokomo/Board.nsf/Public,no
+IN,1805370,Kokomo-Center Township Consolidated School Corporation,boardpage,https://www.kokomoschools.com/o/kcs/page/school-board,no
 IN,1806570,Michigan City Area Schools,boarddocs,https://www.boarddocs.com/in/mcas/Board.nsf/Private?open&login,no
 IN,1806570,Michigan City Area Schools,funding,https://www.educatemc.net/departments/title-i,no
 IN,1806840,Mishawaka School City,boarddocs,https://go.boarddocs.com/in/mishawaka/Board.nsf/Public,no
@@ -1917,6 +1918,7 @@ IN,1807320,Muncie Community Schools,funding,https://www.muncie.k12.in.us/student
 IN,1804710,Huntington County Community School Corporation,boardpage,https://www.huntingtonsd.org/school-board,no
 IN,1804710,Huntington County Community School Corporation,funding,https://www.huntingtonsd.org/huntington-esser-iii-integrated-pla,no
 IN,1807260,Mount Vernon Community School Corporation,boardpage,https://www.mvcsc.k12.in.us/70717_2,no
+IN,1809510,Richmond Community School Corporation,funding,https://richmond.com/brandavestudios/article_786e9239-d555-529e-9f66-1429259c2b5c.html,no
 IN,1807140,Mooresville Consolidated School Corporation,boardpage,https://www.mooresvilleschools.org/departments/office_of_superintendent/school_board_page,no
 IN,1807140,Mooresville Consolidated School Corporation,funding,https://www.mooresvilleschools.org/departments/special_programs/title_i_services,no
 IN,1803870,Gary Community School Corporation,boarddocs,https://go.boarddocs.com/in/gary/Board.nsf/vpublic?open,no
@@ -2137,7 +2139,6 @@ KY,2105490,Spencer County School District,funding,https://www.spencerschools.org
 KY,2100150,Ashland Independent School District,boardpage,https://www.ashland.kyschools.us/page/board-of-education,no
 KY,2103780,Marion County School District,boardpage,https://www.marionschools.net/school_board,no
 KY,2103780,Marion County School District,funding,https://www.marionschools.net/departments/grants_federal_programs,no
-KY,2100070,Allen County School District,boardpage,https://www.allen.kyschools.us/page/board-of-education,no
 KY,2105400,Simpson County School District,boardpage,https://www.simpsonk12.org/page/board-of-education,no
 KY,2105400,Simpson County School District,funding,https://www.simpsonk12.org/page/federal-programs,no
 KY,2101320,Corbin Independent School District,boardpage,https://www.corbinschools.org/boardofeducation,no
@@ -2223,7 +2224,8 @@ LA,2200900,Lafourche Parish School District,boardpage,https://www.mylpsd.com/pag
 LA,2200900,Lafourche Parish School District,funding,https://www.mylpsd.com/page/federal-programs,no
 LA,2200720,Iberia Parish School District,boarddocs,https://www.boarddocs.com/la/ipssla/board.nsf,no
 LA,2200720,Iberia Parish School District,funding,https://www.iberiaschools.org/195418_3,no
-LA,2201800,Vermilion Parish School District,boarddocs,https://go.boarddocs.com/oh/verm/Board.nsf/Public,no
+LA,2201800,Vermilion Parish School District,boardpage,https://www.vermilionschools.org/about-us/board-of-education,no
+LA,2201800,Vermilion Parish School District,funding,https://www.vermilionschools.org/departments/curriculum/title-i-resources,no
 LA,2201080,Monroe City School District,boarddocs,https://go.boarddocs.com/wi/monr/Board.nsf/Public,no
 LA,2201410,St. Bernard Parish School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36031969,yes
 LA,2201410,St. Bernard Parish School District,funding,https://www.sbpsb.org/departments/federal-programs,no
@@ -2473,9 +2475,9 @@ MI,2606090,Bloomfield Hills School District,funding,https://www.bloomfield.org/c
 MI,2632310,Southfield Public School District,boardpage,https://www.southfieldk12.org/district/board-of-education,no
 MI,2632310,Southfield Public School District,funding,https://www.southfieldk12.org/district/arp-esser-iii-plan-of-use,no
 MI,2618480,Holt Public Schools,boarddocs,https://go.boarddocs.com/mi/holtp/Board.nsf/goto?open&id=CCBHTZ4A1D20,no
-MI,2630300,Royal Oak City School District,boardpage,https://www.royaloakschools.org/district/board_of_education,no
 MI,2635820,West Bloomfield School District,boarddocs,https://go.boarddocs.com/mi/wbsd/Board.nsf/Public,no
 MI,2635820,West Bloomfield School District,funding,https://www.wbsd.org/parents/title-i,no
+MI,2630300,Royal Oak City School District,boardpage,https://www.royaloakschools.org/district/board_of_education,no
 MI,2621600,Lincoln Park Public Schools,boardpage,https://www.lincolnparkpublicschools.com/apps/pages/index.jsp?uREC_ID=445831&type=d&pREC_ID=961355,no
 MI,2614820,Fraser Public Schools,boardpage,https://www.fraser.k12.mi.us/board-of-education,no
 MI,2614820,Fraser Public Schools,funding,https://www.fraser.k12.mi.us/our-district/fraser-educational-foundation/grant-information,no
@@ -2510,7 +2512,7 @@ MI,2615870,Gibraltar School District,boardpage,https://www.gibdist.net/page/boar
 MI,2623250,Mattawan Consolidated School,boarddocs,https://go.boarddocs.com/mi/matta/Board.nsf/Public,no
 MI,2623250,Mattawan Consolidated School,funding,https://www.mattawanschools.org/our-district/board-of-education/board-of-education,no
 MI,2626010,Northwest School District,boarddocs,https://go.boarddocs.com/mi/nwcom/Board.nsf/Public?open&id=policies,no
-MI,2622050,Lowell Area Schools,boarddocs,https://go.boarddocs.com/mi/lowell/Board.nsf/Public?open&id=policies,no
+MI,2622050,Lowell Area Schools,boardpage,https://www.lowellschools.com/our-district/board-of-education/,no
 MI,2628740,Pontiac City School District,boarddocs,https://go.boarddocs.com/mi/pont/Board.nsf/Public?open&id=policies,no
 MI,2612030,Dexter Community School District,boardpage,https://dexterschools.diligent.community/Portal/Policy.aspx,yes
 MI,2632340,Southgate Community School District,boardpage,https://www.southgateschools.com/departments/board-of-education,no
@@ -2522,6 +2524,7 @@ MI,2632670,Lake Shore Public Schools,boardpage,https://www.lakeshoreschools.org/
 MI,2632670,Lake Shore Public Schools,funding,https://www.lakeshoreschools.org/for_parents/title_i_services,no
 MI,2600013,Marquette Area Public Schools,boardpage,https://www.mapsnet.org/page/board-of-education,no
 MI,2600013,Marquette Area Public Schools,funding,https://www.mapsnet.org/page/title-i,no
+MI,2615540,Garden City School District,boardpage,https://www.gardencityschools.com/,no
 MI,2608520,Cedar Springs Public Schools,boardpage,https://www.csredhawks.org/our-district/board-of-education,no
 MI,2633810,Thornapple Kellogg School District,boarddocs,https://go.boarddocs.com/mi/thor/Board.nsf/Public,no
 MI,2607590,Cadillac Area Public Schools,boardpage,https://www.cadillacschools.org/page/board-of-education,no
@@ -2841,7 +2844,7 @@ MN,2702970,Albert Lea Public School District,boardpage,https://www.alschools.org
 MN,2702970,Albert Lea Public School District,funding,https://www.alschools.org/page/title-i,no
 MN,2700017,Chisago Lakes School District,boardpage,https://www.isd2144.org/about-us/school-board,no
 MN,2730030,Princeton Public School District,boardpage,https://www.princetonk12.org/board,no
-MN,2711760,Faribault Public School District,boardpage,http://www.southernminn.com/northfield_news/news/northfield-school-board-race-includes-2-incumbents-1-write-in-newcomer/article_4b43a418-af71-4f90-be53-7f63816c352c.html,no
+MN,2711760,Faribault Public School District,boardpage,http://www.southernminn.com/owatonna_peoples_press/news/hedlund-gieseke-miller-and-o-connor-successful-in-tight-owatonna-school-board-election/article_af8f8ec5-3156-4ea7-a64d-0b84e773f3b1.html,no
 MN,2709510,Columbia Heights Public School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=36031697,yes
 MN,2709510,Columbia Heights Public School District,funding,https://www.columbiaschools.org/discover-csd/departments/federal-programs,no
 MN,2705460,Big Lake Public School District,boardpage,https://www.biglakeschools.org/about/school-board,no
@@ -2853,7 +2856,7 @@ MN,2718240,Little Falls Public School District,funding,https://www.lfschools.org
 MN,2744070,Winona Area Public School District,boarddocs,https://go.boarddocs.com/mn/winona/Board.nsf/public,no
 MN,2700466,Rock Ridge Public Schools,boardpage,https://rrps.org/district/school-board/,no
 MN,2700466,Rock Ridge Public Schools,funding,https://rrps.org/district/teaching-and-learning/title-i/,no
-MN,2730480,Red Wing Public School District,boardpage,https://www.redwing.k12.mn.us/school-board-showcase-to-feature-three-new-leaders/,no
+MN,2730480,Red Wing Public School District,boardpage,https://www.redwing.k12.mn.us/school-board-to-certify-election-results/,no
 MN,2723490,New Ulm Public School District,boardpage,https://www.newulm.k12.mn.us/page/board-of-education,no
 MN,2714280,Houston Public School District,boardpage,https://www.houston.k12.mn.us/page/school-board,no
 MN,2733420,St. Anthony-New Brighton Schools,boardpage,https://www.isd282.org/discover/school-board,no
@@ -2925,6 +2928,7 @@ MO,2913830,Hazelwood School District,boardpage,https://www.hazelwoodschools.org/
 MO,2913830,Hazelwood School District,funding,https://www.hazelwoodschools.org/departments/federal-programs/federal-programs,no
 MO,2916400,Kansas City 33 School District,boardpage,https://simbli.eboardsolutions.com/ePolicy/policy.aspx?PC=AC&Sch=228&S=228&C=A&RevNo=1.31&T=A&Z=P&St=ADOPTED&PG=6&SN=true,yes
 MO,2915480,Independence 30 School District,boardpage,https://www.isdschools.org/our-district/board-of-education,no
+MO,2915480,Independence 30 School District,funding,https://www.isdschools.org/our-district/compliance/federal-programs,no
 MO,2918540,Liberty 53 School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=108&Sch=108,yes
 MO,2918540,Liberty 53 School District,funding,https://www.lps53.org/academics/special-programs/federal-programs,no
 MO,2923550,Park Hill School District,boardpage,https://www.parkhill.k12.mo.us/about/board-meetings,no
@@ -2971,6 +2975,7 @@ MO,2904620,Belton 124 School District,funding,https://www.beltonschools.org/addi
 MO,2911910,Farmington R-Vii School District,boardpage,https://fpsct.org/about/board-of-education/,no
 MO,2906990,Camdenton R-Iii School District,boardpage,https://www.camdentonschools.org/10196_1,no
 MO,2906990,Camdenton R-Iii School District,funding,https://www.camdentonschools.org/41701_2,no
+MO,2913650,Hannibal 60 School District,funding,https://hannibal.net/2026/11/05/riedel-foundation-awards-10000-grant-to-mark-twain-museum/,no
 MO,2912030,Festus R-Vi School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=241&Sch=241,yes
 MO,2928260,Sikeston R-Vi School District,boardpage,https://be.sikestonr6.org,no
 MO,2928260,Sikeston R-Vi School District,funding,https://www.sikestonr6.org/title-i-plans,no
@@ -3276,6 +3281,7 @@ NC,3704410,Surry County Schools,boarddocs,https://www.boarddocs.com/va/surry/Boa
 NC,3703480,Orange County Schools,boarddocs,https://go.boarddocs.com/oh/orange/Board.nsf/Public,no
 NC,3701800,Granville County Schools,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36031991,yes
 NC,3701800,Granville County Schools,funding,https://www.gcs.k12.nc.us/federal-programs,no
+NC,3703870,Richmond County Schools,funding,https://richmond.com/brandavestudios/article_786e9239-d555-529e-9f66-1429259c2b5c.html,no
 NC,3700330,Beaufort County Schools,boarddocs,https://go.boarddocs.com/nc/beaufort/board.nsf/goto?open&id=9sgvmj5cc756,no
 NC,3700330,Beaufort County Schools,funding,https://www.beaufort.k12.nc.us/departments/departments/federal-programs,no
 NC,3703120,Mooresville City Schools,boardpage,https://www.mgsd.k12.nc.us/board-of-education,no
@@ -3358,7 +3364,7 @@ NE,3172840,Lincoln Public Schools,boardpage,https://www.lps.org/page/board-of-ed
 NE,3172840,Lincoln Public Schools,funding,https://www.lps.org/o/fp/page/title-i-part-c,no
 NE,3175270,Papillion-La Vista Community Schools,boardpage,https://www.plcschools.org/our-district/board-of-education,no
 NE,3175270,Papillion-La Vista Community Schools,funding,https://www.plcschools.org/our-district/covid-19-esser,no
-NE,3170110,Elkhorn Public Schools,boardpage,https://elkhornweb.org/october-12-2026-board-meeting-minutes/,no
+NE,3170110,Elkhorn Public Schools,boardpage,https://elkhornweb.org/november-9-2026-board-meeting-agenda/,no
 NE,3100016,Grand Island Public Schools,boardpage,https://www.gips.org/about-us/board-of-education,no
 NE,3103810,Bellevue Public Schools,boarddocs,https://go.boarddocs.com/oh/bellevue/Board.nsf/Public,no
 NE,3178660,Westside Community Schools,boardpage,https://www.westside66.org/our-district/board-of-education,no
@@ -3499,7 +3505,7 @@ NJ,3408940,Long Branch City School District,funding,https://www.longbranch.org/C
 NJ,3407560,Howell Township School District,boarddocs,https://www.boarddocs.com/nj/howell/Board.nsf/Public,no
 NJ,3406270,Hackensack City School District,boardpage,https://www.hackensackschools.org/meeting-agendas,no
 NJ,3406270,Hackensack City School District,funding,https://www.hackensackschools.org/title-i-essa-resources,no
-NJ,3404320,East Windsor Regional School District,boarddocs,http://www.boarddocs.com/nj/ewrsd/Board.nsf/Public,no
+NJ,3404320,East Windsor Regional School District,boardpage,https://www.ewrsd.org/page/board-meetings-and-locations,no
 NJ,3404320,East Windsor Regional School District,funding,https://www.ewrsd.org/page/title-1esea,no
 NJ,3410320,Millville City School District,boardpage,https://www.millville.org/apps/pages/index.jsp?uREC_ID=2838258&type=d,no
 NJ,3408220,Lakewood Township School District,boardpage,https://www.lakewoodpiners.org/departments/board-of-education,no
@@ -3841,7 +3847,7 @@ NY,3615090,Huntington Union Free School District,boardpage,https://www.huntingto
 NY,3615090,Huntington Union Free School District,funding,https://www.huntingtonsd.org/huntington-esser-iii-integrated-pla,no
 NY,3607590,Clarence Central School District,boardpage,https://www.clarenceschools.org/district-info/budget-process/boecandidateinfo,no
 NY,3609630,East Greenbush Central School District,boarddocs,https://go.boarddocs.com/ny/egcsd/Board.nsf/files/CY4NY8622A6E/$file/2023-12-06%202023-24%20BOE%20Vision%20and%20Goals.pdf,no
-NY,3609630,East Greenbush Central School District,funding,https://egcsd.org/event/red-mill-title-i-parent-community-meeting-2/,no
+NY,3609630,East Greenbush Central School District,funding,https://egcsd.org/2026/11/05/six-east-greenbush-teachers-win-broadview-educator-grants/,no
 NY,3604710,Bethlehem Central School District,boarddocs,https://go.boarddocs.com/ny/bethlehem/Board.nsf/Public,no
 NY,3608880,Deer Park Union Free School District,boardpage,https://www.deerparkschools.org/board-of-education,no
 NY,3628320,Suffern Central School District,boarddocs,http://www.boarddocs.com/ny/rcsdny/Board.nsf,no
@@ -3856,7 +3862,7 @@ NY,3618120,Mahopac Central School District,boarddocs,https://go.boarddocs.com/ny
 NY,3629970,Warwick Valley Central School District,boarddocs,https://go.boarddocs.com/ny/wvcsd/Board.nsf/Public,no
 NY,3606570,Carmel Central School District,boarddocs,https://www.boarddocs.com/ny/carmel/Board.nsf,no
 NY,3606570,Carmel Central School District,funding,https://www.carmelschools.org/district-information-arp-esser-gran,no
-NY,3602970,Amsterdam City School District,boarddocs,https://go.boarddocs.com/ny/gasd/Board.nsf/Public,no
+NY,3602970,Amsterdam City School District,boardpage,https://www.gasd.org/o/gasd/page/board-of-education,no
 NY,3602970,Amsterdam City School District,funding,https://www.gasd.org/o/gasd/page/2026-27-school-improvement-plans,no
 NY,3611880,Gates-Chili Central School District,boarddocs,http://www.boarddocs.com/ny/gateschili/Board.nsf/Public,no
 NY,3628950,Troy City School District,boardpage,https://simbli.eboardsolutions.com/index.aspx?S=36031980,yes
@@ -3907,7 +3913,7 @@ NY,3631710,Hewlett-Woodmere Union Free School District,funding,https://hewlett.o
 NY,3623190,Plainedge Union Free School District,boardpage,https://www.plainedgeschools.org/meet-your-board-of-education,no
 NY,3612330,Goshen Central School District,boarddocs,https://go.boarddocs.com/ny/gcsny/Board.nsf/Public,no
 NY,3625260,Rye City School District,boardpage,https://www.ryeschools.org/board-of-education,no
-NY,3625260,Rye City School District,funding,https://www.ryeschools.org/,no
+NY,3625260,Rye City School District,funding,https://www.ryeschools.org/news/posts-details/~board/news-updates/post/rfe-grant-expo-showcases-innovation-across-rye-schools,no
 NY,3616080,Katonah-Lewisboro Union Free School District,boardpage,https://www.klschools.org/o/klsd/page/board-of-education-members-and-information,no
 NY,3621480,Nyack Union Free School District,boarddocs,https://go.boarddocs.com/ny/nyack/Board.nsf/Public,no
 NY,3617910,Lynbrook Union Free School District,boardpage,https://www.lynbrookschools.org/72967_1,no
@@ -3936,7 +3942,7 @@ NY,3614970,Hudson Falls Central School District,boarddocs,https://go.boarddocs.c
 NY,3601087,Central Valley Central School District,boardpage,https://www.cvc.org/about/schoolboard,no
 NY,3616740,Lansingburgh Central School District,boardpage,https://www.lansingburgh.org/board-of-education,no
 NY,3616740,Lansingburgh Central School District,funding,https://www.lansingburgh.org/programs-departments/curriculum/title-1-information,no
-NY,3611970,Geneva City School District,boarddocs,https://go.boarddocs.com/ny/genevacsd/Board.nsf/vpublic?open,no
+NY,3611970,Geneva City School District,boarddocs,https://go.boarddocs.com/ny/genevacsd/Board.nsf/goto?open&id=DVUN3M5DFC67,no
 NY,3615360,Iroquois Central School District,boardpage,https://www.iroquoiscsd.org/our-district/board-of-education,no
 NY,3614700,Honeoye Falls-Lima Central School District,boardpage,https://www.hflcsd.org/board-of-education,no
 NY,3614700,Honeoye Falls-Lima Central School District,funding,https://www.hflcsd.org/federal-grants,no
@@ -4198,9 +4204,9 @@ OH,3904467,Princeton City School District,funding,https://www.princetonschools.n
 OH,3904394,Elyria City School District,boardpage,https://www.elyriaschools.org/district/board_of_education,no
 OH,3904486,Sycamore Community City School District,boardpage,https://www.sycamoreschools.org/discover-sycamore/board-of-education,no
 OH,3910000,Findlay City School District,boarddocs,https://go.boarddocs.com/oh/findlay/Board.nsf/vpublic?open,no
+OH,3904547,Marysville Exempted Village School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36032102,yes
 OH,3904360,Berea City School District,boarddocs,http://www.boarddocs.com/oh/berea/board.nsf/vpublic?open,no
 OH,3904360,Berea City School District,funding,https://www.berea.k12.oh.us/staffintranet/grant-opportunities,no
-OH,3904547,Marysville Exempted Village School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36032102,yes
 OH,3904558,Perrysburg Exempted Village School District,boarddocs,http://go.boarddocs.com/oh/perrysburg/Board.nsf/Public,no
 OH,3904421,Lebanon City School District,boardpage,https://www.lebanonschools.org/departments/board-of-education/,no
 OH,3904483,Stow-Munroe Falls City School District,boarddocs,https://go.boarddocs.com/oh/smfcsd/Board.nsf/Public?open&id=policies,no
@@ -4250,7 +4256,7 @@ OH,3904452,North Olmsted City School District,funding,https://www.northolmstedsc
 OH,3904657,Olmsted Falls City School District,boardpage,https://www.olmstedfalls.org/agendas-minutes,no
 OH,3904519,Amherst Exempted Village School District,boardpage,https://www.amherstschools.org/get-to-know-acsd/board-of-education,no
 OH,3904812,Avon Lake City School District,boarddocs,https://go.boarddocs.com/oh/avonlake/Board.nsf/public,no
-OH,3906190,Adams County/Ohio Valley Local School District,boarddocs,https://go.boarddocs.com/oh/ovsd/Board.nsf/Public?open&id=policies,no
+OH,3906190,Adams County/Ohio Valley Local School District,boardpage,https://www.ovsd.us/page/board-of-education,no
 OH,3906190,Adams County/Ohio Valley Local School District,funding,https://www.ovsd.us/page/state-and-federal-programs,no
 OH,3904424,Logan-Hocking Local School District,boardpage,https://www.loganschools.org/board-of-education,no
 OH,3904424,Logan-Hocking Local School District,funding,https://www.loganschools.org/title-i,no
@@ -4320,7 +4326,6 @@ OH,3906568,Gallia County Local School District,boardpage,https://www.gallialocal
 OH,3906568,Gallia County Local School District,funding,https://www.gallialocal.org/page/federal-programs,no
 OH,3904577,Elida Local School District,boardpage,https://www.elidaschools.net/school-board-directory,no
 OH,3904376,Circleville City School District,boardpage,https://www.circlevillecityschools.org/page/board-of-education,no
-OH,3910019,Marietta City School District,boardpage,https://www.mariettacityschools.k12.oh.us/page/board-of-education,no
 OH,3904739,Three Rivers Local School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36032210&ptid=qo79RxbUbdO3GjATNVIJ7Q==,yes
 OH,3904405,Geneva Area City School District,boarddocs,https://go.boarddocs.com/oh/gene/Board.nsf/goto?open&id=DHHHCN47BDC4,no
 OH,3904458,Oakwood City School District,boarddocs,https://go.boarddocs.com/oh/oakwood/Board.nsf/Public,no
@@ -4331,8 +4336,8 @@ OH,3910018,Warren Local School District,funding,https://www.warrenlocal.org/apps
 OH,3904983,Canton Local School District,boardpage,https://www.cantonlocal.org/boardofeducation,no
 OH,3904983,Canton Local School District,funding,https://www.cantonlocal.org/titleone,no
 OH,3904468,Ravenna City School District,boardpage,https://www.ravennaschools.us/about-us/board-of-education/,no
-OH,3904780,Indian Creek Local School District,boardpage,https://www.iclsd.org/68143_1,no
 OH,3904923,Streetsboro City School District,boarddocs,https://www.boarddocs.com/oh/streetsboro/Board.nsf/,no
+OH,3904780,Indian Creek Local School District,boardpage,https://www.iclsd.org/68143_1,no
 OH,3904403,Gallipolis City School District,boardpage,https://www.gallipoliscityschools.k12.oh.us/board-of-education,no
 OH,3904403,Gallipolis City School District,funding,https://www.gallipoliscityschools.k12.oh.us/departments/title-1-federal-funds,no
 OH,3904997,Woodridge Local School District,boarddocs,https://go.boarddocs.com/oh/woodridge/Board.nsf/public,no
@@ -4346,6 +4351,8 @@ OH,3910006,Salem City School District,boardpage,https://salemquakers.k12.oh.us/e
 OH,3904947,Ontario Local School District,boarddocs,http://www.boarddocs.com/oh/olsoh/Board.nsf/Public,no
 OH,3904687,Fairfield Union Local School District,boarddocs,http://go.boarddocs.com/oh/fairfieldul/Board.nsf/Public?open&id=policies,no
 OH,3904988,Marlington Local School District,boarddocs,https://go.boarddocs.com/oh/marlinoh/Board.nsf/Public?open&id=policies,no
+OH,3904844,River Valley Local School District,boardpage,https://simbli.eboardsolutions.com/oh/rivervalley,yes
+OH,3904844,River Valley Local School District,funding,https://www.rvk12.org/our-district/compliance/arp-esser-plan,no
 OH,3904681,Perkins Local School District,boarddocs,https://go.boarddocs.com/oh/perkins/Board.nsf/Public,no
 OH,3904514,Wyoming City School District,boardpage,https://www.wyomingcityschools.org/board-of-education,no
 OH,3904393,Eaton Community City School District,boardpage,https://www.eaton.k12.oh.us/school-board,no
@@ -4561,6 +4568,8 @@ OK,4005490,Broken Arrow Public Schools,boardpage,https://www.baschools.org/page/
 OK,4005490,Broken Arrow Public Schools,funding,https://www.baschools.org/page/federal-programs,no
 OK,4030600,Union Public Schools,boardpage,https://www.unionps.org/about/board-of-education,no
 OK,4030600,Union Public Schools,funding,https://www.unionps.org/academics/teachersstaff/employee-tuition-grants,no
+OK,4017250,Lawton Public Schools,boardpage,https://www.lawtonps.org/page/board-of-education,no
+OK,4017250,Lawton Public Schools,funding,https://www.lawtonps.org/page/federal-programs,no
 OK,4023280,Owasso Public Schools,boardpage,https://www.owassops.org/board-of-education,no
 OK,4023280,Owasso Public Schools,funding,https://www.owassops.org/departments/instructional-services/every-student-succeeds-act-federal-programs,no
 OK,4009570,Deer Creek Public Schools,boardpage,https://www.deercreekschools.org/about-us/board-of-education,no
@@ -4738,8 +4747,6 @@ OR,4109120,Oakland School District 1,boardpage,https://oaklandschools.diligent.c
 OR,4109120,Oakland School District 1,funding,https://www.oakland.k12.mi.us/district-support/administrative/financial-services/idea-grant,no
 OR,4112930,Vernonia School District 47J,boardpage,https://www.vernoniak12.org/schoolboard,no
 OR,4101660,Athena-Weston School District 29J,boardpage,https://www.athwest.k12.or.us/408916_2,no
-PA,4218990,Philadelphia City School District,boardpage,https://www.philasd.org/schoolboard/,no
-PA,4218990,Philadelphia City School District,funding,https://www.philasd.org/blog/2025/05/23/sdp-receives-1-2-million-in-solar-grants/,no
 PA,4219170,Pittsburgh School District,boarddocs,https://go.boarddocs.com/pa/pghboe/Board.nsf/Public,no
 PA,4219170,Pittsburgh School District,funding,https://www.pghschools.org/about/esser-funds/elementary-and-secondary-school-emergency-relief-funds-esser,no
 PA,4205310,Central Bucks School District,boarddocs,https://go.boarddocs.com/pa/cbuc/Board.nsf/goto?open&id=DB8LBA55BB09,no
@@ -4893,6 +4900,7 @@ PA,4206550,Conewago Valley School District,boardpage,https://www.conewago.k12.pa
 PA,4206550,Conewago Valley School District,funding,https://www.conewago.k12.pa.us/district-services/federal-programs,no
 PA,4224790,Wallingford-Swarthmore School District,boarddocs,https://go.boarddocs.com/pa/wlsw/Board.nsf/Public,no
 PA,4224790,Wallingford-Swarthmore School District,funding,https://www.wssd.org/departments/teaching-learning-and-innovation/federal-programs,no
+PA,4219350,Plum Borough School District,boardpage,https://www.pbsd.net/protected/EventView.aspx?id=80GI22P3Y,no
 PA,4219350,Plum Borough School District,funding,https://www.pbsd.net/titlei1794.aspx,no
 PA,4214790,Mars Area School District,boarddocs,https://go.boarddocs.com/pa/marsarea/Board.nsf/vpublic?open,no
 PA,4221570,Shippensburg Area School District,boardpage,https://www.shipk12.org/schoolboard,no
@@ -4922,7 +4930,7 @@ PA,4224540,Upper Perkiomen School District,boardpage,https://www.upsd.org/school
 PA,4224540,Upper Perkiomen School District,funding,https://www.upsd.org/departments/curriculum-instruction/elementary-education/title-i,no
 PA,4207590,Derry Township School District,boardpage,https://www.hershey.k12.pa.us/school-board/board-of-school-directors,no
 PA,4216500,Woodland Hills School District,boarddocs,https://go.boarddocs.com/pa/wood/Board.nsf/Public,no
-PA,4219200,Pittston Area School District,boarddocs,https://go.boarddocs.com/pa/pittstonarea/Board.nsf/vpublic?open,no
+PA,4219200,Pittston Area School District,boardpage,https://www.pittstonarea.com/o/pasd/page/board-of-education,no
 PA,4205860,Chester-Upland School District,boarddocs,https://go.boarddocs.com/pa/ches/Board.nsf/Public,no
 PA,4205860,Chester-Upland School District,funding,https://www.chesteruplandsd.org/our-district/esser,no
 PA,4222350,Southern Lehigh School District,boardpage,https://www.slsd.org/school-board,no
@@ -5006,10 +5014,10 @@ PA,4226550,Wilson Area School District,boardpage,https://www.wilsonareasd.org/sc
 PA,4226550,Wilson Area School District,funding,https://www.wilsonareasd.org/our-district/departments/federal-programs,no
 PA,4217640,Northern Lebanon School District,boardpage,https://www.norleb.org/school-board/board-of-directors,no
 PA,4217640,Northern Lebanon School District,funding,https://www.norleb.org/our-district/business-offices/esser-funding,no
-PA,4211340,Hamburg Area School District,boardpage,https://www.hasdhawks.org/documents/school-board/board-agendas/16163438,no
-PA,4211340,Hamburg Area School District,funding,https://www.hasdhawks.org/documents/district-information/general-information/arp-esser-grant-content-reports/803973,no
 PA,4223850,Tunkhannock Area School District,boarddocs,https://go.boarddocs.com/pa/tunk/Board.nsf/Public,no
 PA,4223850,Tunkhannock Area School District,funding,https://www.tasd.net/information/title-i-federal-program,no
+PA,4211340,Hamburg Area School District,boardpage,https://www.hasdhawks.org/documents/school-board/board-agendas/16163438,no
+PA,4211340,Hamburg Area School District,funding,https://www.hasdhawks.org/documents/district-information/general-information/arp-esser-grant-content-reports/803973,no
 PA,4211420,Hanover Area School District,boardpage,https://www.hanoverarea.org/o/has/page/members,no
 PA,4223220,Tamaqua Area School District,boardpage,https://www.tamaqua.k12.pa.us/district-administration/board-of-education,no
 PA,4223220,Tamaqua Area School District,funding,https://www.tamaqua.k12.pa.us/special-programs/title-i,no
@@ -5411,6 +5419,7 @@ TN,4701860,Hickman County School District,funding,https://www.hickmank12.org/fed
 TN,4700990,Dekalb County School District,boardpage,https://www.dekalbschools.net/boardagendas,no
 TN,4700990,Dekalb County School District,funding,https://www.dekalbschools.net/federalprograms,no
 TN,4703090,Morgan County School District,boarddocs,https://go.boarddocs.com/oh/morganlocal/Board.nsf/vpublic?open,no
+TN,4703090,Morgan County School District,funding,https://www.morganschools.org/district-news/~board/morgan-local-school-district-news/post/title-i-parent-survey,no
 TN,4700600,Chester County School District,boardpage,https://www.chestercountyschools.org/245179_2,no
 TN,4701110,Elizabethton City School District,boardpage,https://www.elizabethton.org/government/city_council/agendas___minutes.php,no
 TN,4701110,Elizabethton City School District,funding,https://www.elizabethton.org/news_detail_T2_R319.php,no
@@ -5502,7 +5511,7 @@ TX,4841220,Spring Independent School District,boardpage,https://www.springisd.or
 TX,4825260,Keller Independent School District,boardpage,https://www.kellerisd.net/board-of-trustees,no
 TX,4825260,Keller Independent School District,funding,https://www.kellerisd.net/departments/state-federal-programs,no
 TX,4818180,Edinburg Consolidated Independent School District,boardpage,https://www.ecisd.us/apps/pages/ecisdlive,no
-TX,4841100,Spring Branch Independent School District,boardpage,https://www.springbranchisd.com/page/board-of-trustees-budget-advisory-committee,no
+TX,4841100,Spring Branch Independent School District,boardpage,https://www.springbranchisd.com/page/board-members,no
 TX,4818000,Ector County Independent School District,boardpage,https://www.ectorcountyisd.org/our-district/board-of-trustees/members,no
 TX,4818000,Ector County Independent School District,funding,https://www.ectorcountyisd.org/departments/accountability/texas-accountability-system-resources,no
 TX,4816740,Denton Independent School District,boardpage,https://www.dentonisd.org/our-district/board-of-trustees,no
@@ -5605,6 +5614,7 @@ TX,4828290,Los Fresnos Consolidated Independent School District,boardpage,https:
 TX,4814430,Clint Independent School District,boardpage,https://www.clintweb.net/board-of-trustees,no
 TX,4814430,Clint Independent School District,funding,https://www.clintweb.net/departments/federal-programs/directory-of-federal-programs,no
 TX,4838900,San Felipe-Del Rio Consolidated Independent School District,boardpage,https://www.sfdr-cisd.org/board-of-trustees/about-our-board-of-trustees/,no
+TX,4831260,Montgomery Independent School District,funding,https://www.montgomeryindependent.com/news/montgomery-selected-for-13-4-million-federal-grant-to-modernize-i-65-i-85-lighting/article_01f8d606-294f-453a-9491-e63c93baa318.html,no
 TX,4832370,New Braunfels Independent School District,boardpage,https://nbisd.org/about-nbisd/board/,no
 TX,4832370,New Braunfels Independent School District,funding,https://nbisd.org/departments/federal-programs/,no
 TX,4839930,Sharyland Independent School District,boardpage,https://www.sharylandisd.org/about-us/board-of-trustees,no
@@ -5618,6 +5628,7 @@ TX,4828890,Manor Independent School District,funding,https://www.manorisd.net/de
 TX,4844430,Waller Independent School District,boardpage,https://www.wallerisd.net/about-us/board-of-trustees,no
 TX,4844430,Waller Independent School District,funding,https://www.wallerisd.net/departments/special-education/federal-grants,no
 TX,4845900,Willis Independent School District,boardpage,https://www.willisisd.org/about/board-of-trustees,no
+TX,4830640,Midway Independent School District,funding,https://www.midwayk12.org/o/mps/page/title-ihandbooks,no
 TX,4842330,Temple Independent School District,boardpage,https://www.tisd.org/apps/pages/index.jsp?uREC_ID=340056&type=d&pREC_ID=770557,no
 TX,4842330,Temple Independent School District,funding,https://www.tisd.org/apps/pages/index.jsp?uREC_ID=339306&type=d&pREC_ID=772622,no
 TX,4813020,Carroll Independent School District,boardpage,https://www.southlakecarroll.edu/district-information/board-of-trustees,no
@@ -5671,6 +5682,7 @@ TX,4818810,Everman Independent School District,funding,https://www.eisd.org/page
 TX,4835430,Port Neches-Groves Independent School District,boardpage,https://www.pngisd.org/leadership/leadership,no
 TX,4835430,Port Neches-Groves Independent School District,funding,https://www.pngisd.org/about-pn-gisd/title-i,no
 TX,4831760,Mount Pleasant Independent School District,boardpage,https://www.mpisd.net/school-board/,no
+TX,4831760,Mount Pleasant Independent School District,funding,https://www.mpisd.net/blog/mpisd-foundation-awards-educator-grants-19/,no
 TX,4829160,Marshall Independent School District,boardpage,https://www.marshallisd.com/page/school-board,no
 TX,4829160,Marshall Independent School District,funding,https://www.marshallisd.com/page/grant-application,no
 TX,4832280,Nederland Independent School District,boardpage,https://www.nederlandisd.org/board-of-education,no
@@ -5781,11 +5793,11 @@ TX,4824630,Jasper Independent School District,funding,https://www.jasperisd.net/
 TX,4820190,Fort Stockton Independent School District,boardpage,https://www.fsisd.net/about-fsisd/school-board,no
 TX,4820190,Fort Stockton Independent School District,funding,https://www.fsisd.net/departments/curriculum-and-instruction/effective-school-framework-grant,no
 TX,4819080,Farmersville Independent School District,boardpage,https://www.farmersvilleisd.net/apps/pages/index.jsp?uREC_ID=445879&type=d&pREC_ID=961454,no
+TX,4841190,Spring Hill Independent School District,boardpage,https://www.shisd.net/apps/pages/index.jsp?uREC_ID=1647921&type=d&pREC_ID=1791009,no
 TX,4840350,Sinton Independent School District,boardpage,https://www.sintonisd.net/board,no
 TX,4840350,Sinton Independent School District,funding,https://www.sintonisd.net/title-1,no
-TX,4841190,Spring Hill Independent School District,boardpage,https://www.shisd.net/apps/pages/index.jsp?uREC_ID=1647921&type=d&pREC_ID=1791009,no
 TX,4822320,Hamshire-Fannett Independent School District,boardpage,https://www.hfisd.net/leadership/homepage,no
-TX,4811340,Bridgeport Independent School District,boardpage,https://www.bridgeportschools.net/protected/EventView.aspx?id=8IB0AAI2B,no
+TX,4811340,Bridgeport Independent School District,boardpage,https://www.bridgeportschools.net/protected/EventView.aspx?id=8IB0UU3PB,no
 TX,4836540,Raymondville Independent School District,boardpage,https://www.raymondvilleisd.org/district-42/board-of-trustees,no
 TX,4836540,Raymondville Independent School District,funding,https://www.raymondvilleisd.org/district-42/esser,no
 TX,4827390,Liberty-Eylau Independent School District,boardpage,https://www.leisd.net/school-board,no
@@ -6019,6 +6031,7 @@ TX,4818600,Era Independent School District,boardpage,https://www.eraisd.net/page
 TX,4812240,Burton Independent School District,boardpage,https://www.burtonisd.net/page/burtonboard,no
 UT,4900030,Alpine School District,boardpage,https://www.alpineschools.org/o/asd/page/board,no
 UT,4900210,Davis School District,boardpage,https://www.davis.k12.ut.us/o/dsd/page/school-board,no
+UT,4900360,Granite School District,boardpage,https://www.graniteschools.org/blog/2026/11/06/board-meeting-agenda-november-10-2026/,no
 UT,4900420,Jordan School District,boardpage,https://jordandistrict.org/board/,no
 UT,4901140,Washington School District,boarddocs,https://go.boarddocs.com/ut/washk12/Board.nsf/Public,no
 UT,4901140,Washington School District,funding,https://www.washk12.org/title-i,no
@@ -6043,6 +6056,7 @@ UT,4900930,Sevier School District,boardpage,https://www.sevier.org/21482_2,no
 UT,4900930,Sevier School District,funding,https://www.sevier.org/21494_2,no
 UT,4900750,Park City School District,boardpage,https://www.pcschools.us/board-of-education,no
 UT,4900570,Morgan School District,boarddocs,https://go.boarddocs.com/oh/morganlocal/Board.nsf/vpublic?open,no
+UT,4900570,Morgan School District,funding,https://www.morganschools.org/district-news/~board/morgan-local-school-district-news/post/title-i-parent-survey,no
 UT,4900960,South Sanpete School District,boardpage,https://www.ssanpete.org/district-information/board-of-education/board-agenda-and-minutes.html,no
 UT,4900540,Millard School District,boardpage,https://www.millardk12.org/board-of-education/,no
 UT,4900660,North Sanpete School District,boarddocs,https://go.boarddocs.com/ut/nssd/board.nsf/vpublic?open,no
@@ -6050,6 +6064,9 @@ UT,4900660,North Sanpete School District,funding,https://www.nsanpete.org/suppor
 UT,4900450,Juab School District,boardpage,https://www.juabsd.org/page/board-of-education,no
 UT,4900450,Juab School District,funding,https://www.juabsd.org/page/esser-iii,no
 UT,4900990,South Summit School District,boardpage,https://www.sssd.org/board-meetings,no
+UT,4900060,Beaver School District,boarddocs,http://go.boarddocs.com/ut/beaver/Board.nsf/Public,no
+UT,4900480,Kane School District,boarddocs,https://www.boarddocs.com/ut/kane/Board.nsf/,no
+UT,4900480,Kane School District,funding,https://kanek12.org/2026/10/15/kcsd-expands-career-pathways-with-484000-grant/,no
 UT,4900330,Grand School District,boardpage,https://www.grandschools.org/apps/pages/index.jsp?uREC_ID=4437774&type=d,no
 UT,4900330,Grand School District,funding,https://hmk.grandschools.org/apps/pages/index.jsp?uREC_ID=1652141&type=d&pREC_ID=1797405,no
 VA,5101260,Fairfax County Public Schools,boarddocs,https://go.boarddocs.com/vsba/fairfax/Board.nsf/vpublic?open,no
@@ -6231,9 +6248,8 @@ WA,5308160,South Kitsap School District,funding,https://www.skschools.org/title-
 WA,5308760,Tahoma School District,boarddocs,https://go.boarddocs.com/wa/tahoma/Board.nsf/Public,no
 WA,5306690,Peninsula School District,boardpage,https://www.peninsulasd.org/board-agendas,no
 WA,5306690,Peninsula School District,funding,https://www.peninsulasd.org/school-info/community-school-grant,no
-WA,5305220,Moses Lake School District,funding,https://www.moseslake.com/events.html,no
 WA,5302940,Franklin Pierce School District,boardpage,https://fpschools.diligent.community/Portal/MeetingSchedule.aspx,yes
-WA,5302940,Franklin Pierce School District,funding,https://www.fpschools.org/about/calendar/~occur-id/3887229,no
+WA,5302940,Franklin Pierce School District,funding,https://www.fpschools.org/about/calendar/~occur-id/3889804,no
 WA,5309660,Wenatchee School District,boardpage,https://www.wenatcheeschools.org/school-board,no
 WA,5300810,Camas School District,boardpage,https://www.camas.wednet.edu/page/about-board-meetings,no
 WA,5308040,Snoqualmie Valley School District,boarddocs,https://go.boarddocs.com/wa/svsd410/Board.nsf/goto?open&id=BEFKMC528542,no
@@ -6275,8 +6291,6 @@ WA,5304620,Lynden School District,boardpage,https://lynden.wednet.edu/school-boa
 WA,5304620,Lynden School District,funding,https://lynden.wednet.edu/programs/title-i/,no
 WA,5306820,Port Angeles School District,boarddocs,https://www.boarddocs.com/wa/pasd/Board.nsf,no
 WA,5306820,Port Angeles School District,funding,https://www.portangelesschools.org/departments/special-services/title-i-part-a-and-learning-assistance-program-lap,no
-WA,5300780,Burlington-Edison School District,boardpage,https://www.be.wednet.edu/page/b-esd-school-board,no
-WA,5300780,Burlington-Edison School District,funding,https://www.be.wednet.edu/page/title-1-page,no
 WA,5300030,Aberdeen School District,boardpage,https://www.asd5.org/our-district/school-board-agendas-policy/meetings-agendas-and-minutes,no
 WA,5300030,Aberdeen School District,funding,https://www.asd5.org/our-district/seismic-safety-grant,no
 WA,5302460,Ellensburg School District,funding,https://esd401.org/title1,no
@@ -6418,6 +6432,7 @@ WI,5509840,Monroe School District,boarddocs,https://go.boarddocs.com/wi/monr/Boa
 WI,5513620,Shawano School District,boardpage,https://www.shawanoschools.com/school-board,no
 WI,5512810,Rice Lake Area School District,boardpage,https://www.ricelake.k12.wi.us/boardofeducation,no
 WI,5512810,Rice Lake Area School District,funding,https://www.ricelake.k12.wi.us/titlei,no
+WI,5512060,Portage Community School District,funding,https://nwitimes.com/brandavestudios/article_19bf6573-4cae-58cb-90b1-96c7db80cd21.html,no
 WI,5510590,New London School District,boardpage,https://www.newlondon.org/who-we-are/board-of-education,no
 WI,5503060,Cudahy School District,boardpage,https://www.cudahysd.org/o/csd/page/board-of-education,no
 WI,5513800,Shorewood School District,boarddocs,https://go.boarddocs.com/wi/shorewood/Board.nsf/goto?open&id=CM2L6Q51A6A1,no
@@ -6515,6 +6530,7 @@ WV,5400660,Lincoln County School District,boardpage,https://www.lincolnschools.o
 WV,5401380,Taylor County School District,boardpage,https://taylorschools.net/boe-meetings,no
 WV,5401380,Taylor County School District,funding,https://www.taylorschools.net/school-improvement,no
 WV,5400990,Morgan County School District,boarddocs,https://go.boarddocs.com/oh/morganlocal/Board.nsf/vpublic?open,no
+WV,5400990,Morgan County School District,funding,https://www.morganschools.org/district-news/~board/morgan-local-school-district-news/post/title-i-parent-survey,no
 WV,5400960,Monroe County School District,boarddocs,https://go.boarddocs.com/wi/monr/Board.nsf/Public,no
 WV,5400240,Clay County School District,boardpage,https://www.clayschools.org/apps/pages/index.jsp?uREC_ID=2084475&type=d&pREC_ID=2134410,no
 WV,5400240,Clay County School District,funding,https://www.clayschools.org/apps/pages/index.jsp?uREC_ID=3643901&type=d&pREC_ID=2550529,no
@@ -6525,7 +6541,8 @@ WY,5604510,Natrona County School District 1,boardpage,https://simbli.eboardsolut
 WY,5604510,Natrona County School District 1,funding,https://www.natronaschools.org/apps/pages/index.jsp?uREC_ID=2049611&type=d&pREC_ID=2124823,no
 WY,5601470,Campbell County School District 1,boardpage,https://www.ccsd.k12.wy.us/admin-page-1935/board-agendas,no
 WY,5601470,Campbell County School District 1,funding,https://www.ccsd.k12.wy.us/families/federal-programs,no
-WY,5600730,Albany County School District 1,boardpage,https://simbli.eboardsolutions.com/index.aspx?S=36031929,yes
+WY,5605302,Sweetwater County School District 1,boardpage,https://www.sweetwater1.org/,no
+WY,5600730,Albany County School District 1,boardpage,https://www.acsd1.org/o/acsd/page/board-of-trustees,no
 WY,5604060,Lincoln County School District 2,boarddocs,http://www.boarddocs.com/wy/lcsd2/Board.nsf/Public,no
 WY,5605220,Fremont County School District 25,boardpage,https://www.fremontschools.net/board-of-education,no
 WY,5605762,Sweetwater County School District 2,boardpage,https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030221&revid=PDHCW7WEYCf1D7Z74OhCEQ==&ptid=amIgTZiB9plushNjl6WXhfiOQ==&secid=9slshUHzTHxaaYMVf6zKpJz3Q==&PG=6&IRP=0,yes
