@@ -1,175 +1,55 @@
 {
- "updated": "2026-11-07T01:28:33+00:00",
+ "updated": "2026-11-08T13:18:04+00:00",
  "items": [
   {
-   "id": "1d8796ea310c6643",
-   "district": "Bibb County School District",
-   "state": "AL",
-   "leaid": "0100360",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.bibbed.org/federal",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "Bibb County Schools - Federal Programs Skip to main content Federal Programs...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "46a3bfe4e81cf1fb",
-   "district": "Perris Union High School District",
-   "state": "CA",
-   "leaid": "0630210",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.perrisesd.org/o/pesd/page/title-i-intervention",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "Title I Intervention | Perris Elementary School Skip to content...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "16169eca5f4b8000",
-   "district": "Gooding Joint School District 231",
-   "state": "ID",
-   "leaid": "1601260",
+   "id": "670c4d393c9e5a21",
+   "district": "Iowa Valley Community School District",
+   "state": "IA",
+   "leaid": "1914850",
    "source": "Board meeting",
-   "meeting": "November 10, 2026",
-   "date": "2026-11-10",
-   "url": "https://gsd231.org/wp-content/uploads/2026/11/Agenda-Nov-10-2026.pdf",
-   "categories": [
-    "Services"
-   ],
-   "hot": false,
-   "terms": [
-    "reading intervention"
-   ],
-   "snippet": "\u2022 1110 Elections \u2022 1525 Board Meeting New Coverage \u2022 1645 Board Development Opportunities \u2022 2125 K-3 Reading Intervention \u2022 2200 School Year Calendar and Instructional Hours \u2022 2395 Idaho Digital Learning Academy Classes \u2022 2520 Selection, Adoption, Use, and Removal of Curricular Materials \u2022 2530 Learning Materials Revie...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "c7e7430ee6a63519",
-   "district": "Grant Community High School District 124",
-   "state": "IL",
-   "leaid": "1717340",
-   "source": "Board meeting",
-   "meeting": "Agenda Packet 11-12-2026.pdf",
-   "date": "2026-11-12",
-   "url": "https://www.gcsd.org/files/0e7a09bc2/Agenda+Packet+11-12-2026.pdf",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title ii"
-   ],
-   "snippet": "...mplies with existing accessibility requirements and has been working toward the additional federal website and mobile application accessibility standards under Title II of the Americans with Disabilities Act, which require compliance with the Web Content Accessibility Guidelines (WCAG) 2.1, Level AA. The U.S....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "a106ce67bba8722c",
-   "district": "Lowell Area Schools",
-   "state": "MI",
-   "leaid": "2622050",
-   "source": "Board meeting",
-   "meeting": "Board Brief (December 8)",
-   "date": "2026-10-12",
-   "url": "https://lowellschools-cdn.fxbrt.com/downloads/board_of_education/december_8_board_brief.pdf",
+   "meeting": "SERIES 400: Employees",
+   "date": "2026-11-08",
+   "url": "https://www.ivcsd.org/District_Information/School Board/400 Board Policy Series.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "literacy coach"
+    "paraeducators"
    ],
-   "snippet": "He thanked Carmen Tawney (math) and Kyndera Lee (reading) for their work leading these teams. Kyndera Lee is also the district Literacy Coach, so the reading team will be transitioned over to Jill Kirkpatrick. The middle school flex schedule, modeled after the high school, has begun and is working well....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "snippet": "...ieves incidents of alleged child abuse should be reported to the proper authorities. E mployees are encouraged, and licensed employees , teachers, coaches, and paraeducators are required as mandatory reporters, to report alleged incidents of child abuse they become aware of within the scope of their professional duties...",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
   },
   {
-   "id": "9e626b39aaee77db",
-   "district": "Lowell Area Schools",
-   "state": "MI",
-   "leaid": "2622050",
+   "id": "dc7025c8bdab28b5",
+   "district": "Iowa Valley Community School District",
+   "state": "IA",
+   "leaid": "1914850",
    "source": "Board meeting",
-   "meeting": "Board Brief (May 11)",
-   "date": "2026-10-12",
-   "url": "https://lowellschools-cdn.fxbrt.com/downloads/board_of_education/may_11_board_brief_1.pdf",
-   "categories": [
-    "Services"
-   ],
-   "hot": false,
-   "terms": [
-    "credit recovery"
-   ],
-   "snippet": "...for successfully managing all the testing schedules. Summer programs this year will include Arrow Readers on the Move, elementary Summer Boost and high school credit recovery. The 2026-2027 instructional calendar has been completed....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "67e3d17172c2aec5",
-   "district": "Kingsley Area Schools",
-   "state": "MI",
-   "leaid": "2620380",
-   "source": "Board meeting",
-   "meeting": "AGENDA",
-   "date": "2026-11-09",
-   "url": "https://www.kingsleyschools.org/_files/ugd/2f409e_b4df1df8be9a4368b641cc635fe70ae7.pdf",
+   "meeting": "SERIES 400: Employees",
+   "date": "2026-11-08",
+   "url": "https://www.ivcsd.org/District_Information/School Board/400 Board Policy Series.pdf",
    "categories": [
     "New positions"
    ],
-   "hot": true,
-   "terms": [
-    "paraprofessional"
-   ],
-   "snippet": "1. Hiring of Megan Soper, Elementary SE Paraprofessional 2....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "c4154370037958e6",
-   "district": "Kingsley Area Schools",
-   "state": "MI",
-   "leaid": "2620380",
-   "source": "Board meeting",
-   "meeting": "AGENDA",
-   "date": "2026-11-09",
-   "url": "https://www.kingsleyschools.org/_files/ugd/2f409e_b4df1df8be9a4368b641cc635fe70ae7.pdf",
-   "categories": [
-    "Funding"
-   ],
    "hot": false,
    "terms": [
-    "title i"
+    "paraeducators"
    ],
-   "snippet": "3. Resignation of Louise Tyler, Title I Teacher - Hannah C....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "snippet": "..., a teacher who abuses a child is subject to civil, criminal, and professional sanctions. Reporting Procedures Licensed employees, including teachers, coaches, paraeducators, and school nurses, are required to report, orally within twenty -four hours of becoming aware of the abusive incident to the Iowa Department of H...",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
   },
   {
-   "id": "662086a707c5b198",
-   "district": "Benzie County Central School",
+   "id": "18a47f8a29be876e",
+   "district": "Evart Public Schools",
    "state": "MI",
-   "leaid": "2604950",
+   "leaid": "2613560",
    "source": "Board meeting",
-   "meeting": "November 9, 2026 - Regular - 7:00 PM",
+   "meeting": "November 9, 2026 &nbsp;Brief Agenda",
    "date": "2026-11-09",
-   "url": "https://benzieschools.net/downloads/boe/2025-agendas/november_9_2026_-_regular_-_700_pm.pdf",
+   "url": "https://evartps-cdn.fxbrt.com/downloads/central_office/brief_agenda_nov_9_2026_1.pdf",
    "categories": [
     "New positions"
    ],
@@ -177,19 +57,19 @@
    "terms": [
     "paraprofessional"
    ],
-   "snippet": "Karlee Harris \u2013 5.5 to 6.5 Paraprofessional \u2013 Lake Ann Elementary \u2013 Effective November 2, 2026 2....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "snippet": "B. Recommendation to approve Katherine Hawley as an Elementary Paraprofessional. C....",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
   },
   {
-   "id": "ccac76ebca38a3a1",
-   "district": "Benzie County Central School",
+   "id": "36c83ba1504ddc73",
+   "district": "Evart Public Schools",
    "state": "MI",
-   "leaid": "2604950",
+   "leaid": "2613560",
    "source": "Board meeting",
-   "meeting": "November 9, 2026 - Regular - 7:00 PM",
+   "meeting": "November 9, 2026 &nbsp;Brief Agenda",
    "date": "2026-11-09",
-   "url": "https://benzieschools.net/downloads/boe/2025-agendas/november_9_2026_-_regular_-_700_pm.pdf",
+   "url": "https://evartps-cdn.fxbrt.com/downloads/central_office/brief_agenda_nov_9_2026_1.pdf",
    "categories": [
     "New positions"
    ],
@@ -197,241 +77,201 @@
    "terms": [
     "paraprofessional"
    ],
-   "snippet": "Erika Frederick \u2013 5.5 Paraprofessional \u2013 Lake Ann Elementary \u2013 Effective November 2, 2026 E....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "snippet": "C. Recommendation to approve Jaimes Tantoco as an Elementary Paraprofessional.. D....",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
   },
   {
-   "id": "622c9ecb8767a066",
-   "district": "Independence 30 School District",
-   "state": "MO",
-   "leaid": "2915480",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.isdschools.org/our-district/compliance/federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "Federal Programs - Independence School District Skip To Main Content Federal Programs & Student Support The ISD receives federal funding to support academic achievement, family engagement, and equitable access to learning opportunities. We administer these programs in alignment with the Every Student Succeeds Act (ESSA...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "890a99ad17667ab1",
-   "district": "Independence 30 School District",
-   "state": "MO",
-   "leaid": "2915480",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.isdschools.org/our-district/compliance/federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "We administer these programs in alignment with the Every Student Succeeds Act (ESSA) and DESE guidelines. TITLE I \u2013 Improving Academic Achievement Purpose: Title I provides supplemental support for students who need additional academic assistance to meet grade-level expectations. Our Goals:...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "af1454519bae06f5",
-   "district": "Independence 30 School District",
-   "state": "MO",
-   "leaid": "2915480",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.isdschools.org/our-district/compliance/federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i",
-    "title ii",
-    "title iii"
-   ],
-   "snippet": "Our Goals: Strengthen literacy and math achievement Provide targeted interventions Support family engagement in learning Ensure highly qualified educators in Title I programs Required Parent Resources: Parent & Family Engagement Plan School\u2013Parent Compact Right-to-Know Teacher Qualifications Notice List of Title I Scho...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "713f8b4fb2500348",
-   "district": "River Valley Local School District",
-   "state": "OH",
-   "leaid": "3904844",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.rvk12.org/our-district/compliance/arp-esser-plan",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "arp esser"
-   ],
-   "snippet": "ARP ESSER Plan - River Valley Local Schools Skip To Main Content ARP ESSER Plan Parents, Students, and Staff, On March 11, 2021, the American Rescue Plan Elementary and Secondary School Emergency Relief (ARP ESSER) Fund was enacted as part of the American Rescue Plan (ARP) Act, Public Law 117-2.ARP ESSER provides a tot...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "65217132f65657df",
-   "district": "River Valley Local School District",
-   "state": "OH",
-   "leaid": "3904844",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.rvk12.org/our-district/compliance/arp-esser-plan",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "arp esser"
-   ],
-   "snippet": "...g and operation of schools and address the impact of the coronavirus pandemic. River Valley Schools will receive an initial allocation of $1.25 million for the ARP ESSER allocation. Again, these funds can only be used for areas listed above....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "d805fa0a78def4e7",
-   "district": "River Valley Local School District",
-   "state": "OH",
-   "leaid": "3904844",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.rvk12.org/our-district/compliance/arp-esser-plan",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "arp esser"
-   ],
-   "snippet": "Again, these funds can only be used for areas listed above. Any school district receiving ARP ESSER Funds must develop a \u201cSafe Return to In-person Instruction and Continuity of Services Plan.\u201d River Valley Local Schools developed a \u201cReturn to Learn\u201d Plan prior to the 2020-21 school year. Although this plan meets a sign...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "3e00b65a6f34b269",
-   "district": "River Valley Local School District",
-   "state": "OH",
-   "leaid": "3904844",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.rvk12.org/our-district/compliance/arp-esser-plan",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "arp esser"
-   ],
-   "snippet": "...or on the bus, unless the Governor\u2019s orders, or additional orders from the Department of Health require us to do so. However, it is important to note that the ARP ESSER federal guidance required that plans include, or could be modified to include guidance on masks, physical distancing, handwashing , cleaning, etc. Whi...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "e3890f6d8f719108",
-   "district": "River Valley Local School District",
-   "state": "OH",
-   "leaid": "3904844",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.rvk12.org/our-district/compliance/arp-esser-plan",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "arp esser"
-   ],
-   "snippet": "...eas, River Valley will continue to make changes in response to the current situation and based on feedback from parents, students, and staff. In regards to the ARP ESSER Funds, each district must have a plan that includes, or will be modified to include how it will maintain the health and safety of students, educators,...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "9aeb40d551fd23f3",
-   "district": "Finneytown Local School District",
-   "state": "OH",
-   "leaid": "3904733",
+   "id": "66fd905ddca8b4f5",
+   "district": "Cass City Public Schools",
+   "state": "MI",
+   "leaid": "2608400",
    "source": "Board meeting",
-   "meeting": "Regular Meeting November 9, 2026",
-   "date": "2026-11-09",
-   "url": "https://finneytown.org/wp-content/uploads/2026/11/Agenda261109.pdf",
+   "meeting": "July 2025",
+   "date": "2026-11-08",
+   "url": "https://casscity4-cdn.fxbrt.com/downloads/board_of_education/minutesregularjuly2025gothic_1.pdf",
    "categories": [
-    "Services"
+    "New positions"
    ],
    "hot": true,
    "terms": [
-    "reading intervention"
+    "paraprofessional"
    ],
-   "snippet": "...f Resignations* It is recommended that the Board acknowledge the following resignations, which have been previously accepted by the Superintendent: Karen Bause Reading Intervention effective May 28, 2027 (retirement) Melissa Read EMIS Coordinator effective November 13, 2026 (personal) b) Approval of Payment \u2013 Certified...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "snippet": "MOTION CARRIED. A motion was made by George Batty, supported by Stacey Bliss , to hire Megan Willis as an Elementary Paraprofessional. All Ayes....",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
   },
   {
-   "id": "f03af7c031780321",
-   "district": "Finneytown Local School District",
-   "state": "OH",
-   "leaid": "3904733",
+   "id": "f79f93d67b181dff",
+   "district": "Chadron Public Schools",
+   "state": "NE",
+   "leaid": "3104980",
    "source": "Board meeting",
-   "meeting": "Regular Meeting June 17th",
-   "date": "2026-11-07",
-   "url": "https://finneytown.org/wp-content/uploads/2024/06/Agenda240617.pdf",
+   "meeting": "View Agenda",
+   "date": "2026-11-08",
+   "url": "https://docs.google.com/document/d/e/2PACX-1vQcc-OfSwnTDMhLQAFfn_HG4__77Hv2lek044MR0TDsYFhitV2UTg_-dHImJXsBQ9bcjZTmqWNLkYGg/pub",
    "categories": [
     "Services"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "academic intervention"
+    "afterschool program"
    ],
-   "snippet": "...esented for final adoption at the next regular meeting of the Board: 0100 DEFINITIONS 2340 FIELD AND OTHER DISTRICT-SPONSORED TRIPS 2623 STUDENT ASSESSMENT AND ACADEMIC INTERVENTION SERVICES 2623.02 THIRD GRADE READING GUARANTEE 3120.04 EMPLOYMENT OF SUBSTITUTES 3140 TERMINATION AND RESIGNATION 4124 EMPLOYMENT CONTRACT...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "snippet": "...Health Resources for the staffing to administer both flu & covid shots to public school staff members. To the Just For Kids staff in coordination with the CMS afterschool program on an eventful Halloween party complete with stations and fun. Dr....",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
   },
   {
-   "id": "05219c30930afb8b",
-   "district": "Finneytown Local School District",
-   "state": "OH",
-   "leaid": "3904733",
+   "id": "99be30aae690a60e",
+   "district": "Chadron Public Schools",
+   "state": "NE",
+   "leaid": "3104980",
    "source": "Board meeting",
-   "meeting": "Regular Meeting June 17th",
-   "date": "2026-11-07",
-   "url": "https://finneytown.org/wp-content/uploads/2024/06/Agenda240617.pdf",
+   "meeting": "View Agenda",
+   "date": "2026-11-08",
+   "url": "https://docs.google.com/document/d/e/2PACX-1vQcc-OfSwnTDMhLQAFfn_HG4__77Hv2lek044MR0TDsYFhitV2UTg_-dHImJXsBQ9bcjZTmqWNLkYGg/pub",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "after school program"
+   ],
+   "snippet": "...dron Community Hospital, Panel on Mental Health State Conference, Legislative and Legislative Committee, Aware, PPHD meetings iv. Teaching, Learning, & Serving After School Program, Professional Development Schedule, b. College & Career Ready & Civic i....",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "id": "b10c351347bbefda",
+   "district": "Chadron Public Schools",
+   "state": "NE",
+   "leaid": "3104980",
+   "source": "Board meeting",
+   "meeting": "View Agenda",
+   "date": "2026-11-08",
+   "url": "https://docs.google.com/document/d/e/2PACX-1vQcc-OfSwnTDMhLQAFfn_HG4__77Hv2lek044MR0TDsYFhitV2UTg_-dHImJXsBQ9bcjZTmqWNLkYGg/pub",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "after school program"
+   ],
+   "snippet": "v. Utilizing perceptual data Educlimber, Acadience, After School Program, SIP Surveys d. Educator Effectiveness i....",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "id": "c47c949c9be94c94",
+   "district": "Chadron Public Schools",
+   "state": "NE",
+   "leaid": "3104980",
+   "source": "Board meeting",
+   "meeting": "View Agenda",
+   "date": "2026-11-08",
+   "url": "https://docs.google.com/document/d/e/2PACX-1vQcc-OfSwnTDMhLQAFfn_HG4__77Hv2lek044MR0TDsYFhitV2UTg_-dHImJXsBQ9bcjZTmqWNLkYGg/pub",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "after-school program"
+   ],
+   "snippet": "Educational Opportunities & Access i. Before or after-school opportunities Monitor 21st Century grant that subsidizes the after-school program, Title VI Indian Education Parent Meeting ii. Supplementing in-person classroom instruction with digital learning opportunities....",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "id": "088947466de56c61",
+   "district": "Chadron Public Schools",
+   "state": "NE",
+   "leaid": "3104980",
+   "source": "Board meeting",
+   "meeting": "View Agenda",
+   "date": "2026-11-08",
+   "url": "https://docs.google.com/document/d/e/2PACX-1vQcc-OfSwnTDMhLQAFfn_HG4__77Hv2lek044MR0TDsYFhitV2UTg_-dHImJXsBQ9bcjZTmqWNLkYGg/pub",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "arp esser"
+    "title 1"
    ],
-   "snippet": "...l Fund* \u2013 FY24 It is recommended that the Board approve the following advances back to the General Fund: 001-5220 General Fund NTE 158,697.91 507-7420-922-9033 ARP ESSER NTE ($70,081.51) 516-7420-922-9024 IDEA-B Special Education NTE ($48,671.00) 551-7420-922-9024 English Language Learners NTE ($ 2,415.00) 572-7420-922...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "snippet": "We had 88% attendance at CIS. Thank you to the parents that stopped by our Title 1 meeting during conferences. Thank you to WCHR for providing flu shots to our staff and to our school nursing staff for coordinating this effort....",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
   },
   {
-   "id": "587ab304545ca8cd",
-   "district": "Finneytown Local School District",
-   "state": "OH",
-   "leaid": "3904733",
-   "source": "Board meeting",
-   "meeting": "Regular Meeting June 17th",
-   "date": "2026-11-07",
-   "url": "https://finneytown.org/wp-content/uploads/2024/06/Agenda240617.pdf",
+   "id": "c5f39ccb0afe0520",
+   "district": "Fairfield Independent School District",
+   "state": "TX",
+   "leaid": "4818940",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-08",
+   "url": "https://www.fairfieldisd.net/132934_3",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "high-dosage tutoring",
+    "summer learning"
+   ],
+   "snippet": "Extended Instructional Time: extended day, extended year, high-dosage tutoring, summer learning; Staffing:...",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "id": "53f1d002aef51b09",
+   "district": "Fairfield Independent School District",
+   "state": "TX",
+   "leaid": "4818940",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-08",
+   "url": "https://www.fairfieldisd.net/132934_3",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "tutors"
+   ],
+   "snippet": "Staffing: tutors, reduced class sizes, small group instruction, staff retention and recruitment incentive pay, after school enrichment programs, instructional coaching and leadership; Facilities:...",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "id": "a7ade4a9b33ff750",
+   "district": "Fairfield Independent School District",
+   "state": "TX",
+   "leaid": "4818940",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-08",
+   "url": "https://www.fairfieldisd.net/132934_3",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "esser",
+    "esser iii"
+   ],
+   "snippet": "ESSER III Search this site Embedded Files Skip to main content Skip to navigation ESSER Information Data shows that the COVID-19 pandemic has had a significant impact on student learning, both across the country and in Fairfield ISD. Fairfield ISD is launching a comprehensive stakeholder engagement process to help dete...",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "id": "4b254a4af8567d2a",
+   "district": "Fairfield Independent School District",
+   "state": "TX",
+   "leaid": "4818940",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-08",
+   "url": "https://www.fairfieldisd.net/132934_3",
    "categories": [
     "Funding"
    ],
@@ -439,149 +279,90 @@
    "terms": [
     "esser"
    ],
-   "snippet": "...The District will pay for the Project using federal grant funding made available to the District through the Elementary and Secondary School emergency Relief (\u201cESSER\u201d) fund. Accordingly, this procurement also complies with procurement requirements under...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "snippet": "...ed learning and COVID-19 recovery. The American Rescue Plan signed into law in March included $122 billion in Elementary and Secondary School Emergency Relief (ESSER) funds for school districts across the country, which is the single largest investment in federal elementary and secondary education in the nation\u2019s histo...",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
   },
   {
-   "id": "e73158b2b9005c91",
-   "district": "Finneytown Local School District",
-   "state": "OH",
-   "leaid": "3904733",
-   "source": "Board meeting",
-   "meeting": "Regular Meeting July 15th",
-   "date": "2026-11-07",
-   "url": "https://finneytown.org/wp-content/uploads/2024/07/Agenda240715.pdf",
-   "categories": [
-    "Services"
-   ],
-   "hot": true,
-   "terms": [
-    "academic intervention"
-   ],
-   "snippet": "0100 DEFINITIONS 2340 FIELD AND OTHER DISTRICT-SPONSORED TRIPS 2623 STUDENT ASSESSMENT AND ACADEMIC INTERVENTION SERVICES 2623.02 THIRD GRADE READING GUARANTEE 3120.04 EMPLOYMENT OF SUBSTITUTES 3140 TERMINATION AND RESIGNATION 4124 EMPLOYMENT CONTRACT 4140 TERMINATION AND RESIGNATION 5310 HEALTH SERVICES Finneytown Loc...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "617a963324ef07f9",
-   "district": "Finneytown Local School District",
-   "state": "OH",
-   "leaid": "3904733",
-   "source": "Board meeting",
-   "meeting": "Regular Meeting July 15th",
-   "date": "2026-11-07",
-   "url": "https://finneytown.org/wp-content/uploads/2024/07/Agenda240715.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "tutor"
-   ],
-   "snippet": "...he following building substitutes, effective August 19, 2024 at the rate of $125.00 per day: Maddelyn Banks Intervention Specialist FE e) Approval of Payment \u2013 Tutor* It is recommended that the Board approve payment to the following tutor, who will provide services as needed, effective August 1, 2023 through July 31, 2...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "06ba40b018c1f027",
-   "district": "Morgan County School District",
-   "state": "TN",
-   "leaid": "4703090",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.morganschools.org/district-news/~board/morgan-local-school-district-news/post/title-i-parent-survey",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "Title I Parent Survey | District News Skip To Main Content Title I Parent Survey Title I Parent Survey We value your input and invite you to participate in our Title I Parent Survey! Your feedback is important and helps us understand the needs, ideas, and priorities of our families....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "de1ae43f445a4fb4",
-   "district": "Midway Independent School District",
+   "id": "7fb2357b03455de0",
+   "district": "Fairfield Independent School District",
    "state": "TX",
-   "leaid": "4830640",
+   "leaid": "4818940",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.midwayk12.org/o/mps/page/title-ihandbooks",
+   "date": "2026-11-08",
+   "url": "https://www.fairfieldisd.net/132934_3",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "title i"
+    "esser iii"
    ],
-   "snippet": "Title I/Handbooks | Midway Public Schools Skip to content...",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "snippet": "...input into the district's Return to In-Person Instruction and Continuity of Services Plan and use of the Elementary and Secondary Schools Emergency Relief III (ESSER III) grant. The meeting will take place at 6:00 on Monday, February 13 th, 2023....",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
   },
   {
-   "id": "06ba40b018c1f027",
-   "district": "Morgan School District",
-   "state": "UT",
-   "leaid": "4900570",
+   "id": "2d27803b0dd4ec1a",
+   "district": "Fairfield Independent School District",
+   "state": "TX",
+   "leaid": "4818940",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.morganschools.org/district-news/~board/morgan-local-school-district-news/post/title-i-parent-survey",
+   "date": "2026-11-08",
+   "url": "https://www.fairfieldisd.net/132934_3",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "title i"
+    "arp esser",
+    "esser iii"
    ],
-   "snippet": "Title I Parent Survey | District News Skip To Main Content Title I Parent Survey Title I Parent Survey We value your input and invite you to participate in our Title I Parent Survey! Your feedback is important and helps us understand the needs, ideas, and priorities of our families....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "snippet": "...y is also welcome to submit feedback using the following forms: Stakeholder Input Survey_English Stakeholder Input Survey_Spanish ESSER III - Use of Funds FISD ARP ESSER III Use of Funds FISD ARP ESSER III Uso de fondos Review Timeline: Return to In Person Instruction and Continuity of Services Plan Review June 3, 2021...",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
   },
   {
-   "id": "d0f6435e4c95b469",
-   "district": "South Summit School District",
-   "state": "UT",
-   "leaid": "4900990",
-   "source": "Board meeting",
-   "meeting": "Minutes",
-   "date": "2026-11-07",
-   "url": "https://www.sssd.org/files/86178d128/February+13%2C+2026+Regular+Board+Meeting+Minutes.pdf",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal funds"
-   ],
-   "snippet": "...volving Fund and Sewer Overflow and Stormwater Reuse Municipal grants. We also discussed the potential need to apply f or a BABA waiver if we wish to apply for Federal funds. LGIP Interest \u2013 The LGIP accounts earned $128,341.72 in interest during the month of January....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
-  },
-  {
-   "id": "06ba40b018c1f027",
-   "district": "Morgan County School District",
-   "state": "WV",
-   "leaid": "5400990",
+   "id": "b8c03f160d98b4d6",
+   "district": "Fairfield Independent School District",
+   "state": "TX",
+   "leaid": "4818940",
    "source": "Budget / plan",
    "meeting": "Title I / federal programs page",
-   "date": "2026-11-07",
-   "url": "https://www.morganschools.org/district-news/~board/morgan-local-school-district-news/post/title-i-parent-survey",
+   "date": "2026-11-08",
+   "url": "https://www.fairfieldisd.net/132934_3",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "title i"
+    "esser"
    ],
-   "snippet": "Title I Parent Survey | District News Skip To Main Content Title I Parent Survey Title I Parent Survey We value your input and invite you to participate in our Title I Parent Survey! Your feedback is important and helps us understand the needs, ideas, and priorities of our families....",
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07"
+   "snippet": "January 26, 2022 Agenda Minutes Sign-in Sheet Review and Public Hearing : February 15, 2022 Minutes from FISD Board Meeting DEIC ESSER Needs Assessment: May 3, 2022 DEIC ESSER Needs Assessment : June 6, 2022 RIPICS Review and Public Hearing:...",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "id": "752f43440195d726",
+   "district": "Fairfield Independent School District",
+   "state": "TX",
+   "leaid": "4818940",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-08",
+   "url": "https://www.fairfieldisd.net/132934_3",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "esser iii"
+   ],
+   "snippet": "January 25, 2023 RIPICS Review and Public Hearing: February 14, 2023 Stakeholder Input Survey_English Stakeholder Input Survey_Spanish ESSER III Public Hearing Presentation Minutes from FISD Board Meeting Reviews 6 Month Review 2/15/2022 Public Hearing Agenda...",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
   }
  ]
 }
