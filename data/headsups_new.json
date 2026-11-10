@@ -1,45 +1,310 @@
 {
- "updated": "2026-11-09T15:21:32+00:00",
+ "updated": "2026-11-10T14:49:51+00:00",
  "items": [
   {
-   "id": "95078850ed6a231d",
-   "district": "Choctaw/Nicoma Park Schools",
-   "state": "OK",
-   "leaid": "4007620",
-   "source": "Board meeting",
-   "meeting": "Read More about School Board Meeting - Administration Building",
-   "date": "2026-11-09",
-   "url": "https://www.cnpschools.org/cnp-district/school-board",
+   "id": "53293ae0887c88b3",
+   "district": "West Park Elementary School District",
+   "state": "CA",
+   "leaid": "0642060",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-10",
+   "url": "https://www.westpark.k12.ca.us/Schools/West-Park-Elementary/ESSER-III/index.html",
    "categories": [
-    "Competitor"
+    "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "soliant"
+    "esser iii"
    ],
-   "snippet": "...: Shanna Keiffer, Executive Director of Student Services Student Services Report Consideration and possible vote to approve a Client Services Agreement between Soliant Health, LLC and Choctaw-Nicoma Park School District for a Virtual Speech Language Therapist for the remainder of the 2026-27 school year. 8....",
-   "first_seen": "2026-11-09",
-   "last_seen": "2026-11-09"
+   "snippet": "Westpark School District - ESSER III ESSER III...",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
   },
   {
-   "id": "382abe2bf17c6554",
-   "district": "Rogersville City Schools",
-   "state": "TN",
-   "leaid": "4703660",
+   "id": "fe63d064e57ed6af",
+   "district": "Gooding Joint School District 231",
+   "state": "ID",
+   "leaid": "1601260",
    "source": "Board meeting",
-   "meeting": "Board meeting",
-   "date": "2026-11-09",
-   "url": "https://resources.finalsite.net/images/v1794229265/rcschoolnet/wentorybitkjpx3ptzfg/UpcomingBoardMeetingAgenda.pdf",
+   "meeting": "November 10, 2026",
+   "date": "2026-11-10",
+   "url": "https://gsd231.org/wp-content/uploads/2026/11/1Agenda-Oct-13-2026.pdf",
    "categories": [
     "Services"
    ],
    "hot": false,
    "terms": [
-    "summer learning"
+    "reading intervention"
    ],
-   "snippet": "D. FY2027 GP 2026 Summer Learning Grant $12,492.60 F....",
-   "first_seen": "2026-11-09",
-   "last_seen": "2026-11-09"
+   "snippet": "\u2022 1110 Elections \u2022 1525 Board Meeting New Coverage \u2022 1645 Board Development Opportunities \u2022 2125 K-3 Reading Intervention \u2022 2200 School Year Calendar and Instructional Hours \u2022 2395 Idaho Digital Learning Academy Classes \u2022 2520 Selection, Adoption, Use, and Removal of Curricular Materials \u2022 2530 Learning Materials Revie...",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "72907c34e79b40b7",
+   "district": "Grant Community High School District 124",
+   "state": "IL",
+   "leaid": "1717340",
+   "source": "Board meeting",
+   "meeting": "Agenda Packet 11-12-2026.pdf",
+   "date": "2026-11-12",
+   "url": "https://www.gcsd.org/files/1c9fa414a/Agenda+Packet+11-12-2026.pdf",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title ii"
+   ],
+   "snippet": "...mplies with existing accessibility requirements and has been working toward the additional federal website and mobile application accessibility standards under Title II of the Americans with Disabilities Act, which require compliance with the Web Content Accessibility Guidelines (WCAG) 2.1, Level AA. The U.S....",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "0cce8ec9700598da",
+   "district": "Okolona Separate School District",
+   "state": "MS",
+   "leaid": "2803390",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-10",
+   "url": "https://www.okolona.k12.ms.us/apps/pages/index.jsp?uREC_ID=2353482&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs",
+    "title i",
+    "title i, part a"
+   ],
+   "snippet": "Important Information \u2013 Federal Programs \u2013 Okolona Municipal Separate School District Federal Programs \u00bb Important Information Important Information Title I, Part A (Basic) Every Student Succeeds Act (ESSA) provides financial assistance through state education agencies (SEAs) to local education agencies (LEAs) and publ...",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "088527bd09346e79",
+   "district": "Okolona Separate School District",
+   "state": "MS",
+   "leaid": "2803390",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-10",
+   "url": "https://www.okolona.k12.ms.us/apps/pages/index.jsp?uREC_ID=2353482&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "12. LEAs target the Title I funds they receive to public schools with the highest poverty rates. Public schools with poverty rates of at least 40 percent may use Title I funds, along with other federal, state, and local funds, to operate a schoolwide program to upgrade the entire educational program. Schools with pover...",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "0e87ebd58e1e49a6",
+   "district": "Okolona Separate School District",
+   "state": "MS",
+   "leaid": "2803390",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-10",
+   "url": "https://www.okolona.k12.ms.us/apps/pages/index.jsp?uREC_ID=2353482&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...low 40 percent, or those choosing not to operate a schoolwide program, offer a targeted assistance program. In a targeted assistance program, the school serves Title I- eligible students who are failing, or most at risk of failing, to meet challenging state academic standards. The school then designs, in consultation w...",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "5ae53e7f66dcda17",
+   "district": "Okolona Separate School District",
+   "state": "MS",
+   "leaid": "2803390",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-10",
+   "url": "https://www.okolona.k12.ms.us/apps/pages/index.jsp?uREC_ID=2353482&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title ii"
+   ],
+   "snippet": "...targeted assistance programs must be based on effective means of improving student achievement and include strategies to support parent and family engagement. Title II, Part A (Effective Instruction) The purpose of Title II, Part A is to increase student academic achievement consistent with the challenging state acade...",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "3140701e93765a60",
+   "district": "Okolona Separate School District",
+   "state": "MS",
+   "leaid": "2803390",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-10",
+   "url": "https://www.okolona.k12.ms.us/apps/pages/index.jsp?uREC_ID=2353482&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i part a",
+    "title ii",
+    "title iv"
+   ],
+   "snippet": "...ion agencies 3) Supporting Effective Instruction 4) Language Instruction for English Learners and Immigrant Students 5) Student Support and Academic Enrichment Title I Part A Allowable Uses Title II Allowable Uses Title IV Allowable Uses Title V Allowable uses Foster Care Mr. Ken McGaha serves as the Okolona Municipal...",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "62a8746c86dea3ea",
+   "district": "Okolona Separate School District",
+   "state": "MS",
+   "leaid": "2803390",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-10",
+   "url": "https://www.okolona.k12.ms.us/apps/pages/index.jsp?uREC_ID=2353482&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Students must be enrolled in school and receive services, such as transportation, while disputes are being settled. Students are automatically eligible for Title I services. School districts must reserve a portion of Title IA funds to serve homeless students....",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "4b40444586b99500",
+   "district": "Okolona Separate School District",
+   "state": "MS",
+   "leaid": "2803390",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-10",
+   "url": "https://www.okolona.k12.ms.us/apps/pages/index.jsp?uREC_ID=2353482&type=d",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal funds",
+    "federal programs"
+   ],
+   "snippet": "...OMSSD FERPA ANNUAL NOTICE PARENTS RIGHT TO KNOW LETTERS 2026-2027.docx - Google Docs WASTE AND FRAUD To protect against waste, fraud and abuse of district and federal funds, please report suspected waste, fraud or abuse to the Superintendent, Business Manager or Federal Programs Director at 662-447-2353 or by emailing...",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "5d35c79f21ec0068",
+   "district": "Wood River Rural Schools",
+   "state": "NE",
+   "leaid": "3178940",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-10",
+   "url": "https://www.woodrivereagles.org/page/title-1",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1"
+   ],
+   "snippet": "TITLE 1 | Wood River Rural Schools Skip to content...",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "65fc0d92d5d92264",
+   "district": "Empire Public Schools",
+   "state": "OK",
+   "leaid": "4010890",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-10",
+   "url": "https://www.empireschools.org/arp-esser-iii-plan",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "arp esser"
+   ],
+   "snippet": "Empire Public Schools - ARP ESSER III Plan Skip to main content ARP ESSER III Plan...",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "a106ce67bba8722c",
+   "district": "Lowell School District 71",
+   "state": "OR",
+   "leaid": "4107590",
+   "source": "Board meeting",
+   "meeting": "Board Brief (December 8)",
+   "date": "2026-11-09",
+   "url": "https://lowellschools-cdn.fxbrt.com/downloads/board_of_education/december_8_board_brief.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "literacy coach"
+   ],
+   "snippet": "He thanked Carmen Tawney (math) and Kyndera Lee (reading) for their work leading these teams. Kyndera Lee is also the district Literacy Coach, so the reading team will be transitioned over to Jill Kirkpatrick. The middle school flex schedule, modeled after the high school, has begun and is working well....",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "9e626b39aaee77db",
+   "district": "Lowell School District 71",
+   "state": "OR",
+   "leaid": "4107590",
+   "source": "Board meeting",
+   "meeting": "Board Brief (May 11)",
+   "date": "2026-11-09",
+   "url": "https://lowellschools-cdn.fxbrt.com/downloads/board_of_education/may_11_board_brief_1.pdf",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "credit recovery"
+   ],
+   "snippet": "...for successfully managing all the testing schedules. Summer programs this year will include Arrow Readers on the Move, elementary Summer Boost and high school credit recovery. The 2026-2027 instructional calendar has been completed....",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "79d20a8946553d0a",
+   "district": "Big Sandy Independent School District",
+   "state": "TX",
+   "leaid": "4810170",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-10",
+   "url": "https://www.bigsandyisd.net/180971_3",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Big Sandy ISD - Title I Family Engagement Plan Skip to main content Title I Family Engagement Plan...",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
   }
  ]
 }
