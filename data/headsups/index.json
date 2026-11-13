@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:20:37+00:00",
+ "updated": "2026-11-13T14:28:53+00:00",
  "states": {
   "AK": {
    "count": 29,
@@ -46,7 +46,7 @@
    "hot": 0
   },
   "ID": {
-   "count": 89,
+   "count": 90,
    "hot": 2
   },
   "IL": {
@@ -82,7 +82,7 @@
    "hot": 0
   },
   "MI": {
-   "count": 327,
+   "count": 329,
    "hot": 13
   },
   "MN": {
@@ -134,8 +134,8 @@
    "hot": 0
   },
   "OH": {
-   "count": 267,
-   "hot": 4
+   "count": 269,
+   "hot": 5
   },
   "OK": {
    "count": 51,
@@ -201,9 +201,9 @@
  "sources": 6706,
  "checked_ever": 6706,
  "run": {
-  "ok": 3649,
-  "problem": 831,
-  "skipped": 93
+  "problem": 323,
+  "ok": 974,
+  "skipped": 107
  },
- "new": 2
+ "new": 5
 }

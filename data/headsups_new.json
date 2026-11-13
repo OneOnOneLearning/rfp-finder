@@ -1,45 +1,106 @@
 {
- "updated": "2026-11-12T03:20:37+00:00",
+ "updated": "2026-11-13T14:28:53+00:00",
  "items": [
   {
-   "id": "8ab65f6723ddd045",
-   "district": "Summit School District Re-1",
-   "state": "CO",
-   "leaid": "0806810",
+   "id": "107607d6c012c1bf",
+   "district": "Gooding Joint School District 231",
+   "state": "ID",
+   "leaid": "1601260",
    "source": "Board meeting",
-   "meeting": "Summit Board Policies",
-   "date": "2026-11-12",
-   "url": "https://summitschools.org/summitwp/wp-content/uploads/2026/11/Summit-Board-Policies-3.pdf",
+   "meeting": "November 10, 2026",
+   "date": "2026-11-10",
+   "url": "https://gsd231.org/wp-content/uploads/2026/11/1Agenda-Nov-10-2026.pdf",
    "categories": [
     "Services"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "tutoring"
+    "reading intervention"
    ],
-   "snippet": "June 2024, October 2026 Amended: October, 2026 408.03 Tutoring Faculty members shall not render paid tutorial services for students enrolled in classes of the Summit Schools during contract hours unless such program has been approved by the Head of Schools/Principal. No one, professional staff members or members of the...",
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12"
+   "snippet": "\u2022 1110 Elections \u2022 1525 Board Meeting New Coverage \u2022 1645 Board Development Opportunities \u2022 2125 K-3 Reading Intervention \u2022 2200 School Year Calendar and Instructional Hours \u2022 2395 Idaho Digital Learning Academy Classes \u2022 2520 Selection, Adoption, Use, and Removal of Curricular Materials \u2022 2530 Learning Materials Revie...",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
   },
   {
-   "id": "a6d3dc49934d2be0",
-   "district": "Choctaw/Nicoma Park Schools",
-   "state": "OK",
-   "leaid": "4007620",
+   "id": "e3e78f7b805c0a1e",
+   "district": "Benzie County Central School",
+   "state": "MI",
+   "leaid": "2604950",
    "source": "Board meeting",
-   "meeting": "Read More about School Board Meeting - Choctaw Elementary",
-   "date": "2026-12-14",
-   "url": "https://www.cnpschools.org/cnp-district/school-board",
+   "meeting": "PDF File 11.9.2026 Regular",
+   "date": "2026-11-09",
+   "url": "https://benzieschools.net/downloads/boe/2026-27-minutes/11.9.2026_regular.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "Karlee Harris \u2013 5.5 to 6.5 Paraprofessional \u2013 Lake Ann Elementary \u2013 Effective November 2, 2026 2....",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "id": "b42ca991b720ec0a",
+   "district": "Benzie County Central School",
+   "state": "MI",
+   "leaid": "2604950",
+   "source": "Board meeting",
+   "meeting": "PDF File 11.9.2026 Regular",
+   "date": "2026-11-09",
+   "url": "https://benzieschools.net/downloads/boe/2026-27-minutes/11.9.2026_regular.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "Erika Frederick \u2013 5.5 Paraprofessional \u2013 Lake Ann Elementary \u2013 Effective November 2, 2026 E....",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "id": "aebdae266c3c22d6",
+   "district": "Finneytown Local School District",
+   "state": "OH",
+   "leaid": "3904733",
+   "source": "Board meeting",
+   "meeting": "https://finneytown.org/wp-content/uploads/2024/09/Minutes240916.pdf",
+   "date": "2026-11-13",
+   "url": "https://finneytown.org/wp-content/uploads/2024/09/Minutes240916.pdf",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "federal programs"
+    "esser",
+    "title i"
    ],
-   "snippet": "Shay have been meeting with new teachers in our district in an effort to promote our Gold Standard expectations. Federal programs applications have been submitted and our sites have their budgets to spend. In addition, our district has completed our community, student and staff survey, the results of which she will sha...",
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12"
+   "snippet": "...l District Regular Meeting, September 16, 2024 Brent Board Office Meeting Room Page 4 401 Auxiliary Service 325,329 451 OneNet Connectivity 3,600 507 CARES Act ESSER 156,227 516 Special Education, Part B 1,000,461 551 Limited English Proficient 23,104 572 Title I 458,525 584 Student Support & Academic Enrichment 67,930...",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
+  },
+  {
+   "id": "136b4798de682833",
+   "district": "Finneytown Local School District",
+   "state": "OH",
+   "leaid": "3904733",
+   "source": "Board meeting",
+   "meeting": "Carry on",
+   "date": "2026-11-13",
+   "url": "https://finneytown.org/wp-content/uploads/2024/08/Agenda240820-carry-on-1.pdf",
+   "categories": [
+    "Services"
+   ],
+   "hot": true,
+   "terms": [
+    "academic intervention"
+   ],
+   "snippet": "...recommended that the Board adopt the following new/revised policies 0100 DEFINITIONS 2340 FIELD AND OTHER DISTRICT-SPONSORED TRIPS 2623 STUDENT ASSESSMENT AND ACADEMIC INTERVENTION SERVICES 2623.02 THIRD GRADE READING GUARANTEE 3120.04 EMPLOYMENT OF SUBSTITUTES 3140 TERMINATION AND RESIGNATION 4124 EMPLOYMENT CONTRACT...",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13"
   }
  ]
 }
