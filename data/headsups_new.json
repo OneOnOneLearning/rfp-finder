@@ -1,106 +1,325 @@
 {
- "updated": "2026-11-13T14:28:53+00:00",
+ "updated": "2026-11-14T13:36:32+00:00",
  "items": [
   {
-   "id": "107607d6c012c1bf",
-   "district": "Gooding Joint School District 231",
-   "state": "ID",
-   "leaid": "1601260",
+   "id": "b0b6fc36b94a0442",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
    "source": "Board meeting",
-   "meeting": "November 10, 2026",
-   "date": "2026-11-10",
-   "url": "https://gsd231.org/wp-content/uploads/2026/11/1Agenda-Nov-10-2026.pdf",
+   "meeting": "Agenda",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/d68c30ff-58ca-463c-b22c-fd8f6222473b/November%2018%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aides"
+   ],
+   "snippet": "G. Approve MOU with REACH University for Instructional Aides who want to become Teachers H....",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "20bb5e619246be77",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/d68c30ff-58ca-463c-b22c-fd8f6222473b/November%2018%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Approve release of probationary employee, Bereniz Baltazar \u2013 5.25 HR Instructional Aide at BES, effective October 12, 2026 B....",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "1ece8ee1eb07a936",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/d68c30ff-58ca-463c-b22c-fd8f6222473b/November%2018%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "C. Approve Joanie Williams as a Classified Substitute Instructional Aide B....",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "1794dcda5f66d8e1",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/d68c30ff-58ca-463c-b22c-fd8f6222473b/November%2018%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Approve Mayte Gonzalez Loeza as a 5.25 HR Instructional Aide at BES effective November 10, 2026 C....",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "71a35e21555c854a",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/d68c30ff-58ca-463c-b22c-fd8f6222473b/November%2018%202026%20%20Agenda.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Approve Rachele Oropeza as a 5.25 HR Instructional Aide at RCA effective October 28, 2026 E....",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "170c0898738a2bd6",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "11/18/2026 Packet",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": true,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "B. Approve an additional .09375 FTE to the current RCA Instructional Aide position to make it 5.25 HR effective upon hire...",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "5b418fdbcbf0c7c7",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "11/18/2026 Packet",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
    "categories": [
     "Services"
    ],
    "hot": false,
    "terms": [
-    "reading intervention"
+    "credit recovery"
    ],
-   "snippet": "\u2022 1110 Elections \u2022 1525 Board Meeting New Coverage \u2022 1645 Board Development Opportunities \u2022 2125 K-3 Reading Intervention \u2022 2200 School Year Calendar and Instructional Hours \u2022 2395 Idaho Digital Learning Academy Classes \u2022 2520 Selection, Adoption, Use, and Removal of Curricular Materials \u2022 2530 Learning Materials Revie...",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-13"
+   "snippet": "...ement into next year\u2019s freshman class and the seniors will take Personal Finance instead of Economics. If a student still wants to take Econ, they can do so in Credit Recovery. M/O/T/, FOOD SERVICE DIR ECTOR\u2019S REPORT:...",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
   },
   {
-   "id": "e3e78f7b805c0a1e",
-   "district": "Benzie County Central School",
-   "state": "MI",
-   "leaid": "2604950",
+   "id": "8ac86368f75e4b0a",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
    "source": "Board meeting",
-   "meeting": "PDF File 11.9.2026 Regular",
-   "date": "2026-11-09",
-   "url": "https://benzieschools.net/downloads/boe/2026-27-minutes/11.9.2026_regular.pdf",
+   "meeting": "11/18/2026 Packet",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "paraprofessional"
+    "instructional aides"
    ],
-   "snippet": "Karlee Harris \u2013 5.5 to 6.5 Paraprofessional \u2013 Lake Ann Elementary \u2013 Effective November 2, 2026 2....",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-13"
+   "snippet": "G. Approve MOU with REACH University for Instructional Aides who want to become Teachers Pg 95-96 H....",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
   },
   {
-   "id": "b42ca991b720ec0a",
-   "district": "Benzie County Central School",
-   "state": "MI",
-   "leaid": "2604950",
+   "id": "336d111dffbd0229",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
    "source": "Board meeting",
-   "meeting": "PDF File 11.9.2026 Regular",
-   "date": "2026-11-09",
-   "url": "https://benzieschools.net/downloads/boe/2026-27-minutes/11.9.2026_regular.pdf",
+   "meeting": "11/18/2026 Packet",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "paraprofessional"
+    "instructional aide"
    ],
-   "snippet": "Erika Frederick \u2013 5.5 Paraprofessional \u2013 Lake Ann Elementary \u2013 Effective November 2, 2026 E....",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-13"
+   "snippet": "Approve release of probationary employee, Bereniz Baltazar \u2013 5.25 HR Instructional Aide at BES, effective October 12, 2026 B....",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
   },
   {
-   "id": "aebdae266c3c22d6",
-   "district": "Finneytown Local School District",
-   "state": "OH",
-   "leaid": "3904733",
+   "id": "7383d38b7e7ae786",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
    "source": "Board meeting",
-   "meeting": "https://finneytown.org/wp-content/uploads/2024/09/Minutes240916.pdf",
-   "date": "2026-11-13",
-   "url": "https://finneytown.org/wp-content/uploads/2024/09/Minutes240916.pdf",
+   "meeting": "11/18/2026 Packet",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "C. Approve Joanie Williams as a Classified Substitute Instructional Aide B....",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "f5092598e003b7dd",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "11/18/2026 Packet",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Approve Mayte Gonzalez Loeza as a 5.25 HR Instructional Aide at BES effective November 10, 2026 C....",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "96ad4dbb3320885e",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "11/18/2026 Packet",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Approve Rachele Oropeza as a 5.25 HR Instructional Aide at RCA effective October 28, 2026 E....",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "d64644e446f90ac6",
+   "district": "Biggs Unified School District",
+   "state": "CA",
+   "leaid": "0605040",
+   "source": "Board meeting",
+   "meeting": "11/18/2026 Packet",
+   "date": "2026-11-18",
+   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "instructional aide"
+   ],
+   "snippet": "Approve an additional 6 HR SDC Instructional Aide position at BES B....",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "b5900e11e8059b0f",
+   "district": "Calhoun County School District",
+   "state": "GA",
+   "leaid": "1300750",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-14",
+   "url": "https://www.calhoun.k12.ga.us/apps/pages/index.jsp?uREC_ID=3766071&type=d",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "esser",
-    "title i"
+    "federal programs"
    ],
-   "snippet": "...l District Regular Meeting, September 16, 2024 Brent Board Office Meeting Room Page 4 401 Auxiliary Service 325,329 451 OneNet Connectivity 3,600 507 CARES Act ESSER 156,227 516 Special Education, Part B 1,000,461 551 Limited English Proficient 23,104 572 Title I 458,525 584 Student Support & Academic Enrichment 67,930...",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-13"
+   "snippet": "Parent Engagement Coordinator \u2013 Federal Programs \u2013 Calhoun County Schools Federal Programs \u00bb Parent Engagement Coordinator Parent Engagement Coordinator...",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
   },
   {
-   "id": "136b4798de682833",
-   "district": "Finneytown Local School District",
-   "state": "OH",
-   "leaid": "3904733",
-   "source": "Board meeting",
-   "meeting": "Carry on",
-   "date": "2026-11-13",
-   "url": "https://finneytown.org/wp-content/uploads/2024/08/Agenda240820-carry-on-1.pdf",
+   "id": "2c43c4be6624a883",
+   "district": "North Warren Central School District",
+   "state": "NY",
+   "leaid": "3616960",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-14",
+   "url": "https://www.northwarrencsd.org/apps/pages/index.jsp?uREC_ID=4384328&type=d&pREC_ID=2678838&tota11y=true",
    "categories": [
-    "Services"
+    "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "academic intervention"
+    "title i"
    ],
-   "snippet": "...recommended that the Board adopt the following new/revised policies 0100 DEFINITIONS 2340 FIELD AND OTHER DISTRICT-SPONSORED TRIPS 2623 STUDENT ASSESSMENT AND ACADEMIC INTERVENTION SERVICES 2623.02 THIRD GRADE READING GUARANTEE 3120.04 EMPLOYMENT OF SUBSTITUTES 3140 TERMINATION AND RESIGNATION 4124 EMPLOYMENT CONTRACT...",
-   "first_seen": "2026-11-13",
-   "last_seen": "2026-11-13"
+   "snippet": "Title I \u2013 Required Links \u2013 North Warren Central School District Required Links \u00bb Title I Title I Title I is a federally funded program designed to provide additional instructional support to eligible students in both public and non-public schools that have high proportions of low-income families. These funds help serve...",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "b66fceb99284d8b3",
+   "district": "North Warren Central School District",
+   "state": "NY",
+   "leaid": "3616960",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-14",
+   "url": "https://www.northwarrencsd.org/apps/pages/index.jsp?uREC_ID=4384328&type=d&pREC_ID=2678838&tota11y=true",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...are migrant, learning English, experiencing homelessness, have disabilities, are neglected or delinquent, or are otherwise considered at risk. Questions about Title I funds can be directed to the building level Principals first and then the Superintendent. If further action is required, please refer to the New York St...",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
   }
  ]
 }

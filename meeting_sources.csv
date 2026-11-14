@@ -365,6 +365,7 @@ AZ,0404770,Altar Valley Elementary District,funding,https://www.altarvalleyschoo
 AZ,0401000,Bagdad Unified School District,boardpage,https://www.bagdadschools.org/governing-board,no
 AZ,0400026,Heber-Overgaard Unified District,boardpage,https://www.heberovergaardschools.org/our-governing-board,no
 AZ,0400004,Clarkdale-Jerome Elementary District,boardpage,https://www.cjsd.k12.az.us/o/cjsd/page/governing-board-information,no
+AZ,0403310,Gila Bend Unified District,boardpage,https://www.gbusd.org/page/governing-board-notices,no
 CA,0622710,Los Angeles Unified School District,boardpage,https://boe.lausd.org/,no
 CA,0614550,Fresno Unified School District,boardpage,https://www.fresnounified.org/departments/board-of-education,no
 CA,0614550,Fresno Unified School District,funding,https://www.fresnounified.org/departments/charter-office/expanded-learning-opportunities,no
@@ -961,6 +962,9 @@ CA,0600049,Coast Unified School District,boardpage,https://www.coastusd.org/boar
 CA,0616570,Happy Valley Union Elementary School District,boardpage,https://www.hvusd.net/governing-board,no
 CA,0606030,Briggs Elementary School District,boardpage,https://www.briggsesd.org/page/governing-board,no
 CA,0606030,Briggs Elementary School District,funding,https://www.briggsesd.org/page/title-1,no
+CA,0600037,Ferndale Unified School District,boardpage,https://www.ferndalek12.org/school-board,no
+CA,0615390,Gold Oak Union Elementary School District,boardpage,https://www.gousd.org/Board/Board-Meetings/index.html,no
+CA,0626040,Mount Shasta Union Elementary School District,boardpage,https://www.mountshastausd.com/school-board,no
 CO,0804800,Jefferson County School District R-1,boardpage,https://www.jeffcopublicschools.org/about/board-of-education,no
 CO,0804800,Jefferson County School District R-1,funding,https://www.jeffcopublicschools.org/services/family-community-partnerships/federal-programs,no
 CO,0803450,Douglas County School District Re-1,boardpage,https://www.dcsdk12.org/about/board-of-education,no
@@ -1027,7 +1031,6 @@ CO,0800016,Yuma School District 1,boardpage,https://www.yumaschools.org/o/ysd/pa
 CO,0800017,Wray School District Rd-2,boardpage,https://www.wrayschools.org/page/board-agendas-and-minutes,no
 CO,0803390,Dolores School District Re-4A,boardpage,https://doloresschools.org/school-board/,no
 CO,0803390,Dolores School District Re-4A,funding,https://doloresschools.org/wp-content/uploads/2022/09/Title-1-Parent-Notification-Letter.pdf,no
-CO,0804710,Holyoke School District Re-1J,boardpage,https://www.holyoke.org/meetings/holyoke-license-board-meeting-november-4-2026/,no
 CO,0806180,Rangely School District Re-4,boardpage,https://www.rangelyk12.org/browse/183353,no
 CT,0900450,Bridgeport School District,boardpage,https://www.bridgeportedu.net/board/board-of-education-members,no
 CT,0900450,Bridgeport School District,funding,https://www.bridgeportedu.net/departments/finance-department/arpesser,no
@@ -1408,6 +1411,8 @@ GA,1304350,Randolph County School District,boardpage,https://simbli.eboardsoluti
 GA,1304350,Randolph County School District,funding,https://www.sowegak12.org/federalprograms,no
 GA,1302370,Glascock County School District,boardpage,https://www.glascock.k12.ga.us/about-us/board-of-education,no
 GA,1302370,Glascock County School District,funding,https://www.glascock.k12.ga.us/departments/federal-programs,no
+GA,1300750,Calhoun County School District,boardpage,https://simbli.eboardsolutions.com/index.aspx?s=4024,yes
+GA,1300750,Calhoun County School District,funding,https://www.calhoun.k12.ga.us/apps/pages/index.jsp?uREC_ID=3766071&type=d,no
 HI,1500030,Hawaii Department Of Education,funding,https://hawaiipublicschools.org/about/federal-grants/,no
 IA,1906540,Cedar Rapids Community School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36031509,yes
 IA,1914700,Iowa City Community School District,boardpage,https://simbli.eboardsolutions.com/Index.aspx?S=36031992,yes
@@ -1535,6 +1540,7 @@ IA,1910350,East Union Community School District,boardpage,https://www.ecschools.
 IA,1910350,East Union Community School District,funding,https://www.ecschools.net/administration/federal-programs-1,no
 IA,1912230,Galva-Holstein Community School District,boardpage,https://www.rvraptors.org/o/rv/page/board-of-education,no
 IA,1913320,Guthrie Center Community School District,funding,https://www.guthrie.org/about-us/grants-and-sponsorships,no
+IA,1912120,Fremont-Mills Community School District,boardpage,https://www.fremontschools.net/board-of-education,no
 ID,1602100,Meridian Joint School District 2,boardpage,https://www.westada.org/o/wasd/page/board-of-trustees,no
 ID,1600360,Boise City Independent School District 1,boardpage,https://www.boiseschools.org/342852_2,no
 ID,1600360,Boise City Independent School District 1,funding,https://www.boiseschools.org/title-i,no
@@ -1908,6 +1914,7 @@ IL,1718060,Hamilton Community Consolidated School District 328,boardpage,https:/
 IL,1742900,Winthrop Harbor School District 1,boardpage,https://www.winthropharbor.net/village-government/meeting-agendas-and-minutes,no
 IL,1703750,Anna Community Consolidated School District 37,boardpage,https://www.anna37.com/page/board-of-education,no
 IL,1730930,Pawnee Community Unit School District 11,boardpage,https://www.pawnee.org/governing-board.cfm,no
+IL,1733510,Richmond-Burton Community High School District 157,funding,https://richmond.com/brandavestudios/article_786e9239-d555-529e-9f66-1429259c2b5c.html,no
 IL,1713260,East Prairie School District 73,boardpage,https://www.eastprairie.org/b_o_e/board_agenda,no
 IL,1713260,East Prairie School District 73,funding,https://www.eastprairie.org/district/TitleI,no
 IL,1722300,Lebanon Community Unit School District 9,boardpage,https://www.lebanonschools.org/departments/board-of-education/,no
@@ -2248,6 +2255,7 @@ KY,2102100,Fulton County School District,funding,https://www.fultonschools.org/f
 KY,2100420,Bellevue Independent School District,boardpage,https://www.bellevue.kyschools.us/page/board-of-education,no
 KY,2101800,Fairview Independent School District,boardpage,https://www.fairviewschools.org/page/school-board-members-and-schedule,no
 KY,2101800,Fairview Independent School District,funding,https://www.fairviewschools.org/page/mini-grants,no
+KY,2105220,Science Hill Independent School District,boardpage,https://www.shisd.net/apps/pages/index.jsp?uREC_ID=1647921&type=d&pREC_ID=1791009,no
 LA,2200840,Jefferson Parish School District,boarddocs,https://go.boarddocs.com/la/jppss/Board.nsf/goto?open&id=DVQP3Y62B8C4,no
 LA,2200540,East Baton Rouge Parish School District,boarddocs,https://go.boarddocs.com/la/ebrp/Board.nsf/files/D7UMNB5C0043/$file/2024-2025%20General%20Fund%20Budget-Approved.pdf,no
 LA,2200540,East Baton Rouge Parish School District,funding,https://ebrschools.org/ancillaryservices/accountability/,no
@@ -2282,6 +2290,7 @@ LA,2200990,Lincoln Parish School District,boardpage,https://www.lincolnparish.go
 LA,2200810,Jefferson Davis Parish School District,boarddocs,https://www.boarddocs.com/mi/jsd/Board.nsf,no
 LA,2200060,Allen Parish School District,boardpage,https://www.apsb.us/school-board,no
 LA,2201230,Plaquemines Parish School District,boardpage,https://www.plaqueminesparish.gov/AgendaCenter,no
+LA,2201230,Plaquemines Parish School District,funding,https://www.plaqueminesparish.gov/CivicAlerts.aspx?AID=1492,no
 LA,2200660,Franklin Parish School District,boardpage,https://www.fpsb.us/SchoolBoardMeetingMinutes.aspx,no
 LA,2200660,Franklin Parish School District,funding,https://www.fpsb.us/FederalPrograms.aspx,no
 LA,2200780,Jackson Parish School District,boardpage,https://www.jacksonsd.org/board-of-education/boe-home,no
@@ -2851,6 +2860,7 @@ MI,2629790,River Valley School District,boardpage,https://www.rivervalleyschools
 MI,2607170,Buckley Community School District,boardpage,https://www.buckleyschools.com/about/board-of-education/,no
 MI,2614790,Frankfort-Elberta Area Schools,boarddocs,https://go.boarddocs.com/in/csf/Board.nsf/Public,no
 MI,2614790,Frankfort-Elberta Area Schools,funding,https://www.frankfortschools.org/apps/pages/index.jsp?uREC_ID=961744&type=d&pREC_ID=1201121,no
+MI,2601890,Adams Township School District,boardpage,https://adamstownshipschools.org/district-board.php,no
 MN,2703180,Anoka-Hennepin Public School District,boardpage,https://www.ahschools.us/about/school-board,no
 MN,2703180,Anoka-Hennepin Public School District,funding,https://www.ahschools.us/support/title,no
 MN,2733840,St. Paul Public School District,boardpage,https://www.spps.org/about/board-of-education,no
@@ -3803,7 +3813,7 @@ NJ,3403840,Dennis Township School District,funding,https://www.dtschools.org/app
 NJ,3416350,Union Beach Borough School District,boardpage,https://www.unionbeachschools.org/apps/pages/index.jsp?uREC_ID=1585727&type=d&pREC_ID=1712081,no
 NJ,3416350,Union Beach Borough School District,funding,https://www.unionbeachschools.org/apps/pages/index.jsp?uREC_ID=1585822&type=d,no
 NJ,3400008,Great Meadows Regional School District,funding,https://www.gmrsd.org/departments/what-is-title-i,no
-NJ,3411070,Mullica Township School District,boardpage,https://mullicatownship.org/boards/planning-board/,no
+NJ,3411070,Mullica Township School District,boardpage,https://www.mullicatownship.org/event/planning-board-meeting-39/,no
 NJ,3411850,Norwood Borough School District,boarddocs,https://go.boarddocs.com/oh/nwcs/Board.nsf/Public,no
 NJ,3409550,North Warren Regional School District,boardpage,https://www.northwarren.org/,no
 NJ,3409550,North Warren Regional School District,funding,https://www.northwarren.org/title-i-services,no
@@ -3822,6 +3832,8 @@ NJ,3405040,Fairfield Township School District,boardpage,https://www.fairfieldsch
 NJ,3416170,Tewksbury Township School District,boardpage,https://www.tewksburyschools.org/board-of-education,no
 NJ,3416170,Tewksbury Township School District,funding,https://www.tewksburyschools.org/curriculum/instructional-programming/title-1,no
 NJ,3409840,Medford Lakes Borough School District,boarddocs,https://go.boarddocs.com/nj/medford/Board.nsf/Public,no
+NJ,3414250,Roseland Borough School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030391,yes
+NJ,3414250,Roseland Borough School District,funding,https://www.roselandsd.org/plans-accountability/elementary-and-secondary-school-emergency-relief,no
 NM,3501080,Gadsden Independent Schools,boardpage,https://www.gisd.k12.nm.us/28763_1,no
 NM,3501110,Gallup-Mckinley County Schools,boardpage,https://www.gmcs.org/page/board-of-education,no
 NM,3501260,Hobbs Municipal Schools,boardpage,https://www.hobbsschools.net/o/hms/page/board-of-education,no
@@ -4220,10 +4232,10 @@ NY,3619830,Moriah Central School District,funding,https://moriahk12.org/grants/,
 NY,3631290,Whitehall Central School District,boardpage,https://www.whitehallschools.org/apps/pages/index.jsp?uREC_ID=1563627&type=d&pREC_ID=1695558,no
 NY,3618540,Marion Central School District,boardpage,https://www.marionschools.net/school_board,no
 NY,3618540,Marion Central School District,funding,https://www.marionschools.net/departments/grants_federal_programs,no
-NY,3622140,South Seneca Central School District,boardpage,https://SOUTHSENECA.ORG/board-of-education,no
-NY,3622140,South Seneca Central School District,funding,https://SOUTHSENECA.ORG/title-i-information,no
 NY,3611070,Fillmore Central School District,boardpage,https://www.fillmorecentral.org/page/board-of-education-information,no
 NY,3611070,Fillmore Central School District,funding,https://www.fillmorecentral.org/page/essers-use-of-funds,no
+NY,3622140,South Seneca Central School District,boardpage,https://SOUTHSENECA.ORG/board-of-education,no
+NY,3622140,South Seneca Central School District,funding,https://SOUTHSENECA.ORG/title-i-information,no
 NY,3629910,Warrensburg Central School District,boarddocs,https://go.boarddocs.com/ny/warrensburg/Board.nsf/Public,no
 NY,3619260,Middleburgh Central School District,boarddocs,https://www.boarddocs.com/ny/middleburghcsd/Board.nsf/vpublic?open,no
 NY,3609360,Duanesburg Central School District,boarddocs,https://go.boarddocs.com/ny/duanesburg/Board.nsf/Public,no
@@ -4239,6 +4251,8 @@ NY,3616500,Lake Placid Central School District,boarddocs,https://go.boarddocs.co
 NY,3625470,Salem Central School District,boardpage,https://www.salemschools.org/board-of-education,no
 NY,3613380,Hamilton Central School District,boarddocs,https://go.boarddocs.com/nj/hamiltonschools/Board.nsf/Public,no
 NY,3600003,Edwards-Knox Central School District,funding,https://grants.edwards.com/,no
+NY,3616960,North Warren Central School District,boardpage,https://www.northwarrencsd.org/apps/pages/index.jsp?uREC_ID=4381803&type=d&pREC_ID=2587920,no
+NY,3616960,North Warren Central School District,funding,https://www.northwarrencsd.org/apps/pages/index.jsp?uREC_ID=4384328&type=d&pREC_ID=2678838&tota11y=true,no
 OH,3904380,Columbus City School District,boarddocs,https://go.boarddocs.com/oh/columbus/Board.nsf/Public,no
 OH,3904380,Columbus City School District,funding,https://www.ccsoh.us/our-district/departments/state-federal-programs,no
 OH,3904375,Cincinnati City School District,boarddocs,https://go.boarddocs.com/oh/cps/Board.nsf/Public,no
@@ -4638,7 +4652,7 @@ OH,3904525,Caldwell Exempted Village School District,funding,https://www.caldwel
 OH,3904899,Antwerp Local School District,boardpage,https://www.antwerpschools.org/BoardofEducation.aspx,no
 OH,3904899,Antwerp Local School District,funding,https://www.antwerpschools.org/TitleI.aspx,no
 OH,3904650,Buckeye Central Local School District,boarddocs,http://go.boarddocs.com/oh/bemedoh/Board.nsf/Public,no
-OH,3904843,Ridgedale Local School District,boardpage,https://www.ridgedale.k12.oh.us/board-meeting-agendas-and-minutes,no
+OH,3904843,Ridgedale Local School District,boardpage,https://www.ridgedaleschools.org/board-meeting-agendas-and-minutes,no
 OH,3904809,Riverside Local School District,boarddocs,http://www.boarddocs.com/oh/rlsd/Board.nsf/Public,no
 OH,3904536,Fairport Harbor Exempted Village School District,boarddocs,https://go.boarddocs.com/ny/fairport/Board.nsf/Public,no
 OH,3904536,Fairport Harbor Exempted Village School District,funding,https://www.fairport.org/36672_2,no
@@ -4762,6 +4776,8 @@ OK,4017760,Liberty Public Schools,funding,https://www.lps53.org/academics/specia
 OK,4003120,Arapaho Public Schools,boardpage,https://www.arapaho.k12.ok.us/board-of-education,no
 OK,4032940,Wilson Public Schools,boarddocs,https://go.boarddocs.com/pa/wils/Board.nsf/Public,no
 OK,4032940,Wilson Public Schools,funding,https://www.wilsonsd.org/page/venture-grants-employee-giving,no
+OK,4011700,Fletcher Public Schools,boardpage,https://www.fletcherschools.org/153679_2,no
+OK,4024510,Pioneer-Pleasant Vale Schools,boardpage,https://www.pioneerschools.org/page/boe-overview,no
 OR,4110040,Portland School District 1J,boardpage,https://www.pps.net/board/board-of-education/board-main-page,no
 OR,4110040,Portland School District 1J,funding,https://www.pps.net/departments/budget-grant-accounting/budget-grant-accounting-main,no
 OR,4110820,Salem-Keizer School District 24J,boardpage,https://salkeiz.k12.or.us/about/school-board,no
@@ -6135,8 +6151,7 @@ TX,4812870,Carlisle Independent School District,boardpage,https://www.carlislesc
 TX,4812870,Carlisle Independent School District,funding,https://www.carlisleschools.org/our_district/Business_Office/ARP_ESSER,no
 TX,4823460,Honey Grove Independent School District,boardpage,https://honeygroveisd.net/324667_2,no
 TX,4842630,Thorndale Independent School District,boardpage,https://www.thorndale.txed.net/180763_2,no
-TX,4819110,Farwell Independent School District,boardpage,https://www.farwellschools.org/page/dis.agendas_minutes,no
-TX,4819110,Farwell Independent School District,funding,https://www.farwellschools.org/upload/page/0018/docs/Title%201/Title%20I%20Statement.pdf,no
+TX,4819110,Farwell Independent School District,boardpage,https://www.farwellschools.org/page/dis.school_board,no
 TX,4831950,Mumford Independent School District,boardpage,https://www.mumford.k12.tx.us/page19.html,no
 TX,4813200,Cayuga Independent School District,boardpage,https://www.cayugaisd.com/schoolboard,no
 TX,4815600,Crawford Independent School District,boardpage,https://simbli.eboardsolutions.com/index.aspx?s=4047,yes
@@ -6158,6 +6173,7 @@ TX,4816080,Cushing Independent School District,boardpage,https://www.cushing.org
 TX,4816380,Dawson Independent School District,funding,https://www.dawsonisd.net/apps/news/article/2246663?categoryId=2176,no
 TX,4835370,Port Aransas Independent School District,boardpage,https://www.paisd.net/school-board,no
 TX,4818600,Era Independent School District,boardpage,https://www.eraisd.net/page/school-board,no
+TX,4846650,Yorktown Independent School District,boardpage,https://yisd.org/en-us/board-members-information-9c38e21c,no
 TX,4812240,Burton Independent School District,boardpage,https://www.burtonisd.net/page/burtonboard,no
 TX,4814190,Clarksville Independent School District,boarddocs,https://go.boarddocs.com/in/ccsc/Board.nsf/goto?open&id=BXDLDA55F654,no
 TX,4810170,Big Sandy Independent School District,boardpage,https://www.bigsandyisd.net/184051_2,no
@@ -6165,6 +6181,7 @@ TX,4810170,Big Sandy Independent School District,funding,https://www.bigsandyisd
 TX,4811250,Bremond Independent School District,boardpage,https://www.bremondisd.net/schoolboard,no
 TX,4820460,Gary Independent School District,boarddocs,https://go.boarddocs.com/in/gary/Board.nsf/vpublic?open,no
 TX,4820460,Gary Independent School District,funding,https://www.garycsc.k12.in.us/o/gcs/page/title-i,no
+TX,4808610,Archer City Independent School District,boardpage,https://www.archercityisd.net/226248_2,no
 TX,4826220,Lapoyner Independent School District,boardpage,https://www.lapoynorisd.net/boardoftrustees,no
 TX,4826220,Lapoyner Independent School District,funding,https://www.lapoynorisd.net/federalprograms,no
 TX,4839510,Schleicher Independent School District,boardpage,https://www.scisd.net/page/school-board,no
@@ -6639,7 +6656,6 @@ WI,5506870,Iowa-Grant School District,funding,https://www.igs.k12.wi.us/,no
 WI,5516740,Williams Bay School District,boardpage,https://www.williamsbayschools.org/board-of-education,no
 WI,5514190,Spencer School District,funding,https://www.spencerschools.org/o/scsd/page/school-improvement-overview,no
 WI,5507170,Johnson Creek School District,funding,https://www.jcschools.org/departments/federal-programs,no
-WI,5500630,Augusta School District,boardpage,https://www.augustachronicle.com/story/news/politics/elections/2026/11/06/same-candidates-two-elections-on-richmond-county-georgia-board-of-education-runoff-ballot/92628522007/,no
 WI,5500210,Alma Center School District,boarddocs,https://go.boarddocs.com/mi/alma/Board.nsf/Public,no
 WI,5512690,Reedsville School District,boardpage,https://reedsvillewi.gov/agendas-minutes,no
 WI,5510770,Norwalk-Ontario-Wilton School District,boardpage,https://www.norwalkschools.org/district/school-board/,no
