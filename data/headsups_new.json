@@ -1,135 +1,257 @@
 {
- "updated": "2026-11-14T13:36:32+00:00",
+ "updated": "2026-11-15T14:11:29+00:00",
  "items": [
   {
-   "id": "b0b6fc36b94a0442",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
+   "id": "e7eb66ab62fc90d6",
+   "district": "Edina Public School District",
+   "state": "MN",
+   "leaid": "2711250",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-15",
+   "url": "https://www.edinaschools.org/about/departments/teaching-and-learning/title-1",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1",
+    "title i"
+   ],
+   "snippet": "1 Services - Edina Public Schools District Skip To Main Content Title 1 Services Title I is a federally funded program designed to assist students below grade level in reading and math. The amount of funding is based on the number of students who qualify for free and reduced-price lunch....",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "id": "36087d1ef079f7fe",
+   "district": "Edina Public School District",
+   "state": "MN",
+   "leaid": "2711250",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-15",
+   "url": "https://www.edinaschools.org/about/departments/teaching-and-learning/title-1",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "The amount of funding is based on the number of students who qualify for free and reduced-price lunch. All Title I services and programming are supplemental to the regular classroom instruction. Three elementary schools in the Edina Public Schools have targeted assistance programs:...",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "id": "380851c9fb99896e",
+   "district": "Edina Public School District",
+   "state": "MN",
+   "leaid": "2711250",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-15",
+   "url": "https://www.edinaschools.org/about/departments/teaching-and-learning/title-1",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Cornelia Elementary School, Countryside Elementary School and Creek Valley Elementary School. Title I staff, along with classroom teachers, administer grade-level assessments to determine student eligibility. If your child qualifies, you will be informed by your child's classroom teacher....",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "id": "cacda7071a1d55a1",
+   "district": "Edina Public School District",
+   "state": "MN",
+   "leaid": "2711250",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-15",
+   "url": "https://www.edinaschools.org/about/departments/teaching-and-learning/title-1",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Students do not have to participate in the free/reduced lunch program to qualify. Title I primarily serves students in grades K through 5, both in reading and math. Title I teachers are trained in a variety of research-based instructional methods to best meet the needs of individual students. Typically the Title I teac...",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "id": "fe1dc945a86dc1a3",
+   "district": "Edina Public School District",
+   "state": "MN",
+   "leaid": "2711250",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-15",
+   "url": "https://www.edinaschools.org/about/departments/teaching-and-learning/title-1",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1",
+    "title i"
+   ],
+   "snippet": "952-848-3901 Sandra Harley Title 1 Coordinator 952-848-3900 District Title I Parent Involvement Plan The Edina Public Schools Title I Parental Involvement Plan is designed to meet state guidelines for parent involvement in Title I services. Virginia Wiandt Baily Zanish There are no constituents to display Pamela Freema...",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "id": "ef4ff777fd90b53b",
+   "district": "Elkhorn Public Schools",
+   "state": "NE",
+   "leaid": "3170110",
    "source": "Board meeting",
-   "meeting": "Agenda",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/d68c30ff-58ca-463c-b22c-fd8f6222473b/November%2018%202026%20%20Agenda.pdf",
+   "meeting": "November 2026 Bills Approved for Payment",
+   "date": "2026-11-09",
+   "url": "https://elkhornweb.org/wp-content/uploads/2026/11/November-Board-Report.pdf",
+   "categories": [
+    "Competitor"
+   ],
+   "hot": false,
+   "terms": [
+    "maxim healthcare"
+   ],
+   "snippet": "...nted1157 Expense 100999312 10/23/2026 LIED LODGE $868.00 Printed1157 Expense 100999313 10/23/2026 LIFEGUARD MD $249.00 Printed1157 Expense 100999314 10/23/2026 MAXIM HEALTHCARE SERVICES $35,472.44 Printed1157 Expense 100999315 10/23/2026 MECHANICAL SALES, INC....",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "id": "8735b8d85093f605",
+   "district": "Elkhorn Public Schools",
+   "state": "NE",
+   "leaid": "3170110",
+   "source": "Board meeting",
+   "meeting": "Strategic Plan Goal #4 Update",
+   "date": "2026-11-09",
+   "url": "https://elkhornweb.org/wp-content/uploads/2026/11/Strategic-Plan-4-Board-Presentation.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "instructional aides"
+    "teacher assistant"
    ],
-   "snippet": "G. Approve MOU with REACH University for Instructional Aides who want to become Teachers H....",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "snippet": "Specialized Endorsements Include: \u25cf Special Education \ue081Sped\ue082 \u25cf English Learners \ue081EL\ue082 \u25cf Early Childhood Education Teacher Assistant Professional Development TA Workshop & Professional Development 3 Hours PD Workshop for All EPS TAs...",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   },
   {
-   "id": "20bb5e619246be77",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
+   "id": "0d9fe5d2b0486833",
+   "district": "Elkhorn Public Schools",
+   "state": "NE",
+   "leaid": "3170110",
    "source": "Board meeting",
-   "meeting": "Agenda",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/d68c30ff-58ca-463c-b22c-fd8f6222473b/November%2018%202026%20%20Agenda.pdf",
+   "meeting": "Strategic Plan Goal #4 Update",
+   "date": "2026-11-09",
+   "url": "https://elkhornweb.org/wp-content/uploads/2026/11/Strategic-Plan-4-Board-Presentation.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "instructional aide"
+    "teacher assistants"
    ],
-   "snippet": "Approve release of probationary employee, Bereniz Baltazar \u2013 5.25 HR Instructional Aide at BES, effective October 12, 2026 B....",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "snippet": "3 Sessions Attended by Each TA Workshop Structure & Highlights \u2022 February In-Service: Dedicated 3-hour professional development workshop for all EPS teacher assistants. \u2022 Interactive Agenda:...",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   },
   {
-   "id": "1ece8ee1eb07a936",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
+   "id": "68c80ef1c367f270",
+   "district": "Irvington Township School District",
+   "state": "NJ",
+   "leaid": "3407680",
    "source": "Board meeting",
-   "meeting": "Agenda",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/d68c30ff-58ca-463c-b22c-fd8f6222473b/November%2018%202026%20%20Agenda.pdf",
+   "meeting": "11/11/2026 Board Meeting Agenda",
+   "date": "2026-11-11",
+   "url": "https://irvington.k12.nj.us/wp-content/uploads/2026/11/BA_11-11-2026.pdf",
    "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "instructional aide"
-   ],
-   "snippet": "C. Approve Joanie Williams as a Classified Substitute Instructional Aide B....",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "id": "1794dcda5f66d8e1",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
-   "source": "Board meeting",
-   "meeting": "Agenda",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/d68c30ff-58ca-463c-b22c-fd8f6222473b/November%2018%202026%20%20Agenda.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "instructional aide"
-   ],
-   "snippet": "Approve Mayte Gonzalez Loeza as a 5.25 HR Instructional Aide at BES effective November 10, 2026 C....",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "id": "71a35e21555c854a",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
-   "source": "Board meeting",
-   "meeting": "Agenda",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/d68c30ff-58ca-463c-b22c-fd8f6222473b/November%2018%202026%20%20Agenda.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "instructional aide"
-   ],
-   "snippet": "Approve Rachele Oropeza as a 5.25 HR Instructional Aide at RCA effective October 28, 2026 E....",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "id": "170c0898738a2bd6",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
-   "source": "Board meeting",
-   "meeting": "11/18/2026 Packet",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
-   "categories": [
-    "New positions"
+    "Services"
    ],
    "hot": true,
    "terms": [
-    "instructional aide"
+    "intervention services"
    ],
-   "snippet": "B. Approve an additional .09375 FTE to the current RCA Instructional Aide position to make it 5.25 HR effective upon hire...",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "snippet": "21. APPROVAL OF PARTNERSHIP WITH NEW BEGINNINGS TREATMENT CENTER FOR SUBSTANCE USE AND CRISIS INTERVENTION SERVICES \u2013 2026\u20132027 SCHOOL YEAR VIRTUAL BOARD MEETING NOVEMBER 11, 2026 II ii 22. 2026-2027 ATTENDANCE COMMITTEE - FLORENCE AVENUE SCHOOL...",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   },
   {
-   "id": "5b418fdbcbf0c7c7",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
+   "id": "8196443d2777a8cb",
+   "district": "Irvington Township School District",
+   "state": "NJ",
+   "leaid": "3407680",
    "source": "Board meeting",
-   "meeting": "11/18/2026 Packet",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "meeting": "11/11/2026 Board Meeting Agenda",
+   "date": "2026-11-11",
+   "url": "https://irvington.k12.nj.us/wp-content/uploads/2026/11/BA_11-11-2026.pdf",
+   "categories": [
+    "Services"
+   ],
+   "hot": true,
+   "terms": [
+    "intervention services"
+   ],
+   "snippet": "26. APPROVAL OF PARTNERSHIP WITH NEW BEGINNINGS TREATMENT CENTER FOR SUBSTANCE USE AND CRISIS INTERVENTION SERVICES \u2013 2026\u20132027 SCHOOL YEAR 27....",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "id": "faa8883b175089ba",
+   "district": "Irvington Township School District",
+   "state": "NJ",
+   "leaid": "3407680",
+   "source": "Board meeting",
+   "meeting": "11/11/2026 Board Meeting Agenda",
+   "date": "2026-11-11",
+   "url": "https://irvington.k12.nj.us/wp-content/uploads/2026/11/BA_11-11-2026.pdf",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "tutoring"
+   ],
+   "snippet": "35. NJSLA AFTER SCHOOL TUTORING AND TEST PREP PROGRAM \u2013 GROVE STREET SCHOOL 36....",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "id": "b1a9de61418ee430",
+   "district": "Irvington Township School District",
+   "state": "NJ",
+   "leaid": "3407680",
+   "source": "Board meeting",
+   "meeting": "11/11/2026 Board Meeting Agenda",
+   "date": "2026-11-11",
+   "url": "https://irvington.k12.nj.us/wp-content/uploads/2026/11/BA_11-11-2026.pdf",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "after school program"
+   ],
+   "snippet": "50. SKILLS ENHANCEMENT AFTER SCHOOL PROGRAM \u2013 THURGOOD MARSHALL SCHOOL 51....",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "id": "802e9f87690b9e99",
+   "district": "Irvington Township School District",
+   "state": "NJ",
+   "leaid": "3407680",
+   "source": "Board meeting",
+   "meeting": "11/11/2026 Board Meeting Agenda",
+   "date": "2026-11-11",
+   "url": "https://irvington.k12.nj.us/wp-content/uploads/2026/11/BA_11-11-2026.pdf",
    "categories": [
     "Services"
    ],
@@ -137,159 +259,139 @@
    "terms": [
     "credit recovery"
    ],
-   "snippet": "...ement into next year\u2019s freshman class and the seniors will take Personal Finance instead of Economics. If a student still wants to take Econ, they can do so in Credit Recovery. M/O/T/, FOOD SERVICE DIR ECTOR\u2019S REPORT:...",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "snippet": "AFTER SCHOOL PROGRAMS (a) ZERO BLOCK/BLOCK 9 CREDIT RECOVERY/INITIAL CREDIT PROGRAM IRVINGTON HIGH SCHOOL 2026-2027 SCHOOL YEAR RESOLVED, that the Irvington Board of Education accepts the recommendation of the Superintendent of Schools and approves the Zero Block/Block 9 Credit Recovery and Initial Credit Program at Ir...",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   },
   {
-   "id": "8ac86368f75e4b0a",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
+   "id": "41541a5bb46ee018",
+   "district": "Irvington Township School District",
+   "state": "NJ",
+   "leaid": "3407680",
    "source": "Board meeting",
-   "meeting": "11/18/2026 Packet",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "meeting": "11/11/2026 Board Meeting Agenda",
+   "date": "2026-11-11",
+   "url": "https://irvington.k12.nj.us/wp-content/uploads/2026/11/BA_11-11-2026.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "instructional aides"
+    "paraprofessional"
    ],
-   "snippet": "G. Approve MOU with REACH University for Instructional Aides who want to become Teachers Pg 95-96 H....",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "snippet": "STUDENT SAFETY DATA SYSTEM SUBMISSION FOR THE 2026-2027 SCHOOL YEAR 70. 2026-2027 PARAPROFESSIONAL STATEMENT OF ASSURANCE 71....",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   },
   {
-   "id": "336d111dffbd0229",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
+   "id": "b272b54a45456d25",
+   "district": "Irvington Township School District",
+   "state": "NJ",
+   "leaid": "3407680",
    "source": "Board meeting",
-   "meeting": "11/18/2026 Packet",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "meeting": "11/11/2026 Board Meeting Agenda",
+   "date": "2026-11-11",
+   "url": "https://irvington.k12.nj.us/wp-content/uploads/2026/11/BA_11-11-2026.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "instructional aide"
+    "teacher assistant"
    ],
-   "snippet": "Approve release of probationary employee, Bereniz Baltazar \u2013 5.25 HR Instructional Aide at BES, effective October 12, 2026 B....",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "snippet": "Health Benefits will be paid by the employee upon unpaid status initiation. Union Avenue- Bilingual Teacher Assistant (y) Iman Gordon Extension of Unpaid Leave of Absence Effective November 3, 2026 through January 4, 2027. Health Benefits will be paid by the employee upon unpaid status initiation Business Office- Admin...",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   },
   {
-   "id": "7383d38b7e7ae786",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
+   "id": "ce7b8097535ce45b",
+   "district": "Irvington Township School District",
+   "state": "NJ",
+   "leaid": "3407680",
    "source": "Board meeting",
-   "meeting": "11/18/2026 Packet",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "meeting": "11/11/2026 Board Meeting Agenda",
+   "date": "2026-11-11",
+   "url": "https://irvington.k12.nj.us/wp-content/uploads/2026/11/BA_11-11-2026.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "instructional aide"
+    "teaching assistants"
    ],
-   "snippet": "C. Approve Joanie Williams as a Classified Substitute Instructional Aide B....",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "snippet": "...dance, class participation, and teacher recommendations. The program will authorize up to three (3) certificated bilingual/ESL teachers and three (3) Bilingual Teaching Assistants at each participating school. Morning sessions will be scheduled before the instructional day according to each school\u2019s needs....",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   },
   {
-   "id": "f5092598e003b7dd",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
+   "id": "4be14c4a49a55593",
+   "district": "Stafford Municipal School District",
+   "state": "TX",
+   "leaid": "4841350",
    "source": "Board meeting",
-   "meeting": "11/18/2026 Packet",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
+   "meeting": "Principal Diana De La Rosa Approved by SMSD Board",
+   "date": "2026-11-15",
+   "url": "https://ses.staffordmsd.org/families/news/article/~board/ses-news/post/principal-diana-de-la-rosa-approved-by-smsd-board",
+   "categories": [
+    "New positions"
+   ],
+   "hot": true,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "...rd STEM Magnet Academy and she was announced as the interim principal in June 2022. The hiring process included an interview committee comprised of teachers, a paraprofessional, parents, and administrators from the campus and district. Ms....",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "id": "19fe29ea15c7e61d",
+   "district": "Provo School District",
+   "state": "UT",
+   "leaid": "4900810",
+   "source": "Board meeting",
+   "meeting": "Board meeting",
+   "date": "2026-11-10",
+   "url": "https://provo.edu/november-10-2026-board-meeting-summary/",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "instructional aide"
+    "paraprofessional"
    ],
-   "snippet": "Approve Mayte Gonzalez Loeza as a 5.25 HR Instructional Aide at BES effective November 10, 2026 C....",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "snippet": "regular district support-team check-ins. The school also identified a need for additional behavior support and multilingual learner paraprofessional support. Staff reported significantly improved teacher retention, with only two classroom teachers leaving between the previous and current school years for personal reaso...",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   },
   {
-   "id": "96ad4dbb3320885e",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
+   "id": "0454bbfc9dcebf40",
+   "district": "Provo School District",
+   "state": "UT",
+   "leaid": "4900810",
    "source": "Board meeting",
-   "meeting": "11/18/2026 Packet",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "instructional aide"
-   ],
-   "snippet": "Approve Rachele Oropeza as a 5.25 HR Instructional Aide at RCA effective October 28, 2026 E....",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "id": "d64644e446f90ac6",
-   "district": "Biggs Unified School District",
-   "state": "CA",
-   "leaid": "0605040",
-   "source": "Board meeting",
-   "meeting": "11/18/2026 Packet",
-   "date": "2026-11-18",
-   "url": "https://d16k74nzx9emoe.cloudfront.net/330078d1-aa8b-44da-aa57-8dae5586a471/November%2018%202026%20PUBLIC%20Agenda%20Packet.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "instructional aide"
-   ],
-   "snippet": "Approve an additional 6 HR SDC Instructional Aide position at BES B....",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "id": "b5900e11e8059b0f",
-   "district": "Calhoun County School District",
-   "state": "GA",
-   "leaid": "1300750",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-14",
-   "url": "https://www.calhoun.k12.ga.us/apps/pages/index.jsp?uREC_ID=3766071&type=d",
+   "meeting": "Board meeting",
+   "date": "2026-11-10",
+   "url": "https://provo.edu/november-10-2026-board-meeting-summary/",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "federal programs"
+    "comprehensive support and improvement"
    ],
-   "snippet": "Parent Engagement Coordinator \u2013 Federal Programs \u2013 Calhoun County Schools Federal Programs \u00bb Parent Engagement Coordinator Parent Engagement Coordinator...",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "snippet": "Members discussed maintaining geographic representation while also considering individual qualifications and availability. [00:05:22] Franklin Elementary \u2014 Comprehensive Support and Improvement (CSI) Update Franklin Elementary presented an update on its Comprehensive Support and Improvement (CSI) status . English langu...",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   },
   {
-   "id": "2c43c4be6624a883",
-   "district": "North Warren Central School District",
-   "state": "NY",
-   "leaid": "3616960",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-14",
-   "url": "https://www.northwarrencsd.org/apps/pages/index.jsp?uREC_ID=4384328&type=d&pREC_ID=2678838&tota11y=true",
+   "id": "099b8f0496adbedc",
+   "district": "Provo School District",
+   "state": "UT",
+   "leaid": "4900810",
+   "source": "Board meeting",
+   "meeting": "Board meeting",
+   "date": "2026-11-10",
+   "url": "https://provo.edu/november-10-2026-board-meeting-summary/",
    "categories": [
     "Funding"
    ],
@@ -297,19 +399,19 @@
    "terms": [
     "title i"
    ],
-   "snippet": "Title I \u2013 Required Links \u2013 North Warren Central School District Required Links \u00bb Title I Title I Title I is a federally funded program designed to provide additional instructional support to eligible students in both public and non-public schools that have high proportions of low-income families. These funds help serve...",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "snippet": "[00:11:55] CSI Identification and Exit Process Staff explained the CSI identification and exit process . Title I schools in the bottom 5% based on state accountability measures can be identified for CSI. Once identified, a school receives an exit target and additional state oversight....",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   },
   {
-   "id": "b66fceb99284d8b3",
-   "district": "North Warren Central School District",
-   "state": "NY",
-   "leaid": "3616960",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-14",
-   "url": "https://www.northwarrencsd.org/apps/pages/index.jsp?uREC_ID=4384328&type=d&pREC_ID=2678838&tota11y=true",
+   "id": "0d75c9023ad20204",
+   "district": "Provo School District",
+   "state": "UT",
+   "leaid": "4900810",
+   "source": "Board meeting",
+   "meeting": "Board meeting",
+   "date": "2026-11-10",
+   "url": "https://provo.edu/november-10-2026-board-meeting-summary/",
    "categories": [
     "Funding"
    ],
@@ -317,9 +419,29 @@
    "terms": [
     "title i"
    ],
-   "snippet": "...are migrant, learning English, experiencing homelessness, have disabilities, are neglected or delinquent, or are otherwise considered at risk. Questions about Title I funds can be directed to the building level Principals first and then the Superintendent. If further action is required, please refer to the New York St...",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "snippet": "...ired. Staff also discussed retaining an east-side Spanish pathway through Timpanogos or potentially establishing a whole-school bilingual model at an east-side Title I school. Magnet schools would need capacity for roughly 660\u2013680 students ....",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  {
+   "id": "a69331363d93912b",
+   "district": "Provo School District",
+   "state": "UT",
+   "leaid": "4900810",
+   "source": "Board meeting",
+   "meeting": "Board meeting",
+   "date": "2026-11-10",
+   "url": "https://provo.edu/november-10-2026-board-meeting-summary/",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...he number of late evenings required of teachers and provide additional preparation time, particularly for individualized reading plans. Staff acknowledged that Title I communities have expressed more concern about disrupted family schedules caused by multiple early-release days. The Board also discussed the timing of t...",
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   }
  ]
 }
