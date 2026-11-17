@@ -1,65 +1,25 @@
 {
- "updated": "2026-11-16T15:02:18+00:00",
+ "updated": "2026-11-17T15:47:56+00:00",
  "items": [
   {
-   "id": "6bb565060b11ca82",
-   "district": "Port Clinton City School District",
-   "state": "OH",
-   "leaid": "3904465",
+   "id": "4818ff8f949b328a",
+   "district": "Nemo Vista School District",
+   "state": "AR",
+   "leaid": "0510410",
    "source": "Board meeting",
-   "meeting": "March-26-2024-meeting minutes.pdf",
-   "date": "2026-11-16",
-   "url": "https://www.portclinton.com/March-26-2024-Council-Minutes-032724.pdf?t=202508191127150",
+   "meeting": "August 2026 (Regular)",
+   "date": "2026-11-17",
+   "url": "https://socs.nemo.k12.ar.us/vimages/shared/vnews/stories/4e4ac65017f51/August%202026%20Agenda%20reg%20bd%20meeting-%20REVISED.doc.pdf",
    "categories": [
-    "Funding"
+    "New positions"
    ],
    "hot": false,
    "terms": [
-    "grant award"
+    "instructional aide"
    ],
-   "snippet": "March 26, 2024 3 AUDITOR\u2019S REPORT Ordinance 8-24, implements a $959,000 grant award from the United States Forest Service; asking that Council consider adopting this evening so we don\u2019t miss any deadlines....",
-   "first_seen": "2026-11-16",
-   "last_seen": "2026-11-16"
-  },
-  {
-   "id": "762cc0438d1762ae",
-   "district": "Port Clinton City School District",
-   "state": "OH",
-   "leaid": "3904465",
-   "source": "Board meeting",
-   "meeting": "March-26-2024-meeting minutes.pdf",
-   "date": "2026-11-16",
-   "url": "https://www.portclinton.com/March-26-2024-Council-Minutes-032724.pdf?t=202508191127150",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "grant award"
-   ],
-   "snippet": "...WITH AMERICAN FORESTS ON BEHALF OF THE UNITED STATES FOREST SERVICE TO IMPLEMENT THE CITY OF PORT CLINTON URBAN AND COMMUNITY FORESTRY INFLATION REDUCTION ACT GRANT AWARD Mr. Tarolli moved to waive the three required readings for Ordinance 8-24;...",
-   "first_seen": "2026-11-16",
-   "last_seen": "2026-11-16"
-  },
-  {
-   "id": "dd7fc9d608f503d7",
-   "district": "Huntingdon Area School District",
-   "state": "PA",
-   "leaid": "4212090",
-   "source": "Budget / plan",
-   "meeting": "Title I / federal programs page",
-   "date": "2026-11-16",
-   "url": "https://www.huntsd.org/federal-programs",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "federal programs"
-   ],
-   "snippet": "Huntingdon Area School District - Federal Programs Skip to main content...",
-   "first_seen": "2026-11-16",
-   "last_seen": "2026-11-16"
+   "snippet": "Personnel a. Instructional Aide positions. b....",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:02:18+00:00",
+ "updated": "2026-11-17T15:47:56+00:00",
  "states": {
   "AK": {
    "count": 29,
@@ -10,7 +10,7 @@
    "hot": 0
   },
   "AR": {
-   "count": 26,
+   "count": 27,
    "hot": 2
   },
   "AZ": {
@@ -198,12 +198,12 @@
    "hot": 0
   }
  },
- "sources": 6726,
- "checked_ever": 6726,
+ "sources": 6724,
+ "checked_ever": 6724,
  "run": {
-  "problem": 310,
-  "ok": 978,
-  "skipped": 109
+  "ok": 553,
+  "problem": 239,
+  "skipped": 112
  },
- "new": 3
+ "new": 1
 }
