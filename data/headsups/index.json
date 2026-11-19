@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:28:10+00:00",
+ "updated": "2026-11-19T14:36:09+00:00",
  "states": {
   "AK": {
    "count": 29,
@@ -82,7 +82,7 @@
    "hot": 0
   },
   "MI": {
-   "count": 329,
+   "count": 330,
    "hot": 13
   },
   "MN": {
@@ -118,7 +118,7 @@
    "hot": 0
   },
   "NJ": {
-   "count": 165,
+   "count": 169,
    "hot": 5
   },
   "NM": {
@@ -201,9 +201,9 @@
  "sources": 6724,
  "checked_ever": 6724,
  "run": {
-  "ok": 3646,
-  "problem": 862,
-  "skipped": 118
+  "problem": 331,
+  "ok": 974,
+  "skipped": 99
  },
- "new": 15
+ "new": 5
 }

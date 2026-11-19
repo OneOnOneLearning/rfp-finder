@@ -1,241 +1,95 @@
 {
- "updated": "2026-11-18T15:28:10+00:00",
+ "updated": "2026-11-19T14:36:09+00:00",
  "items": [
   {
-   "id": "fb8eede06ca72097",
-   "district": "East Lyme School District",
-   "state": "CT",
-   "leaid": "0901320",
+   "id": "00a00dc4d4daf15e",
+   "district": "Onsted Community Schools",
+   "state": "MI",
+   "leaid": "2626520",
    "source": "Board meeting",
-   "meeting": "Agenda Information",
-   "date": "2026-11-17",
-   "url": "https://www.elsd.org/wp-content/uploads/2026/11/Academic-Committee-Meeting.pdf",
+   "meeting": "November BOE Proposed Minutes",
+   "date": "2026-11-19",
+   "url": "https://onstedschools-cdn.fxbrt.com/downloads/_news_/november_2026_proposed_minutes.pdf",
    "categories": [
-    "New positions",
     "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "interventionists",
-    "title 1"
+    "title ii"
    ],
-   "snippet": "15. Are there enough Title 1 reading interventionists? a....",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "snippet": "...34,238 9.72% Rcvd 1st State Aid Payment Federal\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.180,703 18,479 10.23% 180,830 4,945 2.73% Title II balance rcvd (FER) Intermediate & Other\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026....",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
   },
   {
-   "id": "2a8c8abbe4473219",
-   "district": "East Lyme School District",
-   "state": "CT",
-   "leaid": "0901320",
+   "id": "ed102ec842e43c80",
+   "district": "Closter Borough School District",
+   "state": "NJ",
+   "leaid": "3403390",
    "source": "Board meeting",
-   "meeting": "Agenda Information",
-   "date": "2026-11-17",
-   "url": "https://www.elsd.org/wp-content/uploads/2026/11/Academic-Committee-Meeting.pdf",
+   "meeting": "November 19, 2026 \u2013 Agenda",
+   "date": "2026-11-19",
+   "url": "https://ecs-cluster-bucket-wsos-prod-c3.s3.us-west-2.amazonaws.com/uploads/sites/23/November-19-2026-Agenda.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "interventionist"
+    "paraprofessional"
    ],
-   "snippet": "...te it K-5 as early intervention at the start of school is vital and we have the capabilities to return it to 5th grade especially if we can extend of half-time interventionist to full time 16....",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "snippet": "C. APPROVAL - Resignation of Rosa Kim, Tenakill Middle School Paraprofessional Motion to accept the Resignation of Rosa Kim, TMS Paraprofessional, effective November 19, 2026. D....",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
   },
   {
-   "id": "f0b1364cb7df47e7",
-   "district": "East Lyme School District",
-   "state": "CT",
-   "leaid": "0901320",
+   "id": "4cbc0b0dac54aa66",
+   "district": "Closter Borough School District",
+   "state": "NJ",
+   "leaid": "3403390",
    "source": "Board meeting",
-   "meeting": "Agenda Information",
-   "date": "2026-11-17",
-   "url": "https://www.elsd.org/wp-content/uploads/2026/11/Academic-Committee-Meeting.pdf",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "Currently 3.5 Title I reading, we would like to go to 4 based on high numbers of students in need of these services b. Do we also have them for math?...",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "id": "d4374861574c811f",
-   "district": "East Lyme School District",
-   "state": "CT",
-   "leaid": "0901320",
-   "source": "Board meeting",
-   "meeting": "Agenda Information",
-   "date": "2026-11-17",
-   "url": "https://www.elsd.org/wp-content/uploads/2026/11/Academic-Committee-Meeting.pdf",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title 1"
-   ],
-   "snippet": "No, but we would love to discuss this opportunity c. Do we need to extend Title 1 into 5-6? i....",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "id": "cbe50b3481ed8085",
-   "district": "Carmel Clay Schools",
-   "state": "IN",
-   "leaid": "1801200",
-   "source": "Board meeting",
-   "meeting": "Read More about Riya Koya ('26) Named U.S. Presidential Scholar",
-   "date": "2026-11-18",
-   "url": "https://www.ccs.k12.in.us/about/news/district/~board/district-news/post/riya-koya-26-named-us-presidential-scholar",
+   "meeting": "November 19, 2026 \u2013 Agenda",
+   "date": "2026-11-19",
+   "url": "https://ecs-cluster-bucket-wsos-prod-c3.s3.us-west-2.amazonaws.com/uploads/sites/23/November-19-2026-Agenda.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "tutor"
+    "paraprofessional"
    ],
-   "snippet": "...president of Key Club, founded the Spell Bowl team, placed at the state and international levels in HOSA, and assisted fellow students as a Social Studies Peer Tutor for Mrs. Hargrove\u2019s class....",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "snippet": "D. APPROVAL - Resignation of Jack Halperin, Tenakill Middle School Paraprofessional Motion to accept the Resignation of Jack Halperin, TMS Paraprofessional, effective November 30, 2026. 11/19/26 Pg....",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
   },
   {
-   "id": "02ba635c0e2e2660",
-   "district": "Greater Jasper Consolidated Schools",
-   "state": "IN",
-   "leaid": "1803960",
+   "id": "44dcf5dfa667de40",
+   "district": "Closter Borough School District",
+   "state": "NJ",
+   "leaid": "3403390",
    "source": "Board meeting",
-   "meeting": "Board meeting",
-   "date": "2026-11-18",
-   "url": "https://resources.finalsite.net/images/v1794951540/gjcsk12inus/rntkl30e0rpjna95qzx7/November2026Agenda_Postdocx.pdf",
-   "categories": [
-    "New positions",
-    "Funding"
-   ],
-   "hot": true,
-   "terms": [
-    "instructional assistant",
-    "title i"
-   ],
-   "snippet": "...e Public Comment Consent Agenda \u25cf Minutes and Claim Dockets \u25cf Considerations of Request for Leave o As presented to the board \u25cf Resignations o Sarah Kasprzak - Instructional Assistant - JES o Jason Wolf - Assistant Boys\u2019 Cross Country Coach - JMS \u25cf Staff Recommendations o Tammy Hurm - Director of Special Education o Br...",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "id": "ec21decc2e8a640d",
-   "district": "Great Bend Unified School District 428",
-   "state": "KS",
-   "leaid": "2006660",
-   "source": "Board meeting",
-   "meeting": "Read More about November 2026 BOE Meeting Highlights (opens in new window/tab)",
-   "date": "2026-11-18",
-   "url": "https://app.smore.com/n/9m2ta",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "at-risk funds"
-   ],
-   "snippet": "Accountability & Value: Establishes clear 4-year quantitative goals measured by state- and KSDE-approved assessments, aligning district at-risk funds with proven instructional practices to ensure steady, transparent academic progress. C....",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "id": "fb8eede06ca72097",
-   "district": "East Longmeadow School District",
-   "state": "MA",
-   "leaid": "2504500",
-   "source": "Board meeting",
-   "meeting": "Agenda Information",
-   "date": "2026-11-17",
-   "url": "https://www.elsd.org/wp-content/uploads/2026/11/Academic-Committee-Meeting.pdf",
-   "categories": [
-    "New positions",
-    "Funding"
-   ],
-   "hot": true,
-   "terms": [
-    "interventionists",
-    "title 1"
-   ],
-   "snippet": "15. Are there enough Title 1 reading interventionists? a....",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "id": "2a8c8abbe4473219",
-   "district": "East Longmeadow School District",
-   "state": "MA",
-   "leaid": "2504500",
-   "source": "Board meeting",
-   "meeting": "Agenda Information",
-   "date": "2026-11-17",
-   "url": "https://www.elsd.org/wp-content/uploads/2026/11/Academic-Committee-Meeting.pdf",
+   "meeting": "November 19, 2026 \u2013 Agenda",
+   "date": "2026-11-19",
+   "url": "https://ecs-cluster-bucket-wsos-prod-c3.s3.us-west-2.amazonaws.com/uploads/sites/23/November-19-2026-Agenda.pdf",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "interventionist"
+    "paraprofessional"
    ],
-   "snippet": "...te it K-5 as early intervention at the start of school is vital and we have the capabilities to return it to 5th grade especially if we can extend of half-time interventionist to full time 16....",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "snippet": "E. APPROVAL - Appointment of Catherine Park as Paraprofessional for the 2026-2027 School Year Motion to approve the appointment of Catherine Park as a paraprofessional for the 2026-2027 school year, 5.75 hours per day, at a salary of $22.09 per hour, with a start date of November 20, 2026. F....",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
   },
   {
-   "id": "f0b1364cb7df47e7",
-   "district": "East Longmeadow School District",
-   "state": "MA",
-   "leaid": "2504500",
+   "id": "d0d33a7aa9eb80dd",
+   "district": "Closter Borough School District",
+   "state": "NJ",
+   "leaid": "3403390",
    "source": "Board meeting",
-   "meeting": "Agenda Information",
-   "date": "2026-11-17",
-   "url": "https://www.elsd.org/wp-content/uploads/2026/11/Academic-Committee-Meeting.pdf",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title i"
-   ],
-   "snippet": "Currently 3.5 Title I reading, we would like to go to 4 based on high numbers of students in need of these services b. Do we also have them for math?...",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "id": "d4374861574c811f",
-   "district": "East Longmeadow School District",
-   "state": "MA",
-   "leaid": "2504500",
-   "source": "Board meeting",
-   "meeting": "Agenda Information",
-   "date": "2026-11-17",
-   "url": "https://www.elsd.org/wp-content/uploads/2026/11/Academic-Committee-Meeting.pdf",
-   "categories": [
-    "Funding"
-   ],
-   "hot": false,
-   "terms": [
-    "title 1"
-   ],
-   "snippet": "No, but we would love to discuss this opportunity c. Do we need to extend Title 1 into 5-6? i....",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "id": "80e62f44f8d4fe34",
-   "district": "Pennridge School District",
-   "state": "PA",
-   "leaid": "4218750",
-   "source": "Board meeting",
-   "meeting": "2025 October- School Board Monthly Update",
-   "date": "2026-11-18",
-   "url": "https://app.smore.com/n/wdft0",
+   "meeting": "November 19, 2026 \u2013 Agenda",
+   "date": "2026-11-19",
+   "url": "https://ecs-cluster-bucket-wsos-prod-c3.s3.us-west-2.amazonaws.com/uploads/sites/23/November-19-2026-Agenda.pdf",
    "categories": [
     "New positions"
    ],
@@ -243,69 +97,9 @@
    "terms": [
     "paraprofessionals"
    ],
-   "snippet": "...ved a BloomBoard Educator Advancement Program aimed at supporting the preparation, advancement and retention of PreK-12 teachers. The program enables Pennridge paraprofessionals to obtain teaching certificates while continuing to work full-time in the classroom. It also offers students the opportunity to earn 12 credit...",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "id": "20036bcb2252655a",
-   "district": "North Schuylkill School District",
-   "state": "PA",
-   "leaid": "4210110",
-   "source": "Board meeting",
-   "meeting": "November 18, 2026 board agenda",
-   "date": "2026-11-18",
-   "url": "https://www.northschuylkill.net/pdf/boardofeducation/boardagendas/2026/111826.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessional"
-   ],
-   "snippet": "...n of Theresa Powell, Part-Time Cafeteria Worker effective October 23, 2026. 6.2.2 A motion is requested to approve the resignation of Sitlali Medina, Part-Time Paraprofessional effective November 6, 2026. 6.2.3 A motion is requested to approve the rate increase to $14.50/hour, retroactive to the start of the 2026-2027...",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "id": "b04e01677b1927bc",
-   "district": "North Schuylkill School District",
-   "state": "PA",
-   "leaid": "4210110",
-   "source": "Board meeting",
-   "meeting": "November 18, 2026 board agenda",
-   "date": "2026-11-18",
-   "url": "https://www.northschuylkill.net/pdf/boardofeducation/boardagendas/2026/111826.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessional"
-   ],
-   "snippet": "...motion is requested to approve the rate increase to $14.50/hour, retroactive to the start of the 2026-2027 school year for the following positions: Substitute Paraprofessional Substitute Cafeteria Worker Substitute Nurse Aide Substitute Custodian Security Monitor 6.2.4 Information Item 6.2.4 -1 A list of names of appl...",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "id": "6b34971a48c85eb4",
-   "district": "Stafford Municipal School District",
-   "state": "TX",
-   "leaid": "4841350",
-   "source": "Board meeting",
-   "meeting": "SMSD Brings Back A Day with the U.S. Secret Service",
-   "date": "2026-11-18",
-   "url": "https://www.staffordmsd.org/meet-stafford/news/article/~board/district-news/post/smsd-brings-back-a-day-with-the-us-secret-service",
-   "categories": [
-    "Services"
-   ],
-   "hot": false,
-   "terms": [
-    "tutoring"
-   ],
-   "snippet": "...http://www.tanches.com TCG/HUB International \u2013 http://tcgservices.com VLK Architects \u2013 https://vlkarchitects.com/ Vendors AMBA \u2013 https://amba.info/ Brainbuzzed Tutoring \u2013 www.brainbuzzedtutoring.com Discovery Education \u2013 https://www.discoveryeducation.com/ Imagine Learning \u2013 https://www.imaginelearning.com/en/us Linc L...",
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "snippet": "G. APPROVAL - Substitute Teachers/Paraprofessionals/Custodians Motion to approve the following substitute teachers/paraprofessionals/custodians for the 2026-2027 school Year: Name Certification Rosa Kim Substitute Certification Julie Mathew Substitute Nurse Certification...",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
   }
  ]
 }
