@@ -1,105 +1,105 @@
 {
- "updated": "2026-11-19T14:36:09+00:00",
+ "updated": "2026-11-20T14:08:19+00:00",
  "items": [
   {
-   "id": "00a00dc4d4daf15e",
-   "district": "Onsted Community Schools",
+   "id": "25c4792fbdd3a643",
+   "district": "Adrian City School District",
    "state": "MI",
-   "leaid": "2626520",
+   "leaid": "2601950",
    "source": "Board meeting",
-   "meeting": "November BOE Proposed Minutes",
-   "date": "2026-11-19",
-   "url": "https://onstedschools-cdn.fxbrt.com/downloads/_news_/november_2026_proposed_minutes.pdf",
+   "meeting": "November 23, 2026 Agenda",
+   "date": "2026-11-23",
+   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/Nov.%2023,%202026.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "i. Paula Marks, Paraprofessional ii. Caitlyn Laura, Head Start Teacher iii....",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  {
+   "id": "240dc6cd0a958adf",
+   "district": "Adrian City School District",
+   "state": "MI",
+   "leaid": "2601950",
+   "source": "Board meeting",
+   "meeting": "November 23, 2026 Agenda",
+   "date": "2026-11-23",
+   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/Nov.%2023,%202026.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "Caitlyn Laura, Head Start Teacher iii. Deanne Miller, Paraprofessional iv. Meagan Parsons, Paraprofessional v. Tracy Allen, Paraprofessional vi. Ammie Riggs, Paraprofessional vii. Lori Stricklen, Paraprofessional viii. Winter Coaches...",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  {
+   "id": "1ede46ff3e50b558",
+   "district": "Madison Public Schools",
+   "state": "MI",
+   "leaid": "2622290",
+   "source": "Board meeting",
+   "meeting": "PDF File November 23, 2026 Regular Board Meeting Agenda",
+   "date": "2026-11-23",
+   "url": "https://madisondistrict-cdn.fxbrt.com/downloads/_news_/11.23boardmeetingagenda_1.pdf",
+   "categories": [
+    "Services"
+   ],
+   "hot": true,
+   "terms": [
+    "occupational therapy services"
+   ],
+   "snippet": "A. Approval of Independent Contractor Agreement with RCM Healthcare Services for Occupational Therapy Services B....",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  {
+   "id": "c9d103c6a53ebef9",
+   "district": "Madison Public Schools",
+   "state": "MI",
+   "leaid": "2622290",
+   "source": "Board meeting",
+   "meeting": "November 23, 2026 Regular Board Meeting Agenda",
+   "date": "2026-11-23",
+   "url": "https://madisondistrict-cdn.fxbrt.com/downloads/_news_/11.23boardmeetingagenda.pdf",
+   "categories": [
+    "Services"
+   ],
+   "hot": true,
+   "terms": [
+    "occupational therapy services"
+   ],
+   "snippet": "A. Approval of Independent Contractor Agreement with RCM Healthcare Services for Occupational Therapy Services B....",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  {
+   "id": "bc51f2dc58132e6d",
+   "district": "Johnson County Central Public Schools",
+   "state": "NE",
+   "leaid": "3100176",
+   "source": "Board meeting",
+   "meeting": "April 2016",
+   "date": "2026-11-20",
+   "url": "https://www.jccentral.org/vimages/shared/vnews/stories/46a68013eb92d/April%2016%20minutes.pdf",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "title ii"
+    "federal funds"
    ],
-   "snippet": "...34,238 9.72% Rcvd 1st State Aid Payment Federal\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.180,703 18,479 10.23% 180,830 4,945 2.73% Title II balance rcvd (FER) Intermediate & Other\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026....",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  {
-   "id": "ed102ec842e43c80",
-   "district": "Closter Borough School District",
-   "state": "NJ",
-   "leaid": "3403390",
-   "source": "Board meeting",
-   "meeting": "November 19, 2026 \u2013 Agenda",
-   "date": "2026-11-19",
-   "url": "https://ecs-cluster-bucket-wsos-prod-c3.s3.us-west-2.amazonaws.com/uploads/sites/23/November-19-2026-Agenda.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessional"
-   ],
-   "snippet": "C. APPROVAL - Resignation of Rosa Kim, Tenakill Middle School Paraprofessional Motion to accept the Resignation of Rosa Kim, TMS Paraprofessional, effective November 19, 2026. D....",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  {
-   "id": "4cbc0b0dac54aa66",
-   "district": "Closter Borough School District",
-   "state": "NJ",
-   "leaid": "3403390",
-   "source": "Board meeting",
-   "meeting": "November 19, 2026 \u2013 Agenda",
-   "date": "2026-11-19",
-   "url": "https://ecs-cluster-bucket-wsos-prod-c3.s3.us-west-2.amazonaws.com/uploads/sites/23/November-19-2026-Agenda.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessional"
-   ],
-   "snippet": "D. APPROVAL - Resignation of Jack Halperin, Tenakill Middle School Paraprofessional Motion to accept the Resignation of Jack Halperin, TMS Paraprofessional, effective November 30, 2026. 11/19/26 Pg....",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  {
-   "id": "44dcf5dfa667de40",
-   "district": "Closter Borough School District",
-   "state": "NJ",
-   "leaid": "3403390",
-   "source": "Board meeting",
-   "meeting": "November 19, 2026 \u2013 Agenda",
-   "date": "2026-11-19",
-   "url": "https://ecs-cluster-bucket-wsos-prod-c3.s3.us-west-2.amazonaws.com/uploads/sites/23/November-19-2026-Agenda.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessional"
-   ],
-   "snippet": "E. APPROVAL - Appointment of Catherine Park as Paraprofessional for the 2026-2027 School Year Motion to approve the appointment of Catherine Park as a paraprofessional for the 2026-2027 school year, 5.75 hours per day, at a salary of $22.09 per hour, with a start date of November 20, 2026. F....",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
-  },
-  {
-   "id": "d0d33a7aa9eb80dd",
-   "district": "Closter Borough School District",
-   "state": "NJ",
-   "leaid": "3403390",
-   "source": "Board meeting",
-   "meeting": "November 19, 2026 \u2013 Agenda",
-   "date": "2026-11-19",
-   "url": "https://ecs-cluster-bucket-wsos-prod-c3.s3.us-west-2.amazonaws.com/uploads/sites/23/November-19-2026-Agenda.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessionals"
-   ],
-   "snippet": "G. APPROVAL - Substitute Teachers/Paraprofessionals/Custodians Motion to approve the following substitute teachers/paraprofessionals/custodians for the 2026-2027 school Year: Name Certification Rosa Kim Substitute Certification Julie Mathew Substitute Nurse Certification...",
-   "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19"
+   "snippet": "...as made by Borcher and seconded by Gerdes to approve the following policy revisions as amended: 3060 (Requests for Materials), 3070 (Summer School Fees), 3080 (Federal Funds), 3090 (Sale-Disposal of Equipment), 3100 (Leasing, 5501 (Bus Transportation), 5503 (Use of School Buses), and 5504 (Special Education Transportat...",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
   }
  ]
 }
