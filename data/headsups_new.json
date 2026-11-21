@@ -1,105 +1,127 @@
 {
- "updated": "2026-11-20T14:08:19+00:00",
+ "updated": "2026-11-21T13:40:42+00:00",
  "items": [
   {
-   "id": "25c4792fbdd3a643",
-   "district": "Adrian City School District",
-   "state": "MI",
-   "leaid": "2601950",
+   "id": "a78df1db2fca5c1c",
+   "district": "Greater Jasper Consolidated Schools",
+   "state": "IN",
+   "leaid": "1803960",
    "source": "Board meeting",
-   "meeting": "November 23, 2026 Agenda",
-   "date": "2026-11-23",
-   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/Nov.%2023,%202026.pdf",
+   "meeting": "Board meeting",
+   "date": "2026-11-21",
+   "url": "https://resources.finalsite.net/images/v1795107925/gjcsk12inus/q1og8wi47zoutas9wrnw/November2026Agenda_Postdocx3.pdf",
    "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessional"
-   ],
-   "snippet": "i. Paula Marks, Paraprofessional ii. Caitlyn Laura, Head Start Teacher iii....",
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
-  },
-  {
-   "id": "240dc6cd0a958adf",
-   "district": "Adrian City School District",
-   "state": "MI",
-   "leaid": "2601950",
-   "source": "Board meeting",
-   "meeting": "November 23, 2026 Agenda",
-   "date": "2026-11-23",
-   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/Nov.%2023,%202026.pdf",
-   "categories": [
-    "New positions"
-   ],
-   "hot": false,
-   "terms": [
-    "paraprofessional"
-   ],
-   "snippet": "Caitlyn Laura, Head Start Teacher iii. Deanne Miller, Paraprofessional iv. Meagan Parsons, Paraprofessional v. Tracy Allen, Paraprofessional vi. Ammie Riggs, Paraprofessional vii. Lori Stricklen, Paraprofessional viii. Winter Coaches...",
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
-  },
-  {
-   "id": "1ede46ff3e50b558",
-   "district": "Madison Public Schools",
-   "state": "MI",
-   "leaid": "2622290",
-   "source": "Board meeting",
-   "meeting": "PDF File November 23, 2026 Regular Board Meeting Agenda",
-   "date": "2026-11-23",
-   "url": "https://madisondistrict-cdn.fxbrt.com/downloads/_news_/11.23boardmeetingagenda_1.pdf",
-   "categories": [
-    "Services"
+    "New positions",
+    "Funding"
    ],
    "hot": true,
    "terms": [
-    "occupational therapy services"
+    "instructional assistant",
+    "title i"
    ],
-   "snippet": "A. Approval of Independent Contractor Agreement with RCM Healthcare Services for Occupational Therapy Services B....",
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "snippet": "...e Public Comment Consent Agenda \u25cf Minutes and Claim Dockets \u25cf Considerations of Request for Leave o As presented to the board \u25cf Resignations o Sarah Kasprzak - Instructional Assistant - JES o Jason Wolf - Assistant Boys\u2019 Cross Country Coach - JMS \u25cf Staff Recommendations o Tammy Hurm - Director of Special Education o Br...",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
   },
   {
-   "id": "c9d103c6a53ebef9",
-   "district": "Madison Public Schools",
-   "state": "MI",
-   "leaid": "2622290",
+   "id": "9b36bf10366bba13",
+   "district": "Ascension Parish School District",
+   "state": "LA",
+   "leaid": "2200090",
    "source": "Board meeting",
-   "meeting": "November 23, 2026 Regular Board Meeting Agenda",
-   "date": "2026-11-23",
-   "url": "https://madisondistrict-cdn.fxbrt.com/downloads/_news_/11.23boardmeetingagenda.pdf",
-   "categories": [
-    "Services"
-   ],
-   "hot": true,
-   "terms": [
-    "occupational therapy services"
-   ],
-   "snippet": "A. Approval of Independent Contractor Agreement with RCM Healthcare Services for Occupational Therapy Services B....",
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
-  },
-  {
-   "id": "bc51f2dc58132e6d",
-   "district": "Johnson County Central Public Schools",
-   "state": "NE",
-   "leaid": "3100176",
-   "source": "Board meeting",
-   "meeting": "April 2016",
-   "date": "2026-11-20",
-   "url": "https://www.jccentral.org/vimages/shared/vnews/stories/46a68013eb92d/April%2016%20minutes.pdf",
+   "meeting": "Superintendent Walker Ties Future Raises to Teacher Pay as Board Renews Contract",
+   "date": "2026-11-21",
+   "url": "https://www.ascensionschools.org/about/news/~board/homepage-news/post/superintendent-walker-ties-future-raises-to-teacher-pay-as-board-renews-contract",
    "categories": [
     "Funding"
    ],
    "hot": false,
    "terms": [
-    "federal funds"
+    "federal programs"
    ],
-   "snippet": "...as made by Borcher and seconded by Gerdes to approve the following policy revisions as amended: 3060 (Requests for Materials), 3070 (Summer School Fees), 3080 (Federal Funds), 3090 (Sale-Disposal of Equipment), 3100 (Leasing, 5501 (Bus Transportation), 5503 (Use of School Buses), and 5504 (Special Education Transportat...",
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "snippet": "...h Donaldsonville Primary Duplessis Primary Dutchtown High Dutchtown Middle Dutchtown Primary Early Childhood Early College Option East Ascension High Emergency Federal Programs G.W. Carver Primary Galvez Middle Galvez Primary Gonzales Middle Gonzales Primary Graduation Groundbreaking Jobs Lake Middle Lake Primary Lakes...",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
+  },
+  {
+   "id": "0bd4abf5d0e47edc",
+   "district": "Ascension Parish School District",
+   "state": "LA",
+   "leaid": "2200090",
+   "source": "Board meeting",
+   "meeting": "Ascension Public Schools Announces 2026-27 Teachers, New Teachers, and Principals of the Year",
+   "date": "2026-11-21",
+   "url": "https://www.ascensionschools.org/about/news/~board/homepage-news/post/ascension-public-schools-announces-2026-27-teachers-new-teachers-and-principals-of-the-year",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "...h Donaldsonville Primary Duplessis Primary Dutchtown High Dutchtown Middle Dutchtown Primary Early Childhood Early College Option East Ascension High Emergency Federal Programs G.W. Carver Primary Galvez Middle Galvez Primary Gonzales Middle Gonzales Primary Graduation Groundbreaking Jobs Lake Middle Lake Primary Lakes...",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
+  },
+  {
+   "id": "8150f0a9dd09d4db",
+   "district": "Walled Lake Consolidated Schools",
+   "state": "MI",
+   "leaid": "2635160",
+   "source": "Board meeting",
+   "meeting": "Read More about Board of Education Regular Meeting",
+   "date": "2026-12-03",
+   "url": "https://www.wlcsd.org/about-us/board-of-education",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "She and her husband moved to the District in 2012, and they currently have two children in the school district. She is also the daughter of a paraprofessional who worked in Walled Lake Consolidated Schools for over 20 years. Amanda is a graduate of Michigan State University with a Bachelor\u2019s degree in Fine Arts and maj...",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
+  },
+  {
+   "id": "916f1a5c66b9a22d",
+   "district": "North Schuylkill School District",
+   "state": "PA",
+   "leaid": "4210110",
+   "source": "Board meeting",
+   "meeting": "November 18, 2026 board brief",
+   "date": "2026-11-18",
+   "url": "https://www.northschuylkill.net/pdf/boardofeducation/boardbriefs/2026/111826.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "Facility Use Applications Personnel Approved: accepted the resignations of Theresa Powell, Part-Time Cafeteria Worker and Sitlali Medina, Part-Time Paraprofessional rate increases for the following positions: Substitute Paraprofessional, Substitute Cafeteria Worker, Substitute Nurse Aide, Substitute Custodian and Secur...",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
+  },
+  {
+   "id": "ab0f61b4daf7a20b",
+   "district": "Cayuga Independent School District",
+   "state": "TX",
+   "leaid": "4813200",
+   "source": "Board meeting",
+   "meeting": "Agenda",
+   "date": "2026-11-21",
+   "url": "https://www.cayugaisd.com/_files/ugd/0f94b6_852fb13f3a38442aa328836724fda0f1.pdf",
+   "categories": [
+    "New positions"
+   ],
+   "hot": true,
+   "terms": [
+    "paraprofessional"
+   ],
+   "snippet": "11. A motion was made by Josh Hinshaw and seconded by David Link to approve the hiring of Julian Cooper as a paraprofessional for the remainder of the 2025-2026 school year. Favored:...",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21"
   }
  ]
 }
