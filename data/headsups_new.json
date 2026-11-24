@@ -1,165 +1,727 @@
 {
- "updated": "2026-11-23T16:08:25+00:00",
+ "updated": "2026-11-24T04:21:03+00:00",
  "items": [
   {
-   "id": "5116b62a988e951d",
-   "district": "Adrian City School District",
-   "state": "MI",
-   "leaid": "2601950",
-   "source": "Board meeting",
-   "meeting": "November 23, 2026 Board Packet",
-   "date": "2026-11-23",
-   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/November%2023,%202026%20Packet.pdf",
+   "id": "aaed0cc563219712",
+   "district": "Kodiak Island Borough School District",
+   "state": "AK",
+   "leaid": "0200480",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.kibsd.org/federal-programs/",
    "categories": [
-    "New positions"
+    "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "paraprofessional"
+    "federal programs"
    ],
-   "snippet": "Nikki Cuthbert PU RPOSE: To recomm end hiring a special education paraprofessional for Prairie Elementary. EXPL ANATION:...",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "snippet": "Federal Programs | Kodiak Island Borough School District The Office of Federal Programs is responsible for the implementation of federal regulations. We work closely with staff and families to provide guidance and support for these programs....",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
   },
   {
-   "id": "15a6114d6fdfbc2e",
-   "district": "Adrian City School District",
-   "state": "MI",
-   "leaid": "2601950",
-   "source": "Board meeting",
-   "meeting": "November 23, 2026 Board Packet",
-   "date": "2026-11-23",
-   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/November%2023,%202026%20Packet.pdf",
+   "id": "9659a1e7fa318c4c",
+   "district": "Kodiak Island Borough School District",
+   "state": "AK",
+   "leaid": "0200480",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.kibsd.org/federal-programs/",
    "categories": [
-    "New positions"
+    "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "paraprofessional"
+    "federal programs",
+    "title i",
+    "title ii",
+    "title iii"
    ],
-   "snippet": "RE COMMENDATION: The HR Director recommends hiring Paula Marks as a paraprofessional at Prairie Elementary, effective for the 2026-2027 school year. EXECUTIVE SUMMARY DATE:...",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "snippet": "...Education \u2022 Title II-A Professional Development \u2022 Title III English Language Acquisition \u2022 Title VI Native Education \u2022 Carl Perkins Career Technical Education Federal Programs Office (907) 486-7456 Email Katrina Stewart Federal Programs Director (907) 486-7478 Email Angie Hietala Federal Programs Director (907) 486-75...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
   },
   {
-   "id": "5801931c1d432456",
-   "district": "Adrian City School District",
-   "state": "MI",
-   "leaid": "2601950",
-   "source": "Board meeting",
-   "meeting": "November 23, 2026 Board Packet",
-   "date": "2026-11-23",
-   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/November%2023,%202026%20Packet.pdf",
+   "id": "5519cbaae6ff66a1",
+   "district": "Evergreen Elementary School District",
+   "state": "CA",
+   "leaid": "0613140",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.eesd.org/departments/business-and-finance/school-funding/learning-recovery-grant",
    "categories": [
-    "New positions"
+    "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "paraprofessional"
+    "learning recovery",
+    "lrebg"
    ],
-   "snippet": "Nikki Cuthbert PU RPOSE: To recomm end hiring a special education paraprofessional for Lincoln Elementary. EXPL ANATION:...",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "snippet": "Learning Recovery Emergency Block Grant - Evergreen School District Skip To Main Content Learning Recovery Emergency Block Grant The Learning Recovery Emergency Block Grant (LREBG) provides one-time funds to county offices of education, school districts, and charter schools for implementing learning recovery initiative...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
   },
   {
-   "id": "c4dfd7aa9200f9a9",
-   "district": "Adrian City School District",
-   "state": "MI",
-   "leaid": "2601950",
-   "source": "Board meeting",
-   "meeting": "November 23, 2026 Board Packet",
-   "date": "2026-11-23",
-   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/November%2023,%202026%20Packet.pdf",
+   "id": "fd877dfaa17c0336",
+   "district": "Evergreen Elementary School District",
+   "state": "CA",
+   "leaid": "0613140",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.eesd.org/departments/business-and-finance/school-funding/learning-recovery-grant",
    "categories": [
-    "New positions"
+    "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "paraprofessional"
+    "learning recovery",
+    "lrebg"
    ],
-   "snippet": "RE COMMENDATION: The HR Director recommends hiring Meagan Parsons as a paraprofessional at Lincoln Elementary, effective for the 2026-2027 school year. EXECUTIVE SUMMARY DATE:...",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "snippet": "...pandemic. Purpose of the Grant In line with California Education Code (EC) Section 32526(b), LEAs receiving LREBG funds are required to use them for: Academic learning recovery: Addressing learning gaps and promoting student academic success....",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
   },
   {
-   "id": "eff0885cff6455e6",
-   "district": "Adrian City School District",
-   "state": "MI",
-   "leaid": "2601950",
-   "source": "Board meeting",
-   "meeting": "November 23, 2026 Board Packet",
-   "date": "2026-11-23",
-   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/November%2023,%202026%20Packet.pdf",
+   "id": "6f73a9c2562c246e",
+   "district": "Evergreen Elementary School District",
+   "state": "CA",
+   "leaid": "0613140",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.eesd.org/departments/business-and-finance/school-funding/learning-recovery-grant",
    "categories": [
-    "New positions"
+    "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "paraprofessional"
+    "lrebg"
    ],
-   "snippet": "Nikki Cuthbert PU RPOSE: To recomm end hiring a special education paraprofessional for Michener Elementary. EXPL ANATION:...",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "snippet": "...with the purposes outlined in EC 32526(c), ensuring that the funds are used effectively to benefit students and staff. Reporting Requirements LEAs that receive LREBG funds are required to submit interim expenditure reports to the California Department of Education (CDE) detailing how the funds are being used. Below is...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
   },
   {
-   "id": "ad1784043f91fc45",
-   "district": "Adrian City School District",
-   "state": "MI",
-   "leaid": "2601950",
-   "source": "Board meeting",
-   "meeting": "November 23, 2026 Board Packet",
-   "date": "2026-11-23",
-   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/November%2023,%202026%20Packet.pdf",
+   "id": "7604459ea8543ec2",
+   "district": "Evergreen Elementary School District",
+   "state": "CA",
+   "leaid": "0613140",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.eesd.org/departments/business-and-finance/school-funding/learning-recovery-grant",
    "categories": [
-    "New positions"
+    "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "paraprofessional"
+    "learning recovery",
+    "lrebg"
    ],
-   "snippet": "Nikki Cuthbert PURPOSE: To recommend hiring a special education paraprofessional for Alexander Elementary. EXPLANATION:...",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "snippet": "Below is the report Evergreen School District submitted. ESD Learning Recovery Emergency Block Grant Expenditure Interim Report 2023-2024 Resources CDE - LREBG Program Information CDE - Learning Recovery Emergency Block Grant...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
   },
   {
-   "id": "15f5e81a5ddfbfc3",
-   "district": "Adrian City School District",
-   "state": "MI",
-   "leaid": "2601950",
-   "source": "Board meeting",
-   "meeting": "November 23, 2026 Board Packet",
-   "date": "2026-11-23",
-   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/November%2023,%202026%20Packet.pdf",
+   "id": "f821d3ecb7bcd192",
+   "district": "Fallbrook Union High School District",
+   "state": "CA",
+   "leaid": "0613530",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.villagenews.com/story/2026/11/19/news/ceco-opens-grant-application-period-for-nonprofits/83270.html",
    "categories": [
-    "New positions"
+    "Funding"
    ],
-   "hot": true,
+   "hot": false,
    "terms": [
-    "paraprofessional"
+    "grant award"
    ],
-   "snippet": "RECOMMENDATION: The HR Director recommends hiring Ammie Riggs as a paraprofessional at Alexander Elementary, effective for the 2026-2027 school year. EXECUTIVE SUMMARY DATE:...",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "snippet": "...oups that provide and healthcare, homeless programs, food programs, youth and after-school programs, hospices and other charitable services. A full list of the grant award winners is available here. 70 years of giving back Current and retired County employees operate and provide all funding for CECO, now celebrating it...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
   },
   {
-   "id": "04a30318bef7e3d4",
-   "district": "Adrian City School District",
+   "id": "7d08c2e22b65df01",
+   "district": "Lawndale Elementary School District",
+   "state": "CA",
+   "leaid": "0621210",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.lawndalesd.net/news/new-details/~board/news/post/billy-mitchell-elementary-receives-50000-grant-to-expand-literacy-opportunities-for-students-and-families",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "tutoring"
+   ],
+   "snippet": "A new flexible learning space , Ms. G\u2019s Reading Room, featuring soft seating, inviting reading nooks, flexible tables for book clubs and tutoring, and mobile shelving for book displays. The space will provide students with a cozy, welcoming destination to read, learn, and explore new books....",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "b9f45e67ce4d2dc5",
+   "district": "Volusia County School District",
+   "state": "FL",
+   "leaid": "1201920",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.vcsedu.org/directory/departments/student-services/federal-programs-grants-development",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "extended learning"
+   ],
+   "snippet": "(386) 734-7190 ext. 23550 Elizabeth Senez Project Manager of Extended Learning easenez@volusia.k12.fl.us Phone: (386) 734-7190 ext....",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "bd25b878b1cfc9d3",
+   "district": "Volusia County School District",
+   "state": "FL",
+   "leaid": "1201920",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.vcsedu.org/directory/departments/student-services/federal-programs-grants-development",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs",
+    "title i"
+   ],
+   "snippet": "Federal Programs & Grants - Volusia County Schools Skip To Main Content Federal Programs & Grants Title I is designed to ensure that all children have a fair, equal, and significant opportunity to obtain an education of the highest quality and reach, at a minimum, proficiency on challenging state achievement standards...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "68c3c50186697b87",
+   "district": "Volusia County School District",
+   "state": "FL",
+   "leaid": "1201920",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.vcsedu.org/directory/departments/student-services/federal-programs-grants-development",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "...large numbers of disadvantaged students, interventions will be more successful when they are implemented \"school wide.\" Schools have flexibility in the use of Title I funds and in the delivery of services. Staff paid with Title I funds are free to work with all students in the building since there are no students iden...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "e7913dfc9d585f19",
+   "district": "Volusia County School District",
+   "state": "FL",
+   "leaid": "1201920",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.vcsedu.org/directory/departments/student-services/federal-programs-grants-development",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Goal 1 Close the achievement gap for students in Title I schools as compared to those in non-Title I schools. Goal...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "e5578f69b696f48f",
+   "district": "Walton County School District",
+   "state": "GA",
+   "leaid": "1305390",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.walton.k12.ga.us/our-district/school-improvement",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs"
+   ],
+   "snippet": "C. Burford Director of Federal Programs aburford@walton.k12.ga.us Ilene Moss Administrative Assistant cathy.moss@walton.k12.ga.us (770) 266-4479 Resources 2026-27 Consolidated LEA Improvement Plan (CLIP) District Parent & Family Engagement Plan Plan Distrital de Participaci\u00f3n de Padres y Familias...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "98b02c40074bed59",
+   "district": "Marietta City School District",
+   "state": "GA",
+   "leaid": "1303510",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.marietta-city.org/news/news-details/~board/marietta-city-schools-district-news-marietta-city-schools-25755/post/three-marietta-elementary-schools-named-2026-georgia-title-i-distinguished-schools",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Three Marietta Elementary Schools Named 2026 Georgia Title I Distinguished Schools | News Details Skip To Main Content Three Marietta Elementary Schools Named 2026 Georgia Title I Distinguished Schools Three Marietta Elementary Schools Named 2026 Georgia Title I Distinguished Schools Oct 26 2026 MARIETTA, Ga. \u2013 Three M...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "be94b6409dc20e70",
+   "district": "Marietta City School District",
+   "state": "GA",
+   "leaid": "1303510",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.marietta-city.org/news/news-details/~board/marietta-city-schools-district-news-marietta-city-schools-25755/post/three-marietta-elementary-schools-named-2026-georgia-title-i-distinguished-schools",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs",
+    "title i"
+   ],
+   "snippet": "...science. Georgia Title I Distinguished Schools are determined annually by the Georgia Department of Education under the Deputy Superintendent of the Office of Federal Programs. A.L....",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "47c84bf2c107bed7",
+   "district": "Fowlerville Community Schools",
    "state": "MI",
-   "leaid": "2601950",
+   "leaid": "2614730",
    "source": "Board meeting",
-   "meeting": "November 23, 2026 Board Packet",
-   "date": "2026-11-23",
-   "url": "https://www.adrianmaples.org/pdf/district/Board%20of%20Education/November%2023,%202026%20Packet.pdf",
+   "meeting": "11/09/2026",
+   "date": "2026-11-09",
+   "url": "https://fowlerville2024-cdn.fxbrt.com/downloads/_news_/november_board_packet_final_11.9.26.pdf",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "tutoring"
+   ],
+   "snippet": "Assistant Superintendent\u2019s Report \u2013 Mrs. Adva Ringle updated the Board on the mathematics curriculum and tutoring. Call to the Public One member of the public spoke....",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "16886b4964cba4f4",
+   "district": "Fowlerville Community Schools",
+   "state": "MI",
+   "leaid": "2614730",
+   "source": "Board meeting",
+   "meeting": "11/09/2026",
+   "date": "2026-11-09",
+   "url": "https://fowlerville2024-cdn.fxbrt.com/downloads/_news_/november_board_packet_final_11.9.26.pdf",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "tutoring"
+   ],
+   "snippet": "...rdizing middle school (grades 6-8) grading practices. Looking ahead, the District will host K-8 Family Math Nights the week of November 9th and explore student tutoring options. Other - Mrs....",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "ff3704472807f49a",
+   "district": "Fowlerville Community Schools",
+   "state": "MI",
+   "leaid": "2614730",
+   "source": "Board meeting",
+   "meeting": "10/19/2026",
+   "date": "2026-10-19",
+   "url": "https://fowlerville2024-cdn.fxbrt.com/downloads/_news_/minutes.pdf",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "tutoring"
+   ],
+   "snippet": "Assistant Superintendent's Report - Mrs. Adva Ringle updated the Board on the mathematics curriculum and tutoring. Call to the Public One member of the public spoke....",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "74b19d689cc0b2dd",
+   "district": "Burke County Schools",
+   "state": "NC",
+   "leaid": "3700480",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.burke.k12.nc.us/page/title-i-survey",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Title I Survey | Burke County Public Schools Skip to content...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "9fe39900f4f54014",
+   "district": "Grand Island Public Schools",
+   "state": "NE",
+   "leaid": "3100016",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.gips.org/posts-detailsdefault-board-post-page/~board/grand-island-public-schools-news/post/gips-foundation-innovation-tank-awards-2026",
+   "categories": [
+    "Services"
+   ],
+   "hot": false,
+   "terms": [
+    "after-school program"
+   ],
+   "snippet": "Danner, & Ms. LaBrie, Engleman Elementary \u2013 \"Creating Belonging Through the Arts\" \u2013 $4,756.49 Disney\u2019s in School Musical Theater program is a 17-week after-school program that will provide our elementary students with the opportunity to learn acting, singing, movement, teamwork, stagecraft, and the many skills involved...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "e47d5874d57d82ef",
+   "district": "Burnt Hills-Ballston Lake Central School District",
+   "state": "NY",
+   "leaid": "3605940",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.bhbl.org/a-picture-perfect-dessert/",
    "categories": [
     "New positions"
    ],
    "hot": false,
    "terms": [
-    "paraprofessional"
+    "teaching assistant"
    ],
-   "snippet": "i. Paula Marks, Paraprofessional ii. Caitlyn Laura, Head Start Teacher iii....",
-   "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23"
+   "snippet": "...ls - Ballston Lake Central School District BH-BL High School senior Belle Plaske photographs her latest creation at Capital Region BOCES with the assistance of teaching assistant Emily Tice. Plaske, a Culinary Arts and Hospitality Technology student at CTE in Albany, had just completed a fruit tart last week in prepara...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "c361d02064637586",
+   "district": "Cuyahoga Falls City School District",
+   "state": "OH",
+   "leaid": "3904383",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.cfalls.org/FederalProgramsandTitleI.aspx",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs",
+    "title i"
+   ],
+   "snippet": "Federal Programs and Title I...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "e5ded18b54040856",
+   "district": "Trotwood-Madison City School District",
+   "state": "OH",
+   "leaid": "3904869",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.trotwood.k12.oh.us/administration/curriculum-instruction/state-federal-programs",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal programs",
+    "grant funds",
+    "title i, part a",
+    "title ii",
+    "title iii",
+    "title iv-a"
+   ],
+   "snippet": "State & Federal Programs - Trotwood-Madison City School District Skip To Main Content State & Federal Programs State and Federal Programs Trotwood-Madison City Schools receives a variety of state and federal grant funds to provide support to our students and staff. Title I, Part A- Improving the Academic Achievement of...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "4d674d1520ca6520",
+   "district": "Springfield Local School District",
+   "state": "OH",
+   "leaid": "3905006",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.springfieldspartans.org/departments/academics-human-resources/title-1",
+   "categories": [
+    "Services",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "extended learning",
+    "learning recovery"
+   ],
+   "snippet": "...an June 30th, the number of students who have not taken one (1) or more of the State-mandated tests to the State Board of Education. SLSD Learning Recovery and Extended Learning Plan 2020-2023 System User Mar 31 2021 8 : 47 AM https://docs.google.com/document/d/1zcI-RVoTEGi3db96NAQjesKDUYZQC7rFdmn6Dev7OmY/edit?usp=shar...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "f4ac8f09570c7aac",
+   "district": "Springfield Local School District",
+   "state": "OH",
+   "leaid": "3905006",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.springfieldspartans.org/departments/academics-human-resources/title-1",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1"
+   ],
+   "snippet": "Title 1 - Springfield Local School District Skip To Main Content Title 1 Student Participation in State Assessments System User Mar 10 2022 10 :...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "cc32f5d7644cc8ce",
+   "district": "Springfield Local School District",
+   "state": "OH",
+   "leaid": "3905006",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.springfieldspartans.org/departments/academics-human-resources/title-1",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1"
+   ],
+   "snippet": "16 PM Title 1 Annual Meeting Information The Title 1 annual meeting will be held yearly on both Fall conference nights. If you are unable to attend, please reach out to the school to schedule a time to hear this information....",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "0319ae3043405592",
+   "district": "Cheltenham School District",
+   "state": "PA",
+   "leaid": "4205760",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.cheltenham.org/departments/education/educational-supports/title-i-program",
+   "categories": [
+    "Services",
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "extended learning",
+    "title i"
+   ],
+   "snippet": "...ning student progress Components of Our Academic Support Program: Use of effective methods and instructional strategies based on educational research, such as, extended learning time, small group instruction, multi-sensory approaches Coordinates with general education program Uses highly qualified teachers trained in m...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "ad2a3ca8104c972f",
+   "district": "Cheltenham School District",
+   "state": "PA",
+   "leaid": "4205760",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.cheltenham.org/departments/education/educational-supports/title-i-program",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Title I Program - Cheltenham School District Skip To Main Content Title I Program High-quality curriculum and instruction in math and reading in a supportive and effective learning environment using: Leveled materials Additional instruction in the appropriate environment for each student On-going communication between...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "16bf8415fa21e1fd",
+   "district": "Red Oak Independent School District",
+   "state": "TX",
+   "leaid": "4836660",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.redoakisd.org/departments/elementary-schools/title-1-program",
+   "categories": [
+    "Services",
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "tutoring",
+    "paraprofessionals"
+   ],
+   "snippet": "The money supplements the educational experience on the campus. It is used for teachers, tutoring, paraprofessionals, high-qualify staff professional development, books, supplies, and materials. How can you help?...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "741b1b0235eb241b",
+   "district": "Red Oak Independent School District",
+   "state": "TX",
+   "leaid": "4836660",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.redoakisd.org/departments/elementary-schools/title-1-program",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title 1",
+    "title i"
+   ],
+   "snippet": "Title 1 Program Skip To Main Content The Elementary and Secondary Education Act of 1965 provided the foundation for the grant program known as \u201cTitle I\u201d. Title I monies are awarded to schools based on the percentage of low-income families. The grant money is used to supplement the education of the students to ensure th...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "165316b56084b0bc",
+   "district": "Red Oak Independent School District",
+   "state": "TX",
+   "leaid": "4836660",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.redoakisd.org/departments/elementary-schools/title-1-program",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "federal funds",
+    "title i"
+   ],
+   "snippet": "...nity to obtain a high-quality education. The five elementary campuses in Red Oak ISD are Title I campuses. What does it mean to be a Title I School? We receive federal funds to provide extra help for all students at the campus. The amount of money depends on the number of students who receive free or reduced lunch....",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "abb4607942cd9f35",
+   "district": "Red Oak Independent School District",
+   "state": "TX",
+   "leaid": "4836660",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.redoakisd.org/departments/elementary-schools/title-1-program",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Volunteer at the campus often ( visit the Volunteer Program site to sign up ). Become familiar with the campus Parent Compact and Parental Involvement Policy Title I campuses believe in and rely upon the partnership between school and home to ensure that their students succeed. We hope you will feel welcome to be a par...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "2e9044e1ea3b1a3e",
+   "district": "Red Oak Independent School District",
+   "state": "TX",
+   "leaid": "4836660",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.redoakisd.org/departments/elementary-schools/title-1-program",
+   "categories": [
+    "Funding"
+   ],
+   "hot": false,
+   "terms": [
+    "title i"
+   ],
+   "snippet": "Resources: Parent and Family Engagement Policy Title I Explanation Presentation Volunteer Program Parent & Family Engagement Statewide Initiative...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "b979fdf08719324b",
+   "district": "Cleburne Independent School District",
+   "state": "TX",
+   "leaid": "4814310",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.c-isd.com/departments/communication/news-and-announcements-archive/~board/news-stories/post/cleburne-education-foundation-awards-9697-in-mini-grants-funding-a-record-22-classroom-projects",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "paraprofessionals"
+   ],
+   "snippet": "22 Classroom Projects Nov 2 2026 Read More about Cleburne Education Foundation Awards $9,603 in Mini Grants, Funding a Record 22 Classroom Projects From Paraprofessionals to Future Teachers: Meet Cleburne ISD's First LAUNCH Cohort Oct 26 2026 Read More about From Paraprofessionals to Future Teachers: Meet Cleburne ISD'...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "c2111b63902ba9e8",
+   "district": "Raleigh County School District",
+   "state": "WV",
+   "leaid": "5401230",
+   "source": "Budget / plan",
+   "meeting": "Title I / federal programs page",
+   "date": "2026-11-24",
+   "url": "https://www.raleigh.com/p/amy-grant-michael-w-smith-cece-winans-bring-christmas-together-to-raleigh",
+   "categories": [
+    "New positions"
+   ],
+   "hot": false,
+   "terms": [
+    "tutor"
+   ],
+   "snippet": "\ud83d\udda5\ufe0f WORK-FROM-HOME JOB HIRING IN RALEIGH: Cambly is seeking a Tutor . \ud83d\udcbc CARY JOB:...",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
   }
  ]
 }
