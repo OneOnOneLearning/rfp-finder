@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:06:46+00:00",
+ "updated": "2026-11-26T01:44:33+00:00",
  "states": {
   "AK": {
    "count": 31,
@@ -110,7 +110,7 @@
    "hot": 0
   },
   "NE": {
-   "count": 48,
+   "count": 49,
    "hot": 0
   },
   "NH": {
@@ -201,9 +201,9 @@
  "sources": 6728,
  "checked_ever": 6728,
  "run": {
-  "problem": 308,
-  "ok": 977,
+  "ok": 541,
+  "problem": 251,
   "skipped": 115
  },
- "new": 19
+ "new": 1
 }
