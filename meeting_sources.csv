@@ -1505,15 +1505,14 @@ IA,1914160,Hinton Community School District,funding,https://www.hintonschools.or
 IA,1903480,Alta-Aurelia Community School District,funding,https://portal.alta.org/events/event-registration/?id=29341299-6ED8-F111-BDA1-000D3A00A09D,no
 IA,1927600,Sumner-Fredericksburg Community School District,boardpage,https://www.sumnerschools.org/school-board,no
 IA,1904650,Bellevue Community School District,boarddocs,https://go.boarddocs.com/oh/bellevue/Board.nsf/Public,no
-IA,1931290,West Sioux Community School District,boarddocs,https://www.boarddocs.com/ny/wscs/Board.nsf/Public,no
-IA,1931290,West Sioux Community School District,funding,https://www.wscschools.org/directory/federal-title-grants,no
 IA,1918330,Manson Northwest Webster Community School District,boardpage,https://www.manson.org/page/school-board,no
 IA,1923160,Pleasantville Community School District,boarddocs,https://go.boarddocs.com/ny/pvufsd/Board.nsf/Public,no
+IA,1931290,West Sioux Community School District,boarddocs,https://www.boarddocs.com/ny/wscs/Board.nsf/Public,no
+IA,1931290,West Sioux Community School District,funding,https://www.wscschools.org/directory/federal-title-grants,no
 IA,1921660,Ogden Community School District,boardpage,https://www.ogdenschools.org/district/school_board/,no
 IA,1923190,Pocahontas Area Community School District,boardpage,https://www.pacsd.org/page/school-board,no
 IA,1917460,Logan-Magnolia Community School District,boardpage,https://www.loganschools.org/board-of-education,no
 IA,1917460,Logan-Magnolia Community School District,funding,https://www.loganschools.org/title-i,no
-IA,1900009,Colfax-Mingo Community School District,boardpage,https://colfaxwa.org/city-council,no
 IA,1918540,Maquoketa Valley Community School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36031384,yes
 IA,1904680,Belmond-Klemme Community School District,boardpage,https://simbli.eboardsolutions.com/SB_Meetings/SB_MeetingListing.aspx?S=36031815,yes
 IA,1906900,Central Decatur Community School District,boardpage,https://centraldecatur.org/district/board-of-education/,no
@@ -2821,7 +2820,6 @@ MI,2629160,Potterville Public Schools,boardpage,https://www.ppsvikings.org/distr
 MI,2624690,Mount Clemens Community School District,boardpage,https://www.mtcps.org/district/school-board/,no
 MI,2624690,Mount Clemens Community School District,funding,https://www.mtcps.org/services/academics/school-improvement-resources/,no
 MI,2611400,Dansville Schools,boardpage,https://www.dansville.org/board-of-education/,no
-MI,2623490,Memphis Community Schools,boarddocs,https://go.boarddocs.com/mi/mem/Board.nsf/Public?open&id=policies,no
 MI,2636120,White Pigeon Community Schools,boardpage,https://www.wpcschools.org/board-of-education,no
 MI,2604020,Bark River-Harris School District,boardpage,https://www.brhschools.org/district/school_board,no
 MI,2604020,Bark River-Harris School District,funding,https://www.brhschools.org/for_parents___students/elementary_school/school_improvement,no
@@ -4639,11 +4637,11 @@ OH,3904832,Jackson-Milton Local School District,boardpage,https://www.jacksonsd.
 OH,3904832,Jackson-Milton Local School District,funding,https://www.jacksonsd.org/about-our-district/jackson-education-foundation/what-we-sponsor-grant-and-program-information,no
 OH,3904471,St. Bernard-Elmwood Place City School District,boardpage,https://www.sbepschools.org/school-board,no
 OH,3904533,Covington Exempted Village School District,boarddocs,https://go.boarddocs.com/oh/covev/Board.nsf/Public?open,no
+OH,3904533,Covington Exempted Village School District,funding,https://www.covington.k12.oh.us/news-article/~board/district-news/post/spanish-class-builds-library-with-miami-county-foundation-grant,no
 OH,3904582,Hillsdale Local School District,boardpage,https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36032071,yes
 OH,3904582,Hillsdale Local School District,funding,https://www.hillsdale.k12.oh.us/departments/academic-services/title-one/title-i-parent-engagement-policy,no
 OH,3904604,Fayetteville-Perry Local School District,boardpage,https://www.fpls.us/page/board-of-education,no
 OH,3904604,Fayetteville-Perry Local School District,funding,https://www.fpls.us/page/title-i-reading,no
-OH,3904523,Bridgeport Exempted Village School District,boardpage,https://www.bridgeportschools.net/protected/EventView.aspx?id=8IBUGIUP0,no
 OH,3904978,Fort Loramie Local School District,boardpage,https://broward.granicus.com/ViewPublisher.php?view_id=19,yes
 OH,3904761,Bright Local School District,boardpage,https://www.blsd.us/BoardofEducation.aspx,no
 OH,3904851,Eastern Local School District,boardpage,https://www.easternlocal.com/page/board-of-education,no
@@ -4883,7 +4881,6 @@ OR,4100019,Harrisburg School District 7J,boardpage,https://www.harrisburg.k12.or
 OR,4101230,Amity School District 4J,boardpage,https://www.amity.k12.or.us/board,no
 OR,4106710,Jefferson School District 14J,boarddocs,https://www.boarddocs.com/mi/jsd/Board.nsf,no
 OR,4107280,Lakeview School District 7,boardpage,https://www.lakeview.k12.or.us/page/board-members,no
-OR,4108650,Neah-Kah-Nie School District 56,boardpage,https://nknsd.org/,no
 OR,4103260,Clatskanie School District 6J,boardpage,https://www.csd.k12.or.us/,no
 OR,4103260,Clatskanie School District 6J,funding,https://www.csd.k12.or.us/cesgym,no
 OR,4101800,Bandon School District 54,boardpage,https://bandon.k12.or.us/school-board/,no
@@ -5381,10 +5378,10 @@ PA,4206060,Clarion Area School District,boarddocs,https://www.google.com/url?q=h
 PA,4213290,Homer-Center School District,boardpage,https://www.homercenter.org/apps/pages/index.jsp?uREC_ID=1248567&type=d&pREC_ID=1474323,no
 PA,4213290,Homer-Center School District,funding,https://www.homercenter.org/apps/pages/index.jsp?uREC_ID=1106888&type=d&pREC_ID=2343731,no
 PA,4211190,Greenwood School District,boardpage,https://www.greenwoodsd.org/o/gsd/page/school-board,no
-PA,4220460,Rochester Area School District,boardpage,https://www.rasd.org/administration/school-board,no
-PA,4220460,Rochester Area School District,funding,https://www.rasd.org/our-district/elementary/title-1,no
 PA,4226040,Western Beaver County School District,boardpage,https://www.westernbeaver.org/page/school-board,no
 PA,4226040,Western Beaver County School District,funding,https://www.westernbeaver.org/page/districts-arp-esser-funds,no
+PA,4220460,Rochester Area School District,boardpage,https://www.rasd.org/administration/school-board,no
+PA,4220460,Rochester Area School District,funding,https://www.rasd.org/our-district/elementary/title-1,no
 PA,4203420,Berlin Brothersvalley School District,boarddocs,https://go.boarddocs.com/pa/brlb/Board.nsf/goto?open&id=D64HNZ496289,no
 PA,4203420,Berlin Brothersvalley School District,funding,https://ourschools.bbsd.com/support-services/title-i-reading-intervention,no
 PA,4206430,Conemaugh Valley School District,boardpage,https://www.cvk12.org/apps/pages/index.jsp?uREC_ID=4455147&type=d,no
@@ -6654,8 +6651,6 @@ WI,5509000,Melrose-Mindoro School District,boardpage,https://www.melroseschools.
 WI,5509000,Melrose-Mindoro School District,funding,https://www.melroseschools.org/title-i-parent-policy,no
 WI,5509630,Lakeland Union High School District,boardpage,https://www.lakelandschools.org/board_of_education/about_the_board_of_education/index.php,no
 WI,5509630,Lakeland Union High School District,funding,https://www.lakelandschools.org/community/federal_grants_application_and_spending_plan_.php,no
-WI,5513770,Shiocton School District,boardpage,https://www.shiocton.org/clerk-treasurer/board-minutes/,no
-WI,5502790,Colfax School District,boardpage,https://colfaxwa.org/city-council,no
 WI,5510230,Necedah Area School District,boardpage,https://www.necedahschools.org/board-of-education,no
 WI,5506870,Iowa-Grant School District,funding,https://www.igs.k12.wi.us/,no
 WI,5516740,Williams Bay School District,boardpage,https://www.williamsbayschools.org/board-of-education,no
